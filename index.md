@@ -1,7 +1,7 @@
 **About Daley Dose**
 
 <p style="text-align: justify;">
-The **Daley Dose** application streamlines the prescription writing process for healthcare professionals.
+The <span style="font-weight: bold;">Daley Dose</span> application streamlines the prescription writing process for healthcare professionals.
 </p>
 
 <p style="text-align: justify;">
