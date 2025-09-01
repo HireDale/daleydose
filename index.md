@@ -1,4 +1,4 @@
-# About Daley Dose
+**About Daley Dose**
 
 The **Daley Dose** application streamlines the prescription writing process for healthcare professionals.
 
