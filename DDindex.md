@@ -1,10 +1,7 @@
-# Daley Dose
+# Application Fundamentals
 
-Welcome to **Daley Dose** — quick guides, short reviews, and help files.
+The following are topics to help you understand the **Daley Dose** application and its features:
 
-- [Table of Contents](table-of-contents.md)
-- [Guides](guides.md)
-- [Reviews](reviews.md)
-
----
-This is the landing page for Daley Dose. More content incoming.
+- [Introduction](table-of-contents.md)
+- [Table of Contents](guides.md)
+- [Fundamentals](reviews.md)
