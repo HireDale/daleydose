@@ -19,4 +19,6 @@ With the help of the various Daley Dose features at your disposal, you can even 
 - Appendix
 - Table of Contents
 - Home Page
+- [**v1.4 Release Notes**](/daleydose/release-notes-v1.4.md)
+- Changelog History
 - [**HireDale.com**](https://hiredale.github.io)
