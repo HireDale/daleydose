@@ -1,4 +1,7 @@
-# **About Daley Dose**
+
+Title: Daley Dose
+
+# **Welcome to your Daley Dose**
 
 <p style="text-align: justify;">
 The <span style="font-weight: bold;">Daley Dose</span> application streamlines the prescription writing process for healthcare professionals.
