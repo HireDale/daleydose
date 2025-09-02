@@ -14,4 +14,4 @@ With the help of the various Daley Dose features at your disposal, you can even 
 
 ## Return to Portfolio
 
-Back to my main site: [HireDale.com](https://hiredale.github.io)
+Back to my main site: [**HireDale.com**](https://hiredale.github.io)
