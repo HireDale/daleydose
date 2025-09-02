@@ -1,5 +1,5 @@
 ---
-Title: Daley Dose
+title: Daley Dose
 ---
 
 # **Welcome to your Daley Dose**
