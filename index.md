@@ -15,6 +15,9 @@ With the help of the various Daley Dose features at your disposal, you can even 
 ## See Also
 
 Appendix
+
 Table of Contents
+
 Home Page
+
 Return to my main site: [**HireDale.com**](https://hiredale.github.io)
