@@ -1,7 +1,7 @@
 # Release Notes
 
 ## Introduction
-We are excited to introduce the latest version of the *Daley Dose*!
+We are excited to introduce the latest version of the **Daley Dose**!
 
 This release features updates to our medication database, cloud coverage, user interface, and new prescription features to enhance your experience. 
 
