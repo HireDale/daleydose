@@ -3,16 +3,6 @@ title: Daley Dose
 description: A Digital Prescription Service
 ---
 
-<style>
-header.site-header {
-    background-image: url('/DaleyDose/images/daley-dose-banner.png') !important;
-    background-size: cover !important;
-    background-position: center !important;
-    height: 300px !important;
-    color: white !important;
-}
-</style>
-
 # **Welcome to your Daley Dose**
 
 <p style="text-align: justify;">
