@@ -1,6 +1,6 @@
 /* Daley Dose banner override */
 header.site-header {
-    background-image: url('/daleydose/images/daley-dose-banner.png');
+    background-image: url('/daleydose/images/daley-dose-banner.png'); /* adjust path if needed */
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -8,9 +8,22 @@ header.site-header {
 
 /* Restrict the wrapper inside header */
 header.site-header .wrapper {
-    max-height: 200px;  /* adjust as needed */
+    height: 200px; /* fixed height for consistent layout */
     overflow: hidden;
     display: flex;
     flex-direction: column;
     justify-content: center; /* vertically center the text */
+    align-items: center;      /* horizontally center the text */
+    color: white;             /* improve text visibility */
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.6); /* subtle contrast boost */
+    padding: 0 1rem;
+}
+
+/* Responsive fallback for smaller screens */
+@media (max-width: 600px) {
+    header.site-header .wrapper {
+        height: auto;
+        padding: 1.5rem 1rem;
+        text-align: center;
+    }
 }
