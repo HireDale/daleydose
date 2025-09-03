@@ -2,6 +2,7 @@
 # Daley Dose Version 1.4 Release Notes
 
 ## Introduction
+
 <p style="text-align: justify;">
 We are excited to introduce the latest version of the <span style="font-weight: bold;">Daley Dose</span>!
 </p>
