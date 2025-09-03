@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [Version History]([**Daley Dose**](https://hiredale.github.io/daleydose/))
+title: [Version History]([**Daley Dose**](https://hiredale.github.io/daleydose/)
 ---
 
 # Daley Dose Version History
