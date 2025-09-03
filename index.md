@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Daley Dose
-description: A Digital Prescription Service
----
+description: >
+  <img src="/images/daley-dose-banner.png" alt="Daley Dose Banner" style="max-width:100%; height:auto;">
 
-![Header image](/images/daley-dose-banner.png)
+---
 
 # **Welcome to your Daley Dose**
 
