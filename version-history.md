@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Version History"
+title: Version History
+description: Version 1.01-1.3
 ---
 
 # Daley Dose Version History
