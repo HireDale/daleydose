@@ -21,7 +21,7 @@ Note that the latest Daley Dose application requires a corporate account with an
 
 © 2025 **Daley Dose**. All rights reserved.
 
-## Table of Contents
+## **Navigation**
 
 <p style="text-align: justify;">
 Since my technical writing and design work from previous companies are exclusive to their private clients and websites, I have created sample technical documentation for potential employers at HireDale.com.
@@ -30,3 +30,9 @@ Since my technical writing and design work from previous companies are exclusive
 <p style="text-align: justify;">
 Below, you will find detailed information about the improvements and changes implemented for version 1.4.
 </p>
+
+## See Also
+
+- Table of Contents
+- [**Version History**](/daleydose/version-history)
+- [**HireDale.com**](https://hiredale.github.io)
