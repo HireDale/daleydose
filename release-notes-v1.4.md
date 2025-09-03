@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Version History
-description: Daley Dose v1.4
+title: Version 1.4
+description: Daley Dose: A Digital Prescription Service
 ---
 
 # **Daley Dose Version 1.4 Release Notes**
