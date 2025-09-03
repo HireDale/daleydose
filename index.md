@@ -1,12 +1,7 @@
 ---
 layout: default
 title: Daley Dose
----
-
-<div align="center" style="margin-bottom: 1rem;">
-  <img src="/images/daley-dose-banner.png" alt="Daley Dose Banner" style="max-width:100%; height:auto;">
-</div>
-
+description: A Prescription-based Application
 ---
 
 # **Welcome to your Daley Dose**
