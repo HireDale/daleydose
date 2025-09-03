@@ -14,9 +14,12 @@
 
   <body>
     <!-- 🔰 Custom Banner -->
-    <header class="site-banner">
-      <img src="{{ '/images/daley-dose-banner.png' | relative_url }}" alt="Daley Dose Banner" />
-    </header>
+  <header class="site-banner">
+  <div class="banner-wrapper">
+    <img src="{{ '/images/daley-dose-banner.png' | relative_url }}" alt="Daley Dose Banner" />
+    <h1 class="banner-title">{{ site.title }}</h1>
+  </div>
+</header>
 
     <!-- 🔗 Navigation (optional) -->
     <nav class="site-nav">
