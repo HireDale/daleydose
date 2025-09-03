@@ -11,5 +11,5 @@ Test
 
 - [**Return Home**](https://hiredale.github.io/daleydose/)
 - Table of Contents
-- [**v1.4 Release Notes**](/daleydose/release-notes-v1.4.md)
+- [**v1.4 Release Notes**](/daleydose/release-notes-v1.4)
 - [**HireDale.com**](https://hiredale.github.io)
