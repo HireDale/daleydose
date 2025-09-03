@@ -27,5 +27,5 @@ With the help of the various Daley Dose features at your disposal, you can even 
 - Table of Contents
 - Home Page
 - [**v1.4 Release Notes**](/daleydose/release-notes-v1.4.md)
-- [**Changelog History**](/daleydose/dd-changelog-history.md)
+- [**Version History**](/daleydose/version-history.md)
 - [**HireDale.com**](https://hiredale.github.io)
