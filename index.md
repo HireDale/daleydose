@@ -4,6 +4,8 @@ title: Daley Dose
 description: A Digital Prescription Service
 ---
 
+![Header image](/images/daley-dose-banner.png)
+
 # **Welcome to your Daley Dose**
 
 <p style="text-align: justify;">
