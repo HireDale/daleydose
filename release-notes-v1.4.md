@@ -3,7 +3,7 @@
 
 ## Introduction
 <p style="text-align: justify;">
-We are excited to introduce the latest version of the **Daley Dose**!
+We are excited to introduce the latest version of the <span style="font-weight: bold;">Daley Dose</span>!
 </p>
 
 <p style="text-align: justify;">
