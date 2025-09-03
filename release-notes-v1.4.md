@@ -1,5 +1,9 @@
+---
+title: Daley Dose Release Notes
+description: Version 1.4
+---
 
-# Daley Dose Version 1.4 Release Notes
+# **Daley Dose Version 1.4 Release Notes**
 
 ## Introduction
 
