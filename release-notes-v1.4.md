@@ -18,10 +18,12 @@ This release features updates to our medication database, cloud coverage, user i
 Note that the latest Daley Dose application requires a corporate account with an active subscription. Visit our website for more information on tiered services.
 </p>
 
+<div style="text-align: center;">
 <figure>
   <img src="/images/daley-dose-home-window-error.png" alt="Daily Dose user interface with errors">
   <figcaption>Figure 1: The Daley Dose interface (version 4)</figcaption>
 </figure>
+</div>
 
 © 2025 **Daley Dose**. All rights reserved.
 
