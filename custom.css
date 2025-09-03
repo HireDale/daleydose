@@ -1,7 +1,9 @@
-/* Only change the banner background, keep layout & text sizes */
+/* Daley Dose banner override */
 header.site-header {
     background-image: url('/daleydose/images/daley-dose-banner.png');
-    background-size: cover;
+    background-size: contain;      /* scales the image to fit without stretching */
+    background-repeat: no-repeat;  /* avoids tiling */
     background-position: center;
-    /* remove height or other forced styles */
+    max-height: 200px;             /* limits header height */
+    overflow: hidden;              /* hides excess image if any */
 }
