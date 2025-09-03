@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Daley Dose
 description: A Digital Prescription Service
 ---
