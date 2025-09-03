@@ -1,6 +1,7 @@
 ---
 title: Daley Dose
 description: A Digital Prescription Service
+css: /DaleyDose/custom.css
 ---
 
 # **Welcome to your Daley Dose**
