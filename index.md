@@ -4,8 +4,6 @@ title: Daley Dose
 description: A Digital Prescription Service
 ---
 
-<link rel="stylesheet" href="/assets/css/daleydose.css">
-
 # **Welcome to your Daley Dose**
 
 <p style="text-align: justify;">
@@ -24,7 +22,7 @@ With the help of the various Daley Dose features at your disposal, you can even 
 
 © 2025 Daley Dose. All rights reserved.
 
-## See Also
+## **See Also**
 
 - Table of Contents
 - [**v1.4 Release Notes**](/daleydose/release-notes-v1.4)
