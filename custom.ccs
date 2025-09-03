@@ -1,8 +1,0 @@
-/* custom.css - Daley Dose top banner */
-.site-header {
-    background-image: url('images/daley-dose-banner.png');
-    background-size: cover;       /* fill the header area */
-    background-position: center;  /* center the image */
-    height: 300px;                /* adjust height as needed */
-    color: white;                 /* ensures title text is readable */
-}
