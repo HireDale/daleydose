@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Version History"
+---
+
 # **Daley Dose Version 1.4 Release Notes**
 
 ## Introduction
