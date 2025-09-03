@@ -7,19 +7,20 @@ header.site-header {
 }
 
 header.site-header .wrapper {
-  height: 200px;
+  min-height: 200px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  color: white;
-  text-shadow: 0 1px 3px rgba(0,0,0,0.6);
+  color: #fff;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.6);
   padding: 0 1rem;
+  box-sizing: border-box;
 }
 
 @media (max-width: 600px) {
   header.site-header .wrapper {
-    height: auto;
+    min-height: auto;
     padding: 1.5rem 1rem;
     text-align: center;
   }
