@@ -1,16 +1,15 @@
 ---
 title: Daley Dose
 description: A Digital Prescription Service
-css: /DaleyDose/custom.css
 ---
 
 <style>
 header.site-header {
-    background-image: url('/daleydose/images/daley-dose-banner.png');
-    background-size: cover;
-    background-position: center;
-    height: 300px;
-    color: white;
+    background-image: url('/DaleyDose/images/daley-dose-banner.png') !important;
+    background-size: cover !important;
+    background-position: center !important;
+    height: 300px !important;
+    color: white !important;
 }
 </style>
 
