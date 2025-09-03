@@ -28,3 +28,5 @@ With the help of the various Daley Dose features at your disposal, you can even 
 - [**v1.4 Release Notes**](/daleydose/release-notes-v1.4)
 - [**Version History**](/daleydose/version-history)
 - [**HireDale.com**](https://hiredale.github.io)
+
+![Footer](/assets/daley-dose-footer.png)
