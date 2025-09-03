@@ -1,9 +1,16 @@
 /* Daley Dose banner override */
 header.site-header {
     background-image: url('/daleydose/images/daley-dose-banner.png');
-    background-size: contain;      /* scales the image to fit without stretching */
-    background-repeat: no-repeat;  /* avoids tiling */
+    background-size: cover;
+    background-repeat: no-repeat;
     background-position: center;
-    max-height: 200px;             /* limits header height */
-    overflow: hidden;              /* hides excess image if any */
+}
+
+/* Restrict the wrapper inside header */
+header.site-header .wrapper {
+    max-height: 200px;  /* adjust as needed */
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* vertically center the text */
 }
