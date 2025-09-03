@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Version History
-description: Version 1.01-1.3
+description: Daley Dose v1.4
 ---
 
 # **Daley Dose Version 1.4 Release Notes**
