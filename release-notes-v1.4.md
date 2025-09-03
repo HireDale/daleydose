@@ -20,7 +20,7 @@ Note that the latest Daley Dose application requires a corporate account with an
 
 <div style="text-align: center;">
 <figure>
-  <img src="/images/daley-dose-home-window-error.png" alt="Daily Dose user interface with errors">
+  <img src="daleydose/images/daley-dose-home-window-error.png" alt="Daily Dose user interface with errors">
   <figcaption>Figure 1: The Daley Dose interface (version 4)</figcaption>
 </figure>
 </div>
