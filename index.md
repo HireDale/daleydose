@@ -1,8 +1,11 @@
 ---
 layout: default
 title: Daley Dose
-description: >
+---
+
+<div align="center" style="margin-bottom: 1rem;">
   <img src="/images/daley-dose-banner.png" alt="Daley Dose Banner" style="max-width:100%; height:auto;">
+</div>
 
 ---
 
