@@ -18,3 +18,25 @@ header.site-header .wrapper {
   padding: 0 1rem;
   box-sizing: border-box;
 }
+.banner-wrapper {
+  position: relative;
+  width: 100%;
+  max-height: 300px;
+  overflow: hidden;
+}
+
+.banner-wrapper img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.banner-title {
+  position: absolute;
+  bottom: 1rem;
+  left: 1rem;
+  color: white;
+  font-size: 2rem;
+  font-weight: bold;
+  text-shadow: 1px 1px 4px rgba(0,0,0,0.7);
+}
