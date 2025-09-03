@@ -1,5 +1,6 @@
 ---
 title: Daley Dose
+description: A Digital Prescription Service
 ---
 
 # **Welcome to your Daley Dose**
