@@ -4,14 +4,13 @@ description: A Digital Prescription Service
 css: /DaleyDose/custom.css
 ---
 
-<!-- Inline CSS for the top banner -->
 <style>
-.site-header {
-    background-image: url('/daleydose/images/daley-dose-banner.png'); /* replace with your file name */
+header.site-header {
+    background-image: url('/daleydose/images/daley-dose-banner.png');
     background-size: cover;
     background-position: center;
-    height: 300px; /* adjust as needed */
-    color: white; /* ensures title text is readable */
+    height: 300px;
+    color: white;
 }
 </style>
 
