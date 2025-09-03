@@ -1,4 +1,10 @@
 title: Daley Dose
 description: A Prescription-based Application
 theme: jekyll-theme-cayman
-<link rel="stylesheet" href="{{ '/assets/css/custom-style.css' | relative_url }}">
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
