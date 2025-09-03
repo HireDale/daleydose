@@ -6,8 +6,6 @@ description: Daley Dose - A Digital Prescription Service
 
 # **Daley Dose V1.4**
 
-## Introduction
-
 <p style="text-align: justify;">
 We are excited to introduce the latest version of the <span style="font-weight: bold;">Daley Dose</span>!
 </p>
