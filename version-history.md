@@ -6,7 +6,7 @@ description: "A DIGITAL PRESCRIPTION SERVICE"
 
 # **Daley Dose Version History**
 
-The following are Release Notes for previous versions of the **Daley Dose** application.
+The following are the Release Notes of previous versions for the **Daley Dose** application.
 
 ## **Version 1.3**
 
