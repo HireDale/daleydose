@@ -21,6 +21,14 @@ The user interface displays the Home Window when you start the Daley Dose applic
 To learn more about the tasks you can do in this window, head to the <strong>User Interface Guides</strong> section.
 </p>
 
+## **NOTES**
+- Access to the Daley Dose application requires an active subscription.
+- You must have a **Prescriber** role to create prescriptions.
+- See **About User Roles** for more information.
+- An **Administrator** or **Support** user can impose or remove a **Prescription Restriction** on a **Prescriber**.
+- See **Prescription Restrictions** for more information.
+- Your device must be connected to the internet to send out digital prescriptions.
+
 ![Daily Dose user interface](/images/daley-dose-home-window-clean.png)
 
 ## **SEE ALSO**
