@@ -3,6 +3,7 @@ layout: default
 title: "DALEY DOSE"
 description: "A DIGITAL PRESCRIPTION SERVICE"
 ---
+# **HOME WINDOW**
 
 <p style="text-align: justify;">
 You will be doing most of your work on the <strong>Daley Dose</strong> application from the Home Window.
@@ -19,3 +20,7 @@ The user interface displays the Home Window when you start the Daley Dose applic
 <p style="text-align: justify;">  
 To learn more about the tasks you can do in this window, head to the <strong>User Interface Guides</strong> section.
 </p>
+
+## **SEE ALSO**
+
+- [**About Daley Dose**](/daleydose/about-daley-dose)
