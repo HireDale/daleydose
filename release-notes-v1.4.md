@@ -30,7 +30,7 @@ Below, you will find detailed information about the improvements and changes imp
 
 ## See Also
 
-- [**Back to Start**](https://hiredale.github.io/daleydose/)
+- [**Back to Home**](https://hiredale.github.io/daleydose/)
 - Table of Contents
 - [**Version History**](/daleydose/version-history)
 - [**HireDale.com**](https://hiredale.github.io)
