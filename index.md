@@ -4,7 +4,7 @@ title: Daley Dose
 description: A Prescription-based Application
 ---
 
-![Header](/images/daley-dose-banner-2.png)(https://hiredale.github.io/daleydose/)
+![Header](/images/daley-dose-main-banner.png)(https://hiredale.github.io/daleydose/)
 
 <p style="text-align: justify;">
 The <span style="font-weight: bold;">Daley Dose</span> application streamlines the prescription writing process for healthcare professionals.
@@ -19,6 +19,8 @@ Its easy-to-use interface and powerful features enable accurate, efficient, and 
 <p style="text-align: justify;">
 With the help of the various Daley Dose features at your disposal, you can even assign alternatives to medications in the event the pharmacy or store has no current stock. This enables the other end of the prescription process to have more <span style="font-weight: bold;">flexibility</span> when it comes with supplies. And this also means that patients will always receive their prescriptions and will not have to leave the pharmacy empty-handed.
 </p>
+
+![Banner](/images/daley-dose-banner-2.png)
 
 ## **See Also**
 
