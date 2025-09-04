@@ -4,7 +4,7 @@ title: Daley Dose
 description: A Prescription-based Application
 ---
 
-![Header](/images/daley-dose-banner-2.png)
+![Header](/images/daley-dose-banner-2.png)[https://hiredale.github.io/daleydose/]
 
 <p style="text-align: justify;">
 The <span style="font-weight: bold;">Daley Dose</span> application streamlines the prescription writing process for healthcare professionals.
