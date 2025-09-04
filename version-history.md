@@ -5,9 +5,14 @@ description: "A DIGITAL PRESCRIPTION SERVICE"
 ---
 
 # **Daley Dose Version History**
-  **Version 1.01-1.3**
 
-Test
+The following are Release Notes for previous versions of the **Daley Dose** application.
+
+## **Version 1.3**
+
+## **Version 1.2**
+
+## **Version 1.1**
 
 ## See Also
 
