@@ -1,8 +1,8 @@
----
-layout: default
-title: "Daley Dose"
-description: "A Digital Prescription Service"
----
+  ---
+  layout: default
+  title: "Daley Dose"
+  description: "A Digital Prescription Service"
+  ---
 
 [![Header](/images/daley-dose-main-banner.png)](https://hiredale.github.io/daleydose/)
 
