@@ -21,6 +21,8 @@ The user interface displays the Home Window when you start the Daley Dose applic
 To learn more about the tasks you can do in this window, head to the <strong>User Interface Guides</strong> section.
 </p>
 
+![Daily Dose user interface](/images/daley-dose-home-window-clean.png)
+
 ## **SEE ALSO**
 
 - [**About Daley Dose**](/daleydose/about-daley-dose)
