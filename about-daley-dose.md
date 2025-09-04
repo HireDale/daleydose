@@ -31,3 +31,12 @@ The application enables you to create prescriptions and send them to patients or
 
 - **Enjoy Mobile Access**
 Manage prescriptions from anywhere using Daley Dose’s mobile-friendly companion app, ensuring access to your data on the go.
+
+## **See Also**
+
+- Table of Contents
+- [**v1.4 Release Notes**](/daleydose/release-notes-v1.4)
+- [**Version History**](/daleydose/version-history)
+- [**HireDale.com**](https://hiredale.github.io)
+
+![Footer](/images/daley-dose-footer.png)
