@@ -4,8 +4,7 @@ title: "DALEY DOSE"
 description: "A DIGITAL PRESCRIPTION SERVICE"
 ---
 
-# **Daley Dose Version 1.4**
-  **Release Notes**
+# **Daley Dose Version 1.4: Release Notes**
   
 <p style="text-align: justify;">
 We are excited to introduce the latest version of the <span style="font-weight: bold;">Daley Dose</span>!
@@ -32,8 +31,6 @@ Below, you will find detailed information about the improvements and changes imp
 ## See Also
 
 - [**Overview**](https://hiredale.github.io/daleydose/)
-- Table of Contents
+- **Table of Contents**
 - [**Version History**](/daleydose/version-history)
 - [**HireDale.com**](https://hiredale.github.io)
-
-![Footer](/images/daley-dose-footer.png)
