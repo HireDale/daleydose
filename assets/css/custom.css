@@ -1,6 +1,6 @@
-/* Force banner image and kill Cayman background */
+/* Force banner image and remove Cayman background/gradient */
 .page-header {
-  background: none !important; /* wipe out Cayman gradient + color */
+  background: none !important;
   background-image: url('{{ "/assets/images/daley-dose-banner-title.png" | relative_url }}') !important;
   background-size: cover !important;
   background-position: center !important;
