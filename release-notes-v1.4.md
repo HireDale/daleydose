@@ -32,8 +32,6 @@ Below, you will find detailed information about the improvements and changes imp
 ## See Also
 
 - [**Overview**](https://hiredale.github.io/daleydose/)
-- Table of Contents
+- **Table of Contents**
 - [**Version History**](/daleydose/version-history)
 - [**HireDale.com**](https://hiredale.github.io)
-
-![Footer](/images/daley-dose-footer.png)
