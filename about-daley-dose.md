@@ -26,35 +26,35 @@ With the help of the various Daley Dose features at your disposal, you can even 
 
 - **Highly Comprehensive Drug Database**
 
-The Daley Database offers you access to an extensive and up-to-date list of medications. The application can provide details on dosages, interactions, and contraindications to make informed prescribing decisions.
+<p style="text-align: justify;">  The Daley Database offers you access to an extensive and up-to-date list of medications. The application can provide details on dosages, interactions, and contraindications to make informed prescribing decisions. </p>
 
 - **Intuitive and User-Friendly Interface**
 
-Daley Dose offers a clean, easy-to-learn design that makes navigation simple. This allows users to quickly get up to speed with basic tasks without a steep learning curve.
+<p style="text-align: justify;">  Daley Dose offers a clean, easy-to-learn design that makes navigation simple. This allows users to quickly get up to speed with basic tasks without a steep learning curve. </p>
 
 - **Real-Time Drug Interaction Checks**
 
-Instantly check for drug interactions as you prescribe, enhancing patient safety.
+<p style="text-align: justify;">  Instantly check for drug interactions as you prescribe, enhancing patient safety. </p>
 
 - **Electronic Health Records Integration**
 
-Seamlessly sync with your existing Electronic Health Record (EHR) systems, allowing for quick updates to patient data and smoother workflows.
+<p style="text-align: justify;">  Seamlessly sync with your existing Electronic Health Record (EHR) systems, allowing for quick updates to patient data and smoother workflows. </p>
 
 - **Data Handling Security**
 
-Daley Dose uses strong encryption and advanced security measures to protect patient information and comply with international healthcare regulations.
+<p style="text-align: justify;">  Daley Dose uses strong encryption and advanced security measures to protect patient information and comply with international healthcare regulations. </p>
 
 - **Automated Refill Alerts**
 
-Set up automatic reminders for prescription refills to help patients stay on track with their medications and receive continuous care.
+<p style="text-align: justify;">  Set up automatic reminders for prescription refills to help patients stay on track with their medications and receive continuous care. </p>
 
 - **Linear and Streamlined Process**
 
-The application enables you to create prescriptions and send them to patients or pharmacies in a quick and secure process.
+<p style="text-align: justify;">  The application enables you to create prescriptions and send them to patients or pharmacies in a quick and secure process. </p>
 
 - **Enjoy Mobile Access**
 
-Manage prescriptions from anywhere using Daley Dose’s mobile-friendly companion app, ensuring access to your data on the go.
+<p style="text-align: justify;">  Manage prescriptions from anywhere using Daley Dose’s mobile-friendly companion app, ensuring access to your data on the go. </p>
 
 ## **See Also**
 
