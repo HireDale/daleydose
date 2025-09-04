@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Daley Dose
+title: (Daley Dose)[/daleydose/index]
 description: A Prescription-based Application
 ---
 
