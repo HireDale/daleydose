@@ -14,25 +14,24 @@
   color: #ffffff !important;
   text-shadow: 1px 1px 3px rgba(0,0,0,0.6);
 }
-<style>
-  /* Footer overrides */
-  .site-footer {
-    background: url('/assets/images/daley-dose-main-footer.png') no-repeat center center;
-    background-size: cover; /* ensures it scales to fill */
-    padding: 2rem 1rem;
-    text-align: center;
-    color: #fff !important;
-    font-size: 0.9rem;
-    border-top: 4px solid #ffcc00; /* optional visual separator */
-  }
 
-  .site-footer a {
-    color: #ffcc00 !important;
-    text-decoration: none;
-    font-weight: 600;
-  }
+/* Footer overrides */
+.site-footer {
+  background: url('{{ "/assets/images/daley-dose-main-footer.png" | relative_url }}') no-repeat center center;
+  background-size: cover; /* ensures it scales to fill */
+  padding: 2rem 1rem;
+  text-align: center;
+  color: #fff !important;
+  font-size: 0.9rem;
+  border-top: 4px solid #ffcc00; /* optional visual separator */
+}
 
-  .site-footer a:hover {
-    text-decoration: underline;
-  }
-</style>
+.site-footer a {
+  color: #ffcc00 !important;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.site-footer a:hover {
+  text-decoration: underline;
+}
