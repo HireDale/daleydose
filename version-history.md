@@ -4,17 +4,17 @@ title: "DALEY DOSE"
 description: "A DIGITAL PRESCRIPTION SERVICE"
 ---
 
-# **Daley Dose Version History**
+# **DALEY DOSE VERSION HISTORY**
 
 The following are the Release Notes of previous versions for the **Daley Dose** application.
 
-## **Version 1.3**
+## **VERSION 1.3**
 
-## **Version 1.2**
+## **VERSION 1.2**
 
-## **Version 1.1**
+## **VERSION 1.1**
 
-## See Also
+## SEE ALSO
 
 - [**Overview**](https://hiredale.github.io/daleydose/)
 - **Table of Contents**
