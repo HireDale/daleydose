@@ -1,3 +1,6 @@
+---
+---
+
 /* Force banner image and remove Cayman background/gradient */
 .page-header {
   background: none !important;
@@ -17,13 +20,16 @@
 
 /* Footer overrides */
 .site-footer {
-  background: url('{{ "/assets/images/daley-dose-main-footer.png" | relative_url }}') no-repeat center center;
-  background-size: cover; /* ensures it scales to fill */
+  background-image: url('{{ "/assets/images/daley-dose-main-footer.png" | relative_url }}') !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  background-size: cover !important;
   padding: 2rem 1rem;
   text-align: center;
   color: #fff !important;
   font-size: 0.9rem;
-  border-top: 4px solid #ffcc00; /* optional visual separator */
+  border-top: 4px solid #ffcc00;
+  min-height: 140px; /* ensures the background is visible */
 }
 
 .site-footer a {
