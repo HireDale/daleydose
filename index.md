@@ -20,10 +20,9 @@ Its easy-to-use interface and powerful features enable accurate, efficient, and 
 With the help of the various Daley Dose features at your disposal, you can even assign alternatives to medications in the event the pharmacy or store has no current stock. This enables the other end of the prescription process to have more <span style="font-weight: bold;">flexibility</span> when it comes with supplies. And this also means that patients will always receive their prescriptions and will not have to leave the pharmacy empty-handed.
 </p>
 
-© 2025 Daley Dose. All rights reserved.
-
 ## **See Also**
 
+- [**About Daley Dose**](/daleydose/about-daley-dose)
 - Table of Contents
 - [**v1.4 Release Notes**](/daleydose/release-notes-v1.4)
 - [**Version History**](/daleydose/version-history)
