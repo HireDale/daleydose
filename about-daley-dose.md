@@ -4,7 +4,7 @@ title: "DALEY DOSE"
 description: "A DIGITAL PRESCRIPTION SERVICE"
 ---
 
-# **About Daley Dose**
+# **ABOUT DALEY DOSE**
 
 <p style="text-align: justify;">
 The <strong>Daley Dose</strong> application streamlines the prescription writing process for healthcare professionals.
@@ -20,7 +20,7 @@ With the help of the various Daley Dose features at your disposal, you can even 
 
 ![Slogan](/images/daley-dose-banner-2.png)
 
-## **Key Features**
+## **KEY FEATURES**
 
 - **Highly Comprehensive Drug Database**
 
@@ -56,7 +56,7 @@ With the help of the various Daley Dose features at your disposal, you can even 
 
   Manage prescriptions from anywhere using Daley Dose’s mobile-friendly companion app, ensuring access to your data on the go. 
 
-## **See Also**
+## **SEE ALSO**
 
 - **Table of Contents**
 - [**Overview**](https://hiredale.github.io/daleydose/)
