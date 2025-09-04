@@ -1,35 +1,14 @@
-/* =========================
-   Custom overrides for Cayman
-   ========================= */
-
-/* Header background color */
 .page-header {
-  background-color: #002157; /* deep navy blue */
-  background-image: none;    /* remove Cayman gradient */
+  background-color: #002157; /* deep navy */
+  background-image: none;
 }
 
-/* Optional: keep text readable on dark background */
-.page-header .project-name,
-.page-header .project-tagline {
-  color: #ffffff; /* white text */
-}
-
-/* Optional: adjust link colors in header */
-.page-header a {
-  color: #ffffff;
-}
-.page-header a:hover {
-  color: #d0d0d0; /* lighter gray on hover */
-}
-
-/* You can add more overrides below if needed */
-/* Keep banner title link styled like before */
 .page-header .project-name a {
-  color: #ffffff;       /* white text on your #002157 background */
+  color: #ffffff !important;
   text-decoration: none;
 }
 
 .page-header .project-name a:hover {
-  color: #d0d0d0;       /* lighter gray on hover */
-  text-decoration: underline; /* optional */
+  color: #d0d0d0 !important;
+  text-decoration: underline;
 }
