@@ -1,4 +1,5 @@
 .page-header {
+  background-color: transparent !important; /* kill the grey */
   background-image: url('/daleydose/assets/images/daley-dose-banner-title.png');
   background-size: cover;
   background-position: center;
