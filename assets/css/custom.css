@@ -23,3 +23,13 @@
 }
 
 /* You can add more overrides below if needed */
+/* Keep banner title link styled like before */
+.page-header .project-name a {
+  color: #ffffff;       /* white text on your #002157 background */
+  text-decoration: none;
+}
+
+.page-header .project-name a:hover {
+  color: #d0d0d0;       /* lighter gray on hover */
+  text-decoration: underline; /* optional */
+}
