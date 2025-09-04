@@ -3,10 +3,8 @@ layout: default
 title: "About Daley Dose"
 description: "Key Functions and Features"
 ---
-
-[![Header](/images/daley-dose-main-banner.png)](https://hiredale.github.io/daleydose/)
-
 # **About Daley Dose**
+  **Key Functions and Features**
 
 <p style="text-align: justify;">
 The Daley Dose application streamlines the prescription writing process for healthcare professionals.
