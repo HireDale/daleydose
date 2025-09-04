@@ -1,4 +1,4 @@
-**About Daley Dose**
+# **About Daley Dose**
 
 The Daley Dose application streamlines the prescription writing process for healthcare professionals.
 
@@ -6,7 +6,7 @@ Its easy-to-use interface and powerful features enable accurate, efficient, and 
 
 With the help of the various Daley Dose features at your disposal, you can even assign alternatives to medications in the event the pharmacy or store has no current stock. This enables the other end of the prescription process to have more flexibility when it comes with supplies. And this also means that patients will always receive their prescriptions and will not have to leave the pharmacy empty-handed.
 
-**KEY FEATURES**
+## **KEY FEATURES**
 
 - **Highly Comprehensive Drug Database**
 The Daley Database offers you access to an extensive and up-to-date list of medications. The application can provide details on dosages, interactions, and contraindications to make informed prescribing decisions.
