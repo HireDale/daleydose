@@ -1,3 +1,8 @@
+---
+layout: default
+title: 
+description: 
+---
 
 [![Header](/images/daley-dose-main-banner.png)](https://hiredale.github.io/daleydose/)
 
