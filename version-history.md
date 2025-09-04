@@ -1,3 +1,8 @@
+---
+layout: default
+title: "DALEY DOSE"
+description: "A DIGITAL PRESCRIPTION SERVICE"
+---
 
 # Daley Dose Version History
 ## Version 1.01-1.3
