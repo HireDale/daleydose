@@ -1,7 +1,25 @@
+/* =========================
+   Custom overrides for Cayman
+   ========================= */
+
+/* Header background color */
 .page-header {
-  background-image: url('{{ "/images/daley-dose-main-banner.png" | relative_url }}');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-color: transparent; /* remove Cayman green */
+  background-color: #002157; /* deep navy blue */
+  background-image: none;    /* remove Cayman gradient */
 }
+
+/* Optional: keep text readable on dark background */
+.page-header .project-name,
+.page-header .project-tagline {
+  color: #ffffff; /* white text */
+}
+
+/* Optional: adjust link colors in header */
+.page-header a {
+  color: #ffffff;
+}
+.page-header a:hover {
+  color: #d0d0d0; /* lighter gray on hover */
+}
+
+/* You can add more overrides below if needed */
