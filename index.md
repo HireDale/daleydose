@@ -21,8 +21,7 @@ With the help of the various Daley Dose features at your disposal, you can even 
 ## **See Also**
 
 - [**About Daley Dose**](/daleydose/about-daley-dose)
-- **Table of Contents**
-- **Help Files**
+- **Help Files and Online Support**
 - [**v1.4 Release Notes**](/daleydose/release-notes-v1.4)
 - [**Version History**](/daleydose/version-history)
 - [**HireDale.com**](https://hiredale.github.io)
