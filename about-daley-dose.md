@@ -60,6 +60,6 @@ With the help of the various Daley Dose features at your disposal, you can even 
 
 - **Table of Contents**
 - [**Overview**](https://hiredale.github.io/daleydose/)
-- [**v1.4 Release Notes**](/daleydose/release-notes-v1.4)
+- [**Version 1.4 Release Notes**](/daleydose/release-notes-v1.4)
 - [**Version History**](/daleydose/version-history)
 - [**HireDale.com**](https://hiredale.github.io)
