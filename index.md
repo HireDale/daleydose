@@ -1,6 +1,6 @@
 ---
 layout: default
-title: (Daley Dose)[/daleydose/index]
+title: [Daley Dose](https://hiredale.github.io/daleydose/)
 description: A Prescription-based Application
 ---
 
