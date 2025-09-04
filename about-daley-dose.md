@@ -1,8 +1,8 @@
---
+---
 layout: default
 title: "About Daley Dose"
 description: "Key Functions and Features"
---
+---
 
 [![Header](/images/daley-dose-main-banner.png)](https://hiredale.github.io/daleydose/)
 
