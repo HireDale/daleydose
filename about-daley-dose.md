@@ -5,7 +5,6 @@ description: "A DIGITAL PRESCRIPTION SERVICE"
 ---
 
 # **About Daley Dose**
-  **Key Functions and Features**
 
 <p style="text-align: justify;">
 The Daley Dose application streamlines the prescription writing process for healthcare professionals.
