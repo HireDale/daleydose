@@ -35,6 +35,20 @@ To learn more about the tasks you can do in this window, head to the <strong>Use
 The following table defines the <strong>fields</strong> available on the Daley Dose <strong>Home Window</strong>:
 </p>
 
+<table border="1" style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <th>FIELD</th>
+    <th>DEFINITION</th>
+  </tr>
+  <tr>
+    <td>PATIENT NAME</td>
+    <td>Displays the patient’s full name. Select to enter or edit the current patient’s name.</td>
+  </tr>
+  <tr>
+    <td>PRESCRIPTION DATE</td>
+    <td>Displays the prescription’s issue date. Select to enter or edit the current prescription date.</td>
+  </tr>
+
 
 ## **SEE ALSO**
 
