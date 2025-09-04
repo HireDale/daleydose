@@ -38,6 +38,8 @@ With the help of the various Daley Dose features at your disposal, you can even 
 
   Seamlessly sync with your existing Electronic Health Record (EHR) systems, allowing for quick updates to patient data and smoother workflows. 
 
+![Main Screen with Errors](/images/daley-dose-home-window-error.png)
+
 - **Data Handling Security**
 
   Daley Dose uses strong encryption and advanced security measures to protect patient information and comply with international healthcare regulations. 
