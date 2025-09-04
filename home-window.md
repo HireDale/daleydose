@@ -43,7 +43,7 @@ To learn more about the tasks you can do in this window, head to the <strong>Use
       <td><strong>PATIENT NAME</strong></td>
       <td>
         Displays the patient’s full name. Select to enter or edit the current patient’s name.<br><br>
-        <em>Notes:</em><br>
+        <strong>Notes:</strong><br>
         – The application displays the patient name in [LAST, FIRST, MIDDLE] format.<br>
         – The application automatically formats the name after confirming with the Daley Database.<br>
         – The application prevents you from adding medications and notes when this field is empty.
@@ -53,35 +53,35 @@ To learn more about the tasks you can do in this window, head to the <strong>Use
       <td><strong>PRESCRIPTION DATE</strong></td>
       <td>
         Displays the prescription’s issue date. Select to enter or edit the current prescription date.<br><br>
-        <em>Note:</em> The application displays the date in [MM/DD/YYYY] format.
+        <strong>Note:</strong> The application displays the date in [MM/DD/YYYY] format.
       </td>
     </tr>
     <tr>
       <td><strong>MD LAST NAME</strong></td>
       <td>
         Displays the prescribing user’s last name.<br><br>
-        <em>Note:</em> This is a read-only field.
+        <strong>Note:</strong> This is a read-only field.
       </td>
     </tr>
     <tr>
       <td><strong>MD FIRST NAME</strong></td>
       <td>
         Displays the prescribing user’s first name.<br><br>
-        <em>Note:</em> This is a read-only field.
+        <strong>Note:</strong> This is a read-only field.
       </td>
     </tr>
     <tr>
       <td><strong>REFILL DATE</strong></td>
       <td>
         Displays the prescription’s scheduled refill date. Select to enter or edit the current scheduled refill date.<br><br>
-        <em>Note:</em> The application displays the date in [MM/DD/YYYY] format.
+        <strong>Note:</strong> The application displays the date in [MM/DD/YYYY] format.
       </td>
     </tr>
     <tr>
       <td><strong>MEDICATION NUMBER</strong></td>
       <td>
         Displays the medication’s sequential order on the prescription.<br><br>
-        <em>Notes:</em><br>
+        <strong>Notes:</strong><br>
         – You can double-click the number to delete the highlighted medication from the current prescription.<br>
         – The application displays the confirmation message <q>Are you sure you want to delete this from the prescription?</q> before removing the medication from the list.
       </td>
@@ -96,7 +96,7 @@ To learn more about the tasks you can do in this window, head to the <strong>Use
       <td><strong>NOTE NUMBER</strong></td>
       <td>
         Displays the note’s sequential order on the prescription.<br><br>
-        <em>Notes:</em><br>
+        <strong>Notes:</strong><br>
         – You can double-click the note number to delete the highlighted note from the current prescription.<br>
         – The application displays the confirmation message <q>Are you sure you want to delete this note?</q> before removing.
       </td>
@@ -105,7 +105,7 @@ To learn more about the tasks you can do in this window, head to the <strong>Use
       <td><strong>NOTES</strong></td>
       <td>
         Displays existing notes for the highlighted medication in the prescription.<br><br>
-        <em>Note:</em> You can attach up to 5 notes per medication.
+        <strong>Note:</strong> You can attach up to 5 notes per medication.
       </td>
     </tr>
   </tbody>
