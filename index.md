@@ -5,7 +5,7 @@ description: "A DIGITAL PRESCRIPTION SERVICE"
 ---
 
 <p style="text-align: justify;">
-The <span style="font-weight: bold;">Daley Dose</span> application streamlines the prescription writing process for healthcare professionals.
+The <strong>Daley Dose</strong> application streamlines the prescription writing process for healthcare professionals.
 </p>
 
 <p style="text-align: justify;">
