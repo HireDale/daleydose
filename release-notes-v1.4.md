@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Version 1.4 Release Notes
-description: Daley Dose - A Digital Prescription Service
+title: "DALEY DOSE"
+description: "A DIGITAL PRESCRIPTION SERVICE"
 ---
 
-# **Daley Dose V1.4**
-
+# **Daley Dose Version 1.4**
+## Release Notes
 <p style="text-align: justify;">
 We are excited to introduce the latest version of the <span style="font-weight: bold;">Daley Dose</span>!
 </p>
