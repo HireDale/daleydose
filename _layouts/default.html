@@ -6,11 +6,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title | default: site.title | default: site.github.repository_name }}</title>
   
-    <!-- Theme CSS (loads first) -->
+    <!-- Theme CSS -->
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-  
-    <!-- Your overrides (loads last, with cache-busting) -->
-    <link rel="stylesheet" href="{{ '/assets/css/custom.css?v=7' | relative_url }}">
+
+    <!-- Inline override to kill grey box and show banner -->
+    <style>
+      .page-header {
+        background: none !important;
+        background-image: url('{{ "/assets/images/daley-dose-banner-title.png" | relative_url }}') !important;
+        background-size: cover !important;
+        background-position: center !important;
+        background-repeat: no-repeat !important;
+        padding: 4rem 2rem;
+      }
+      .page-header .project-name a,
+      .page-header .project-tagline {
+        color: #ffffff !important;
+        text-shadow: 1px 1px 3px rgba(0,0,0,0.6);
+      }
+    </style>
   </head>
   <body>
     <header class="page-header" role="banner">
