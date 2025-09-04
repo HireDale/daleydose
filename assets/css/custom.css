@@ -1,0 +1,6 @@
+.page-header {
+  background-image: url('images/daley-dose-main-banner.png');
+  background-size: cover;       /* scale to fill */
+  background-position: center;  /* center the image */
+  background-repeat: no-repeat;
+}
