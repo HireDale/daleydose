@@ -1,8 +1,3 @@
----
-layout: default
-title: Daley Dose
-description: A Prescription-based Application
----
 
 [![Header](/images/daley-dose-main-banner.png)](https://hiredale.github.io/daleydose/)
 
