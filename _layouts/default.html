@@ -8,6 +8,8 @@
   
     <!-- Theme CSS -->
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <!-- Custom overrides -->
+    <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}?v={{ site.time | date: '%s' }}">
 
     <!-- Inline override to kill grey box and show banner -->
     <style>
