@@ -1,8 +1,3 @@
----
-layout: default
-title: "DALEY DOSE"
-description: "A DIGITAL PRESCRIPTION SERVICE"
----
 
 <p style="text-align: justify;">
 The <span style="font-weight: bold;">Daley Dose</span> application streamlines the prescription writing process for healthcare professionals.
