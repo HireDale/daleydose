@@ -1,43 +1,16 @@
-/* ================================
-   Custom Cayman Overrides for Daley Dose
-   ================================ */
-
-/* Banner header */
+/* Force banner image and kill Cayman background */
 .page-header {
-  /* This single background line wipes out Cayman’s default grey + gradient */
-  background: url('{{ "/assets/images/daley-dose-banner-title.png" | relative_url }}') center/cover no-repeat !important;
+  background: none !important; /* wipe out Cayman gradient + color */
+  background-image: url('{{ "/assets/images/daley-dose-banner-title.png" | relative_url }}') !important;
+  background-size: cover !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
   padding: 4rem 2rem;
 }
 
-/* Project title link */
-.page-header .project-name a {
-  color: #ffffff !important;
-  text-shadow: 1px 1px 3px rgba(0,0,0,0.6);
-  text-decoration: none;
-}
-
-.page-header .project-name a:hover {
-  color: #d0d0d0 !important;
-  text-decoration: underline;
-}
-
-/* Tagline text */
+/* Make text readable */
+.page-header .project-name a,
 .page-header .project-tagline {
   color: #ffffff !important;
   text-shadow: 1px 1px 3px rgba(0,0,0,0.6);
-}
-
-/* Main content tweaks (optional visual polish) */
-.main-content {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 2rem;
-}
-
-/* Footer styling */
-.site-footer {
-  font-size: 0.85rem;
-  color: #666;
-  text-align: center;
-  padding: 2rem 0;
 }
