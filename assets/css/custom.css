@@ -1,32 +1,43 @@
+/* ================================
+   Custom Cayman Overrides for Daley Dose
+   ================================ */
+
+/* Banner header */
 .page-header {
-  background-color: transparent !important; /* kill the grey */
-  background-image: url('/daleydose/assets/images/daley-dose-banner-title.png');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+  /* This single background line wipes out Cayman’s default grey + gradient */
+  background: url('{{ "/assets/images/daley-dose-banner-title.png" | relative_url }}') center/cover no-repeat !important;
   padding: 4rem 2rem;
 }
 
-/* Make title & tagline readable over the image */
-.page-header .project-name a,
+/* Project title link */
+.page-header .project-name a {
+  color: #ffffff !important;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.6);
+  text-decoration: none;
+}
+
+.page-header .project-name a:hover {
+  color: #d0d0d0 !important;
+  text-decoration: underline;
+}
+
+/* Tagline text */
 .page-header .project-tagline {
   color: #ffffff !important;
   text-shadow: 1px 1px 3px rgba(0,0,0,0.6);
 }
 
-/* Optional: dark overlay for better contrast */
-.page-header::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: rgba(0,0,0,0.3); /* adjust darkness */
-  z-index: 0;
+/* Main content tweaks (optional visual polish) */
+.main-content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
 }
 
-.page-header > * {
-  position: relative;
-  z-index: 1;
+/* Footer styling */
+.site-footer {
+  font-size: 0.85rem;
+  color: #666;
+  text-align: center;
+  padding: 2rem 0;
 }
