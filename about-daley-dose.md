@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "About Daley Dose"
-description: "Key Functions and Features"
+title: "**DALEY DOSE**"
+description: "**A DIGITAL PRESCRIPTION SERVICE**"
 ---
+
 # **About Daley Dose**
   **Key Functions and Features**
 
