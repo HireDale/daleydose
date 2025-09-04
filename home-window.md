@@ -32,7 +32,7 @@ To learn more about the tasks you can do in this window, head to the <strong>Use
 ![Daily Dose user interface](/images/daley-dose-home-window-clean.png)
 
 <p style="text-align: justify;">  
-The following table defines the **fields** available on the Daley Dose **Home Window**:
+The following table defines the <strong>fields</strong> available on the Daley Dose <strong>Home Window</strong>:
 </p>
 
 
