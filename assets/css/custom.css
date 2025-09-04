@@ -1,22 +1,15 @@
 .page-header {
-  background-color: transparent; /* remove solid color fallback */
+  background-color: transparent;
   background-image: url('{{ "/assets/images/daley-dose-banner-title.png" | relative_url }}');
-  background-size: cover;        /* scale to fill */
-  background-position: center;   /* center the image */
-  background-repeat: no-repeat;  /* no tiling */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 4rem 2rem; /* adjust height/spacing */
 }
 
-/* Keep title readable on top of the image */
-.page-header .project-name a {
-  color: #ffffff !important;
-  text-decoration: none;
-}
-
-.page-header .project-name a:hover {
-  color: #d0d0d0 !important;
-  text-decoration: underline;
-}
-
+/* Make text readable over the image */
+.page-header .project-name a,
 .page-header .project-tagline {
   color: #ffffff !important;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.6);
 }
