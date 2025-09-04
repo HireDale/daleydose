@@ -1,3 +1,9 @@
+---
+layout: default
+title: ""
+description: ""
+---
+
 # Daley Dose Version History
 ## Version 1.01-1.3
 
