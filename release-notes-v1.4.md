@@ -7,7 +7,7 @@ description: "A DIGITAL PRESCRIPTION SERVICE"
 # **Daley Dose Version 1.4: Release Notes**
   
 <p style="text-align: justify;">
-We are excited to introduce the latest version of the <span style="font-weight: bold;">Daley Dose</span>!
+We are excited to introduce the latest version of the <strong>Daley Dose</strong>!
 </p>
 
 <p style="text-align: justify;">
@@ -19,8 +19,6 @@ Note that the latest Daley Dose application requires a corporate account with an
 </p>
 
 ![Daily Dose user interface](/images/daley-dose-home-window-error.png)
-
-© 2025 **Daley Dose**. All rights reserved.
 
 ## **Navigation**
 
