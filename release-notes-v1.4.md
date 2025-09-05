@@ -5,7 +5,7 @@ description: "A DIGITAL PRESCRIPTION SERVICE"
 ---
 
 # **DALEY DOSE VERSION 1.4 RELEASE NOTES**
-  
+---
 <p style="text-align: justify;">
 We are excited to introduce the latest version of the <strong>Daley Dose</strong>!
 </p>
@@ -21,15 +21,15 @@ Note that the latest Daley Dose application requires a corporate account with an
 ![Daily Dose user interface](/assets/images/daley-dose-home-window-error.png)
 
 ## **NAVIGATION**
-
+---
 ## **FEATURED CHANGES**
-
+---
 <p style="text-align: justify;">
 Below, you will find detailed information about the improvements and changes implemented for version 1.4.
 </p>
 
 ## SEE ALSO
-
+---
 - [**Overview**](https://hiredale.github.io/daleydose/)
 - **Table of Contents**
 - [**Version History**](/daleydose/version-history)
