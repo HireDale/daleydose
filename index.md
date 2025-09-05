@@ -4,7 +4,7 @@ title: ""
 description: ""
 ---
 
-# **INTRODUCTION**
+# **PRODUCT OVERVIEW**
 ---
 <p style="text-align: justify;">
 The <strong>Daley Dose</strong> application streamlines the prescription writing process for healthcare professionals.
