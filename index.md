@@ -5,7 +5,7 @@ description: "A DIGITAL PRESCRIPTION SERVICE"
 ---
 
 # **INTRODUCTION**
-
+---
 <p style="text-align: justify;">
 The <strong>Daley Dose</strong> application streamlines the prescription writing process for healthcare professionals.
 </p>
@@ -21,7 +21,7 @@ With the help of the various Daley Dose features at your disposal, you can even 
 ![Daily Dose user interface](/assets/images/daley-dose-home-window-clean.png)
 
 ## **SEE ALSO**
-
+---
 - [**About Daley Dose**](/daleydose/about-daley-dose)
 - [**Help Files and Online Support**](/daleydose/home-window)
 - [**v1.4 Release Notes**](/daleydose/release-notes-v1.4)
