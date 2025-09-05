@@ -28,7 +28,13 @@ Note that the latest Daley Dose application requires a corporate account with an
 Below, you will find detailed information about the improvements and changes implemented for version 1.4.
 </p>
 
-## SEE ALSO
+## **ENHANCEMENTS**
+---
+
+## **BUG FIXES**
+---
+
+## **SEE ALSO**
 ---
 - [**Overview**](https://hiredale.github.io/daleydose/)
 - **Table of Contents**
