@@ -10,7 +10,7 @@ You will be doing most of your work on the <strong>Daley Dose</strong> applicati
 </p>
 
 <p style="text-align: justify;">
-In the <strong>Home Window</strong>, you can create medical prescriptions for your patients. From here, you write <strong>up to 5 medications</strong> per prescription. You can also scan <strong>physical prescriptions</strong> and convert them into a digital version.
+In the <strong>Home Window</strong>, you can create medical prescriptions for your patients. From here, you write up to 5 medications per prescription. You can also scan physical prescriptions and convert them into a digital version.
 </p>
 
 <p style="text-align: justify;">  
@@ -23,7 +23,7 @@ To learn more about the tasks you can do in this window, head to the <strong>Use
 
 ## **NOTES**
 ---
-- Access to the Daley Dose application requires an **active subscription**.
+- Access to the Daley Dose application requires an active subscription.
 - You must have a **Prescriber** role to create prescriptions.
 - See **About User Roles** for more information.
 - An **Administrator** or **Support** user can impose or remove a **Prescription Restriction** on a **Prescriber**.
