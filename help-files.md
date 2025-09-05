@@ -6,37 +6,39 @@ description: ""
 
 # **HELP FILES AND ONLINE SUPPORT**
 ---
-## To begin, select a Daley Dose topic.
+## **TABLE OF CONTENTS**
 
-### 1. Application Fundamentals
-Select to view topics about the application and its features.
+To begin, select a Daley Dose topic.
 
-- About the Daley Dose  
-- About User Roles  
-- About Prescription Restrictions  
+## 1. Application Fundamentals
+View topics about the application and its features.
 
-### 2. Window Definitions
-Select to view available windows and their functions on the application.
+- About the Daley Dose
+- About User Roles
+- About Prescription Restrictions
 
-- Home Window  
-- Add Medication Window  
-- Add Notes Window  
-- Add Alternative Window  
-- Scan Window  
+## 2. Window Definitions
+View available windows and their functions in the application.
 
-### 3. Installation Guides
-Select to view tutorials that can help you install, troubleshoot, and update the application.
+- Home Window
+- Add Medication Window
+- Add Notes Window
+- Add Alternative Window
+- Scan Window
 
-- How to install the Daley Dose application  
-- How to install the Mobile Companion app  
-- How to update to version 1.7  
+## 3. Installation Guides
+Learn how to install, troubleshoot, and update the application.
 
-### 4. User Interface Guides
-Select to view tutorials that can help you perform tasks on the application.
+- How to install the Daley Dose application
+- How to install the Mobile Companion app
+- How to update to version 1.7
 
-- How to create a new prescription  
-- How to add medications to a prescription  
-- How to delete medications from a prescription  
-- How to add, edit, and delete medication notes  
-- How to finalize and send out a prescription  
+## 4. User Interface Guides
+Learn how to perform tasks in the application.
+
+- How to create a new prescription
+- How to add medications to a prescription
+- How to delete medications from a prescription
+- How to add, edit, and delete medication notes
+- How to finalize and send out a prescription
 - How to digitize a handwritten prescription
