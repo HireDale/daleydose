@@ -29,7 +29,7 @@ To learn more about the tasks you can do in this window, head to the <strong>Use
 - See **Prescription Restrictions** for more information.
 - Your device must be connected to the internet to send out digital prescriptions.
 
-![Daily Dose user interface](/images/daley-dose-home-window-clean.png)
+![Daily Dose user interface](/assets/images/daley-dose-home-window-clean.png)
 
 <table border="1" style="border-collapse: collapse; width: 100%; text-align: center;">
   <thead>
