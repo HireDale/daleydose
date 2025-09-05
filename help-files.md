@@ -29,14 +29,14 @@ To begin, select a topic.
 These have been categorized into <strong>sections</strong> that group related information together, making it easier to navigate. Each category contains focused guides that move from high‑level overviews to detailed, step‑by‑step instructions, so you can quickly find and follow the information that matches your task.
 </p>
 
-### **Application Fundamentals**
+### **APPLICATION FUNDAMENTALS**
 View topics about the application and its features.
 
 - [**About the Daley Dose**](daleydose/about-daley-dose)
 - [**About User Roles**](daleydose/about-user-roles)
 - [**About Prescription Restrictions**](daleydose/about-prescription-restrictions)
 
-### **Window Definitions**
+### **WINDOW DEFINITIONS**
 View available windows and their functions in the application.
 
 - [**Home Window**](daleydose/home-window)
@@ -45,14 +45,14 @@ View available windows and their functions in the application.
 - **Add Alternative Window**
 - **Scan Window**
 
-### **Installation Guides**
+### **INSTALLATION GUIDES**
 Learn how to install, troubleshoot, and update the application.
 
 - **How to install the Daley Dose application**
 - **How to install the Mobile Companion app**
 - **How to update to version 1.7**
 
-### **User Interface Guides**
+### **USER INTERFACE GUIDES**
 Learn how to perform tasks in the application.
 
 - **How to create a new prescription**
