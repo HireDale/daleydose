@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "DALEY DOSE"
-description: "A DIGITAL PRESCRIPTION SERVICE"
+title: ""
+description: ""
 ---
 
 # **INTRODUCTION**
