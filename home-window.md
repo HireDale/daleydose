@@ -117,3 +117,5 @@ To learn more about the tasks you can do in this window, head to the <strong>Use
 - **How to create a new prescription**
 - [**Help Files and Online Support**](/daleydose/help-files)
 - [**About Daley Dose**](/daleydose/about-daley-dose)
+- [**About User Roles**](/daleydose/about-user-roles)
+- [**About Prescription Restrictions**](/daleydose/about-prescription-restrictions)
