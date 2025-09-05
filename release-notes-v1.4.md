@@ -18,12 +18,11 @@ This release features updates to our medication database, cloud coverage, user i
 Note that the latest Daley Dose application requires a corporate account with an active subscription. Visit our website for more information on tiered services.
 </p>
 
-<figure style="text-align: center;">
-  <img src="/assets/images/daley-dose-home-window-error.png" alt="Daily Dose user interface">
-  <figcaption style="font-size: 0.9em; color: #555;">
-    Fig 1: The new user interface for Daley Dose 1.4
-  </figcaption>
-</figure>
+
+![Daily Dose user interface](/assets/images/daley-dose-home-window-error.png)
+<p style="text-align: center;">
+<strong>Figure 1</strong>: The new Daley Dose user interface for version 1.4
+</p>
 
 ## **NAVIGATION**
 ---
