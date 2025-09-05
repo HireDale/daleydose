@@ -14,6 +14,10 @@ The <strong>Daley Dose</strong> Help Files enable you to learn how to use every 
 From installing and updating the software, to navigating windows, managing prescriptions, and troubleshooting issues, each guide walks you step‑by‑step through the tasks you need to complete. Use this Table of Contents to jump directly to the instructions that match what you want to do.
 </p>
 
+<p style="text-align: justify;">  
+You can access the Daley Dose help files from within the application by selecting the <strong>Help</strong> button, or through the Daley Dose website.
+</p>
+
 ---
 ## **TABLE OF CONTENTS**
 
@@ -57,3 +61,10 @@ Learn how to perform tasks in the application.
 - **How to add, edit, and delete medication notes**
 - **How to finalize and send out a prescription**
 - **How to digitize a handwritten prescription**
+
+
+## **ADDITIONAL LINKS**
+---
+- [**v1.4 Release Notes**](/daleydose/release-notes-v1.4)
+- [**Version History**](/daleydose/version-history)
+- [**HireDale.com**](https://hiredale.github.io)
