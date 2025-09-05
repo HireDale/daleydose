@@ -4,5 +4,5 @@ title: ""
 description: ""
 ---
 
-# **TABLE OF CONTENTS**
+# **HELP FILES AND ONLINE SUPPORT**
 ---
