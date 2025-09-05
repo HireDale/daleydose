@@ -13,6 +13,7 @@ The <strong>Daley Dose</strong> Help Files enable you to learn how to use every 
 <p style="text-align: justify;">  
 From installing and updating the software, to navigating windows, managing prescriptions, and troubleshooting issues, each guide walks you step‑by‑step through the tasks you need to complete. Use this Table of Contents to jump directly to the instructions that match what you want to do.
 </p>
+
 ---
 ## **TABLE OF CONTENTS**
 
