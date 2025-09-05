@@ -21,7 +21,7 @@ Note that the latest Daley Dose application requires a corporate account with an
 
 ![Daily Dose user interface](/assets/images/daley-dose-home-window-error.png)
 <p style="text-align: center;">
-<strong>Figure 1</strong>: The new <strong>Daley Dose</strong> user interface for <strong>version 1.4</strong>.
+The new <strong>Daley Dose</strong> user interface for <strong>version 1.4</strong>.
 </p>
 
 ## **NAVIGATION**
