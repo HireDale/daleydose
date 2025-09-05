@@ -19,7 +19,7 @@ The following are the Release Notes of previous versions for the **Daley Dose** 
 
 ## **SEE ALSO**
 ---
-- [**Overview**](https://hiredale.github.io/daleydose/)
-- **Table of Contents**
 - [**Version 1.4 Release Notes**](/daleydose/release-notes-v1.4)
+- [**Product Overview**](https://hiredale.github.io/daleydose/)
+- [**Help Files and Online Support**](/daleydose/help-files)
 - [**HireDale.com**](https://hiredale.github.io)
