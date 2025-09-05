@@ -19,7 +19,7 @@ You can access the Daley Dose help files from within the application by selectin
 </p>
 
 ---
-## **TABLE OF CONTENTS**
+# **TABLE OF CONTENTS**
 
 <p style="text-align: justify;"> 
 To begin, select a topic. 
@@ -29,14 +29,19 @@ To begin, select a topic.
 These have been categorized into <strong>sections</strong> that group related information together, making it easier to navigate. Each category contains focused guides that move from high‑level overviews to detailed, step‑by‑step instructions, so you can quickly find and follow the information that matches your task.
 </p>
 
-### **APPLICATION FUNDAMENTALS**
-View topics about the application and its features.
+## APPLICATION FUNDAMENTALS
+Explore core topics about the Daley Dose application and its features.
 
-- [**About the Daley Dose**](/daleydose/about-daley-dose)
-- [**About User Roles**](/daleydose/about-user-roles)
-- [**About Prescription Restrictions**](/daleydose/about-prescription-restrictions)
+- [**About Daley Dose**](/daleydose/about-daley-dose)  
+  View general information and key features of the Daley Dose application.
 
-### **WINDOW DEFINITIONS**
+- [**About User Roles**](/daleydose/about-user-roles)  
+  View available user roles, including each role’s responsibilities and limitations.
+
+- [**About Prescription Restrictions**](/daleydose/about-prescription-restrictions)  
+  View details about the Prescription Restriction feature, which prevents selected prescribers from ordering specific types of medication.
+
+## **WINDOW DEFINITIONS**
 View available windows and their functions in the application.
 
 - [**Home Window**](/daleydose/home-window)
@@ -45,14 +50,14 @@ View available windows and their functions in the application.
 - **Add Alternative Window**
 - **Scan Window**
 
-### **INSTALLATION GUIDES**
+## **INSTALLATION GUIDES**
 Learn how to install, troubleshoot, and update the application.
 
 - **How to install the Daley Dose application**
 - **How to install the Mobile Companion app**
 - **How to update to version 1.7**
 
-### **USER INTERFACE GUIDES**
+## **USER INTERFACE GUIDES**
 Learn how to perform tasks in the application.
 
 - **How to create a new prescription**
