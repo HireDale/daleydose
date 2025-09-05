@@ -25,7 +25,7 @@ You can access the Daley Dose help files from within the application by selectin
 To begin, select a topic. These topics have been categorized into sections that group related information together, making it easier to navigate. Each category contains focused guides that move from high‑level overviews to detailed, step‑by‑step instructions, so you can quickly find and follow the information that matches your task.
 </p>
 
-## APPLICATION FUNDAMENTALS
+## **APPLICATION FUNDAMENTALS**
 Explore core topics about the Daley Dose application and its features.
 
 - [**About Daley Dose**](/daleydose/about-daley-dose)  
