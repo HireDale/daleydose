@@ -4,7 +4,7 @@ title: "DALEY DOSE"
 description: "A DIGITAL PRESCRIPTION SERVICE"
 ---
 # **HOME WINDOW**
-
+---
 <p style="text-align: justify;">
 You will be doing most of your work on the <strong>Daley Dose</strong> application from the Home Window.
 </p>
@@ -22,6 +22,7 @@ To learn more about the tasks you can do in this window, head to the <strong>Use
 </p>
 
 ## **NOTES**
+---
 - Access to the Daley Dose application requires an **active subscription**.
 - You must have a **Prescriber** role to create prescriptions.
 - See **About User Roles** for more information.
@@ -112,5 +113,5 @@ To learn more about the tasks you can do in this window, head to the <strong>Use
 </table>
 
 ## **SEE ALSO**
-
+---
 - [**About Daley Dose**](/daleydose/about-daley-dose)
