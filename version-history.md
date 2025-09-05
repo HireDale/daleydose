@@ -17,7 +17,7 @@ The following are the Release Notes of previous versions for the **Daley Dose** 
 ## **VERSION 1.1**
 ---
 
-## SEE ALSO
+## **SEE ALSO**
 ---
 - [**Overview**](https://hiredale.github.io/daleydose/)
 - **Table of Contents**
