@@ -18,7 +18,7 @@ Its <strong>easy-to-use interface</strong> and powerful features enable accurate
 With the help of the various Daley Dose features at your disposal, you can even assign alternatives to medications in the event the pharmacy or store has no current stock. This enables the other end of the prescription process to have more <strong>flexibility</strong> when it comes with supplies. And this also means that patients will always receive their prescriptions and will not have to leave the pharmacy empty-handed.
 </p>
 
-![Slogan](/images/daley-dose-banner-2.png)
+![Slogan](/assets/images/daley-dose-banner-2.png)
 
 ## **KEY FEATURES**
 
@@ -38,7 +38,7 @@ With the help of the various Daley Dose features at your disposal, you can even 
 
   Seamlessly sync with your existing Electronic Health Record (EHR) systems, allowing for quick updates to patient data and smoother workflows. 
 
-![Main Screen with Errors](/images/daley-dose-home-window-error.png)
+![Main Screen with Errors](/assets/images/daley-dose-home-window-error.png)
 
 - **Data Handling Security**
 
