@@ -11,7 +11,7 @@ We are excited to introduce the latest version of the <strong>Daley Dose</strong
 </p>
 
 <p style="text-align: justify;">
-This release features updates to our medication database, cloud coverage, user interface, and new prescription features to enhance your experience. 
+This release features a massive <strong>overhaul</strong> of the application's user interface and features. It also includes several updates to our medication database, cloud coverage, user interface, and new prescription features to enhance your experience. 
 </p>
 
 <p style="text-align: justify;">
