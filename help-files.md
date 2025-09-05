@@ -7,7 +7,7 @@ description: ""
 # **HELP FILES AND ONLINE SUPPORT**
 
 <p style="text-align: justify;">
-The <strong>Daley Dose</strong> Help Files enable you to learn how to use every part of the application with confidence. 
+The <strong>Help Files</strong> enable you to learn how to use every part of the Daley Dose application with confidence. 
 </p>  
 
 <p style="text-align: justify;">  
@@ -26,7 +26,7 @@ To begin, select a topic.
 </p>
 
 <p style="text-align: justify;"> 
-These have been categorized into <strong>sections</strong> that group related information together, making it easier to navigate. Each category contains focused guides that move from high‑level overviews to detailed, step‑by‑step instructions, so you can quickly find and follow the information that matches your task.
+These have been categorized into sections that group related information together, making it easier to navigate. Each category contains focused guides that move from high‑level overviews to detailed, step‑by‑step instructions, so you can quickly find and follow the information that matches your task.
 </p>
 
 ## APPLICATION FUNDAMENTALS
