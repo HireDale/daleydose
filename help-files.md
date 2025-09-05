@@ -5,7 +5,7 @@ description: ""
 ---
 
 # **HELP FILES AND ONLINE SUPPORT**
-
+---
 <p style="text-align: justify;">
 The <strong>Help Files</strong> enable you to learn how to use every part of the Daley Dose application with confidence. 
 </p>  
@@ -18,9 +18,9 @@ From installing and updating the software, to navigating windows, managing presc
 You can access the Daley Dose help files from within the application by selecting the <strong>Help</strong> button, or through the Daley Dose website.
 </p>
 
----
-# **TABLE OF CONTENTS**
 
+# **TABLE OF CONTENTS**
+---
 <p style="text-align: justify;"> 
 To begin, select a topic. These topics have been categorized into sections that group related information together, making it easier to navigate. Each category contains focused guides that move from high‑level overviews to detailed, step‑by‑step instructions, so you can quickly find and follow the information that matches your task.
 </p>
