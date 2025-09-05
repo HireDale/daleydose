@@ -32,14 +32,14 @@ These have been categorized into <strong>sections</strong> that group related in
 ### **APPLICATION FUNDAMENTALS**
 View topics about the application and its features.
 
-- [**About the Daley Dose**](/about-daley-dose)
-- [**About User Roles**](/about-user-roles)
-- [**About Prescription Restrictions**](/about-prescription-restrictions)
+- [**About the Daley Dose**](/daleydose/about-daley-dose)
+- [**About User Roles**](/daleydose/about-user-roles)
+- [**About Prescription Restrictions**](/daleydose/about-prescription-restrictions)
 
 ### **WINDOW DEFINITIONS**
 View available windows and their functions in the application.
 
-- [**Home Window**](/home-window)
+- [**Home Window**](/daleydose/home-window)
 - **Add Medication Window**
 - **Add Notes Window**
 - **Add Alternative Window**
