@@ -43,7 +43,7 @@ Below, you will find detailed information about the improvements and changes imp
 
 ## **SEE ALSO**
 ---
-- [**Overview**](https://hiredale.github.io/daleydose/)
+- [**Product Overview**](https://hiredale.github.io/daleydose/)
 - **Table of Contents**
 - [**Version History**](/daleydose/version-history)
 - [**HireDale.com**](https://hiredale.github.io)
