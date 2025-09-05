@@ -5,7 +5,7 @@ description: "A DIGITAL PRESCRIPTION SERVICE"
 ---
 
 # **ABOUT DALEY DOSE**
-
+---
 <p style="text-align: justify;">
 The <strong>Daley Dose</strong> application streamlines the prescription writing process for healthcare professionals.
 </p>
@@ -21,7 +21,7 @@ With the help of the various Daley Dose features at your disposal, you can even 
 ![Slogan](/assets/images/daley-dose-banner-2.png)
 
 ## **KEY FEATURES**
-
+---
 - **Highly Comprehensive Drug Database**
 
   The Daley Database offers you access to an extensive and up-to-date list of medications. The application can provide details on dosages, interactions, and contraindications to make informed prescribing decisions. 
@@ -57,7 +57,7 @@ With the help of the various Daley Dose features at your disposal, you can even 
   Manage prescriptions from anywhere using Daley Dose’s mobile-friendly companion app, ensuring access to your data on the go. 
 
 ## **SEE ALSO**
-
+---
 - **Table of Contents**
 - [**Overview**](https://hiredale.github.io/daleydose/)
 - [**Version 1.4 Release Notes**](/daleydose/release-notes-v1.4)
