@@ -7,7 +7,7 @@ description: ""
 # **DALEY DOSE VERSION 1.4 RELEASE NOTES**
 ---
 <p style="text-align: justify;">
-We are excited to introduce the latest version of the <strong>Daley Dose</strong>!
+We are excited to introduce the latest version of the <strong>Daley Dose</strong> application!
 </p>
 
 <p style="text-align: justify;">
