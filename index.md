@@ -16,7 +16,7 @@ With the various Daley Dose features at your disposal, you can assign alternativ
 
 ## **SEE ALSO**
 ---
--- [**Help Files and Online Support**](/daleydose/help-files)
+- [**Help Files and Online Support**](/daleydose/help-files)
 - [**About Daley Dose**](/daleydose/about-daley-dose)
 - [**About User Roles**](/daleydose/about-user-roles)
 - [**About Prescription Restrictions**](/daleydose/about-prescription-restrictions)
