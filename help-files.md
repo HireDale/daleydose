@@ -8,7 +8,7 @@ description: ""
 ---
 The **Help files** enable you to learn how to use every part of the Daley Dose application with confidence.
 
-From installing and updating the software to navigating windows, managing prescriptions, and troubleshooting issues, each guide walks you step‑by‑step through the tasks you need to complete. Use this table of contents to jump directly to the instructions that match your task.
+From installing and updating the software to navigating windows, managing prescriptions, and troubleshooting issues, each guide walks you step by step through the tasks you need to complete. Use this table of contents to jump directly to the instructions that match your task.
 
 You can access the Daley Dose help files from within the application by selecting the **Help** button or through the Daley Dose website.
 
@@ -32,19 +32,19 @@ Explore core topics about the Daley Dose application and its features.
 View available windows and their functions in the application.
 
 - **[Home window](/daleydose/home-window)**  
-  Select to view the **Home** window and its field and button definitions. The **Home** window is the default interface of the application, where you can create and edit a patient’s prescription.
+  View the **Home** window and its field and button definitions. The **Home** window is the default interface of the application, where you can create and edit a patient’s prescription.
 
-- **Add medication window**  
-  Select to view the **Add medication** window and its field and button definitions. This window enables you to add, edit, and remove medications from the current prescription.
+- **Add Medication window**  
+  View the **Add Medication** window and its field and button definitions. This window enables you to add, edit, and remove medications from the current prescription.
 
-- **Add notes window**  
-  Select to view the **Add notes** window and its field and button definitions. This window enables you to add, edit, and remove notes from the current prescription.
+- **Add Notes window**  
+  View the **Add Notes** window and its field and button definitions. This window enables you to add, edit, and remove notes from the current prescription.
 
-- **Add alternative window**  
-  Select to view the **Add alternative** window and its field and button definitions. This window enables you to add, edit, and remove alternatives to medications in the prescription. The pharmacy uses the alternative option when the main medication is not available.
+- **Add Alternative window**  
+  View the **Add Alternative** window and its field and button definitions. This window enables you to add, edit, and remove alternatives to medications in the prescription. The pharmacy uses the alternative option when the main medication is not available.
 
 - **Scan window**  
-  Select to view the **Scan** window and its field and button definitions. This window enables you to scan a handwritten prescription and convert it to a digital form.
+  View the **Scan** window and its field and button definitions. This window enables you to scan a handwritten prescription and convert it to a digital form.
 
 ## **INSTALLATION GUIDES**
 Learn how to install, troubleshoot, and update the application.
