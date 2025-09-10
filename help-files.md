@@ -32,17 +32,26 @@ Explore core topics about the Daley Dose application and its features.
 View available windows and their functions in the application.
 
 - [**Home** window](/daleydose/home-window)  
+  Select to view the **Home** window and its field and button definitions. The **Home** window is the default interface of the application, where you can create and edit a patient’s prescription.
+
 - **Add medication** window  
+  Select to view the **Add medication** window and its field and button definitions. This window enables you to add, edit, and remove medications from the current prescription.
+
 - **Add notes** window  
+  Select to view the **Add notes** window and its field and button definitions. This window enables you to add, edit, and remove notes from the current prescription.
+
 - **Add alternative** window  
+  Select to view the **Add alternative** window and its field and button definitions. This window enables you to add, edit, and remove alternatives to medications in the prescription. The pharmacy uses the alternative option when the main medication is not available.
+
 - **Scan** window  
+  Select to view the **Scan** window and its field and button definitions. This window enables you to scan a handwritten prescription and convert it to a digital form.
 
 ## **INSTALLATION GUIDES**
 Learn how to install, troubleshoot, and update the application.
 
 - **How to install the Daley Dose application**  
 - **How to install the mobile companion app**  
-- **How to update to version 1.7**  
+- **How to update to version 1.7**
 
 ## **USER INTERFACE GUIDES**
 Learn how to perform tasks in the application.
@@ -53,7 +62,6 @@ Learn how to perform tasks in the application.
 - **How to add, edit, and delete medication notes**  
 - **How to finalize and send out a prescription**  
 - **How to digitize a handwritten prescription**
-
 
 ## **ADDITIONAL LINKS**
 ---
