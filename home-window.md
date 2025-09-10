@@ -13,12 +13,12 @@ The **Home** window appears when you start the Daley Dose application. By defaul
 
 For more information about the tasks you can perform in this window, see the **User interface guides** topic.
 
-## **NOTES**
+### **NOTES**
 ---
 - Access to the Daley Dose application requires an active subscription.  
 - Your device must be connected to the internet to send digital prescriptions.
 
-## **RELATED TOPICS**
+### **RELATED TOPICS**
 - You must have a **Prescriber** role to create prescriptions.  
   + See [**About User Roles**](/daleydose/about-user-roles) for more information.  
 - An **Administrator** or **Support** user can impose or remove a prescription restriction on a **Prescriber**.  
