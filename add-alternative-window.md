@@ -47,5 +47,7 @@ The following table describes the buttons in the **Add Alternative** window:
 
 ## **SEE ALSO**
 ---
+- [**Home Window**](/daleydose/home-window)
+- [**Table of Contents**](/daleydose/help-files)
 - [**How to add medications to a prescription**](/daleydose/prescription-add-meds)  
 - [**How to delete medications from a prescription**](/daleydose/prescription-delete-meds) 
