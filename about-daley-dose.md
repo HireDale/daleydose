@@ -62,5 +62,5 @@ The Daley Dose application offers a wide variety of features for doctors and pha
 ---
 - [**Help Files and Online Support**](/daleydose/help-files)
 - [**Version 1.4 Release Notes**](/daleydose/release-notes-v1.4)
-- [**Version History**](/daleydose/version-history)
+- [**Version History**](/daleydose/release-note-version-history)
 - [**HireDale.com**](https://hiredale.github.io)
