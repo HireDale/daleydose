@@ -45,7 +45,8 @@ The following table describes the buttons available in the **Add Medication** wi
 | **CANCEL** | Select **Cancel** to close the **Add Medication** window without adding the currently entered information to the prescription.<br><br>**NOTE:** When you select this button, the application displays the confirmation message **"Are you sure you want to close this window without adding the medication?"** before closing. |
 | **SAVE** | Select **Save** to close the **Add Medication** window and add the currently entered information to the prescription.<br><br>**NOTE:** The application disables this button when at least one of the following fields is empty: **Generic name**, **Dose**, or **Amount**. |
 
-## SEE ALSO
+## **SEE ALSO**
 ---
-- **How to add medications to a prescription**
-- **How to delete medications from a prescription**
+- [**How to add medications to a prescription**](/daleydose/prescription-add-meds)  
+- [**How to delete medications from a prescription**](/daleydose/prescription-delete-meds) 
+- [**How to add, edit, and delete medication notes**](/daleydose/prescription-manage)  
