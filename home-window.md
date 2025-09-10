@@ -4,7 +4,7 @@ title: ""
 description: ""
 ---
 
-# HOME WINDOW
+# **HOME WINDOW**
 ---
 You will perform most of your work in the **Home** window of the Daley Dose application.  
 In this window, you can create medical prescriptions for your patients. Each prescription can include up to 5 medications. You can also scan physical prescriptions and convert them into a digital version.
