@@ -23,7 +23,8 @@ Pharmacies print a copy of the medications and their associated notes when the p
 ---
 ### **NOTES**
 - The application prevents you from adding notes when the **Patient Name** field is empty.  
-- You can add up to 5 notes per medication.  
+- You can add up to 5 notes per medication.
+
 ---
 ### **RELATED TOPICS**
 - You must have the **Prescriber** role to view this window.  
