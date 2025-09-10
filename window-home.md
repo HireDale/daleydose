@@ -19,7 +19,7 @@ The **Home** window appears when you start the Daley Dose application. By defaul
 ### **RELATED TOPICS**
 ---
 - You must have a **Prescriber** role to create prescriptions.  
-  + See [**About User Roles**](/daleydose/about-user-roles) for more information.  
+  + See [**User Roles**](/daleydose/about-user-roles) for more information.  
 - An **Administrator** or **Support** user can impose or remove a prescription restriction on a **Prescriber**.  
   + See [**Prescription Restrictions**](/daleydose/about-prescription-restrictions) for more information.  
 
