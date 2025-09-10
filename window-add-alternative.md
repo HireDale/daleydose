@@ -15,7 +15,7 @@ In the **Add Alternative** window, you can add an alternative option for the pha
 - Your device must be connected to the internet to add medications. The Daley Dose database cross‑checks the entered patient’s diagnoses with the medications you are allowed to prescribe.  
 - The application prevents you from adding alternative medication when the prescription is empty.  
 - You cannot set the same medication as its alternative option.  
-- The application auto‑completes generic and brand name suggestions for each medication by default. You can turn off this feature in the [**Options Window**](/daleydose/options-window).  
+- The application auto‑completes generic and brand name suggestions for each medication by default. You can turn off this feature in the [**Options Window**](/daleydose/window-options).  
 
 ### **RELATED TOPICS**
 ---
@@ -36,7 +36,7 @@ The following table describes the fields in the **Add Alternative** window:
 | **DOSE** | Enter the medication’s dosage.<br><br>**NOTE:** The application disables this field when the entered medication does not come with dosage instructions. |
 | **UNIT** | Displays the most common unit of measurement for the entered medication.<br><br>**NOTE:** This is a read‑only field. The application disables this field when the entered medication does not come with dosage instructions. |
 | **AMOUNT** | Enter the medication quantity for the prescription. |
-| **AUTO‑COMPLETE STATUS** | Displays whether the generic and brand name auto‑complete function is enabled. This is enabled by default. You can turn off this feature in the [**Options Window**](/daleydose/options-window).<br><br>**Status:**<br>– **Green:** The option is turned on.<br>– **Red:** The option is turned off.<br>– **Purple:** The option is turned off for all accounts by an **Administrator** or the owner of the corporate account. |
+| **AUTO‑COMPLETE STATUS** | Displays whether the generic and brand name auto‑complete function is enabled. This is enabled by default. You can turn off this feature in the [**Options Window**](/daleydose/window-options).<br><br>**Status:**<br>– **Green:** The option is turned on.<br>– **Red:** The option is turned off.<br>– **Purple:** The option is turned off for all accounts by an **Administrator** or the owner of the corporate account. |
 
 The following table describes the buttons in the **Add Alternative** window:
 
@@ -47,7 +47,7 @@ The following table describes the buttons in the **Add Alternative** window:
 
 ## **SEE ALSO**
 ---
-- [**Home Window**](/daleydose/home-window)
+- [**Home Window**](/daleydose/window-home)
 - [**Table of Contents**](/daleydose/help-files)
 - [**How to add medications to a prescription**](/daleydose/prescription-add-meds)  
 - [**How to delete medications from a prescription**](/daleydose/prescription-delete-meds) 
