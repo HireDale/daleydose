@@ -4,7 +4,7 @@ title: ""
 description: ""
 ---
 
-# **Add Medication Window**
+# **ADD MEDICATION WINDOW**
 In the **Add Medication** window, you can add medication to the patient’s current prescription.
 
 To view this window:  
