@@ -53,7 +53,7 @@ The following table describes the buttons in the **Add Notes** window:
 
 ## **SEE ALSO**
 ---
-- [**Home Window**](/daleydose/home-window)
+- [**Home Window**](/daleydose/window-home)
 - [**Table of Contents**](/daleydose/help-files)
 - [**How to add, edit, and delete medication notes**](/daleydose/prescription-manage)  
 - [**How to finalize and send out a prescription**](/daleydose/prescription-finalize)
