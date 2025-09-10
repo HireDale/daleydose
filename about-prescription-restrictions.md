@@ -16,10 +16,10 @@ The following table defines the prescription restriction options available in th
 
 | **USER ROLE** | **DEFINITION** |
 |---------------|----------------|
-| **NO RESTRICTIONS** | The Prescriber has no medication restrictions for prescription. However, to prescribe medication, it must align with the patient’s current diagnosis saved in the Daley Dose database.<br><br>**NOTE:** The application sets this option as the default for newly added prescription accounts. |
-| **RESTRICT SCHEDULE II** | The Prescriber cannot add Schedule II medication to their Daley Dose prescriptions, regardless of whether the patient profile permits its administration. |
-| **RESTRICT SCHEDULE II AND III** | The Prescriber cannot add Schedule II and III medication to their Daley Dose prescriptions, regardless of whether the patient profile permits its administration. |
-| **RESTRICT SCHEDULE II, III, AND IV** | The Prescriber cannot add Schedule II, III, and IV medication to their Daley Dose prescriptions. |
+| **NO RESTRICTIONS** | The Prescriber has no medication restrictions for prescriptions. However, prescribed medication must align with the patient’s current diagnosis saved in the Daley Dose database.<br><br>**NOTE:** The application sets this option as the default for newly added prescription accounts. |
+| **RESTRICT SCHEDULE II** | The Prescriber cannot add Schedule II medication to their Daley Dose prescriptions, regardless of whether the patient profile permits its administration. |
+| **RESTRICT SCHEDULE II AND III** | The Prescriber cannot add Schedule II or Schedule III medication to their Daley Dose prescriptions, regardless of whether the patient profile permits its administration. |
+| **RESTRICT SCHEDULE II, III, AND IV** | The Prescriber cannot add Schedule II, Schedule III, or Schedule IV medication to their Daley Dose prescriptions. |
 | **ONLY OTCS** | The Prescriber can only add over‑the‑counter (OTC) medication to their Daley Dose prescriptions. |
 
 ## **SEE ALSO**
