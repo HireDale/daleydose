@@ -48,3 +48,5 @@ layout: default
 | **Unable to Contact Servers** (during installation) | The application cannot process your request because it needs to consult the Daley Dose database. | Ensure that the internet connection remains consistent throughout the process and try again. |
 
 ## SEE ALSO
+---
+- [**Table of Contents**](/daleydose/help-files)
