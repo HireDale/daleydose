@@ -1,0 +1,50 @@
+---
+title: ""
+description: ""
+layout: default
+---
+
+# **DALEY DOSE INSTALLATION GUIDE**
+---
+1. **Download the Daley Dose installer.**  
+   - Go to the Daley Chronicles official website and download the Daley Dose installation file.  
+   - The Daley Chronicles website requires a corporate account with an active subscription to enable the application download functionality. Contact your company’s tech support for more information.  
+
+2. **Open the installer.**  
+   - Locate the downloaded file and double‑click to start installation.  
+   - The downloaded file appears in your **Downloads** folder by default under the file name **DaleyDose.exe**.  
+
+3. **Follow the installation prompts.**  
+   - The installation wizard guides you through the setup process.  
+
+4. Select **Continue**.  
+
+5. Agree to Daley Chronicle’s corporate Terms and Conditions.  
+
+6. Select **Next**.  
+
+7. **Choose the installation location** for the Daley Dose software.  
+   - It is recommended that you do not change the installation location and stick with the default unless specified otherwise by your company’s tech support.  
+
+8. Select **Next** to start installation.  
+
+9. Select **Install** to start the installation process, and **Finish** once the progress bar reaches 100%.  
+
+10. Once installed, open the Daley Dose application from your **Start menu** or its desktop shortcut.  
+
+### **NOTES**
+---
+- The application requires 200 GB of storage space and an active internet connection throughout the entire installation process.  
+- Newer versions require Windows 11 or equivalent.  
+- For best results, a 4080 graphics card or higher is recommended to help manage the workload.  
+- While the application is running on your computer, you may notice increased processing activity. This is normal and expected, especially during prolonged use.  
+
+### **PROBLEMS YOU MIGHT ENCOUNTER**
+---
+| **ERROR MESSAGE** | **REASON** | **SOLUTION** |
+|-------------------|------------|--------------|
+| **Corrupted Installer** (before installation) | The installer you acquired encountered problems during the download process. | Download the Daley Dose installer again from the official website sources. |
+| **Confirm Corporate Account** (after installation) | The application requires a final legitimacy check of your account before it starts for the first time. | Log into the Daley Chronicles website with a corporate account to unlock access to the application. |
+| **Unable to Contact Servers** (during installation) | The application cannot process your request because it needs to consult the Daley Dose database. | Ensure that the internet connection remains consistent throughout the process and try again. |
+
+## SEE ALSO
