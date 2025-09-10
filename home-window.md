@@ -38,7 +38,7 @@ The following table describes the fields in the **Home** window.
 | **Note Number** | Displays the note’s sequential order on the prescription.<br><br>**NOTES:**<br>– You can double-click the note number to delete the highlighted note from the current prescription.<br>– The application displays the confirmation message **"Are you sure you want to delete this note?"** before removing it. |
 | **Notes** | Displays existing notes for the highlighted medication in the prescription.<br><br>**NOTE:** You can attach up to five notes per medication. |
 
-The following table describes the buttons in the Daley Dose **Home** window.
+The following table describes the buttons in the **Home** window.
 
 | **Button** | Definition |
 |------------|------------|
