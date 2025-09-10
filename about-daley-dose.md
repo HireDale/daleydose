@@ -15,6 +15,8 @@ With the various Daley Dose features at your disposal, you can assign alternativ
 ![Slogan](/assets/images/daley-dose-banner-2.png)
 
 ## **KEY FEATURES**
+The Daley Dose application offers a wide variety of features for doctors and pharmacists. You can easily remember these features by using the acronym **H.I.R.E.D.A.L.E.**
+
 ---
 - **Highly Comprehensive Drug Database**  
 
