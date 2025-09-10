@@ -41,6 +41,7 @@ layout: default
 
 ### **PROBLEMS YOU MIGHT ENCOUNTER**
 ---
+
 | **ERROR MESSAGE** | **REASON** | **SOLUTION** |
 |-------------------|------------|--------------|
 | **Corrupted Installer** (before installation) | The installer you acquired encountered problems during the download process. | Download the Daley Dose installer again from the official website sources. |
