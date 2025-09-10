@@ -51,7 +51,7 @@ Learn how to install, troubleshoot, and update the application.
 
 - [**How to install the Daley Dose application**](/daleydose/guide-program-installation)
 - [**How to install the mobile companion app**](/daleydose/guide-mobile-installation)
-- [**How to update to version 1.7**](/daleydose/guide-program-update)
+- [**How to update to the latest version**](/daleydose/guide-program-update)
 
 ## **USER INTERFACE GUIDES**
 Learn how to perform tasks in the application.
