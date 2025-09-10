@@ -53,6 +53,11 @@ With the various Daley Dose features at your disposal, you can assign alternativ
 ## **SEE ALSO**
 ---
 - [**Product Overview**](https://hiredale.github.io/daleydose/)
+- [**About User Roles**](/daleydose/about-user-roles)  
+- [**About Prescription Restrictions**](/daleydose/about-prescription-restrictions)
+
+## **ADDITIONAL LINKS**
+---
 - [**Help Files and Online Support**](/daleydose/help-files)
 - [**Version 1.4 Release Notes**](/daleydose/release-notes-v1.4)
 - [**Version History**](/daleydose/version-history)
