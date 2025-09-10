@@ -21,7 +21,7 @@ To view this window:
 ### **RELATED TOPICS**
 ---
 - You must have the **Prescriber** role to view this window.  
-  + See [**About User Roles**](/daleydose/about-user-roles) for more information.  
+  + See [**User Roles**](/daleydose/about-user-roles) for more information.  
 - An **Administrator** or **Support** user can impose or remove a **Prescription restriction** on a **Prescriber**.  
   + See [**Prescription Restrictions**](/daleydose/about-prescription-restrictions) for more information.
 
