@@ -11,7 +11,7 @@ To view this window:
 - On a new prescription: **Home** > **Create new** > **+ Meds**  
 - On an existing prescription: **Home** > **+ Meds**  
 
-To learn more about the tasks you can perform in this window, see the **User Interface Guides** section.
+To learn more about the tasks you can perform in this window, see the **User Interface Guides** section of the [**Table of Contents – Application Fundamentals**](/daleydose/help-files#user-interface-guide).
 
 ## **NOTES**
 ---
