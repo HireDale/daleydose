@@ -32,7 +32,7 @@ Explore core topics about the Daley Dose application and its features.
 View available windows and their functions in the application.
 
 - [**Home Window**](/daleydose/window-home)  
-  View the **Home** window and its field and button definitions. The **Home** window is the default interface of the application, where you can create and edit a patient’s prescription.
+  View the **Home** window and its field and button definitions. This window enables you to create and edit a patient’s prescription.
 
 - [**Add Medication Window**](/daleydose/window-add-medication)  
   View the **Add Medication** window and its field and button definitions. This window enables you to add, edit, and remove medications from the current prescription.
