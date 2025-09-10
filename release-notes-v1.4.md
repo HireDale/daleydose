@@ -6,23 +6,14 @@ description: ""
 
 # **DALEY DOSE VERSION 1.4 RELEASE NOTES**
 ---
-<p style="text-align: justify;">
-We are excited to introduce the latest version of the <strong>Daley Dose</strong> application!
-</p>
+We are excited to introduce the latest version of the **Daley Dose** application!
 
-<p style="text-align: justify;">
-This release features a massive <strong>overhaul</strong> of the application's user interface and features. It also includes several updates to our medication database, cloud coverage, user interface, and new prescription features to enhance your experience. 
-</p>
+This release features a major **overhaul** of the application's user interface and functionality. It also includes several updates to the medication database, cloud coverage, and new prescription features to enhance your experience.
 
-<p style="text-align: justify;">
 Note that the latest Daley Dose application requires a corporate account with an active subscription. Visit our website for more information on tiered services.
-</p>
 
-
-![Daily Dose user interface](/assets/images/daley-dose-home-window-error.png)
-<p style="text-align: center;">
-The new <strong>Daley Dose</strong> user interface for <strong>version 1.4</strong>.
-</p>
+![Daily Dose user interface](/assets/images/daley-dose-home-window-error.png)  
+The new **Daley Dose** user interface for **version 1.4**.
 
 ## **NAVIGATION**
 ---
