@@ -10,7 +10,7 @@ The **Daley Dose** application streamlines the prescription‑writing process fo
 
 Its easy‑to‑use interface and robust features support accurate, efficient, and secure prescription management. The application can also contact patients, pharmacies, and online stores to coordinate timely medication distribution, ensuring patients receive their prescriptions when needed and at their convenience.
 
-With the various Daley Dose features at your disposal, you can assign alternative medications if a pharmacy or store has no current stock. This gives the dispensing side of the process greater flexibility in managing supplies and helps ensure patients do not leave the pharmacy without their prescribed medication.
+With the various Daley Dose features at your disposal, you can assign alternative medications if a pharmacy or store has no current stock. This gives the dispensing side of the process greater flexibility in managing supplies and helps ensure patients leave the pharmacy with their prescribed medication.
 
 ![Slogan](/assets/images/daley-dose-banner-2.png)
 
