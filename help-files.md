@@ -56,12 +56,12 @@ Learn how to install, troubleshoot, and update the application.
 ## **USER INTERFACE GUIDES**
 Learn how to perform tasks in the application.
 
-- **How to create a new prescription**  
-- **How to add medications to a prescription**  
-- **How to delete medications from a prescription**  
-- **How to add, edit, and delete medication notes**  
-- **How to finalize and send out a prescription**  
-- **How to digitize a handwritten prescription**
+- [**How to create a new prescription**](/daleydose/prescription-create-new)  
+- [**How to add medications to a prescription**](/daleydose/prescription-add-meds)  
+- [**How to delete medications from a prescription**](/daleydose/prescription-delete-meds) 
+- [**How to add, edit, and delete medication notes**](/daleydose/prescription-manage)  
+- [**How to finalize and send out a prescription**](/daleydose/prescription-finalize)
+- [**How to digitize a handwritten prescription**](/daleydose/prescription-digitize)
 
 ## **ADDITIONAL LINKS**
 ---
