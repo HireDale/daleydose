@@ -10,7 +10,7 @@ Administrators can impose or lift various levels of prescription restrictions on
 
 Orders to impose or lift restrictions must come from the hospital’s Department Head or higher. This process requires official hospital paperwork, an explanation, and the specified duration of any restrictions. The Prescriber receives a notification about any changes in prescription restrictions the next time they open the application.
 
-You can view a Prescriber’s restrictions in the [**Options Window**](/daleydose/options-window).
+You can view a Prescriber’s restrictions in the [**Options Window**](/daleydose/window-options).
 
 The following table describes the prescription restriction options available in the Daley Dose application:
 
@@ -33,5 +33,5 @@ The following table describes the prescription restriction options available in 
 ---
 - [**Help Files and Online Support**](/daleydose/help-files)
 - [**Version 1.4 Release Notes**](/daleydose/release-notes-v1.4)
-- [**Version History**](/daleydose/version-history)
+- [**Version History**](/daleydose/release-note-version-history)
 - [**HireDale.com**](https://hiredale.github.io)
