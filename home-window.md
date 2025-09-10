@@ -27,6 +27,8 @@ For more information about the tasks you can perform in this window, see the **U
 
 ![Daily Dose user interface](/assets/images/daley-dose-home-window-clean.png)
 
+### **INTERFACE ELEMENTS**
+---
 The following table describes the fields in the **Home** window.
 
 | **FIELDS** | **DEFINITION** |
