@@ -17,9 +17,9 @@ For more information about the tasks you can perform in this window, see the **U
 ---
 - Access to the Daley Dose application requires an active subscription.  
 - You must have a **Prescriber** role to create prescriptions.  
-- See [**About User Roles**](/daleydose/about-user-roles) for more information.  
+  + See [**About User Roles**](/daleydose/about-user-roles) for more information.  
 - An **Administrator** or **Support** user can impose or remove a prescription restriction on a **Prescriber**.  
-- See [**Prescription Restrictions**](/daleydose/about-prescription-restrictions) for more information.  
+  + See [**Prescription Restrictions**](/daleydose/about-prescription-restrictions) for more information.  
 - Your device must be connected to the internet to send digital prescriptions.
 
 ![Daily Dose user interface](/assets/images/daley-dose-home-window-clean.png)
