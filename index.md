@@ -24,5 +24,5 @@ With the various Daley Dose features at your disposal, you can assign alternativ
 ## **ADDITIONAL LINKS**
 ---
 - [**v1.4 Release Notes**](/daleydose/release-notes-v1.4)
-- [**Version History**](/daleydose/version-history)
+- [**Version History**](/daleydose/release-note-version-history)
 - [**HireDale.com**](https://hiredale.github.io)
