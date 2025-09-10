@@ -10,7 +10,7 @@ The Daley Dose application offers multiple user roles, each with unique function
 
 To request a role change, contact **Support** or an **Administrator**.
 
-The following table defines the user roles available in the Daley Dose application:
+The following table describes the user roles available in the Daley Dose application:
 
 | **USER ROLE** | **DEFINITION** |
 |---------------|----------------|
@@ -18,7 +18,7 @@ The following table defines the user roles available in the Daley Dose applicati
 | **SUPPORT** | Support users are the first responders when a Prescriber or a Spectator submits a ticket for an issue. They perform basic troubleshooting and maintenance for processes under the Daley Dose application.<br><br>**NOTES:**<br>– Support users can escalate technical problems to an Administrator.<br>– Support users cannot access patient information or prescribe medication. |
 | **PRESCRIBER** | Prescribers are healthcare professionals who can prescribe medications to patients. They are the only users who can access the prescription tools in the Daley Dose application.<br><br>To obtain the Prescriber role, a Support or Administrator must cross‑check the healthcare professional’s credentials with their saved profile on the Daley Dose database cloud server.<br><br>**NOTES:**<br>– The application rechecks the Prescriber’s credentials before finalizing a prescription.<br>– An Administrator or Support user can impose or remove a prescription restriction on a Prescriber.<br><br>See **Prescription Restrictions** for more information. |
 | **PHARMACIST** | Pharmacists are healthcare professionals who can dispense medication in pharmacies, clinics, hospitals, or through online vendors.<br><br>Pharmacists can use the Daley Dose application to view a patient’s prescription and verify it against the database, but cannot access other patients’ information or use the application’s prescription functions. |
-| **SPECTATOR** | Users with the Spectator role can open the application but are limited to the **Home** and **Options** windows. This role is generally used for accounts on trial runs before purchasing the application.<br><br>To use the application’s full functionality, contact Support or an Administrator for a role change. Role upgrades require an account created under an active corporate subscription. |
+| **SPECTATOR** | Users with the Spectator role can open the application but are limited to the **Home** and **Options** windows. This role is generally used for accounts on trial runs before purchasing the application.<br><br>To use the application’s full functionality, contact **Support** or an **Administrator** for a role change. Role upgrades require an account created under an active corporate subscription. |
 
 
 ## **SEE ALSO**
