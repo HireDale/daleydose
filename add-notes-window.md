@@ -22,12 +22,12 @@ Pharmacies print a copy of the medications and their associated notes when the p
 
 ---
 
-## **NOTES**
-- The application prevents you from adding notes when the **Patient name** field is empty.  
+### **NOTES**
+- The application prevents you from adding notes when the **Patient Name** field is empty.  
 - You can add up to 5 notes per medication.  
 
-## **RELATED TOPICS**
+### **RELATED TOPICS**
 - You must have the **Prescriber** role to view this window.  
-  + See [**About user roles**](/daleydose/about-user-roles) for more information.  
-- An **Administrator** or **Support** user can impose or remove a **Prescription restriction** on a **Prescriber**.  
-  + See [**Prescription restrictions**](/daleydose/about-prescription-restrictions) for more information.
+  + See [**About User Roles**](/daleydose/about-user-roles) for more information.  
+- An **Administrator** or **Support** user can impose or remove a prescription restriction on a **Prescriber**.  
+  + See [**Prescription Restrictions**](/daleydose/about-prescription-restrictions) for more information.
