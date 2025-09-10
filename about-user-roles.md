@@ -31,5 +31,5 @@ The following table describes the user roles available in the Daley Dose applica
 ---
 - [**Help Files and Online Support**](/daleydose/help-files)
 - [**Version 1.4 Release Notes**](/daleydose/release-notes-v1.4)
-- [**Version History**](/daleydose/version-history)
+- [**Version History**](/daleydose/release-note-version-history)
 - [**HireDale.com**](https://hiredale.github.io)
