@@ -13,7 +13,7 @@ This release features a major **overhaul** of the application's user interface a
 Note that the latest Daley Dose application requires a corporate account with an active subscription. Visit our website for more information on tiered services.
 
 ![Daily Dose user interface](/assets/images/daley-dose-home-window-error.png)  
-The new **Daley Dose** user interface for **version 1.4**.
+<p align="center">The new <strong>Daley Dose</strong> user interface for <strong>version 1.4</strong>.</p>
 
 ## **NAVIGATION**
 ---
