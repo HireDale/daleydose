@@ -25,7 +25,9 @@ To view this window:
 - An **Administrator** or **Support** user can impose or remove a **Prescription restriction** on a **Prescriber**.  
   + See [**Prescription restrictions**](/daleydose/about-prescription-restrictions) for more information.
 
-The following table describes the fields available in the Daley Dose **Add Medication** window:
+### **INTERFACE ELEMENTS**
+---
+The following table describes the fields available in the **Add Medication** window:
 
 | **FIELD** | **DEFINITION** |
 |-----------|----------------|
@@ -36,7 +38,7 @@ The following table describes the fields available in the Daley Dose **Add Medic
 | **AMOUNT** | Enter the medication quantity for the prescription. |
 | **AUTO‑COMPLETE STATUS** | Displays whether the generic and brand name auto‑complete function is enabled. This feature is enabled by default. You can turn off this feature in the **Options** window.<br><br>**STATUS:**<br>– Green: The option is turned on.<br>– Red: The option is turned off.<br>– Purple: The option is turned off for all accounts by an **Admin** or the owner of the corporate account. |
 
-The following table describes the buttons available in the Daley Dose **Add Medication** window:
+The following table describes the buttons available in the **Add Medication** window:
 
 | **BUTTON** | **DEFINITION** |
 |------------|----------------|
