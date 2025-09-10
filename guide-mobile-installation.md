@@ -28,3 +28,7 @@ The Daley Dose mobile companion app enables you to scan handwritten prescription
 | **Not Enough Space** (during installation) | The mobile device needs at least 10 GB of free space to complete the process. | Ensure that the phone has enough storage space to install the application. |
 | **Incompatible Model** (during installation) | Your phone is outdated and will be unable to process the application’s tasks properly. | The Daley Dose mobile app cannot be installed on your phone. |
 | **Confirm Corporate Account** (after installation) | The application requires a final legitimacy check of your account before it starts for the first time. | Log into the Daley Dose website with a corporate account to unlock access to the application. |
+
+## **SEE ALSO**
+---
+- [**Table of Contents**](/daleydose/help-files)
