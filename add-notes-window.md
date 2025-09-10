@@ -25,6 +25,13 @@ Pharmacies print a copy of the medications and their associated notes when the p
 - The application prevents you from adding notes when the **Patient Name** field is empty.  
 - You can add up to 5 notes per medication.
 
+### **RELATED TOPICS**
+---
+- You must have the **Prescriber** role to view this window.  
+  + See [**About User Roles**](/daleydose/about-user-roles) for more information.  
+- An **Administrator** or **Support** user can impose or remove a prescription restriction on a **Prescriber**.  
+  + See [**Prescription Restrictions**](/daleydose/about-prescription-restrictions) for more information.
+ 
 ### **INTERFACE ELEMENTS**
 ---
 The following table describes the fields in the **Add Notes** window:
@@ -44,14 +51,9 @@ The following table describes the buttons in the **Add Notes** window:
 | **CANCEL** | Select **Cancel** to close the **Add Notes** window without adding the currently entered information to the prescription.<br><br>**NOTE:** When you select this button, the application displays the confirmation message **"Are you sure you want to close this window without adding the notes?"** before closing. |
 | **SAVE** | Select **Save** to close the **Add Notes** window and add the currently entered information to the prescription. |
 
-### **RELATED TOPICS**
----
-- You must have the **Prescriber** role to view this window.  
-  + See [**About User Roles**](/daleydose/about-user-roles) for more information.  
-- An **Administrator** or **Support** user can impose or remove a prescription restriction on a **Prescriber**.  
-  + See [**Prescription Restrictions**](/daleydose/about-prescription-restrictions) for more information.
-
 ## **SEE ALSO**
 ---
+- [**Home Window**](/daleydose/home-window)
+- [**Table of Contents**](/daleydose/help-files)
 - [**How to add, edit, and delete medication notes**](/daleydose/prescription-manage)  
 - [**How to finalize and send out a prescription**](/daleydose/prescription-finalize)
