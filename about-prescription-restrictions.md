@@ -22,14 +22,14 @@ The following table describes the prescription restriction options available in 
 | **RESTRICT SCHEDULE II, III, AND IV** | The Prescriber cannot add Schedule II, Schedule III, or Schedule IV medication to their Daley Dose prescriptions. |
 | **ONLY OTCS** | The Prescriber can add only over‑the‑counter (OTC) medication to their Daley Dose prescriptions. |
 
-## **SEE ALSO**
 ---
+## **SEE ALSO**
 - [**Product Overview**](https://hiredale.github.io/daleydose/)
 - [**About Daley Dose**](/daleydose/about-daley-dose)  
 - [**About User Roles**](/daleydose/about-user-roles)  
 
-## **ADDITIONAL LINKS**
 ---
+## **ADDITIONAL LINKS**
 - [**Help Files and Online Support**](/daleydose/help-files)
 - [**Version 1.4 Release Notes**](/daleydose/release-notes-v1.4)
 - [**Version History**](/daleydose/version-history)
