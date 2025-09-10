@@ -31,19 +31,19 @@ Explore core topics about the Daley Dose application and its features.
 ## **WINDOW DEFINITIONS**
 View available windows and their functions in the application.
 
-- [**Home Window**](/daleydose/home-window)  
+- [**Home Window**](/daleydose/window-home)  
   View the **Home** window and its field and button definitions. The **Home** window is the default interface of the application, where you can create and edit a patient’s prescription.
 
-- [**Add Medication Window**](/daleydose/add-medication-window)  
+- [**Add Medication Window**](/daleydose/window-add-medication)  
   View the **Add Medication** window and its field and button definitions. This window enables you to add, edit, and remove medications from the current prescription.
 
-- [**Add Notes Window**](/daleydose/add-notes-window)  
+- [**Add Notes Window**](/daleydose/window-add-notes)  
   View the **Add Notes** window and its field and button definitions. This window enables you to add, edit, and remove notes from the current prescription.
 
-- [**Add Alternative Window**](/daleydose/add-alternative-window)  
+- [**Add Alternative Window**](/daleydose/window-add-alternative)  
   View the **Add Alternative** window and its field and button definitions. This window enables you to add, edit, and remove alternatives to medications in the prescription. The pharmacy uses the alternative option when the main medication is not available.
 
-- [**Scan Window**](/daleydose/scan-window)  
+- [**Scan Window**](/daleydose/window-scan)  
   View the **Scan** window and its field and button definitions. This window enables you to scan a handwritten prescription and convert it to a digital form.
 
 ## **INSTALLATION GUIDES**
@@ -66,5 +66,5 @@ Learn how to perform tasks in the application.
 ## **ADDITIONAL LINKS**
 ---
 - [**v1.4 Release Notes**](/daleydose/release-notes-v1.4)
-- [**Version History**](/daleydose/version-history)
+- [**Version History**](/daleydose/release-note-version-history)
 - [**HireDale.com**](https://hiredale.github.io)
