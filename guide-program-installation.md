@@ -48,6 +48,6 @@ layout: default
 | **Confirm Corporate Account** (after installation) | The application requires a final legitimacy check of your account before it starts for the first time. | Log into the Daley Chronicles website with a corporate account to unlock access to the application. |
 | **Unable to Contact Servers** (during installation) | The application cannot process your request because it needs to consult the Daley Dose database. | Ensure that the internet connection remains consistent throughout the process and try again. |
 
-## SEE ALSO
+## **SEE ALSO**
 ---
 - [**Table of Contents**](/daleydose/help-files)
