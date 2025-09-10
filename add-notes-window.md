@@ -20,13 +20,13 @@ Pharmacies print a copy of the medications and their associated notes when the p
 - On a new prescription: **Home** > **Create new** > Select an entered medication > **+ Notes**  
 - On an existing prescription: **Home** > Select an entered medication > **+ Notes**  
 
----
 ### **NOTES**
+---
 - The application prevents you from adding notes when the **Patient Name** field is empty.  
 - You can add up to 5 notes per medication.
 
----
 ### **RELATED TOPICS**
+---
 - You must have the **Prescriber** role to view this window.  
   + See [**About User Roles**](/daleydose/about-user-roles) for more information.  
 - An **Administrator** or **Support** user can impose or remove a prescription restriction on a **Prescriber**.  
