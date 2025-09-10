@@ -50,3 +50,8 @@ The following table describes the buttons in the **Add Notes** window:
   + See [**About User Roles**](/daleydose/about-user-roles) for more information.  
 - An **Administrator** or **Support** user can impose or remove a prescription restriction on a **Prescriber**.  
   + See [**Prescription Restrictions**](/daleydose/about-prescription-restrictions) for more information.
+
+## **SEE ALSO**
+---
+- [**How to add, edit, and delete medication notes**](/daleydose/prescription-manage)  
+- [**How to finalize and send out a prescription**](/daleydose/prescription-finalize)
