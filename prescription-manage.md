@@ -27,7 +27,7 @@ To delete notes directly from the **Home** window:
 2. Double-click the note number to delete the corresponding entry from the prescription.
 
 
-### **PROBLEMS YOU MIGHT ENCOUNTER**
+## **PROBLEMS YOU MIGHT ENCOUNTER**
 ---
 
 ### The application prevents you from selecting the **+ Notes** button  
@@ -45,6 +45,5 @@ To delete notes directly from the **Home** window:
 
 ## **SEE ALSO**
 ---
-- [**Table of Contents**](/daleydose/help-files)
 - [**Add Notes Window**](/daleydose/window-add-notes)  
 - [**How to finalize and send out a prescription**](/daleydose/prescription-finalize)
