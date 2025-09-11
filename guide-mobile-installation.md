@@ -37,7 +37,3 @@ The Daley Dose mobile companion app enables you to scan handwritten prescription
 ### Error message after installation: **"Confirm Corporate Account"**  
 - **REASON:** The application requires a final legitimacy check of your account before it starts for the first time.  
 - **SOLUTION:** Log into the Daley Dose website with a corporate account to unlock access to the application.
-
-## **SEE ALSO**
----
-- [**Table of Contents**](/daleydose/help-files)
