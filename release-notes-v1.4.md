@@ -32,6 +32,6 @@ Below, you will find detailed information about the improvements and changes imp
 ## **SEE ALSO**
 ---
 - [**Product Overview**](https://hiredale.github.io/daleydose/)
-- [**Help Files and Online Support**](/daleydose/help-files)
+- [**Access the Help Files**](/daleydose/help-files)
 - [**Version History**](/daleydose/release-note-version-history)
 - [**HireDale.com**](https://hiredale.github.io)
