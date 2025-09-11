@@ -44,5 +44,10 @@ To add medications to a prescription, follow these steps:
 - **REASON:** The application cannot process your request because it needs to consult the Daley Database.  
 - **SOLUTION:** Ensure that the internet connection remains consistent throughout the process and try again.
 
-# **SEE ALSO**
+## **SEE ALSO**
 ---
+- [**Table of Contents**](/daleydose/help-files)
+- [**Add Medication Window**](/daleydose/window-add-medication)  
+- [**Add Alternative Window**](/daleydose/window-add-alternative)  
+- [**How to create a new prescription**](/daleydose/prescription-create-new)  
+- [**How to delete medications from a prescription**](/daleydose/prescription-delete-meds) 
