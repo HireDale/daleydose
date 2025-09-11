@@ -36,5 +36,6 @@ The following table describes the buttons in the **Scan** window:
 
 ## **SEE ALSO**
 ---
+- [**Home Window**](/daleydose/window-home)
 - [**Table of Contents**](/daleydose/help-files)
 - [**How to digitize a handwritten prescription**](/daleydose/prescription-digitize)
