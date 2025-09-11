@@ -19,15 +19,24 @@ The Daley Dose mobile companion app enables you to scan handwritten prescription
 8. To finish, log in with your corporate account and ensure that the account has an active subscription to Daley Dose.  
 
 
-### **PROBLEMS YOU MIGHT ENCOUNTER**
+### Problems you might encounter  
 ---
 
-| **ERROR MESSAGE** | **REASON** | **SOLUTION** |
-|-------------------|------------|--------------|
-| Unable to find the Daley Dose app on the store | The search function on your device failed to find the app due to connection issues. | Ensure that the internet connection remains consistent throughout the process and try again. |
-| **Not Enough Space** (during installation) | The mobile device needs at least 10 GB of free space to complete the process. | Ensure that the phone has enough storage space to install the application. |
-| **Incompatible Model** (during installation) | Your phone is outdated and will be unable to process the application’s tasks properly. | The Daley Dose mobile app cannot be installed on your phone. |
-| **Confirm Corporate Account** (after installation) | The application requires a final legitimacy check of your account before it starts for the first time. | Log into the Daley Dose website with a corporate account to unlock access to the application. |
+### Unable to find the Daley Dose app on the store  
+- **REASON:** The search function on your device failed to find the app due to connection issues.  
+- **SOLUTION:** Ensure that the internet connection remains consistent throughout the process and try again.
+
+### Error message during installation: **"Not Enough Space"**  
+- **REASON:** The mobile device needs at least 10 GB of free space to complete the process.  
+- **SOLUTION:** Ensure that the phone has enough storage space to install the application.
+
+### Error message during installation: **"Incompatible Model"**  
+- **REASON:** Your phone is outdated and will be unable to process the application’s tasks properly.  
+- **SOLUTION:** The Daley Dose mobile app cannot be installed on your phone.
+
+### Error message after installation: **"Confirm Corporate Account"**  
+- **REASON:** The application requires a final legitimacy check of your account before it starts for the first time.  
+- **SOLUTION:** Log into the Daley Dose website with a corporate account to unlock access to the application.
 
 ## **SEE ALSO**
 ---
