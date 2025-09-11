@@ -19,7 +19,7 @@ The Daley Dose mobile companion app enables you to scan handwritten prescription
 8. To finish, log in with your corporate account and ensure that the account has an active subscription to Daley Dose.  
 
 
-### **PROBLEMS YOU MIGHT ENCOUNTER** 
+## **PROBLEMS YOU MIGHT ENCOUNTER** 
 ---
 
 ### Unable to find the Daley Dose app on the store  
