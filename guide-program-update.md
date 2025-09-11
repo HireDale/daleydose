@@ -33,7 +33,3 @@ layout: default
 ### Error message: **"Unable to Contact Servers"**  
 - **REASON:** The application cannot process your request because it needs to consult the Daley Dose database.  
 - **SOLUTION:** Ensure that the internet connection remains consistent throughout the process and try again.
-
-## **SEE ALSO**
----
-- [**Table of Contents**](/daleydose/help-files)
