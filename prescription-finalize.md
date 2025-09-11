@@ -57,6 +57,5 @@ To finalize and send out a prescription, follow these steps:
 
 ## **SEE ALSO**
 ---
-- [**Table of Contents**](/daleydose/help-files)
 - [**Home Window**](/daleydose/window-home)  
 - [**How to create a new prescription**](/daleydose/prescription-create-new)  

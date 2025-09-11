@@ -14,12 +14,17 @@ Its easy‑to‑use interface and powerful features enable accurate, efficient, 
 
 With the various Daley Dose features at your disposal, you can assign alternatives to medications when the pharmacy or store has no current stock. This gives the dispensing side of the prescription process more flexibility in managing supplies. It also ensures that patients receive their prescriptions without leaving the pharmacy empty‑handed.
 
-## **SEE ALSO**
+## **FEATURED**
 ---
-- [**View the Help Files**](/daleydose/help-files)
+- [**View the Help Files**](/daleydose/help-files)  
+  Browse the Daley Dose Help Files for step‑by‑step guides, capability overviews, and troubleshooting resources to help you get the most out of the application.
+  
 - [**About Daley Dose**](/daleydose/about-daley-dose)
+- 
 - [**About User Roles**](/daleydose/about-user-roles)
-- [**About Prescription Restrictions**](/daleydose/about-prescription-restrictions)
+- 
+- [**About Prescription Restrictions**](/daleydose/about-prescription-restrictions)  
+  Daley Dose allows Administrators to apply or remove prescribing limits for active Prescribers. Any change must be approved by a hospital Department Head or higher and recorded with official forms, a stated reason, and the restriction’s duration. Prescribers are notified of updates the next time they sign in to the application.
 
 ## **ADDITIONAL LINKS**
 ---

@@ -11,21 +11,21 @@ To view this window:
 - On a new prescription: **Home** > **Create new** > **+ Meds**  
 - On an existing prescription: **Home** > **+ Meds**
 
-### **NOTES**
+## **NOTES**
 ---
 - Your device must be connected to the internet to add medications. The Daley Dose database cross‑checks the entered patient’s diagnoses with the medications you are allowed to prescribe.  
 - The application prevents you from adding medication when the **Patient Name** field is empty.  
 - You can add up to 5 medications per prescription.  
 - The application auto‑completes generic and brand name suggestions for each medication by default. You can turn off this feature in the [**Options Window**](/daleydose/window-options).  
 
-### **RELATED TOPICS**
+## **RELATED TOPICS**
 ---
 - You must have the **Prescriber** role to view this window.  
   + See [**User Roles**](/daleydose/about-user-roles) for more information.  
 - An **Administrator** or **Support** user can impose or remove a **Prescription restriction** on a **Prescriber**.  
   + See [**Prescription Restrictions**](/daleydose/about-prescription-restrictions) for more information.
 
-### **INTERFACE ELEMENTS**
+## **INTERFACE ELEMENTS**
 ---
 The following table describes the fields available in the **Add Medication** window:
 
@@ -48,7 +48,6 @@ The following table describes the buttons available in the **Add Medication** wi
 ## **SEE ALSO**
 ---
 - [**Home Window**](/daleydose/window-home)
-- [**Table of Contents**](/daleydose/help-files)
 - [**How to add medications to a prescription**](/daleydose/prescription-add-meds)  
 - [**How to delete medications from a prescription**](/daleydose/prescription-delete-meds) 
 - [**How to add, edit, and delete medication notes**](/daleydose/prescription-manage)  

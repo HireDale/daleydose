@@ -10,14 +10,14 @@ In the **Scan** window, you can scan and digitize a handwritten prescription. Af
 **To view this window:**  
 - **Home** > **Create new** > **Scan**  
 
-### **NOTES**
+## **NOTES**
 ---
 - The scanning process takes 20 seconds to complete.  
 - You cannot edit medications or notes on a scanned prescription.  
 - The application displays the **Scan** button on the desktop version only when your computer has a confirmed connected webcam.  
 - The application always displays the **Scan** button on the mobile app.
 
-### **INTERFACE ELEMENTS**
+## **INTERFACE ELEMENTS**
 ---
 The following table describes the fields in the **Scan** window:
 
@@ -37,5 +37,4 @@ The following table describes the buttons in the **Scan** window:
 ## **SEE ALSO**
 ---
 - [**Home Window**](/daleydose/window-home)
-- [**Table of Contents**](/daleydose/help-files)
 - [**How to digitize a handwritten prescription**](/daleydose/prescription-digitize)

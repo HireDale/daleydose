@@ -57,7 +57,6 @@ To digitize a handwritten prescription, follow these steps:
 
 ## **SEE ALSO**
 ---
-- [**Table of Contents**](/daleydose/help-files)
 - [**Home Window**](/daleydose/window-home)  
 - [**Scan Window**](/daleydose/window-scan)  
 - [**How to create a new prescription**](/daleydose/prescription-create-new)  

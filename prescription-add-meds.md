@@ -46,7 +46,6 @@ To add medications to a prescription, follow these steps:
 
 ## **SEE ALSO**
 ---
-- [**Table of Contents**](/daleydose/help-files)
 - [**Add Medication Window**](/daleydose/window-add-medication)  
 - [**Add Alternative Window**](/daleydose/window-add-alternative)  
 - [**How to create a new prescription**](/daleydose/prescription-create-new)  
