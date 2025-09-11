@@ -42,11 +42,17 @@ layout: default
 ### **PROBLEMS YOU MIGHT ENCOUNTER**
 ---
 
-| **ERROR MESSAGE** | **REASON** | **SOLUTION** |
-|-------------------|------------|--------------|
-| **Corrupted Installer** (before installation) | The installer you acquired encountered problems during the download process. | Download the Daley Dose installer again from the official website sources. |
-| **Confirm Corporate Account** (after installation) | The application requires a final legitimacy check of your account before it starts for the first time. | Log into the Daley Chronicles website with a corporate account to unlock access to the application. |
-| **Unable to Contact Servers** (during installation) | The application cannot process your request because it needs to consult the Daley Dose database. | Ensure that the internet connection remains consistent throughout the process and try again. |
+### Error message before installation: **"Corrupted Installer"**  
+- **REASON:** The installer you acquired encountered problems during the download process.  
+- **SOLUTION:** Download the Daley Dose installer again from the official website sources.
+
+### Error message after installation: **"Confirm Corporate Account"**  
+- **REASON:** The application requires a final legitimacy check of your account before it starts for the first time.  
+- **SOLUTION:** Log into the Daley Chronicles website with a corporate account to unlock access to the application.
+
+### Error message during installation: **"Unable to Contact Servers"**  
+- **REASON:** The application cannot process your request because it needs to consult the Daley Dose database.  
+- **SOLUTION:** Ensure that the internet connection remains consistent throughout the process and try again.
 
 ## **SEE ALSO**
 ---
