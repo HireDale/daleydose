@@ -25,7 +25,7 @@ To create a new prescription, follow these steps:
 4. (Optional) Enter the expected refill date in the **Refill Date** field.  
    - This step is optional.
 
-## Problems you might encounter  
+## **PROBLEMS YOU MIGHT ENCOUNTER**
 ---
 
 ### No response when selecting the **Create New** button  
@@ -44,8 +44,9 @@ To create a new prescription, follow these steps:
 - **REASON:** The application cannot process your request because it needs to consult the Daley Dose Database.  
 - **SOLUTION:** Ensure that the internet connection remains consistent throughout the process and try again.
 
-## SEE ALSO
+## **SEE ALSO**
 ---
+- [**Table of Contents**](/daleydose/help-files)
 - [**Home Window**](/daleydose/window-home)  
 - [**Add Medication Window**](/daleydose/window-add-medication)  
 - [**Add Notes Window**](/daleydose/window-add-notes)  
