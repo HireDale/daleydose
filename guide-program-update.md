@@ -22,11 +22,17 @@ layout: default
 ### **PROBLEMS YOU MIGHT ENCOUNTER**
 ---
 
-| **ERROR MESSAGE** | **REASON** | **SOLUTION** |
-|-------------------|------------|--------------|
-| **Update Not Needed** | The application is currently using the latest version. | The application does not need any updates. |
-| **Spectators Cannot Update** | The user seeing this message has a **Spectator** role. | The application requires higher‑ranked roles to enable the update functionality. See [**User Roles**](/daleydose/about-user-roles) for more information. |
-| **Unable to Contact Servers** | The application cannot process your request because it needs to consult the Daley Dose database. | Ensure that the internet connection remains consistent throughout the process and try again. |
+### Error message: **"Update Not Needed"**  
+- **REASON:** The application is currently using the latest version.  
+- **SOLUTION:** The application does not need any updates.
+
+### Error message: **"Spectators Cannot Update"**  
+- **REASON:** The user seeing this message has a **Spectator** role.  
+- **SOLUTION:** The application requires higher-ranked roles to enable the update functionality. See [**User Roles**](/daleydose/about-user-roles) for more information.
+
+### Error message: **"Unable to Contact Servers"**  
+- **REASON:** The application cannot process your request because it needs to consult the Daley Dose database.  
+- **SOLUTION:** Ensure that the internet connection remains consistent throughout the process and try again.
 
 ## **SEE ALSO**
 ---
