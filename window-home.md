@@ -11,12 +11,12 @@ In this window, you can create medical prescriptions for your patients. Each pre
 
 The **Home** window appears when you start the Daley Dose application. By default, it opens with the last saved instance of a previous prescription (if any), allowing you to continue where you left off. You can disable this feature in the [**Options Window**](/daleydose/window-options).
 
-### **NOTES**
+## **NOTES**
 ---
 - Access to the Daley Dose application requires an active subscription.  
 - Your device must be connected to the internet to send digital prescriptions.
 
-### **RELATED TOPICS**
+## **RELATED TOPICS**
 ---
 - You must have a **Prescriber** role to create prescriptions.  
   + See [**User Roles**](/daleydose/about-user-roles) for more information.  
@@ -25,7 +25,7 @@ The **Home** window appears when you start the Daley Dose application. By defaul
 
 ![Daily Dose user interface](/assets/images/daley-dose-home-window-clean.png)
 
-### **INTERFACE ELEMENTS**
+## **INTERFACE ELEMENTS**
 ---
 The following table describes the fields in the **Home** window.
 
@@ -58,7 +58,6 @@ The following table describes the buttons in the **Home** window.
 
 ## **SEE ALSO**
 ---
-- [**Table of Contents**](/daleydose/help-files)
 - [**How to create a new prescription**](/daleydose/prescription-create-new)  
 - [**How to add medications to a prescription**](/daleydose/prescription-add-meds)  
 - [**How to delete medications from a prescription**](/daleydose/prescription-delete-meds) 
