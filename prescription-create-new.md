@@ -45,7 +45,6 @@ To create a new prescription, follow these steps:
 
 ## **SEE ALSO**
 ---
-- [**Table of Contents**](/daleydose/help-files)
 - [**Home Window**](/daleydose/window-home)  
 - [**Add Medication Window**](/daleydose/window-add-medication)  
 - [**Add Notes Window**](/daleydose/window-add-notes)  
