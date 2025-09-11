@@ -1,0 +1,37 @@
+<div id="right-sidebar" style="
+  width: 250px;
+  position: fixed;
+  right: 115px;
+  top: 100px;
+  padding-left: 20px;
+">
+  <h3><strong>ON THIS PAGE</strong></h3>
+  <ul id="page-toc" style="list-style-type: disc; padding-left: 20px; font-size: 14px; line-height: 1.6;">
+    <!-- Headings will be inserted here -->
+  </ul>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const content = document.querySelector('main') || document.body;
+  const toc = document.getElementById('page-toc');
+  if (!content || !toc) return;
+
+  const headings = content.querySelectorAll('h2, h3');
+  headings.forEach(h => {
+    // Ensure each heading has an ID for linking
+    if (!h.id) {
+      h.id = h.textContent.trim().toLowerCase().replace(/\s+/g, '-');
+    }
+    // Create list item
+    const li = document.createElement('li');
+    if (h.tagName === 'H3') li.style.marginLeft = '20px';
+    // Create link
+    const a = document.createElement('a');
+    a.href = '#' + h.id;
+    a.textContent = h.textContent;
+    li.appendChild(a);
+    toc.appendChild(li);
+  });
+});
+</script>
