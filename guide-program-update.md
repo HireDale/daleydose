@@ -13,13 +13,13 @@ layout: default
 4. Select **System information**.  
 5. In the **Version** field, select **Update now**.  
 
-### **NOTES**
+## **NOTES**
 ---
 - When you attempt to send a prescription on an outdated version, the application displays the error message **"Update Needed to Prescribe"**.  
 - You need an active internet connection to complete the system update.  
 - The update functionality is available only for users with the roles of **Admin**, **Support**, and **Prescriber**.  
 
-### **PROBLEMS YOU MIGHT ENCOUNTER**
+## **PROBLEMS YOU MIGHT ENCOUNTER**
 ---
 
 ### Error message: **"Update Not Needed"**  
