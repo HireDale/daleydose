@@ -22,8 +22,7 @@ To create a new prescription, follow these steps:
    - The application displays this in [MM/DD/YYYY] format.  
    - If this field is empty when you finalize the prescription, the application fills it with the current date.
 
-4. (Optional) Enter the expected refill date in the **Refill Date** field.  
-   - This step is optional.
+4. (Optional) Enter the expected refill date in the **Refill Date** field.
 
 ## **PROBLEMS YOU MIGHT ENCOUNTER**
 ---
