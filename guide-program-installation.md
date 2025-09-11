@@ -32,14 +32,14 @@ layout: default
 
 10. Once installed, open the Daley Dose application from your **Start menu** or its desktop shortcut.  
 
-### **NOTES**
+## **NOTES**
 ---
 - The application requires 200 GB of storage space and an active internet connection throughout the entire installation process.  
 - Newer versions require Windows 11 or equivalent.  
 - For best results, a 4080 graphics card or higher is recommended to help manage the workload.  
 - While the application is running on your computer, you may notice increased processing activity. This is normal and expected, especially during prolonged use.  
 
-### **PROBLEMS YOU MIGHT ENCOUNTER**
+## **PROBLEMS YOU MIGHT ENCOUNTER**
 ---
 
 ### Error message before installation: **"Corrupted Installer"**  
