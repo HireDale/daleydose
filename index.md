@@ -20,7 +20,7 @@ With the various Daley Dose features at your disposal, you can assign alternativ
   Browse the Daley Dose Help Files for step‑by‑step guides, capability overviews, and troubleshooting resources to help you get the most out of the application.
 - [**About Daley Dose**](/daleydose/about-daley-dose)
 - [**About User Roles**](/daleydose/about-user-roles)
-- [**About Prescription Restrictions**](/daleydose/about-prescription-restrictions)
+- [**About Prescription Restrictions**](/daleydose/about-prescription-restrictions)  
   Daley Dose allows Administrators to apply or remove prescribing limits for active Prescribers. Any change must be approved by a hospital Department Head or higher and recorded with official forms, a stated reason, and the restriction’s duration. Prescribers are notified of updates the next time they sign in to the application.
 
 ## **ADDITIONAL LINKS**
