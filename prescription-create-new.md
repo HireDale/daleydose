@@ -43,3 +43,11 @@ To create a new prescription, follow these steps:
 ### Error message while working: **"Unable to Contact Servers"**  
 - **REASON:** The application cannot process your request because it needs to consult the Daley Dose Database.  
 - **SOLUTION:** Ensure that the internet connection remains consistent throughout the process and try again.
+
+## SEE ALSO
+---
+- [**Home Window**](/daleydose/window-home)  
+- [**Add Medication Window**](/daleydose/window-add-medication)  
+- [**Add Notes Window**](/daleydose/window-add-notes)  
+- [**Add Alternative Window**](/daleydose/window-add-alternative)  
+- [**Scan Window**](/daleydose/window-scan)  
