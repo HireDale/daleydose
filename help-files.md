@@ -19,6 +19,7 @@ To begin, select a topic. These topics are categorized into sections that group 
 ## **APPLICATION FUNDAMENTALS**
 Explore core topics about the Daley Dose application and its features.
 
+---
 - [**About Daley Dose**](/daleydose/about-daley-dose)  
   View general information and key features of the Daley Dose application.
 
@@ -31,6 +32,7 @@ Explore core topics about the Daley Dose application and its features.
 ## **WINDOW DEFINITIONS**
 View available windows and their functions in the application.
 
+---
 - [**Home Window**](/daleydose/window-home)  
   View the Home window and its field and button definitions. This window enables you to create and edit a patient’s prescription.
 
@@ -49,6 +51,7 @@ View available windows and their functions in the application.
 ## **INSTALLATION GUIDES**
 Learn how to install, troubleshoot, and update the application.
 
+---
 - [**How to install the Daley Dose application**](/daleydose/guide-program-installation)
 - [**How to install the mobile companion app**](/daleydose/guide-mobile-installation)
 - [**How to update to the latest version**](/daleydose/guide-program-update)
@@ -56,6 +59,7 @@ Learn how to install, troubleshoot, and update the application.
 ## **USER INTERFACE GUIDES**
 Learn how to perform tasks in the application.
 
+---
 - [**How to create a new prescription**](/daleydose/prescription-create-new)  
 - [**How to add medications to a prescription**](/daleydose/prescription-add-meds)  
 - [**How to delete medications from a prescription**](/daleydose/prescription-delete-meds) 
