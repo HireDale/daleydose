@@ -48,7 +48,6 @@ The following table describes the buttons available in the **Add Medication** wi
 ## **SEE ALSO**
 ---
 - [**Home Window**](/daleydose/window-home)
-- [**Table of Contents**](/daleydose/help-files)
 - [**How to add medications to a prescription**](/daleydose/prescription-add-meds)  
 - [**How to delete medications from a prescription**](/daleydose/prescription-delete-meds) 
 - [**How to add, edit, and delete medication notes**](/daleydose/prescription-manage)  
