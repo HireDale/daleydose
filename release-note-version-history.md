@@ -7,7 +7,7 @@ description: ""
 # **DALEY DOSE VERSION HISTORY**
 The following are the Release Notes of previous versions for the **Daley Dose** application.
 
-# **DALEY DOSE – VERSION 1.3 – RELEASE DATE: 2024-09-15**  
+# **VERSION 1.3 – RELEASE DATE: 2024-09-15**  
 ---
 
 This release introduces auto-complete functionality, note and medication deletion, handwritten prescription scanning, expanded user roles, increased limits for prescriptions and notes, and critical bug fixes.
