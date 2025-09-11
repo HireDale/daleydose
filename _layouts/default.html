@@ -8,10 +8,8 @@
 
     <!-- Theme CSS -->
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <!-- Custom overrides -->
     <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}?v={{ site.time | date: '%s' }}">
 
-    <!-- Inline override to kill grey box and show banner -->
     <style>
       .page-header {
         background: none !important;
@@ -40,8 +38,10 @@
       </h2>
     </header>
 
+    <!-- Sidebar floats outside main content -->
+    {% include sidebar.html %}
+
     <main id="content" class="main-content" role="main">
-      {% include sidebar.html %}
       <div>
         {{ content }}
       </div>
