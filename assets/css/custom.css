@@ -48,8 +48,8 @@
 
 /* === Responsive Layout for Sidebars + Main Content === */
 
-/* Flex container for layout */
-body {
+/* Flex container for layout (sidebars + main only) */
+.layout-container {
   display: flex;
   flex-direction: row;
   justify-content: center;
