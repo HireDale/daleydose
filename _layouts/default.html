@@ -13,7 +13,7 @@
     <style>
       .page-header {
         background: none !important;
-        background-image: url('{{ "/assets/images/daley-dose-banner-title.png?v=7" | relative_url }}') !important;
+        background-image: url('{{ "/assets/images/daley-dose-banner-title.png?v=8" | relative_url }}') !important;
         background-size: cover !important;
         background-position: center !important;
         background-repeat: no-repeat !important;
@@ -53,14 +53,11 @@
       {% include right-sidebar.html %}
     </div>
 
-    <footer class="site-footer"
-            style="background: #222 url('{{ "/assets/images/daley-dose-banner-footer.png?v=7" | relative_url }}') no-repeat center center / cover;
-                   border-top: 4px solid #ffcc00;
-                   min-height: 200px;
-                   display: flex;
-                   align-items: center;
-                   justify-content: center;">
-      <span style="color:white; font-weight:bold;">FOOTER DEBUG — should show image</span>
+    <!-- Footer: full width, uses block layout -->
+    <footer class="site-footer">
+      <div class="site-footer-bg"></div>
+      <!-- Optional debug text -->
+      <span style="color:white; font-weight:bold; display:none;">FOOTER DEBUG</span>
     </footer>
   </body>
 </html>
