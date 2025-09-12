@@ -50,4 +50,4 @@ For those who like to live on the edge, you can even watch Dale Bot decide wheth
 ### **Application Themes**
 Who says medical software has to be boring? Soon you’ll be able to pick your favorite Daley Dose theme or wallpaper — whether it’s soothing teal for calm consultations or neon pink for that extra “vital sign alert” flair. Finally, your desktop can look as healthy as your patients… or at least as lively as your coffee‑fueled late‑night charting sessions.
 
-Featured themes include **Darker than Black**, **Dr. Mario**, and **Resident Evil** — complete with health bars and an animated representation of each patient that dynamically shows expressions ranging from perfectly healthy to critically in danger.
+Featured themes include **Darker than Black**, **Dr. Mario**, and **Resident Evil** — complete with health bars and an animated patient avatar whose movement changes with “health” status. At full green, they walk normally. Drop to yellow and they clutch their sides. Hit red and they stagger like they’re one step from the grave. It’s the perfect nod to classic survival horror — now in your prescribing software.
