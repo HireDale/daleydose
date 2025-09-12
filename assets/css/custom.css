@@ -42,7 +42,7 @@ body {
 /* === Footer Overrides — full width, visible banner === */
 .site-footer {
   background-color: #222 !important;
-  background-image: url("{{ '/assets/images/daley-dose-banner-footer.png?v=5' | relative_url }}") !important;
+  background-image: url("{{ '/assets/images/daley-dose-banner-footer.png?v=6' | relative_url }}") !important;
   background-repeat: no-repeat !important;
   background-position: center center !important;
   background-size: cover !important;
@@ -51,7 +51,7 @@ body {
   color: #fff !important;
   font-size: 0.9rem;
   border-top: 4px solid #ffcc00;
-  min-height: 160px;
+  min-height: 200px;
   display: block;
   clear: both;
   width: 100vw;
