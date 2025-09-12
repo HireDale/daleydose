@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Daley Dose - Mobile App Help"
 description: ""
 layout: default
 ---
