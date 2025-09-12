@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Daley Dose - Delete Medication"
 description: ""
 layout: default
 ---
