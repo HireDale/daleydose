@@ -13,7 +13,7 @@ Its intuitive interface and powerful features enable accurate, efficient, and se
 
 With the various Daley Dose features at your disposal, you can assign alternatives to medications when the pharmacy or store has no current stock. This gives the dispensing side of the prescription process more flexibility in managing supplies and ensures that patients receive their prescriptions without leaving empty‑handed.
 
-![Daily Dose user interface](/assets/images/daley-dose-home-window-clean.png)
+![Daley Dose user interface](/assets/images/daley-dose-home-window-clean.png)
 
 ## **FEATURED**
 ---
@@ -46,6 +46,8 @@ Coming soon to every Daley Dose application — **Dale Bot**, your AI‑powered 
 This reduces manual entry and helps prevent drug interaction errors. Dale Bot’s responses are consistent, accurate, and available 24/7 — no coffee breaks required.  
 
 For those who like to live on the edge, you can even watch Dale Bot decide whether Mr. Smith gets 250 mg of mefenamic acid or a bold 100 mg of morphine. (Don’t worry — it’s all simulated… probably.) Pure adrenaline for the conscientious clinician. And yes, Dale Bot’s bedside manner is impeccable: it never complains, never forgets, and never takes a vacation.
+
+![Dale Bot](/assets/images/daley-dose-dale-bot.png)
 
 ### **Application Themes**
 Who says medical software has to be boring? Soon you’ll be able to pick your favorite Daley Dose theme or wallpaper — whether it’s soothing teal for calm consultations or neon pink for that extra “vital sign alert” flair. Finally, your desktop can look as healthy as your patients… or at least as lively as your coffee‑fueled late‑night charting sessions.
