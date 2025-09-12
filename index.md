@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ""
+title: "Daley Dose - Home"
 description: ""
 ---
 
