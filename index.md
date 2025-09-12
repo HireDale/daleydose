@@ -35,7 +35,7 @@ With the various Daley Dose features at your disposal, you can assign alternativ
 
 - [**v1.4 Release Notes**](/daleydose/release-notes-v1.4) – Details of the latest Daley Dose updates.
 - [**Version History**](/daleydose/release-note-version-history) – A complete record of past releases.
-- [**HireDale.com**](https://hiredale.github.io) – Portfolio and professional resources.
+- [**HireDale.com**](https://hiredale.github.io) –The main hub for my portfolio, technical documentation, and professional resources.
 
 ![Daley Dose banner](/assets/images/daley-dose-main-footer.png)
 
