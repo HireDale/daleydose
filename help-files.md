@@ -4,7 +4,7 @@ title: ""
 description: ""
 ---
 
-# **HELP FILES AND ONLINE SUPPORT**
+# **DALEY DOSE HELP FILES**
 ---
 The **Help files** enable you to learn how to use every part of the Daley Dose application with confidence.
 
