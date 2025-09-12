@@ -3,6 +3,7 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  margin: 0;
 }
 
 .layout-container {
@@ -23,6 +24,12 @@ body {
   background-repeat: no-repeat !important;
   padding: 4rem 2rem;
   margin-bottom: 2rem;
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
 }
 
 /* Make banner text readable */
@@ -32,7 +39,7 @@ body {
   text-shadow: 1px 1px 3px rgba(0,0,0,0.6);
 }
 
-/* === Footer Overrides === */
+/* === Footer Overrides — full width like banner === */
 .site-footer {
   background-image: url('{{ "/assets/images/daley-dose-main-footer.png" | relative_url }}') !important;
   background-repeat: no-repeat !important;
@@ -47,6 +54,12 @@ body {
   display: block;
   clear: both;
   z-index: 1;
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
 }
 
 .site-footer a {
