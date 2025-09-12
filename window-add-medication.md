@@ -1,7 +1,7 @@
 ---
-layout: default
-title: ""
+title: "Daley Dose - Add Medication"
 description: ""
+layout: default
 ---
 
 # **ADD MEDICATION WINDOW**
