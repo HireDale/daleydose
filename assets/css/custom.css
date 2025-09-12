@@ -64,29 +64,29 @@
   line-height: 1.5;
 }
 
-/* Main Content — Expanded for laptop screens */
+/* Main Content — Expanded for laptop screens with smaller scaling */
 .main-content {
   flex: 1 1 auto;
   max-width: 100%;
   padding: 0 40px;
   margin: 0 auto;
   box-sizing: border-box;
-  font-size: clamp(1rem, 1.5vw, 1.2rem);
+  font-size: clamp(0.9rem, 1.2vw, 1.05rem); /* reduced range */
   line-height: 1.6;
 }
 
 /* Optional: Add spacing above main heading */
 .main-content h1 {
   margin-top: 2rem;
-  font-size: clamp(2rem, 4vw, 3rem);
+  font-size: clamp(1.6rem, 3vw, 2.4rem); /* reduced */
 }
 
 .main-content h2 {
-  font-size: clamp(1.5rem, 3vw, 2.5rem);
+  font-size: clamp(1.3rem, 2.5vw, 2rem); /* reduced */
 }
 
 .main-content h3 {
-  font-size: clamp(1.25rem, 2.5vw, 2rem);
+  font-size: clamp(1.1rem, 2vw, 1.6rem); /* reduced */
 }
 
 /* Right Sidebar */
