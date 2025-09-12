@@ -36,9 +36,10 @@ With the various Daley Dose features at your disposal, you can assign alternativ
 
 ### **AI Integration**
 Soon to come included with every Daley Dose application – introducing Dale Bot! The AI-integrated chatbot for Daley Dose enables you to be hands-off with prescribing for patients. Let Dale Bot do the prescribing for you! All you need to do is sign and send the prescription afterward.  
-Gone are the days of tedious manual entries and second-guessing drug interactions. Imagine the thrill of watching an AI decide whether Mr. Smith gets 250mg of mefenamic acid or a whopping 100mg of morphine—because why not really test your AI assistant? Pure adrenaline for the conscientious clinician. And don’t worry, Dale Bot’s bedside manner is impeccable: it never complains, never forgets, and never takes a coffee break. Soon, your only worry will be figuring out how to politely thank your new robotic prescribing assistant.
+
+Gone are the days of tedious manual entries and second-guessing drug interactions. Imagine the thrill of watching an AI decide whether Mr. Smith gets 250mg of mefenamic acid or a whopping 100mg of morphine - because why not really test your AI assistant? Pure adrenaline for the conscientious clinician. And don’t worry, Dale Bot’s bedside manner is impeccable: it never complains, never forgets, and never takes a coffee break. Soon, your only worry will be figuring out how to politely thank your new robotic prescribing assistant.
 
 ### **Application Themes**
-Who says medical software has to be boring? Soon you’ll be able to pick your favorite Daley Dose theme or wallpaper—whether it’s soothing teal for calm consultations or neon pink for that extra “vital sign alert” flair. Finally, your desktop can look as healthy as your patients… or at least as lively as your coffee-fueled late-night charting sessions.
+Who says medical software has to be boring? Soon you’ll be able to pick your favorite Daley Dose theme or wallpaper - whether it’s soothing teal for calm consultations or neon pink for that extra “vital sign alert” flair. Finally, your desktop can look as healthy as your patients… or at least as lively as your coffee-fueled late-night charting sessions.
 
 Featured themes include **Darker than Black**, **Dr. Mario**, and **Resident Evil**—complete with health bars and an animated representation of each patient that dynamically shows expressions ranging from perfectly healthy to critically in danger.
