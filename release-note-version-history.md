@@ -1,7 +1,7 @@
 ---
-layout: default
-title: ""
+title: "Daley Dose - Version History"
 description: ""
+layout: default
 ---
 
 # **DALEY DOSE VERSION HISTORY**
