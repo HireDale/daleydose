@@ -64,31 +64,6 @@
   line-height: 1.5;
 }
 
-/* Main Content — Expanded for laptop screens with smaller scaling */
-.main-content {
-  flex: 1 1 auto;
-  max-width: 100%;
-  padding: 0 40px;
-  margin: 0 auto;
-  box-sizing: border-box;
-  font-size: clamp(0.9rem, 1.2vw, 1.05rem); /* reduced range */
-  line-height: 1.6;
-}
-
-/* Optional: Add spacing above main heading */
-.main-content h1 {
-  margin-top: 2rem;
-  font-size: clamp(1.6rem, 3vw, 2.4rem); /* reduced */
-}
-
-.main-content h2 {
-  font-size: clamp(1.3rem, 2.5vw, 2rem); /* reduced */
-}
-
-.main-content h3 {
-  font-size: clamp(1.1rem, 2vw, 1.6rem); /* reduced */
-}
-
 /* Right Sidebar */
 .right-sidebar {
   width: 250px;
@@ -99,6 +74,41 @@
   flex-shrink: 0;
   font-size: 0.95rem;
   line-height: 1.5;
+}
+
+/* Sidebar Heading Size Overrides */
+.left-sidebar h2,
+.right-sidebar h2,
+.left-sidebar h3,
+.right-sidebar h3 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+/* === Main Content === */
+.main-content {
+  flex: 1 1 auto;
+  max-width: 100%;
+  padding: 0 40px;
+  margin: 0 auto;
+  box-sizing: border-box;
+  font-size: clamp(0.9rem, 1.2vw, 1.05rem);
+  line-height: 1.6;
+}
+
+/* Main Content Headings — fixed sizes for scaling stability */
+.main-content h1 {
+  margin-top: 2rem;
+  font-size: 1.8rem;
+}
+
+.main-content h2 {
+  font-size: 1.4rem;
+}
+
+.main-content h3 {
+  font-size: 1.2rem;
 }
 
 /* === Bullet Style Overrides === */
