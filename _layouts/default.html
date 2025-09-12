@@ -36,18 +36,25 @@
       <h2 class="project-tagline">
         {{ page.description | default: site.description | default: site.github.project_tagline }}
       </h2>
-    </header>
+</header>
 
-    <!-- Left Sidebar: Site Navigation -->
-    {% include left-sidebar.html %}
+<div class="layout-container">
+  <!-- Left Sidebar: Site Navigation -->
+  {% include left-sidebar.html %}
 
-    <!-- Right Sidebar: On This Page -->
-    {% include right-sidebar.html %}
+  <!-- Right Sidebar: On This Page -->
+  {% include right-sidebar.html %}
 
-    <main id="content" class="main-content" role="main">
-      <div>
-        {{ content }}
-      </div>
+  <main id="content" class="main-content" role="main">
+    <div>
+      {{ content }}
+    </div>
+    <footer class="site-footer">
+      <!-- No text here — purely visual footer -->
+    </footer>
+  </main>
+</div>
+
       <footer class="site-footer">
         <!-- No text here — purely visual footer -->
       </footer>
