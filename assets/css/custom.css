@@ -6,7 +6,7 @@
   background-position: center !important;
   background-repeat: no-repeat !important;
   padding: 4rem 2rem;
-  margin-bottom: 2rem; /* 👈 Adds spacing below banner */
+  margin-bottom: 2rem;
 }
 
 /* Make banner text readable */
@@ -88,8 +88,26 @@
 
 /* === Bullet Style Overrides === */
 ul ul {
-  list-style-type: square; /* 👈 Sub-bullets now use solid squares */
-  margin-left: 1.5rem;      /* Optional: indent for clarity */
+  list-style-type: square;
+  margin-left: 1.5rem;
+}
+
+/* === Responsive Font Sizing === */
+body {
+  font-size: clamp(1rem, 1.5vw, 1.2rem);
+  line-height: 1.6;
+}
+
+h1 {
+  font-size: clamp(2rem, 4vw, 3rem);
+}
+
+h2 {
+  font-size: clamp(1.5rem, 3vw, 2.5rem);
+}
+
+h3 {
+  font-size: clamp(1.25rem, 2.5vw, 2rem);
 }
 
 /* === Responsive Adjustments === */
