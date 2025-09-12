@@ -85,7 +85,7 @@
 
 /* Responsive Adjustments */
 @media (max-width: 1200px) {
-  body {
+  .layout-container {
     flex-wrap: wrap;
   }
   .left-sidebar,
@@ -98,4 +98,12 @@
     max-width: 100%;
     margin: 0;
   }
+}
+
+/* === Footer Image Always Fully Visible === */
+.site-footer {
+  background-size: contain !important;  /* Scale so the whole image is visible */
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  background-color: #000; /* Optional: match image background to avoid gaps */
 }
