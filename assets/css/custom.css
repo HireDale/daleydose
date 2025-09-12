@@ -1,4 +1,4 @@
-/* Force banner image and remove Cayman background/gradient */
+/* === Banner Overrides === */
 .page-header {
   background: none !important;
   background-image: url('{{ "/assets/images/daley-dose-banner-title.png" | relative_url }}') !important;
@@ -6,16 +6,17 @@
   background-position: center !important;
   background-repeat: no-repeat !important;
   padding: 4rem 2rem;
+  margin-bottom: 2rem; /* 👈 Adds spacing below banner */
 }
 
-/* Make text readable */
+/* Make banner text readable */
 .page-header .project-name a,
 .page-header .project-tagline {
   color: #ffffff !important;
   text-shadow: 1px 1px 3px rgba(0,0,0,0.6);
 }
 
-/* Footer overrides */
+/* === Footer Overrides === */
 .site-footer {
   background-image: url('{{ "/assets/images/daley-dose-main-footer.png" | relative_url }}') !important;
   background-repeat: no-repeat !important;
@@ -43,9 +44,7 @@
   border-top: none !important;
 }
 
-/* === Responsive Layout for Sidebars + Main Content === */
-
-/* Flex container for layout (sidebars + main only) */
+/* === Layout: Sidebars + Main Content === */
 .layout-container {
   display: flex;
   flex-direction: row;
@@ -63,13 +62,18 @@
   flex-shrink: 0;
 }
 
-/* Main Content — Expanded for better desktop width */
+/* Main Content — Expanded for laptop screens */
 .main-content {
   flex: 1 1 auto;
   max-width: 100%;
   padding: 0 40px;
   margin: 0 auto;
   box-sizing: border-box;
+}
+
+/* Optional: Add spacing above main heading */
+.main-content h1 {
+  margin-top: 2rem;
 }
 
 /* Right Sidebar */
@@ -82,17 +86,19 @@
   flex-shrink: 0;
 }
 
-/* Responsive Adjustments */
+/* === Responsive Adjustments === */
 @media (max-width: 1200px) {
   .layout-container {
     flex-wrap: wrap;
   }
+
   .left-sidebar,
   .right-sidebar {
     width: 100%;
     margin: 20px 0;
     position: static;
   }
+
   .main-content {
     max-width: 100%;
     margin: 0;
