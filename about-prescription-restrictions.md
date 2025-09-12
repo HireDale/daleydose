@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ""Daley Dose - Prescription Restrictions"
+title: "Daley Dose - Prescription Restrictions"
 description: ""
 ---
 
