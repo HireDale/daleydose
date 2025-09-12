@@ -18,7 +18,7 @@ body {
 /* === Banner Overrides === */
 .page-header {
   background: none !important;
-  background-image: url("./assets/images/daley-dose-banner-title.png") !important;
+  background-image: url("{{ '/assets/images/daley-dose-banner-title.png?v=5' | relative_url }}") !important;
   background-size: cover !important;
   background-position: center !important;
   background-repeat: no-repeat !important;
@@ -39,23 +39,21 @@ body {
   text-shadow: 1px 1px 3px rgba(0,0,0,0.6);
 }
 
-/* === Footer Overrides — forced image visibility === */
+/* === Footer Overrides — full width, visible banner === */
 .site-footer {
-  background: #222 url("./assets/images/daley-dose-banner-footer.png") no-repeat center top / cover !important;
-
+  background-color: #222 !important;
+  background-image: url("{{ '/assets/images/daley-dose-banner-footer.png?v=5' | relative_url }}") !important;
+  background-repeat: no-repeat !important;
+  background-position: center center !important;
+  background-size: cover !important;
   padding: 2rem 1rem;
   text-align: center;
   color: #fff !important;
   font-size: 0.9rem;
   border-top: 4px solid #ffcc00;
-
-  /* force image area to be visible */
-  height: 200px !important;
-
+  min-height: 160px;
   display: block;
   clear: both;
-  z-index: 1;
-
   width: 100vw;
   position: relative;
   left: 50%;
