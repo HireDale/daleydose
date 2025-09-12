@@ -1,56 +1,9 @@
-/* === Global Layout Flow Fix === */
-body {
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  margin: 0;
-}
-
-.layout-container {
-  flex: 1;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: flex-start;
-  flex-wrap: nowrap;
-}
-
-/* === Banner Overrides === */
-.page-header {
-  background: none !important;
-  background-image: url("{{ '/assets/images/daley-dose-banner-title.png?v=5' | relative_url }}") !important;
-  background-size: cover !important;
-  background-position: center !important;
-  background-repeat: no-repeat !important;
-  padding: 4rem 2rem;
-  margin-bottom: 2rem;
-  width: 100vw;
-  position: relative;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-}
-
-/* Make banner text readable */
-.page-header .project-name a,
-.page-header .project-tagline {
-  color: #ffffff !important;
-  text-shadow: 1px 1px 3px rgba(0,0,0,0.6);
-}
-
-/* === Footer Overrides — full width, visible banner === */
+/* === Footer Overrides — structural only, no background image here === */
 .site-footer {
-  background-color: #222 !important;
-  background-image: url("{{ '/assets/images/daley-dose-banner-footer.png?v=6' | relative_url }}") !important;
-  background-repeat: no-repeat !important;
-  background-position: center center !important;
-  background-size: cover !important;
   padding: 2rem 1rem;
   text-align: center;
   color: #fff !important;
   font-size: 0.9rem;
-  border-top: 4px solid #ffcc00;
   min-height: 200px;
   display: block;
   clear: both;
@@ -71,88 +24,4 @@ body {
 
 .site-footer a:hover {
   text-decoration: underline;
-}
-
-/* === Left Sidebar — static === */
-.left-sidebar {
-  width: 250px;
-  margin-left: 115px;
-  padding-left: 20px;
-  flex-shrink: 0;
-  font-size: 0.95rem;
-  line-height: 1.5;
-  position: static;
-}
-
-/* === Right Sidebar — sticky === */
-.right-sidebar {
-  width: 250px;
-  padding-left: 20px;
-  position: sticky;
-  top: 100px;
-  margin-right: 115px;
-  flex-shrink: 0;
-  font-size: 0.95rem;
-  line-height: 1.5;
-}
-
-/* === Sidebar Heading Size Overrides === */
-.left-sidebar h2,
-.right-sidebar h2,
-.left-sidebar h3,
-.right-sidebar h3 {
-  font-size: 1.1rem;
-  font-weight: 600;
-  margin-bottom: 0.5rem;
-}
-
-/* === Main Content === */
-.main-content {
-  flex: 1 1 auto;
-  max-width: 100%;
-  padding: 0 40px;
-  margin: 0 auto;
-  box-sizing: border-box;
-  font-size: clamp(0.9rem, 1.2vw, 1.05rem);
-  line-height: 1.6;
-}
-
-/* Main Content Headings — fixed sizes for scaling stability */
-.main-content h1 {
-  margin-top: 2rem;
-  font-size: 1.8rem;
-}
-
-.main-content h2 {
-  font-size: 1.4rem;
-}
-
-.main-content h3 {
-  font-size: 1.2rem;
-}
-
-/* === Bullet Style Overrides === */
-ul ul {
-  list-style-type: square;
-  margin-left: 1.5rem;
-}
-
-/* === Responsive Adjustments === */
-@media (max-width: 1200px) {
-  .layout-container {
-    flex-wrap: wrap;
-  }
-
-  .left-sidebar,
-  .right-sidebar {
-    width: 100%;
-    margin: 20px 0;
-    position: static;
-  }
-
-  .main-content {
-    max-width: 100%;
-    margin: 0;
-    padding: 0 20px;
-  }
 }
