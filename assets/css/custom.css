@@ -41,6 +41,61 @@
 .site-footer a:hover {
   text-decoration: underline;
 }
+
 .site-footer {
   border-top: none !important;
+}
+
+/* === Responsive Layout for Sidebars + Main Content === */
+
+/* Flex container for layout */
+body {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+}
+
+/* Left Sidebar */
+.left-sidebar {
+  width: 250px;
+  margin-left: 115px;
+  padding-left: 20px;
+  margin-top: 100px;
+  flex-shrink: 0;
+}
+
+/* Main Content */
+.main-content {
+  max-width: 800px;
+  margin: 0 20px;
+  flex: 1 1 auto;
+}
+
+/* Right Sidebar */
+.right-sidebar {
+  width: 250px;
+  padding-left: 20px;
+  position: sticky;
+  top: 100px;
+  margin-right: 115px;
+  flex-shrink: 0;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 1200px) {
+  body {
+    flex-wrap: wrap;
+  }
+  .left-sidebar,
+  .right-sidebar {
+    width: 100%;
+    margin: 20px 0;
+    position: static;
+  }
+  .main-content {
+    max-width: 100%;
+    margin: 0;
+  }
 }
