@@ -39,12 +39,12 @@ body {
   text-shadow: 1px 1px 3px rgba(0,0,0,0.6);
 }
 
-/* === Footer Overrides — simplified for visibility === */
+/* === Footer Overrides — mirror header full-bleed === */
 .site-footer {
   background-color: #222 !important;
   background-image: url("./assets/images/daley-dose-banner-footer.png") !important;
   background-repeat: no-repeat !important;
-  background-position: top center !important;
+  background-position: center top !important;
   background-size: cover !important;
 
   padding: 2rem 1rem;
@@ -57,8 +57,13 @@ body {
   display: block;
   clear: both;
   z-index: 1;
-  width: 100%;
+
+  width: 100vw;
   position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
   overflow: hidden;
 }
 
