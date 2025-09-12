@@ -48,6 +48,7 @@ body {
   font-size: 0.95rem;
   line-height: 1.5;
   position: static;
+  border-right: 1px solid rgba(0, 0, 0, 0.1); /* subtle border */
 }
 
 /* === Right Sidebar — sticky === */
@@ -60,16 +61,7 @@ body {
   flex-shrink: 0;
   font-size: 0.95rem;
   line-height: 1.5;
-}
-
-/* === Sidebar Heading Size Overrides === */
-.left-sidebar h2,
-.right-sidebar h2,
-.left-sidebar h3,
-.right-sidebar h3 {
-  font-size: 1.1rem;
-  font-weight: 600;
-  margin-bottom: 0.5rem;
+  border-left: 1px solid rgba(0, 0, 0, 0.1); /* subtle border */
 }
 
 /* === Main Content === */
@@ -81,6 +73,8 @@ body {
   box-sizing: border-box;
   font-size: clamp(0.9rem, 1.2vw, 1.05rem);
   line-height: 1.6;
+  border-left: 1px solid rgba(0, 0, 0, 0.05);  /* subtle separation from left */
+  border-right: 1px solid rgba(0, 0, 0, 0.05); /* subtle separation from right */
 }
 
 /* Main Content Headings — fixed sizes for scaling stability */
@@ -114,11 +108,13 @@ ul ul {
     width: 100%;
     margin: 20px 0;
     position: static;
+    border: none; /* remove borders on mobile wrap */
   }
 
   .main-content {
     max-width: 100%;
     margin: 0;
     padding: 0 20px;
+    border: none; /* remove borders on mobile wrap */
   }
 }
