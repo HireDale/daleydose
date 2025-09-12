@@ -39,20 +39,18 @@ body {
   text-shadow: 1px 1px 3px rgba(0,0,0,0.6);
 }
 
-/* === Footer Overrides — mirror header full-bleed === */
+/* === Footer Overrides — forced image visibility === */
 .site-footer {
-  background-color: #222 !important;
-  background-image: url("./assets/images/daley-dose-banner-footer.png") !important;
-  background-repeat: no-repeat !important;
-  background-position: center top !important;
-  background-size: cover !important;
+  background: #222 url("./assets/images/daley-dose-banner-footer.png") no-repeat center top / cover !important;
 
   padding: 2rem 1rem;
   text-align: center;
   color: #fff !important;
   font-size: 0.9rem;
   border-top: 4px solid #ffcc00;
-  min-height: 160px;
+
+  /* force image area to be visible */
+  height: 200px !important;
 
   display: block;
   clear: both;
