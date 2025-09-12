@@ -44,7 +44,7 @@ With the various Daley Dose features at your disposal, you can assign alternativ
 
 ### **Digital Assistant Support**
 
-Coming soon to every Daley Dose application — meet **Dale Bot**, your always‑on, AI‑powered prescribing assistant. Dale Bot drafts prescriptions for you, leaving only the final review and signature in your hands.  
+Coming soon to every Daley Dose application — meet **Dale Bot**, your always‑on, AI‑powered prescribing assistant. Dale Bot drafts prescriptions for you, leaving only the final review and signature in your hands. Review optional.
 
 Say goodbye to tedious manual entries and the mental gymnastics of checking drug interactions. Now you can let automation handle the heavy lifting while you focus on… well, anything else.  
 
@@ -58,4 +58,6 @@ With Dale Bot, the only thing left on your to‑do list might be figuring out 
 ### **Application Themes**
 Who says medical software has to be boring? Soon you’ll be able to pick your favorite Daley Dose theme or wallpaper — whether it’s soothing teal for calm consultations or neon pink for that extra “vital sign alert” flair. Finally, your desktop can look as healthy as your patients… or at least as lively as your coffee‑fueled late‑night charting sessions.
 
-Featured themes include **Darker than Black**, **Dr. Mario**, and **Resident Evil** — complete with health bars and an animated patient avatar whose movement changes with “health” status. At full green, they walk normally. Drop to yellow and they clutch their sides. Hit red and they stagger like they’re one step from the grave. It’s the perfect nod to classic survival horror — now in your prescribing software.
+Featured themes include **Darker than Black**, **Dr. Mario**, and **Resident Evil**. We’re especially proud of the Resident Evil theme — complete with health bars and an animated patient avatar that changes with their current health status. At full green, the avatar stands tall. Drop to yellow, and they clutch their side in pain. Hit red, and they stagger as if one step from the grave. It’s a perfect nod to classic survival horror — now embedded in your prescribing software.
+
+This genuinely puts the FUN in functionality — finally!
