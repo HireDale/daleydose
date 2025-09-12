@@ -1,7 +1,7 @@
 ---
-layout: default
-title: ""
+title: "Daley Dose - Version 1.4"
 description: ""
+layout: default
 ---
 
 # **DALEY DOSE VERSION 1.4 RELEASE NOTES**
