@@ -23,7 +23,7 @@
   background-image: url('{{ "/assets/images/daley-dose-main-footer.png" | relative_url }}') !important;
   background-repeat: no-repeat !important;
   background-position: center !important;
-  background-size: cover !important;
+  background-size: cover !important; /* back to cover */
   padding: 2rem 1rem;
   text-align: center;
   color: #fff !important;
@@ -98,12 +98,4 @@
     max-width: 100%;
     margin: 0;
   }
-}
-
-/* === Footer Image Always Fully Visible === */
-.site-footer {
-  background-size: contain !important;  /* Scale so the whole image is visible */
-  background-repeat: no-repeat !important;
-  background-position: center !important;
-  background-color: #000; /* Optional: match image background to avoid gaps */
 }
