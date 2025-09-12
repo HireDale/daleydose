@@ -42,22 +42,22 @@ With the various Daley Dose features at your disposal, you can assign alternativ
 ## **COMING SOON**
 ---
 
-### **Digital Assistant Support**
+- **Digital Assistant Support**  
 
-Coming soon to every Daley Dose application — meet **Dale Bot**, your always‑on, AI‑powered prescribing assistant. Dale Bot drafts prescriptions for you, leaving only the final review and signature in your hands. Review optional.
+  Coming soon to every Daley Dose application — meet **Dale Bot**, your always‑on, AI‑powered prescribing assistant. Dale Bot drafts prescriptions for you, leaving only the final review and signature in your hands. Review optional.  
 
-Say goodbye to tedious manual entries and the mental gymnastics of checking drug interactions. Now you can let automation handle the heavy lifting while you focus on… well, anything else.  
+  Say goodbye to tedious manual entries and the mental gymnastics of checking drug interactions. Now you can let automation handle the heavy lifting while you focus on… well, anything else.  
 
-Picture this: Dale Bot calmly deciding whether Mr. Smith gets 250 mg of mefenamic acid or a confident 100 mg of morphine — all while you’re halfway through your coffee or catching up on last night’s episode. It’s the future of prescribing: consistent, accurate, and blissfully low‑effort.  
+  Picture this: Dale Bot calmly deciding whether Mr. Smith gets 250 mg of mefenamic acid or a confident 100 mg of morphine — all while you’re halfway through your coffee or catching up on last night’s episode. It’s the future of prescribing: consistent, accurate, and blissfully low‑effort.  
 
-With Dale Bot, the only thing left on your to‑do list might be figuring out how to thank a robot for making you look this efficient.
+  With Dale Bot, the only thing left on your to‑do list might be figuring out how to thank a robot for making you look this efficient.  
 
+  ![Dale Bot](/assets/images/daley-dose-dale-bot.png)  
 
-![Dale Bot](/assets/images/daley-dose-dale-bot.png)
+- **Application Themes**  
 
-### **Application Themes**
-Who says medical software has to be boring? Soon you’ll be able to pick your favorite Daley Dose theme or wallpaper — whether it’s soothing teal for calm consultations or neon pink for that extra “vital sign alert” flair. Finally, your desktop can look as healthy as your patients… or at least as lively as your coffee‑fueled late‑night charting sessions.
+  Who says medical software has to be boring? Soon you’ll be able to pick your favorite Daley Dose theme or wallpaper — whether it’s soothing teal for calm consultations or neon pink for that extra “vital sign alert” flair. Finally, your desktop can look as healthy as your patients… or at least as lively as your coffee‑fueled late‑night charting sessions.  
 
-Featured themes include **Darker than Black**, **Dr. Mario**, and **Resident Evil**. We’re especially proud of the Resident Evil theme — complete with health bars and an animated patient avatar that changes with their current health status. At full green, the avatar stands tall. Drop to yellow, and they clutch their side in pain. Hit red, and they stagger as if one step from the grave. It’s a perfect nod to classic survival horror — now embedded in your prescribing software.
+  Featured themes include **Darker than Black**, **Dr. Mario**, and **Resident Evil**. We’re especially proud of the Resident Evil theme — complete with health bars and an animated patient avatar that changes with their current health status. At full green, the avatar stands tall. Drop to yellow, and they clutch their side in pain. Hit red, and they stagger as if one step from the grave. It’s a perfect nod to classic survival horror — now embedded in your prescribing software.  
 
-This genuinely puts the FUN in functionality — finally!
+  This genuinely puts the FUN in functionality — finally!
