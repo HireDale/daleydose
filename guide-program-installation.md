@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Daley Dose - Installer Help"
 description: ""
 layout: default
 ---
