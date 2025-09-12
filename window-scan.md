@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Daley Dose - Scan"
 description: ""
 layout: default
 ---
