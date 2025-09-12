@@ -1,6 +1,3 @@
----
----
-
 /* Force banner image and remove Cayman background/gradient */
 .page-header {
   background: none !important;
@@ -23,13 +20,13 @@
   background-image: url('{{ "/assets/images/daley-dose-main-footer.png" | relative_url }}') !important;
   background-repeat: no-repeat !important;
   background-position: center !important;
-  background-size: cover !important; /* back to cover */
+  background-size: cover !important;
   padding: 2rem 1rem;
   text-align: center;
   color: #fff !important;
   font-size: 0.9rem;
   border-top: 4px solid #ffcc00;
-  min-height: 140px; /* ensures the background is visible */
+  min-height: 140px;
 }
 
 .site-footer a {
@@ -66,11 +63,13 @@
   flex-shrink: 0;
 }
 
-/* Main Content */
+/* Main Content — Expanded for better desktop width */
 .main-content {
-  max-width: 800px;
-  margin: 0 20px;
   flex: 1 1 auto;
+  max-width: 100%;
+  padding: 0 40px;
+  margin: 0 auto;
+  box-sizing: border-box;
 }
 
 /* Right Sidebar */
@@ -97,5 +96,6 @@
   .main-content {
     max-width: 100%;
     margin: 0;
+    padding: 0 20px;
   }
 }
