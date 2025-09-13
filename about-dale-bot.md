@@ -12,7 +12,9 @@ Coming soon to every Daley Dose application — meet **Dale Bot**, your always
 
 Say goodbye to tedious manual entries and the mental gymnastics of checking drug interactions. You have better things to do! Now, you can let AI handle the heavy lifting while you focus on… well, anything else.  
 
-Picture this: Dale Bot will decide for you whether Mr. Smith gets 250 mg of mefenamic acid or a 100 mg of morphine — all while you’re halfway through your coffee or catching up on last night’s episode. It’s the future of prescribing: consistent, accurate, and blissfully _low‑effort_.  
+Picture this: Dale Bot will decide for you whether Mr. Smith gets 250 mg of mefenamic acid or a 100 mg of morphine — all while you’re halfway through your coffee or catching up on last night’s episode. 
+
+It’s the future of prescribing: consistent, accurate, and blissfully _low‑effort_.  
 
 With Dale Bot, the only thing left on your to‑do list might be figuring out how to thank a robot for making you look this efficient.
 
