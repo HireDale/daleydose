@@ -40,7 +40,11 @@ With the various Daley Dose features at your disposal, you can assign alternativ
 ![Daley Dose banner](/assets/images/daley-dose-main-footer.png)
 
 ## **COMING SOON**
+
+Daley Dose is always evolving. Explore a glimpse of the upcoming features and enhancements we’re preparing to deliver in the near future.
+
 ---
+![Dale Bot](/assets/images/daley-dose-dale-bot.png)  
 
 - **Digital Assistant Support**  
 
@@ -51,8 +55,6 @@ With the various Daley Dose features at your disposal, you can assign alternativ
   Picture this: Dale Bot will decide for you whether Mr. Smith gets 250 mg of mefenamic acid or a 100 mg of morphine — all while you’re halfway through your coffee or catching up on last night’s episode. It’s the future of prescribing: consistent, accurate, and blissfully low‑effort.  
 
   With Dale Bot, the only thing left on your to‑do list might be figuring out how to thank a robot for making you look this efficient.  
-
-![Dale Bot](/assets/images/daley-dose-dale-bot.png)  
 
 - **Application Themes**  
 
