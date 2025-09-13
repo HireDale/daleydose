@@ -39,8 +39,6 @@ With the various Daley Dose features at your disposal, you can assign alternativ
 - [**Version History**](/daleydose/release-note-version-history) – A complete record of past releases.
 - [**HireDale.com**](https://hiredale.github.io) –The main hub for my portfolio, technical documentation, and professional resources.
 
-![Daley Dose banner](/assets/images/daley-dose-main-footer.png)
-
 ## **COMING SOON**
 ---
 - [**Digital Assistant Support**](/about-dale-bot)  
