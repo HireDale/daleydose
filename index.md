@@ -52,7 +52,7 @@ With the various Daley Dose features at your disposal, you can assign alternativ
 
   With Dale Bot, the only thing left on your to‑do list might be figuring out how to thank a robot for making you look this efficient.  
 
-  ![Dale Bot](/assets/images/daley-dose-dale-bot.png)  
+![Dale Bot](/assets/images/daley-dose-dale-bot.png)  
 
 - **Application Themes**  
 
