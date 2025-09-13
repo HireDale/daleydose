@@ -41,7 +41,7 @@ With the various Daley Dose features at your disposal, you can assign alternativ
 
 ## **COMING SOON**
 ---
-- [**Digital Assistant Support**](/about-dale-bot)  
+- [**Digital Assistant Support**](/daleydose/about-dale-bot)  
 
   Coming soon to every Daley Dose application — meet **Dale Bot**, your always‑on, AI‑powered prescribing assistant. Dale Bot drafts prescriptions for you, leaving only the final review and signature in your hands. _Review optional._
 
