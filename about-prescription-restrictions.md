@@ -33,4 +33,3 @@ The following table describes the prescription restriction options available in 
 ---
 - [**Version 1.4 Release Notes**](/daleydose/release-notes-v1.4)  
 - [**Version History**](/daleydose/release-note-version-history)  
-- [**HireDale.com**](https://hiredale.github.io)
