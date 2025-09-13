@@ -67,4 +67,3 @@ Learn how to perform tasks in the application.
 ---
 - [**v1.4 Release Notes**](/daleydose/release-notes-v1.4)
 - [**Version History**](/daleydose/release-note-version-history)
-- [**HireDale.com**](https://hiredale.github.io)
