@@ -48,11 +48,11 @@ With the various Daley Dose features at your disposal, you can assign alternativ
 
 - **Digital Assistant Support**  
 
-  Coming soon to every Daley Dose application — meet **Dale Bot**, your always‑on, AI‑powered prescribing assistant. Dale Bot drafts prescriptions for you, leaving only the final review and signature in your hands. Review optional.
+  Coming soon to every Daley Dose application — meet **Dale Bot**, your always‑on, AI‑powered prescribing assistant. Dale Bot drafts prescriptions for you, leaving only the final review and signature in your hands. _Review optional._
 
   Say goodbye to tedious manual entries and the mental gymnastics of checking drug interactions. You have better things to do! Now, you can let AI handle the heavy lifting while you focus on… well, anything else.  
 
-  Picture this: Dale Bot will decide for you whether Mr. Smith gets 250 mg of mefenamic acid or a 100 mg of morphine — all while you’re halfway through your coffee or catching up on last night’s episode. It’s the future of prescribing: consistent, accurate, and blissfully low‑effort.  
+  Picture this: Dale Bot will decide for you whether Mr. Smith gets 250 mg of mefenamic acid or a 100 mg of morphine — all while you’re halfway through your coffee or catching up on last night’s episode. It’s the future of prescribing: consistent, accurate, and blissfully _low‑effort_.  
 
   With Dale Bot, the only thing left on your to‑do list might be figuring out how to thank a robot for making you look this efficient.
 
@@ -65,6 +65,6 @@ With the various Daley Dose features at your disposal, you can assign alternativ
 
   Who says medical software has to be boring? Soon you’ll be able to pick your favorite Daley Dose theme or wallpaper — whether it’s soothing teal for calm consultations or neon pink for that extra “vital sign alert” flair. Finally, your desktop can look as healthy as your patients… or at least as lively as your coffee‑fueled late‑night charting sessions.  
 
-  Featured themes include **Fallout Wasteland**, **Dr. Mario**, and **Pharmacy Simulator**. We’re especially proud of the **Resident Evil** theme — complete with health status indicator and an animated 2D patient avatar (AI-generated and tastefully done to preserve anonymity while maintaining a professional, immersive, yet fun aesthetic). The health indicator dynamically shifts to reflect the patient’s current condition, giving you a clear, at‑a‑glance view of their status as recorded within the past hour.
+  Featured themes include **Fallout Wasteland**, **Dr. Mario**, and **Pharmacy Simulator**. We’re especially proud of the **Resident Evil** theme — complete with health status indicator and an animated 2D patient avatar (AI-generated and _tastefully_ done to preserve anonymity while maintaining a professional, immersive, yet fun aesthetic). The health indicator dynamically shifts to reflect the patient’s current condition, giving you a clear, at‑a‑glance view of their status as recorded within the past hour.
 
-  This genuinely puts the FUN in functionality — finally!
+  This genuinely puts the FUN in _functionality_ — finally!
