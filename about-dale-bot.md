@@ -3,6 +3,7 @@ title: Daley Dose - About Dale Bot
 description: ""
 layout: default
 ---
+
 # **MEET DALE BOT**  
 
 Coming soon to every Daley Dose application — meet **Dale Bot**, your always‑on, AI‑powered prescribing assistant. Dale Bot drafts prescriptions for you, leaving only the final review and signature in your hands. _Review optional._
