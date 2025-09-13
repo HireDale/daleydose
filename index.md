@@ -14,7 +14,8 @@ Its intuitive interface and powerful features enable accurate, efficient, and se
 With the various Daley Dose features at your disposal, you can assign alternatives to medications when the pharmacy or store has no current stock. This gives the dispensing side of the prescription process more flexibility in managing supplies and ensures that patients receive their prescriptions without leaving empty‑handed.
 
 <p align="center">
-  <img src="/daleydose/assets/images/daley-dose-home-window-clean.png" alt="Daley Dose user interface screenshot"><br>
+  ![Daley Dose user interface screenshot](/assets/images/daley-dose-home-window-clean.png)
+  <br>
   <em>The Daley Dose user interface for version 1.4</em>
 </p>
 
