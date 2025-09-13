@@ -16,6 +16,9 @@ With the various Daley Dose features at your disposal, you can assign alternativ
 ![Daley Dose user interface screenshot](/assets/images/daley-dose-home-window-clean.png)
 
 ## **FEATURED**
+
+Explore key resources that showcase the depth and versatility of Daley Dose. From comprehensive help guides to in‑depth overviews of features, roles, and prescription controls, these highlights give you the knowledge to navigate the application with confidence and precision.
+
 ---
 
 - [**View the Help Files**](/daleydose/help-files)  
@@ -31,6 +34,9 @@ With the various Daley Dose features at your disposal, you can assign alternativ
   Understand how prescription restrictions manage what medications a Prescriber can order in Daley Dose. Learn how Administrators apply limits, view current restrictions, and ensure prescriptions comply with hospital guidelines.
 
 ## **ADDITIONAL LINKS**
+
+Discover more about Daley Dose and its evolution. These resources connect you to detailed release information, historical insights, and the broader HireDale.com ecosystem.
+
 ---
 
 - [**v1.4 Release Notes**](/daleydose/release-notes-v1.4) – Details of the latest Daley Dose updates.
@@ -44,11 +50,12 @@ With the various Daley Dose features at your disposal, you can assign alternativ
 Daley Dose is always evolving. Explore a glimpse of the upcoming features and enhancements we’re preparing to deliver in the near future.
 
 ---
-![Dale Bot](/assets/images/daley-dose-dale-bot.png)  
 
 - **Digital Assistant Support**  
 
-  Coming soon to every Daley Dose application — meet **Dale Bot**, your always‑on, AI‑powered prescribing assistant. Dale Bot drafts prescriptions for you, leaving only the final review and signature in your hands. Review optional.  
+  Coming soon to every Daley Dose application — meet **Dale Bot**, your always‑on, AI‑powered prescribing assistant. Dale Bot drafts prescriptions for you, leaving only the final review and signature in your hands. Review optional.
+
+![Dale Bot](/assets/images/daley-dose-dale-bot.png)  
 
   Say goodbye to tedious manual entries and the mental gymnastics of checking drug interactions. You have better things to do! Now, you can let AI handle the heavy lifting while you focus on… well, anything else.  
 
