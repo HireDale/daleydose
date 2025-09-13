@@ -46,9 +46,9 @@ With the various Daley Dose features at your disposal, you can assign alternativ
 
   Coming soon to every Daley Dose application — meet **Dale Bot**, your always‑on, AI‑powered prescribing assistant. Dale Bot drafts prescriptions for you, leaving only the final review and signature in your hands. Review optional.  
 
-  Say goodbye to tedious manual entries and the mental gymnastics of checking drug interactions. Now you can let automation handle the heavy lifting while you focus on… well, anything else.  
+  Say goodbye to tedious manual entries and the mental gymnastics of checking drug interactions. You have better things to do! Now, you can let AI handle the heavy lifting while you focus on… well, anything else.  
 
-  Picture this: Dale Bot calmly deciding whether Mr. Smith gets 250 mg of mefenamic acid or a confident 100 mg of morphine — all while you’re halfway through your coffee or catching up on last night’s episode. It’s the future of prescribing: consistent, accurate, and blissfully low‑effort.  
+  Picture this: Dale Bot will decide for you whether Mr. Smith gets 250 mg of mefenamic acid or a 100 mg of morphine — all while you’re halfway through your coffee or catching up on last night’s episode. It’s the future of prescribing: consistent, accurate, and blissfully low‑effort.  
 
   With Dale Bot, the only thing left on your to‑do list might be figuring out how to thank a robot for making you look this efficient.  
 
