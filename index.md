@@ -41,9 +41,9 @@ With the various Daley Dose features at your disposal, you can assign alternativ
 
 ## **COMING SOON**
 ---
-- [**Digital Assistant Support**](/daleydose/about-dale-bot)  
+- [**AI Integration**](/daleydose/about-dale-bot)  
 
-  Coming soon to every Daley Dose application — meet **Dale Bot**, your always‑on, AI‑powered prescribing assistant. Dale Bot drafts prescriptions for you, leaving only the final review and signature in your hands. _Review optional._
+  Coming soon to every Daley Dose application — meet Dale Bot, your always‑on, AI‑powered prescribing assistant.
 
 - [**Application Themes**](/daleydose/about-custom-themes)  
-  Another highly anticipated feature for future Daley Dose releases: customizable themes! Now, you can transform your Daley Dose application to express yourself.
+  Another highly anticipated feature for future Daley Dose releases: customizable themes!
