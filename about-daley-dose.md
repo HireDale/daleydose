@@ -53,7 +53,7 @@ The Daley Dose application offers a wide variety of features for doctors and pha
 
 ## **SEE ALSO**
 ---
-- [**Product Overview**](https://hiredale.com/daleydose/)
+- [**Product Overview**](https://hiredale.github.io/daleydose/)  
 - [**About User Roles**](/daleydose/about-user-roles)  
 - [**About Prescription Restrictions**](/daleydose/about-prescription-restrictions)
 - [**Access the Help Files**](/daleydose/help-files)
