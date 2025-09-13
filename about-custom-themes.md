@@ -13,7 +13,7 @@ Featured themes include **Fallout Wasteland**, **Dr. Mario**, and **Pharmacy Sim
 This genuinely puts the FUN in _functionality_ — finally!
 
 ![User Interface with a Resident Evil theme](/assets/images/daley-dose-resident-evil.png)
-<p style="text-align:center;"><em>A prototype of the Resident Evil theme for the Daley Dose application. Remember, this time there are no do-overs!</em></p>
+<p style="text-align:center;"><em>An early look at the Resident Evil theme for the Daley Dose application. Did someone say perma-death run?</em></p>
 
 ## **RELEASE DATE**
 ---
