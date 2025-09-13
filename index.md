@@ -35,9 +35,14 @@ With the various Daley Dose features at your disposal, you can assign alternativ
 ## **ADDITIONAL LINKS**
 ---
 
-- [**v1.4 Release Notes**](/daleydose/release-notes-v1.4) – Details of the latest Daley Dose updates.
-- [**Version History**](/daleydose/release-note-version-history) – A complete record of past releases.
-- [**HireDale.com**](https://hiredale.github.io) –The main hub for my portfolio, technical documentation, and professional resources.
+- [**v1.4 Release Notes**](/daleydose/release-notes-v1.4)
+  Review the latest updates, enhancements, and fixes included in version 1.4 of the Daley Dose application.
+  
+- [**Version History**](/daleydose/release-note-version-history)  
+  View a complete archive of past releases, including feature additions, changes, and resolved issues.
+  
+- [**HireDale.com**](https://hiredale.github.io)  
+  The main hub for my portfolio, technical documentation, and professional resources.
 
 ## **COMING SOON**
 ---
