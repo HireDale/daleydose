@@ -13,11 +13,11 @@ Featured themes include **Fallout Wasteland**, **Dr. Mario**, and **Pharmacy Sim
 This genuinely puts the FUN in _functionality_ — finally!
 
 ![User Interface with a Resident Evil theme](/assets/images/daley-dose-resident-evil.png)
-<p style="text-align:center;"><em>A prototype of the Resident Evil theme for the Daley Dose application</em></p>
+<p style="text-align:center;"><em>A prototype of the Resident Evil theme for the Daley Dose application. Remember, this time there are no do-overs!</em></p>
 
 ## **RELEASE DATE**
 ---
 
-The custom themes feature of the application rolls out early 2027.
+The **Custom Themes** feature of the application rolls out early 2027. This will be included in the standard package of the Daley Dose subscription.
 
 Follow us on our social media channels for sneak peeks, feature spotlights, and behind‑the‑scenes updates as we get closer to launch. We’ll be sharing early demos, integration tips, and ways you can be among the first to test new capabilities.
