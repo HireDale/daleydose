@@ -18,3 +18,6 @@ This genuinely puts the FUN in _functionality_ — finally!
 ## **RELEASE DATE**
 ---
 
+The custom themes feature of the application rolls out early 2027.
+
+Follow us on our social media channels for sneak peeks, feature spotlights, and behind‑the‑scenes updates as we get closer to launch. We’ll be sharing early demos, integration tips, and ways you can be among the first to test new capabilities.
