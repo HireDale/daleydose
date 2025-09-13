@@ -24,13 +24,12 @@ The following table describes the prescription restriction options available in 
 
 ## **SEE ALSO**
 ---
-- [**Product Overview**](https://hiredale.github.io/daleydose/)
-- [**About Daley Dose**](/daleydose/about-daley-dose)  
-- [**About User Roles**](/daleydose/about-user-roles)  
-- [**Access the Help Files**](/daleydose/help-files)
+- [**Product Overview**](https://hiredale.com/DaleyDose/)  
+- [**About Daley Dose**](https://hiredale.com/DaleyDose/about-daley-dose)  
+- [**About User Roles**](https://hiredale.com/DaleyDose/about-user-roles)  
+- [**Access the Help Files**](https://hiredale.com/DaleyDose/help-files)  
 
 ## **ADDITIONAL LINKS**
 ---
-- [**Version 1.4 Release Notes**](/daleydose/release-notes-v1.4)
-- [**Version History**](/daleydose/release-note-version-history)
-- [**HireDale.com**](https://hiredale.github.io)
+- [**Version 1.4 Release Notes**](https://hiredale.com/DaleyDose/release-notes-v1.4)  
+- [**Version History**](https://hiredale.com/DaleyDose/release-note-version-history)
