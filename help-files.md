@@ -6,15 +6,13 @@ description: ""
 
 # **DALEY DOSE HELP FILES**
 ---
-The **Help files** enable you to learn how to use every part of the Daley Dose application with confidence.
-
-From installing and updating the software to navigating windows, managing prescriptions, and troubleshooting issues, each guide walks you step by step through the tasks you need to complete. Use this table of contents to jump directly to the instructions that match your task.
+The **Help files** enable you to learn individual parts of the Daley Dose application.
 
 You can access the Daley Dose help files from within the application by selecting the **Help** button or through the Daley Dose website.
 
 # **TABLE OF CONTENTS**
 ---
-To begin, select a topic. These topics are categorized into sections that group related information together, making them easier to navigate. Each category contains focused guides that move from high‑level overviews to detailed, step‑by‑step instructions, so you can quickly find and follow the information that matches your task.
+To begin, select a topic. These topics group related information together for easy navigation.
 
 ## **APPLICATION FUNDAMENTALS**
 Explore core topics about the Daley Dose application and its features.
