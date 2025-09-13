@@ -14,7 +14,7 @@ Its intuitive interface and powerful features enable accurate, efficient, and se
 With the various Daley Dose features at your disposal, you can assign alternatives to medications when the pharmacy or store has no current stock. This gives the dispensing side of the prescription process more flexibility in managing supplies and ensures that patients receive their prescriptions without leaving empty‑handed.
 
 <p align="center">
-  <img src="/assets/images/daley-dose-home-window-clean.png" alt="Daley Dose user interface screenshot"><br>
+  <img src="/daleydose/assets/images/daley-dose-home-window-clean.png" alt="Daley Dose user interface screenshot"><br>
   <em>The Daley Dose user interface for version 1.4</em>
 </p>
 
@@ -57,7 +57,7 @@ With the various Daley Dose features at your disposal, you can assign alternativ
   With Dale Bot, the only thing left on your to‑do list might be figuring out how to thank a robot for making you look this efficient.
 
 <p align="center">
-  <img src="/assets/images/daley-dose-resident-evil.png" alt="User Interface with a Resident Evil theme"><br>
+  <img src="/daleydose/assets/images/daley-dose-resident-evil.png" alt="User Interface with a Resident Evil theme"><br>
   <em>A prototype of the Resident Evil theme for the Daley Dose application</em>
 </p> 
 
