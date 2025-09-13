@@ -45,13 +45,5 @@ With the various Daley Dose features at your disposal, you can assign alternativ
 
   Coming soon to every Daley Dose application — meet **Dale Bot**, your always‑on, AI‑powered prescribing assistant. Dale Bot drafts prescriptions for you, leaving only the final review and signature in your hands. _Review optional._
 
-- **Application Themes**  
-
-  Who says medical software has to be boring? Soon you’ll be able to pick your favorite Daley Dose theme or wallpaper — whether it’s soothing teal for calm consultations or neon pink for that extra “vital sign alert” flair. Finally, your desktop can look as healthy as your patients… or at least as lively as your coffee‑fueled late‑night charting sessions.  
-
-  Featured themes include **Fallout Wasteland**, **Dr. Mario**, and **Pharmacy Simulator**. We’re especially proud of the **Resident Evil** theme — complete with health status indicator and an animated 2D patient avatar (AI-generated and _tastefully_ done to preserve anonymity while maintaining a professional, immersive, yet fun aesthetic). The health indicator dynamically shifts to reflect the patient’s current condition, giving you a clear, at‑a‑glance view of their status as recorded within the past hour.
-
-  This genuinely puts the FUN in _functionality_ — finally!
-
-![User Interface with a Resident Evil theme](/assets/images/daley-dose-resident-evil.png)
-<p style="text-align:center;"><em>A prototype of the Resident Evil theme for the Daley Dose application</em></p>
+- [**Application Themes**](/daleydose/about-custom-themes)  
+  Another highly anticipated feature for future Daley Dose releases: customizable themes! Now, you can transform your Daley Dose application to express yourself.
