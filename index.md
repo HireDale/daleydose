@@ -16,9 +16,6 @@ With the various Daley Dose features at your disposal, you can assign alternativ
 ![Daley Dose user interface screenshot](/assets/images/daley-dose-home-window-clean.png)
 
 ## **FEATURED**
-
-Explore key resources that showcase the depth and versatility of Daley Dose. From comprehensive help guides to in‑depth overviews of features, roles, and prescription controls, these highlights give you the knowledge to navigate the application with confidence and precision.
-
 ---
 
 - [**View the Help Files**](/daleydose/help-files)  
@@ -34,9 +31,6 @@ Explore key resources that showcase the depth and versatility of Daley Dose. Fro
   Understand how prescription restrictions manage what medications a Prescriber can order in Daley Dose. Learn how Administrators apply limits, view current restrictions, and ensure prescriptions comply with hospital guidelines.
 
 ## **ADDITIONAL LINKS**
-
-Discover more about Daley Dose and its evolution. These resources connect you to detailed release information, historical insights, and the broader HireDale.com ecosystem.
-
 ---
 
 - [**v1.4 Release Notes**](/daleydose/release-notes-v1.4) – Details of the latest Daley Dose updates.
@@ -46,9 +40,6 @@ Discover more about Daley Dose and its evolution. These resources connect you to
 ![Daley Dose banner](/assets/images/daley-dose-main-footer.png)
 
 ## **COMING SOON**
-
-Daley Dose is always evolving. Explore a glimpse of the upcoming features and enhancements we’re preparing to deliver in the near future.
-
 ---
 
 - **Digital Assistant Support**  
