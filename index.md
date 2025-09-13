@@ -47,7 +47,6 @@ With the various Daley Dose features at your disposal, you can assign alternativ
 ## **COMING SOON**
 ---
 - [**AI Integration**](/daleydose/about-dale-bot)  
-
   Coming soon to every Daley Dose application — meet Dale Bot, your always‑on, AI‑powered prescribing assistant.
 
 - [**Application Themes**](/daleydose/about-custom-themes)  
