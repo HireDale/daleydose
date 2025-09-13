@@ -32,8 +32,6 @@ With the various Daley Dose features at your disposal, you can assign alternativ
 - [**About Prescription Restrictions**](/daleydose/about-prescription-restrictions)  
   Understand how prescription restrictions manage what medications a Prescriber can order in Daley Dose. Learn how Administrators apply limits, view current restrictions, and ensure prescriptions comply with hospital guidelines.
 
-![Daley Dose banner](/assets/images/daley-dose-main-footer.png)
-
 ## **ADDITIONAL LINKS**
 ---
 
@@ -41,10 +39,10 @@ With the various Daley Dose features at your disposal, you can assign alternativ
 - [**Version History**](/daleydose/release-note-version-history) – A complete record of past releases.
 - [**HireDale.com**](https://hiredale.github.io) –The main hub for my portfolio, technical documentation, and professional resources.
 
+![Daley Dose banner](/assets/images/daley-dose-main-footer.png)
+
 ## **COMING SOON**
 ---
-![Dale Bot](/assets/images/daley-dose-dale-bot.png)  
-
 - **Digital Assistant Support**  
 
   Coming soon to every Daley Dose application — meet **Dale Bot**, your always‑on, AI‑powered prescribing assistant. Dale Bot drafts prescriptions for you, leaving only the final review and signature in your hands. _Review optional._
@@ -55,9 +53,7 @@ With the various Daley Dose features at your disposal, you can assign alternativ
 
   With Dale Bot, the only thing left on your to‑do list might be figuring out how to thank a robot for making you look this efficient.
 
-
-![User Interface with a Resident Evil theme](/assets/images/daley-dose-resident-evil.png)
-<p style="text-align:center;"><em>A prototype of the Resident Evil theme for the Daley Dose application</em></p>
+![Dale Bot](/assets/images/daley-dose-dale-bot.png)  
 
 - **Application Themes**  
 
@@ -66,3 +62,6 @@ With the various Daley Dose features at your disposal, you can assign alternativ
   Featured themes include **Fallout Wasteland**, **Dr. Mario**, and **Pharmacy Simulator**. We’re especially proud of the **Resident Evil** theme — complete with health status indicator and an animated 2D patient avatar (AI-generated and _tastefully_ done to preserve anonymity while maintaining a professional, immersive, yet fun aesthetic). The health indicator dynamically shifts to reflect the patient’s current condition, giving you a clear, at‑a‑glance view of their status as recorded within the past hour.
 
   This genuinely puts the FUN in _functionality_ — finally!
+
+![User Interface with a Resident Evil theme](/assets/images/daley-dose-resident-evil.png)
+<p style="text-align:center;"><em>A prototype of the Resident Evil theme for the Daley Dose application</em></p>
