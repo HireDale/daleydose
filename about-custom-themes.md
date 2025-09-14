@@ -6,11 +6,9 @@ layout: default
 
 # **CUSTOM APPLICATION THEMES**  
 ---
-Who says medical software has to be boring? Soon you’ll be able to pick your favorite Daley Dose theme or wallpaper — whether it’s soothing teal for calm consultations or neon pink for that extra “vital sign alert” flair. Finally, your desktop can look as healthy as your patients… or at least as lively as your coffee‑fueled late‑night charting sessions.  
+Who says medical software has to be boring? Soon, you will be able to pick a Daley Dose custom theme! Featured themes include Dark Mode, Dr. Mario, and Pharmacy Simulator. 
 
-Featured themes include Fallout Wasteland, Dr. Mario, and Pharmacy Simulator. 
-
-We are especially proud of the **Resident Evil** theme — complete with health status indicator and an animated 2D patient avatar (AI-generated and _tastefully_ done to preserve anonymity while maintaining a professional, immersive, yet fun aesthetic). The health indicator dynamically shifts to reflect the patient’s current condition, giving you a clear, at‑a‑glance view of their status as recorded within the past hour.
+We are especially proud of the **Resident Evil** theme — complete with health status indicator and an accurate animated 2D avatar of the patient (AI-generated and _tastefully_ done, mind you). The health indicator dynamically shifts to reflect the patient’s current condition based on their existing digital hospital records within the past hour.
 
 This genuinely puts the FUN in functionality — finally!
 
