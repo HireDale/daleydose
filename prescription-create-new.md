@@ -50,7 +50,6 @@ To create a new prescription, follow these steps:
 - [**Add Notes Window**](/daleydose/window-add-notes)  
 - [**Add Alternative Window**](/daleydose/window-add-alternative)  
 - [**Scan Window**](/daleydose/window-scan)  
-- [**How to create a new prescription**](/daleydose/prescription-create-new)  
 - [**How to add medications to a prescription**](/daleydose/prescription-add-meds)  
 - [**How to delete medications from a prescription**](/daleydose/prescription-delete-meds) 
 - [**How to add, edit, and delete medication notes**](/daleydose/prescription-manage)  
