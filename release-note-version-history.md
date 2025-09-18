@@ -16,8 +16,10 @@ Each version lists updates under three categories:
 
 Versions are presented in reverse chronological order, with the most recent release at the top.
 
-## **VERSION 1.3 – RELEASE DATE: 2024-09-15**  
+## **VERSION 1.3**  
 ---
+
+**RELEASE DATE**: 2024-09-15
 
 This release introduces auto-complete functionality, note and medication deletion, handwritten prescription scanning, expanded user roles, increased limits for prescriptions and notes, and critical bug fixes.
 
@@ -126,8 +128,10 @@ This release introduces auto-complete functionality, note and medication deletio
 *(No known issues were reported for this release)*
 
 ---
-## **VERSION 1.2 – RELEASE DATE: 2024-06-15**  
+## **VERSION 1.2**  
 ---
+
+**RELEASE DATE**: 2024-06-15
 
 This release introduces the ability to add alternative medications, apply prescription restrictions, and includes critical bug fixes to improve reliability and patient safety.
 
@@ -177,8 +181,10 @@ This release introduces the ability to add alternative medications, apply prescr
 
 ---
 
-## **VERSION 1.1 – RELEASE DATE: 2024-03-16**  
+## **VERSION 1.1**  
 ---
+
+**RELEASE DATE**: 2024-03-16
 
 This release introduces the ability to continue writing a prescription from a previous session and includes critical bug fixes to improve stability and prevent unintended QR code behavior.
 
