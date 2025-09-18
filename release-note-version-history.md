@@ -21,7 +21,7 @@ Versions are presented in reverse chronological order, with the most recent rele
 
 This release introduces auto-complete functionality, note and medication deletion, handwritten prescription scanning, expanded user roles, increased limits for prescriptions and notes, and critical bug fixes.
 
-![Daily Dose user interface version 1.3](/assets/images/daley-dose-home-window-1.3.png)  
+![Daily Dose user interface version 1.3](/assets/images/daley-dose-home-window.1.3.png)  
 <p style="text-align:center;"><em>The Daley Dose user interface for version 1.3</em></p>
 
 ### **NEW FEATURES**  
