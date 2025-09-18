@@ -122,11 +122,6 @@ This release introduces auto-complete functionality, note and medication deletio
   - The application now saves current progress, allowing you to continue building the prescription.  
   - An active internet connection is still required to finalize, send, or print the draft.
 
-### **KNOWN ISSUES**  
----
-
-*(No known issues were reported for this release)*
-
 ---
 ## **VERSION 1.2**  
 ---
@@ -174,11 +169,6 @@ This release introduces the ability to add alternative medications, apply prescr
 - **DD‑1409**  
   Resolved a bug that disabled prescription features on phones older than five years.
 
-### **KNOWN ISSUES**  
----
-
-*(No known issues were reported for this release)*
-
 ---
 
 ## **VERSION 1.1**  
@@ -211,10 +201,6 @@ This release introduces the ability to continue writing a prescription from a pr
   Resolved an extremely rare bug where the finalized prescription’s QR code sent pharmacies the entire opening monologue to the *Bee Movie*, causing devices to crash due to the amount of lines and text.
 
 ### **KNOWN ISSUES**  
----
-
-*(No known issues were reported for this release)*
-
 ---
 
 ## **SEE ALSO**
