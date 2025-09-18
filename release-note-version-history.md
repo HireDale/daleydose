@@ -21,6 +21,9 @@ Versions are presented in reverse chronological order, with the most recent rele
 
 This release introduces auto-complete functionality, note and medication deletion, handwritten prescription scanning, expanded user roles, increased limits for prescriptions and notes, and critical bug fixes.
 
+![Daily Dose user interface version 1.3](/assets/images/daley-dose-home-window-1.3.png)  
+<p style="text-align:center;"><em>The Daley Dose user interface for version 1.3</em></p>
+
 ### **NEW FEATURES**  
 ---
 
@@ -33,6 +36,9 @@ This release introduces auto-complete functionality, note and medication deletio
   - This feature is enabled by default and can be turned off in the **Options** window.  
   - See Figure 1: The **Add Medication** window with the newly added **Auto-Complete Status** field  
   - **REFERENCE NUMBERS:** DD-1543 / DD-1545 / DD-1556
+
+![Figure 1](/assets/images/daley-dose-add-meds.png)  
+<p style="text-align:center;"><em>Figure 1: The Add Medication Window with the newly added Auto-Complete Status field</em></p>
 
 ---
 
@@ -54,6 +60,9 @@ This release introduces auto-complete functionality, note and medication deletio
   - Scanned prescriptions cannot be edited  
   - See Figure 2: The **Home** window with the newly added **Scan** button  
   - **REFERENCE NUMBERS:** DD-1585 / DD-1586
+
+![Figure 2](/assets/images/daley-dose-scan-button.png)  
+<p style="text-align:center;"><em>Figure 2: The Home Window with the newly added Scan button</em></p>
 
 ---
 
