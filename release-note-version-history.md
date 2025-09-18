@@ -38,7 +38,7 @@ This release introduces auto-complete functionality, note and medication deletio
   - **REFERENCE NUMBERS:** DD-1543 / DD-1545 / DD-1556
 
 ![Figure 1](/assets/images/daley-dose-add-meds.png)  
-<p style="text-align:center;"><em>**Figure 1**: The Add Medication window with the newly added **Auto-Complete Status** field</em></p>
+<p style="text-align:center;"><em><strong>Figure 1</strong>: The Add Medication window with the newly added <strong>Auto‑Complete Status</strong> field</em></p>
 
 ---
 
@@ -62,7 +62,7 @@ This release introduces auto-complete functionality, note and medication deletio
   - **REFERENCE NUMBERS:** DD-1585 / DD-1586
 
 ![Figure 2](/assets/images/daley-dose-scan-button.png)  
-<p style="text-align:center;"><em>**Figure 2**: The Home window with the newly added **Scan** button</em></p>
+<p style="text-align:center;"><em><strong>Figure 2</strong>: The Home window with the newly added <strong>Scan</strong> button</em></p>
 
 ---
 
