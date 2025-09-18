@@ -117,13 +117,89 @@ This release introduces auto-complete functionality, note and medication deletio
 *(No known issues were reported for this release)*
 
 ---
-
-
-
-# **VERSION 1.2**
+# **VERSION 1.2 – RELEASE DATE: 2024-06-15**  
 ---
 
-# **VERSION 1.1**
+This release introduces the ability to add alternative medications, apply prescription restrictions, and includes critical bug fixes to improve reliability and patient safety.
+
+## **NEW FEATURES**  
+---
+
+- **Add alternative medication**  
+  You can now add an alternative option to a prescribed medication when the original is unavailable at the pharmacy. This ensures patients can receive their medication without returning for a refill. *(All platforms)*  
+  - Added the **+ Alt** button, which opens the **Add Alternative** window.  
+  - You can enter a different brand or generic name for the selected medication.  
+  - The application uses the alternative when the pharmacy reports the original medication is out of stock on a patient’s refill date.  
+  - **REFERENCE NUMBERS:** DD‑1467 / DD‑1468
+
+---
+
+- **Add prescription restrictions**  
+  Administrators can now set prescription restrictions for Prescriber users in **Home > Profile**. *(All platforms)*  
+  - Added the **Prescription restriction** drop‑down list with the following options:  
+    - No restrictions  
+    - Restrict Schedule II  
+    - Restrict Schedule II and III  
+    - Restrict Schedule II, III, and IV  
+    - Only OTCs  
+  - Only Administrators can set this option for Prescriber users.  
+  - Contact your company’s tech support for more information.  
+  - **REFERENCE NUMBER:** JIRA‑DD‑1471
+
+## **BUG FIXES**  
+---
+
+- **DD‑1402**  
+  Resolved an issue where the application incorrectly recognized *Just Be Happy* as an antidepressant medication.
+
+- **DD‑1405**  
+  Fixed a critical issue where pharmacies received notifications for all patients, causing repeated alerts until devices were turned off.
+
+- **DD‑1406**  
+  Fixed an authentication issue that required users to re‑enter their information every minute.
+
+- **DD‑1409**  
+  Resolved a bug that disabled prescription features on phones older than five years.
+
+## **KNOWN ISSUES**  
+---
+
+*(No known issues were reported for this release)*
+
+---
+
+# **VERSION 1.1 – RELEASE DATE: 2024-03-16**  
+---
+
+This release introduces the ability to continue writing a prescription from a previous session and includes critical bug fixes to improve stability and prevent unintended QR code behavior.
+
+## **NEW FEATURES**  
+---
+
+- **Continue previous session**  
+  You can now resume writing a prescription from where you left off in a previous session. *(All platforms)*  
+  - Modified Daley Dose to save the last unfinalized session before you closed the application.  
+  - Upon starting the application, you can view and continue from the last saved instance of a previous prescription (if any).  
+  - This feature is enabled by default and can be disabled in the **Options** window.  
+  - **REFERENCE NUMBERS:** DD‑1333 / DD‑1334
+
+## **BUG FIXES**  
+---
+
+- **DD‑1316**  
+  Fixed a minor bug that closed the application when it idled for more than 30 seconds.
+
+- **DD‑1317**  
+  Resolved an extremely rare bug where the finalized prescription’s QR code sent pharmacies a link to the Rickroll YouTube page.
+
+- **DD‑1318**  
+  Resolved an extremely rare bug where the finalized prescription’s QR code sent pharmacies the entire opening monologue to the *Bee Movie*, causing devices to crash due to the amount of lines and text.
+
+## **KNOWN ISSUES**  
+---
+
+*(No known issues were reported for this release)*
+
 ---
 
 ## **SEE ALSO**
