@@ -31,11 +31,11 @@ The following table describes the fields in the **Home** window.
 
 | **FIELDS** | **DEFINITION** |
 |------------|----------------|
-| **PATIENT NAME** | Displays the patient’s full name. Select **Patient name** to enter or edit the current patient’s name.<br><br>**NOTES:**<br>– The application displays the patient name in [LAST, FIRST, MIDDLE] format.<br>– After confirming with the Daley Dose database, the application automatically formats the name.<br>– The application prevents adding medications and notes when this field is empty. |
-| **PRESCRIPTION DATE** | Displays the prescription’s issue date. Select **Prescription date** to enter or edit the current prescription date.<br><br>**NOTE:** The application displays the date in [MM/DD/YYYY] format. |
+| **PATIENT NAME** | Displays the patient’s full name. Select **Patient Name** to enter or edit the current patient’s name.<br><br>**NOTES:**<br>– The application displays the patient name in [LAST, FIRST, MIDDLE] format.<br>– After confirming with the Daley Dose database, the application automatically formats the name.<br>– The application prevents adding medications and notes when this field is empty. |
+| **PRESCRIPTION DATE** | Displays the prescription’s issue date. Select **Prescription Date** to enter or edit the current prescription date.<br><br>**NOTE:** The application displays the date in [MM/DD/YYYY] format. |
 | **MD LAST NAME** | Displays the prescribing user’s last name.<br><br>**NOTE:** This is a read‑only field. |
 | **MD FIRST NAME** | Displays the prescribing user’s first name.<br><br>**NOTE:** This is a read‑only field. |
-| **REFILL DATE** | Displays the prescription’s scheduled refill date. Select **Refill date** to enter or edit the current scheduled refill date.<br><br>**NOTE:** The application displays the date in [MM/DD/YYYY] format. |
+| **REFILL DATE** | Displays the prescription’s scheduled refill date. Select **Refill Date** to enter or edit the current scheduled refill date.<br><br>**NOTE:** The application displays the date in [MM/DD/YYYY] format. |
 | **MEDICATION NUMBER** | Displays the medication’s sequential order on the prescription.<br><br>**NOTES:**<br>– Double‑click the number to delete the selected medication from the current prescription.<br>– The application displays the confirmation message **"Are you sure you want to delete this from the prescription?"** before removing the medication from the list. |
 | **MEDICATION NAME** | Displays the medication name and dose. |
 | **NOTE NUMBER** | Displays the note’s sequential order on the prescription.<br><br>**NOTES:**<br>– Double‑click the note number to delete the selected note from the current prescription.<br>– The application displays the confirmation message **"Are you sure you want to delete this note?"** before removing it. |
