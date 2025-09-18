@@ -12,7 +12,6 @@ Each version lists updates under three categories:
 - **New Features** – Capabilities introduced for the first time in that release.
 - **Enhancements** – Improvements to existing functionality, performance, or usability.
 - **Bug Fixes** – Corrections to defects, errors, or unexpected behaviors.
-- **Known Issues** – Problems or limitations identified in the release that may affect some users.
 
 Versions are presented in reverse chronological order, with the most recent release at the top.
 
