@@ -16,12 +16,12 @@ Each version lists updates under three categories:
 
 Versions are presented in reverse chronological order, with the most recent release at the top.
 
-# **VERSION 1.3 – RELEASE DATE: 2024-09-15**  
+## **VERSION 1.3 – RELEASE DATE: 2024-09-15**  
 ---
 
 This release introduces auto-complete functionality, note and medication deletion, handwritten prescription scanning, expanded user roles, increased limits for prescriptions and notes, and critical bug fixes.
 
-## **NEW FEATURES**  
+### **NEW FEATURES**  
 ---
 
 - **Auto-complete medication names**  
@@ -69,7 +69,7 @@ This release introduces auto-complete functionality, note and medication deletio
   - Only **Prescriber** role can prescribe medication  
   - **REFERENCE NUMBERS:** DD-1500 / DD-1501
 
-## **ENHANCEMENTS**  
+### **ENHANCEMENTS**  
 ---
 
 - **Increased medication limit per prescription**  
@@ -84,7 +84,7 @@ This release introduces auto-complete functionality, note and medication deletio
   - The application displays the error message **"Note Too Long"** if a note exceeds 25 words  
   - **REFERENCE NUMBERS:** DD-1563 / DD-1564
 
-## **BUG FIXES**  
+### **BUG FIXES**  
 ---
 
 - **DD-1510**  
@@ -111,18 +111,18 @@ This release introduces auto-complete functionality, note and medication deletio
   - The application now saves current progress, allowing you to continue building the prescription.  
   - An active internet connection is still required to finalize, send, or print the draft.
 
-## **KNOWN ISSUES**  
+### **KNOWN ISSUES**  
 ---
 
 *(No known issues were reported for this release)*
 
 ---
-# **VERSION 1.2 – RELEASE DATE: 2024-06-15**  
+## **VERSION 1.2 – RELEASE DATE: 2024-06-15**  
 ---
 
 This release introduces the ability to add alternative medications, apply prescription restrictions, and includes critical bug fixes to improve reliability and patient safety.
 
-## **NEW FEATURES**  
+### **NEW FEATURES**  
 ---
 
 - **Add alternative medication**  
@@ -146,7 +146,7 @@ This release introduces the ability to add alternative medications, apply prescr
   - Contact your company’s tech support for more information.  
   - **REFERENCE NUMBER:** JIRA‑DD‑1471
 
-## **BUG FIXES**  
+### **BUG FIXES**  
 ---
 
 - **DD‑1402**  
@@ -161,19 +161,19 @@ This release introduces the ability to add alternative medications, apply prescr
 - **DD‑1409**  
   Resolved a bug that disabled prescription features on phones older than five years.
 
-## **KNOWN ISSUES**  
+### **KNOWN ISSUES**  
 ---
 
 *(No known issues were reported for this release)*
 
 ---
 
-# **VERSION 1.1 – RELEASE DATE: 2024-03-16**  
+## **VERSION 1.1 – RELEASE DATE: 2024-03-16**  
 ---
 
 This release introduces the ability to continue writing a prescription from a previous session and includes critical bug fixes to improve stability and prevent unintended QR code behavior.
 
-## **NEW FEATURES**  
+### **NEW FEATURES**  
 ---
 
 - **Continue previous session**  
@@ -183,7 +183,7 @@ This release introduces the ability to continue writing a prescription from a pr
   - This feature is enabled by default and can be disabled in the **Options** window.  
   - **REFERENCE NUMBERS:** DD‑1333 / DD‑1334
 
-## **BUG FIXES**  
+### **BUG FIXES**  
 ---
 
 - **DD‑1316**  
@@ -195,7 +195,7 @@ This release introduces the ability to continue writing a prescription from a pr
 - **DD‑1318**  
   Resolved an extremely rare bug where the finalized prescription’s QR code sent pharmacies the entire opening monologue to the *Bee Movie*, causing devices to crash due to the amount of lines and text.
 
-## **KNOWN ISSUES**  
+### **KNOWN ISSUES**  
 ---
 
 *(No known issues were reported for this release)*
