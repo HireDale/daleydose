@@ -36,7 +36,7 @@ With the various Daley Dose features at your disposal, you can assign alternativ
 ---
 
 - [**Version 1.5 Release Notes**](/daleydose/release-notes-v1.5)  
-  Review the latest updates, enhancements, and fixes included in version 1.4 of the Daley Dose application.
+  Review the latest updates, enhancements, and fixes included in version 1.5 of the Daley Dose application.
   
 - [**Version History**](/daleydose/release-note-version-history)  
   View a complete archive of past releases, including feature additions, changes, and resolved issues.
