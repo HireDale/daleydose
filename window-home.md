@@ -24,7 +24,7 @@ The **Home** window appears when you start the Daley Dose application. By defaul
 - An **Administrator** or **Support** user can impose or remove a prescription restriction on a **Prescriber**.  
   + See [**Prescription Restrictions**](/daleydose/about-prescription-restrictions) for more information.  
 
-![Daily Dose user interface](/assets/images/daley-dose-home-window-clean.png)
+![Daily Dose user interface](/assets/images/daley-dose-home-window-parts.png)
 
 ## **INTERFACE ELEMENTS**
 
