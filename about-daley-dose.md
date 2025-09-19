@@ -57,8 +57,3 @@ The Daley Dose application offers a wide variety of features for doctors and pha
 - [**About User Roles**](/daleydose/about-user-roles)  
 - [**About Prescription Restrictions**](/daleydose/about-prescription-restrictions)
 - [**Access the Help Files**](/daleydose/help-files)
-
-## **ADDITIONAL LINKS**
----
-- [**Version 1.4 Release Notes**](/daleydose/release-notes-v1.4)
-- [**Version History**](/daleydose/release-note-version-history)
