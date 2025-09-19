@@ -42,7 +42,7 @@ The **Title Section** is located at the top left of the application and contains
 
 ![Daily Dose Title Section](/assets/images/daley-dose-home-window-section-1.png)
 
-The following table describes the buttons in the **Title Section**.
+The following table describes the buttons in the **Title Section**:
 
 | **BUTTONS**       | **DEFINITION** |
 |-------------------|----------------|
@@ -57,7 +57,7 @@ You can view your profile information and access in‑app settings here. This se
 
 ![Daily Dose Profile Section](/assets/images/daley-dose-home-window-section-2.png)
 
-The following table describes the buttons in the **Profile Section**.
+The following table describes the buttons in the **Profile Section**:
 
 | **BUTTONS**     | **DEFINITION** |
 |-----------------|----------------|
@@ -71,7 +71,7 @@ The **Information Sidebar** displays details about the patient, the prescribing 
 
 ![Daily Dose Information Sidebar](/assets/images/daley-dose-home-window-section-3.png)
 
-The following table describes the fields in the **Information Sidebar**.
+The following table describes the fields in the **Information Sidebar**:
 
 | **FIELDS**              | **DEFINITION** |
 |-------------------------|----------------|
@@ -88,7 +88,7 @@ The **Action Sidebar** displays the main buttons used when creating and managing
 
 ![Daily Dose Action Sidebar](/assets/images/daley-dose-home-window-section-4.png)
 
-The following table describes the buttons in the **Action Sidebar**.
+The following table describes the buttons in the **Action Sidebar**:
 
 | **BUTTONS**              | **DEFINITION** |
 |--------------------------|----------------|
