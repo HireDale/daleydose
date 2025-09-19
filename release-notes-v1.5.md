@@ -1,10 +1,10 @@
 ---
-title: "Daley Dose - Version 1.4"
+title: "Daley Dose - Version 1.5"
 description: ""
 layout: default
 ---
 
-# **DALEY DOSE VERSION 1.4 RELEASE NOTES**
+# **DALEY DOSE VERSION 1.5 RELEASE NOTES**
 ---
 We are excited to introduce the latest version of the **Daley Dose** application!
 
