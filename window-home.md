@@ -58,6 +58,7 @@ The following table describes the buttons in the Profile Section.
 | **OPTIONS**      | Select Options to view the application’s options.<br><br>When you select this button, the application opens the Options window. |
 
 ## **[3] INFORMATION SIDEBAR**
+---
 The Information Sidebar displays details about the patient, the prescribing doctor, and the current prescription.  
 
 The following table describes the fields in the Information Sidebar.
@@ -72,6 +73,7 @@ The following table describes the fields in the Information Sidebar.
 | **PRESCRIBER FIRST NAME**| Displays the prescribing user’s first name.<br><br>**NOTE:** This is a read‑only field. The prescriber information is based on the current user logged into the application. |
 
 ## **[4] ACTION SIDEBAR**
+---
 The Action Sidebar displays the main buttons used when creating and managing prescriptions.  
 
 The following table describes the buttons in the Action Sidebar.
@@ -100,3 +102,14 @@ The following table describes the buttons in the Action Sidebar.
 The Work Area is the central section of the interface. Its contents change depending on the current window accessed. It contains three tabs that serve as the main tools for creating a prescription.  
 
 To learn more about these tabs, see the [Main Tabs](/daleydose/window-main-tabs) section.
+
+## **SEE ALSO**
+---
+- [**How to create a new prescription**](/daleydose/prescription-create-new)  
+- [**How to add medications to a prescription**](/daleydose/prescription-add-meds)  
+- [**How to delete medications from a prescription**](/daleydose/prescription-delete-meds) 
+- [**How to add, edit, and delete medication notes**](/daleydose/prescription-manage)  
+- [**How to finalize and send out a prescription**](/daleydose/prescription-finalize)
+- [**How to digitize a handwritten prescription**](/daleydose/prescription-digitize)
+
+
