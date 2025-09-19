@@ -42,8 +42,8 @@ The following table describes the buttons in the **Add Alternative** window:
 
 | **BUTTON** | **DEFINITION** |
 |------------|----------------|
-| **CANCEL** | Select **Cancel** to close the **Add Alternative** window without adding the currently entered information to the prescription.<br><br>**NOTE:** When you select this button, the application displays the confirmation message **"Are you sure you want to close this window without adding the medication?"** before closing. |
-| **SAVE** | Select **Save** to close the **Add Alternative** window and add the currently entered information to the prescription.<br><br>**NOTE:** The application disables this button when at least one of the following fields is empty: **Generic name**, **Dose**, or **Amount**. |
+| **CANCEL** | Select to close the **Add Alternative** window without adding the currently entered information to the prescription.<br><br>**NOTE:** When you select this button, the application displays the confirmation message **"Are you sure you want to close this window without adding the medication?"** before closing. |
+| **SAVE** | Select to close the **Add Alternative** window and add the currently entered information to the prescription.<br><br>**NOTE:** The application disables this button when at least one of the following fields is empty: **Generic name**, **Dose**, or **Amount**. |
 
 ## **SEE ALSO**
 ---
