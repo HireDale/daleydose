@@ -28,8 +28,3 @@ The following table describes the prescription restriction options available in 
 - [**About Daley Dose**](/daleydose/about-daley-dose)  
 - [**About User Roles**](/daleydose/about-user-roles)  
 - [**Access the Help Files**](/daleydose/help-files)  
-
-## **ADDITIONAL LINKS**
----
-- [**Version 1.4 Release Notes**](/daleydose/release-notes-v1.4)  
-- [**Version History**](/daleydose/release-note-version-history)  
