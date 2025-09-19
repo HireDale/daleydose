@@ -32,16 +32,16 @@ Explore core topics about the Daley Dose application and its features.
 View available windows and their functions in the application.
 
 - [**Home Window**](/daleydose/window-home)  
-  View the Home window and its field and button definitions. This window enables you to create and edit a patient’s prescription.
+  This window enables you to create and edit a patient’s prescription.
 
 - [**Add Medication Window**](/daleydose/window-add-medication)  
-  View the Add Medication window and its field and button definitions. This window enables you to add, edit, and remove medications from the current prescription.
+  This window enables you to add, edit, and remove medications from the current prescription.
 
 - [**Add Notes Window**](/daleydose/window-add-notes)  
-  View the Add Notes window and its field and button definitions. This window enables you to add, edit, and remove notes from the current prescription.
+  This window enables you to add, edit, and remove notes from the current prescription.
 
 - [**Add Alternative Window**](/daleydose/window-add-alternative)  
-  View the Add Alternative window and its field and button definitions. This window enables you to add, edit, and remove alternatives to medications in the prescription. The pharmacy uses the alternative option when the main medication is not available.
+  This window enables you to add, edit, and remove alternatives to medications in the prescription. The pharmacy uses the alternative option when the main medication is not available.
 
 - [**Scan Window**](/daleydose/window-scan)  
   View the Scan window and its field and button definitions. This window enables you to scan a handwritten prescription and convert it to a digital form.
