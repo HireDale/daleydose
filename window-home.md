@@ -34,7 +34,7 @@ The **Home** window is composed of the **Title Section**, **Profile Section**, *
 
 Most of the interface remains the same throughout the prescription‑making process. Only the middle section, referred to as the **Work Area**, changes depending on the current window accessed.
 
-## **TITLE SECTION**
+### **TITLE SECTION**
 ---
 The **Title Section** is located at the top left of the application and contains the **Daley Dose** name, logo, and version number.  
 
@@ -46,7 +46,7 @@ The following table describes the buttons in the **Title Section**.
 
 ![Daily Dose Title Section](/assets/images/daley-dose-home-window-section-1.png)
 
-## ** PROFILE SECTION**
+### ** PROFILE SECTION**
 ---
 The **Profile Section** is located at the top right of the screen.  
 
@@ -62,7 +62,7 @@ The following table describes the buttons in the **Profile Section**.
 
 ![Daily Dose Profile Section](/assets/images/daley-dose-home-window-section-2.png)
 
-## ** INFORMATION SIDEBAR**
+### ** INFORMATION SIDEBAR**
 ---
 The **Information Sidebar** displays details about the patient, the prescribing doctor, and the current prescription.  
 
@@ -79,7 +79,7 @@ The following table describes the fields in the **Information Sidebar**.
 
 ![Daily Dose Information Sidebar](/assets/images/daley-dose-home-window-section-3.png)
 
-## ** ACTION SIDEBAR**
+### ** ACTION SIDEBAR**
 ---
 The **Action Sidebar** displays the main buttons used when creating and managing prescriptions.  
 
@@ -106,7 +106,7 @@ The following table describes the buttons in the **Action Sidebar**.
 
 ![Daily Dose Action Sidebar](/assets/images/daley-dose-home-window-section-4.png)
 
-## ** WORK AREA**
+### ** WORK AREA**
 ---
 The **Work Area** is the central section of the interface. It contains three tabs that serve as the main tools for creating a prescription.  
 
