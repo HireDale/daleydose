@@ -117,4 +117,57 @@ ul ul {
     padding: 0 20px;
     border: none; /* remove borders on mobile wrap */
   }
+  /* === Header Banner Overrides === */
+.page-header {
+  position: relative;
+  background: none !important;
+  background-image: url('{{ "/assets/images/daley-dose-banner-top.png?v=1" | relative_url }}') !important;
+  background-size: cover !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  padding: 4rem 2rem;
+  height: clamp(250px, 40vh, 500px);
+}
+
+.page-header .project-name a,
+.page-header .project-tagline {
+  color: #ffffff !important;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.6);
+}
+
+.page-header a.banner-link {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: block;
+  text-indent: -9999px;
+  cursor: pointer;
+}
+
+/* === Footer Styles === */
+.page-footer {
+  background-color: #002157;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1rem;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+.footer-text {
+  color: #ffffff;
+  text-transform: uppercase;
+}
+
+.footer-text .highlight {
+  color: #f26522;
+  background: none !important;
+  border: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  box-shadow: none !important;
 }
