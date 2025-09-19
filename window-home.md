@@ -6,7 +6,29 @@ layout: default
 
 # **HOME WINDOW**
 ---
-The Daley Dose application's Home Window is composed of the Title Section, Profile Section, Work Area, and two sidebars: Information and Action. The sidebars contain the primary fields and application‑wide settings, respectively.  
+
+You will perform most of your work in the **Home** window of the Daley Dose application.  
+In this window, you can create medical prescriptions for your patients. Each prescription can include up to 5 medications. You can also scan physical prescriptions and convert them into a digital version.
+
+The **Home** window appears when you start the Daley Dose application. By default, it opens with the last saved instance of a previous prescription (if any), allowing you to continue where you left off. You can disable this feature in the [**Options Window**](/daleydose/window-options).
+
+## **NOTES**
+---
+- Access to the Daley Dose application requires an active subscription.  
+- Your device must be connected to the internet to send digital prescriptions.
+
+## **RELATED TOPICS**
+---
+- You must have a **Prescriber** role to create prescriptions.  
+  + See [**User Roles**](/daleydose/about-user-roles) for more information.  
+- An **Administrator** or **Support** user can impose or remove a prescription restriction on a **Prescriber**.  
+  + See [**Prescription Restrictions**](/daleydose/about-prescription-restrictions) for more information.  
+
+![Daily Dose user interface](/assets/images/daley-dose-home-window-clean.png)
+
+## **INTERFACE ELEMENTS**
+
+The **Home** window is composed of the Title Section, Profile Section, Work Area, and two sidebars: Information and Action. The sidebars contain the primary fields and application‑wide settings, respectively.  
 
 Most of the interface remains the same throughout the prescription‑making process. Only the middle section, referred to as the Work Area, changes depending on the current window accessed.
 
