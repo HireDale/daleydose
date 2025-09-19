@@ -13,6 +13,8 @@ In this window, you can create medical prescriptions for your patients. Each pre
 
 The **Home** window appears when you start the **Daley Dose** application. By default, it opens with the last saved instance of a previous prescription (if any), allowing you to continue where you left off. You can disable this feature in the options.
 
+![Daily Dose user interface](/assets/images/daley-dose-home-window-error.png)
+
 ## **NOTES**
 ---
 - Access to the **Daley Dose** application requires an active subscription.  
