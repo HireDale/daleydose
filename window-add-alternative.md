@@ -24,7 +24,7 @@ In the **Add Alternative** window, you can add an alternative option for the pha
 - An **Administrator** or **Support** user can impose or remove a prescription restriction on a **Prescriber**.  
   + See [**Prescription Restrictions**](/daleydose/about-prescription-restrictions) for more information.
 
-## **INTERFACE ELEMENTS**
+## **INTERFACE DETAILS**
 ---
 The following table describes the fields in the **Add Alternative** window:
 
