@@ -10,6 +10,8 @@ The **Help files** enable you to learn individual parts of the Daley Dose applic
 
 You can access the Daley Dose help files from within the application by selecting the **Help** button or through the Daley Dose website.
 
+![Help Button](/assets/images/daley-dose-home-window-help.png)  
+
 # **TABLE OF CONTENTS**
 ---
 To begin, select a topic. These topics group related information together for easy navigation.
