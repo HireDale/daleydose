@@ -50,4 +50,4 @@ With the various Daley Dose features at your disposal, you can assign alternativ
   Coming soon to every Daley Dose application — meet Dale Bot, your always‑on, AI‑powered prescribing assistant.
 
 - [**Application Themes**](/daleydose/about-custom-themes)  
-  Security updates? Prescription safety measures? Who cares about these things when you will finally have customizable themes!
+  Stronger security updates? Better prescription safety measures? Something much better is coming soon. That's right - customizable themes!
