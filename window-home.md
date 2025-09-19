@@ -24,13 +24,14 @@ The **Home** window appears when you start the Daley Dose application. By defaul
 - An **Administrator** or **Support** user can impose or remove a prescription restriction on a **Prescriber**.  
   + See [**Prescription Restrictions**](/daleydose/about-prescription-restrictions) for more information.  
 
-![Daily Dose user interface](/assets/images/daley-dose-home-window-parts.png)
-
 ## **INTERFACE ELEMENTS**
 
-The **Home** window is composed of the Title Section, Profile Section, Work Area, and two sidebars: Information and Action. The sidebars contain the primary fields and application‑wide settings, respectively.  
+The **Home** window is composed of the **Title Section**, **Profile Section**, **Work Area**, **Information Sidebar** and **Action Sidebar**.  
 
-Most of the interface remains the same throughout the prescription‑making process. Only the middle section, referred to as the Work Area, changes depending on the current window accessed.
+Most of the interface remains the same throughout the prescription‑making process. Only the middle section, referred to as the **Work Area**, changes depending on the current window accessed.
+
+![Daily Dose user interface](/assets/images/daley-dose-home-window-parts.png)
+<p style="text-align:center;"><em>The Daley Dose user interface with numbered sections</em></p>
 
 ## **[1] TITLE SECTION**
 ---
