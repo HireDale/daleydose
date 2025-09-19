@@ -12,14 +12,14 @@
 
     <style>
       .page-header {
-        position: relative; /* Needed for absolute link positioning */
+        position: relative;
         background: none !important;
         background-image: url('{{ "/assets/images/daley-dose-banner-top.png?v=1" | relative_url }}') !important;
         background-size: cover !important;
         background-position: center !important;
         background-repeat: no-repeat !important;
         padding: 4rem 2rem;
-        height: clamp(250px, 40vh, 500px); /* bigger responsive header */
+        height: clamp(250px, 40vh, 500px);
       }
       .page-header .project-name a,
       .page-header .project-tagline {
@@ -33,31 +33,36 @@
         width: 100%;
         height: 100%;
         display: block;
-        text-indent: -9999px; /* hides text if any */
+        text-indent: -9999px;
         cursor: pointer;
+      }
+
+      /* Footer styles */
+      .page-footer {
+        background-color: #002157; /* Solid color */
+        height: 150px;
       }
     </style>
   </head>
   <body>
     <header class="page-header" role="banner">
       <a href="https://hiredale.com/daleydose/" class="banner-link" aria-label="Go to Daley Dose page"></a>
-      <!-- Title and description removed; only banner image remains -->
     </header>
 
     <div class="layout-container">
-      <!-- Left Sidebar: Site Navigation -->
       {% include left-sidebar.html %}
 
-      <!-- Main Content -->
       <main id="content" class="main-content" role="main">
         <div>
           {{ content }}
         </div>
       </main>
 
-      <!-- Right Sidebar: On This Page -->
       {% include right-sidebar.html %}
     </div>
 
+    <footer class="page-footer" role="contentinfo">
+      <!-- Solid color footer, no link -->
+    </footer>
   </body>
 </html>
