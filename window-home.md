@@ -108,7 +108,7 @@ The following table describes the buttons in the **Action Sidebar**.
 
 ![Daily Dose Action Sidebar](/assets/images/daley-dose-home-window-section-4.png)
 
-### ** WORK AREA**
+### **WORK AREA**
 ---
 The **Work Area** is the central section of the interface. It contains three tabs that serve as the main tools for creating a prescription.  
 
