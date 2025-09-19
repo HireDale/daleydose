@@ -45,11 +45,11 @@ The following table describes the buttons in the **Add Notes** window:
 
 | **BUTTON** | **DEFINITION** |
 |------------|----------------|
-| **ADD NEW** | Select **Add New** to add a new note.<br><br>**NOTES:**<br>– You can add up to 25 words per note and 5 notes per medication.<br>– The application displays the error message **"Note Too Long"** when you attempt to add more than 25 words in a single note. |
-| **EDIT** | Select **Edit** to edit an existing note. |
-| **DELETE** | Select **Delete** to delete the selected note. |
-| **CANCEL** | Select **Cancel** to close the **Add Notes** window without adding the currently entered information to the prescription.<br><br>**NOTE:** When you select this button, the application displays the confirmation message **"Are you sure you want to close this window without adding the notes?"** before closing. |
-| **SAVE** | Select **Save** to close the **Add Notes** window and add the currently entered information to the prescription. |
+| **ADD NEW** | Select to add a new note.<br><br>**NOTES:**<br>– You can add up to 25 words per note and 5 notes per medication.<br>– The application displays the error message **"Note Too Long"** when you attempt to add more than 25 words in a single note. |
+| **EDIT** | Select to edit an existing note. |
+| **DELETE** | Select to delete the selected note. |
+| **CANCEL** | Select to close the **Add Notes** window without adding the currently entered information to the prescription.<br><br>**NOTE:** When you select this button, the application displays the confirmation message **"Are you sure you want to close this window without adding the notes?"** before closing. |
+| **SAVE** | Select to close the **Add Notes** window and add the currently entered information to the prescription. |
 
 ## **SEE ALSO**
 ---
