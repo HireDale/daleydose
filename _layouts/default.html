@@ -39,8 +39,21 @@
 
       /* Footer styles */
       .page-footer {
-        background-color: #002157; /* Solid color */
+        background-color: #002157;
         height: 150px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 1rem;
+        font-weight: bold;
+        letter-spacing: 1px;
+      }
+      .footer-text {
+        color: #ffffff;
+        text-transform: uppercase;
+      }
+      .footer-text .highlight {
+        color: #f26522;
       }
     </style>
   </head>
@@ -62,7 +75,9 @@
     </div>
 
     <footer class="page-footer" role="contentinfo">
-      <!-- Solid color footer, no link -->
+      <div class="footer-text">
+        © 2025 <span class="highlight">Daley</span> Dose | Hire<span class="highlight">Dale</span>.com
+      </div>
     </footer>
   </body>
 </html>
