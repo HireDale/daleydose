@@ -30,9 +30,9 @@ The following table describes the buttons in the **Scan** window:
 
 | **BUTTON** | **DEFINITION** |
 |------------|----------------|
-| **START** | Select **Start** to begin the prescription scan.<br><br>**NOTES:**<br>– The application enables this button only when both the **Camera** and **Internet** fields are green.<br>– The scanning process takes 20 seconds to complete. |
-| **CANCEL** | Select **Cancel** to close the **Scan** window without adding the currently scanned information to the prescription.<br><br>**NOTE:** When you select this button, the application displays the confirmation message **"Are you sure you want to close this window?"** before closing. |
-| **SAVE** | Select **Save** to close the **Scan** window and add the currently scanned information to the prescription. |
+| **START** | Select to begin the prescription scan.<br><br>**NOTES:**<br>– The application enables this button only when both the **Camera** and **Internet** fields are green.<br>– The scanning process takes 20 seconds to complete. |
+| **CANCEL** | Select to close the **Scan** window without adding the currently scanned information to the prescription.<br><br>**NOTE:** When you select this button, the application displays the confirmation message **"Are you sure you want to close this window?"** before closing. |
+| **SAVE** | Select to close the **Scan** window and add the currently scanned information to the prescription. |
 
 ## **SEE ALSO**
 ---
