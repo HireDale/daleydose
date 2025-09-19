@@ -17,7 +17,7 @@ In the **Scan** window, you can scan and digitize a handwritten prescription. Af
 - The application displays the **Scan** button on the desktop version only when your computer has a confirmed connected webcam.  
 - The application always displays the **Scan** button on the mobile app.
 
-## **INTERFACE ELEMENTS**
+## **INTERFACE DETAILS**
 ---
 The following table describes the fields in the **Scan** window:
 
