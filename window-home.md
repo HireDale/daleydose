@@ -48,15 +48,15 @@ The following table describes the buttons in the **Title Section**.
 ---
 The **Profile Section** is located at the top right of the screen.  
 
-You can view your profile information and access in‑app settings here. The **Profile Section** also displays a greeting during an active session, showing the current active **Prescriber** and their system‑assigned ID.  
+You can view your profile information and access in‑app settings here. This section also displays a greeting during an active session, showing the current active **Prescriber** and their system‑assigned ID.  
 
 The following table describes the buttons in the **Profile Section**.
 
 | **BUTTONS**     | **DEFINITION** |
 |-----------------|----------------|
-| **PROFILE ICON** | Select the **Profile** icon to view the **Profile Summary** pop‑up window.<br><br>The application displays detailed information about the user currently logged in, such as their professional license number, specialization, and any prescription restrictions, as well as their duration. |
-| **PROFILE**      | View the active profile’s information, role, prescription restrictions, form templates, and saved security settings.<br><br>When you select this button, the application opens the **Profile** window.<br>
-| **OPTIONS**      | Select **Options** to view the application’s options.<br><br>When you select this button, the application opens the **Options** window. |
+| **PROFILE ICON** | Select to view the **Profile Summary** pop‑up window.<br><br>The application displays detailed information about the user currently logged in, such as their professional license number, specialization, and any prescription restrictions, as well as their duration. |
+| **PROFILE**      | Select to view the active profile’s information, role, prescription restrictions, form templates, and saved security settings.<br><br>When you select this button, the application opens the **Profile** window.<br>
+| **OPTIONS**      | Select to view the application’s options.<br><br>When you select this button, the application opens the **Options** window. |
 
 ## **[3] INFORMATION SIDEBAR**
 ---
