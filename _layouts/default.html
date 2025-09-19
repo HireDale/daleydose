@@ -12,40 +12,72 @@
 
     <style>
       .page-header {
+        position: relative;
         background: none !important;
         background-image: url('{{ "/assets/images/daley-dose-banner-top.png?v=1" | relative_url }}') !important;
         background-size: cover !important;
         background-position: center !important;
         background-repeat: no-repeat !important;
         padding: 4rem 2rem;
-        height: clamp(250px, 40vh, 500px); /* bigger responsive header */
+        height: clamp(250px, 40vh, 500px);
       }
       .page-header .project-name a,
       .page-header .project-tagline {
         color: #ffffff !important;
         text-shadow: 1px 1px 3px rgba(0,0,0,0.6);
       }
+      .page-header a.banner-link {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        display: block;
+        text-indent: -9999px;
+        cursor: pointer;
+      }
+
+      /* Footer styles */
+      .page-footer {
+        background-color: #002157;
+        height: 150px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 1rem;
+        font-weight: bold;
+        letter-spacing: 1px;
+      }
+      .footer-text {
+        color: #ffffff;
+        text-transform: uppercase;
+      }
+      .footer-text .highlight {
+        color: #f26522; /* Only changes text color */
+      }
     </style>
   </head>
   <body>
     <header class="page-header" role="banner">
-      <!-- Title and description removed; only banner image remains -->
+      <a href="https://hiredale.com/daleydose/" class="banner-link" aria-label="Go to Daley Dose page"></a>
     </header>
 
     <div class="layout-container">
-      <!-- Left Sidebar: Site Navigation -->
       {% include left-sidebar.html %}
 
-      <!-- Main Content -->
       <main id="content" class="main-content" role="main">
         <div>
           {{ content }}
         </div>
       </main>
 
-      <!-- Right Sidebar: On This Page -->
       {% include right-sidebar.html %}
     </div>
 
+    <footer class="page-footer" role="contentinfo">
+      <div class="footer-text">
+        © 2025 <span class="highlight">DALEY</span> DOSE | HIRE<span class="highlight">DALE</span>.COM
+      </div>
+    </footer>
   </body>
 </html>
