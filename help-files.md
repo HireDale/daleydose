@@ -63,5 +63,5 @@ Learn how to perform tasks in the application.
 
 ## **ADDITIONAL LINKS**
 ---
-- [**v1.4 Release Notes**](/daleydose/release-notes-v1.4)
+- [**v1.5 Release Notes**](/daleydose/release-notes-v1.5)
 - [**Version History**](/daleydose/release-note-version-history)
