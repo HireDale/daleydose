@@ -26,6 +26,7 @@ The **Home** window appears when you start the **Daley Dose** application. By de
   + See [**Prescription Restrictions**](/daleydose/about-prescription-restrictions) for more information.  
 
 ## **INTERFACE ELEMENTS**
+---
 
 The **Home** window is composed of the **Title Section**, **Profile Section**, **Work Area**, **Information Sidebar**, and **Action Sidebar**.  
 
