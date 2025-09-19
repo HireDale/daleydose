@@ -117,7 +117,9 @@ ul ul {
     padding: 0 20px;
     border: none; /* remove borders on mobile wrap */
   }
-  /* === Header Banner Overrides === */
+}
+
+/* === Header Banner Overrides (Full-Width Clickable) === */
 .page-header {
   position: relative;
   background: none !important;
