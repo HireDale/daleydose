@@ -48,7 +48,7 @@ The following table describes the buttons in the **Title Section**.
 
 ![Daily Dose Title Section](/assets/images/daley-dose-home-window-section-1.png)
 
-### ** PROFILE SECTION**
+### **PROFILE SECTION**
 ---
 The **Profile Section** is located at the top right of the screen.  
 
@@ -64,7 +64,7 @@ The following table describes the buttons in the **Profile Section**.
 
 ![Daily Dose Profile Section](/assets/images/daley-dose-home-window-section-2.png)
 
-### ** INFORMATION SIDEBAR**
+### **INFORMATION SIDEBAR**
 ---
 The **Information Sidebar** displays details about the patient, the prescribing doctor, and the current prescription.  
 
@@ -81,7 +81,7 @@ The following table describes the fields in the **Information Sidebar**.
 
 ![Daily Dose Information Sidebar](/assets/images/daley-dose-home-window-section-3.png)
 
-### ** ACTION SIDEBAR**
+### **ACTION SIDEBAR**
 ---
 The **Action Sidebar** displays the main buttons used when creating and managing prescriptions.  
 
