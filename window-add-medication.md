@@ -25,7 +25,7 @@ To view this window:
 - An **Administrator** or **Support** user can impose or remove a **Prescription restriction** on a **Prescriber**.  
   + See [**Prescription Restrictions**](/daleydose/about-prescription-restrictions) for more information.
 
-## **INTERFACE ELEMENTS**
+## **INTERFACE DETAILS**
 ---
 The following table describes the fields available in the **Add Medication** window:
 
