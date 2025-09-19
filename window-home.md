@@ -29,7 +29,7 @@ By default, it opens with the last saved instance of a previous prescription (if
 - An **Administrator** or **Support** user can impose or remove a prescription restriction on a **Prescriber**.  
   + See [**Prescription Restrictions**](/daleydose/about-prescription-restrictions) for more information.  
 
-## **DEFINITIONS**
+## **INTERFACE DETAILS**
 ---
 
 The **Home** window is composed of the **Title Section**, **Profile Section**, **Work Area**, **Information Sidebar**, and **Action Sidebar**.  
