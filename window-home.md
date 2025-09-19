@@ -63,7 +63,7 @@ The following table describes the buttons in the **Profile Section**:
 |-----------------|----------------|
 | **PROFILE ICON** | Select to view the **Profile Summary** pop‑up window.<br><br>The application displays detailed information about the user currently logged in, such as their professional license number, specialization, and any prescription restrictions, as well as their duration. |
 | **PROFILE**      | Select to view the active profile’s information, role, prescription restrictions, form templates, and saved security settings.<br><br>When you select this button, the application opens the **Profile** window.<br>
-| **OPTIONS**      | Select to view the application’s options.<br><br>When you select this button, the application opens the **Options** window. |
+| **OPTIONS**      | Select to view the application’s options. |
 
 ### **INFORMATION SIDEBAR**
 ---
@@ -100,7 +100,7 @@ The following table describes the buttons in the **Action Sidebar**:
 | **DELETE**               | Select to delete the currently selected medication or note.<br><br>**NOTE:** The application displays the confirmation message “**Are you sure you want to delete this from the prescription?**” before removing the medication from the list. |
 | **REFRESH**              | Select to refresh the contents of the current session to match any saved instances or records in the database. This includes the contents of the patient's **Drug History** and **Medical History** tabs. |
 | **MIMS**                 | Select to access an in‑app version of the latest *Monthly Index of Medical Specialities (MIMS)* digital handbook, the most common drug reference for healthcare professionals.<br><br>**NOTE:** The **MIMS** version is updated along with every **Daley Dose** version. |
-| **ALT+**                 | Select to add an alternative option for the pharmacy if the prescribed medication is not available.<br><br>When you select this button, the application opens the **Add Alternative** window.<br><br>**NOTE:** The application auto‑completes generic and brand name suggestions for each medication. You can turn off this feature in the **Options** window. |
+| **ALT+**                 | Select to add an alternative option for the pharmacy if the prescribed medication is not available.<br><br>When you select this button, the application opens the **Add Alternative** window.<br><br>**NOTE:** The application auto‑completes generic and brand name suggestions for each medication. You can turn off this feature in the options. |
 | **CREATE NEW**           | Select to create a new prescription.<br><br>When you select this button while there are items on the current prescription, the application displays the confirmation message “**Are you sure you want to erase the current prescription?**”<br><br>The application erases all populated fields when you select **Yes**. |
 | **EDIT**                 | Select to open and edit a previously saved prescription. |
 | **SCAN PHYSICAL COPY**   | Select to scan a handwritten prescription and create a digital version in a new prescription window.<br><br>When you select this button, the application opens the **Scan** window.<br><br>**NOTES:**<br>– The application displays this button on the desktop version only when your computer has a confirmed connected webcam.<br>– The application always displays this button on the mobile app. |
