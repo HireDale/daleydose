@@ -99,7 +99,7 @@ The following table describes the buttons in the Action Sidebar.
 
 ## **[5] WORK AREA**
 ---
-The Work Area is the central section of the interface. Its contents change depending on the current window accessed. It contains three tabs that serve as the main tools for creating a prescription.  
+The Work Area is the central section of the interface. It contains three tabs that serve as the main tools for creating a prescription.  
 
 To learn more about these tabs, see the [Main Tabs](/daleydose/window-main-tabs) section.
 
