@@ -15,7 +15,7 @@ With the various Daley Dose features at your disposal, you can assign alternativ
 
 
 ![Daley Dose user interface screenshot](/assets/images/daley-dose-home-window-clean.png)
-<p style="text-align:center;"><em>The Daley Dose user interface for version 1.4</em></p>
+<p style="text-align:center;"><em>The Daley Dose user interface for version 1.5</em></p>
 
 ## **FEATURED**
 ---
@@ -35,7 +35,7 @@ With the various Daley Dose features at your disposal, you can assign alternativ
 ## **ADDITIONAL LINKS**
 ---
 
-- [**Version 1.4 Release Notes**](/daleydose/release-notes-v1.4)  
+- [**Version 1.4 Release Notes**](/daleydose/release-notes-v1.5)  
   Review the latest updates, enhancements, and fixes included in version 1.4 of the Daley Dose application.
   
 - [**Version History**](/daleydose/release-note-version-history)  
