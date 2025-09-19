@@ -11,7 +11,9 @@ You will perform most of your work in the **Home** window of the **Daley Dose** 
 
 In this window, you can create medical prescriptions for your patients. Each prescription can include up to 5 medications. You can also scan physical prescriptions and convert them into a digital version.
 
-The **Home** window appears when you start the **Daley Dose** application. By default, it opens with the last saved instance of a previous prescription (if any), allowing you to continue where you left off. You can disable this feature in the options.
+The **Home** window appears when you start the **Daley Dose** application. 
+
+By default, it opens with the last saved instance of a previous prescription (if any), allowing you to continue where you left off. You can disable this feature in the options.
 
 ![Daily Dose user interface](/assets/images/daley-dose-home-window-error.png)
 
