@@ -40,19 +40,22 @@ Most of the interface remains the same throughout the prescription‑making proc
 ---
 The **Title Section** is located at the top left of the application and contains the **Daley Dose** name, logo, and version number.  
 
+![Daily Dose Title Section](/assets/images/daley-dose-home-window-section-1.png)
+
 The following table describes the buttons in the **Title Section**.
 
 | **BUTTONS**       | **DEFINITION** |
 |-------------------|----------------|
 | **DALEY DOSE ICON** | Select the **Daley Dose** icon to view the **System Information** pop‑up window.<br><br>The application displays detailed information about the program, including its complete version number, release date, and a list of developer notes added in the build. |
 
-![Daily Dose Title Section](/assets/images/daley-dose-home-window-section-1.png)
 
 ### **PROFILE SECTION**
 ---
 The **Profile Section** is located at the top right of the screen.  
 
 You can view your profile information and access in‑app settings here. This section also displays a greeting during an active session, showing the current active **Prescriber** and their system‑assigned ID.  
+
+![Daily Dose Profile Section](/assets/images/daley-dose-home-window-section-2.png)
 
 The following table describes the buttons in the **Profile Section**.
 
@@ -62,11 +65,11 @@ The following table describes the buttons in the **Profile Section**.
 | **PROFILE**      | Select to view the active profile’s information, role, prescription restrictions, form templates, and saved security settings.<br><br>When you select this button, the application opens the **Profile** window.<br>
 | **OPTIONS**      | Select to view the application’s options.<br><br>When you select this button, the application opens the **Options** window. |
 
-![Daily Dose Profile Section](/assets/images/daley-dose-home-window-section-2.png)
-
 ### **INFORMATION SIDEBAR**
 ---
 The **Information Sidebar** displays details about the patient, the prescribing doctor, and the current prescription.  
+
+![Daily Dose Information Sidebar](/assets/images/daley-dose-home-window-section-3.png)
 
 The following table describes the fields in the **Information Sidebar**.
 
@@ -79,11 +82,11 @@ The following table describes the fields in the **Information Sidebar**.
 | **PRESCRIBER LAST NAME**| Displays the prescribing user’s last name.<br><br>**NOTE:** This is a read‑only field. The prescriber information is based on the current user logged into the application. |
 | **PRESCRIBER FIRST NAME**| Displays the prescribing user’s first name.<br><br>**NOTE:** This is a read‑only field. The prescriber information is based on the current user logged into the application. |
 
-![Daily Dose Information Sidebar](/assets/images/daley-dose-home-window-section-3.png)
-
 ### **ACTION SIDEBAR**
 ---
 The **Action Sidebar** displays the main buttons used when creating and managing prescriptions.  
+
+![Daily Dose Action Sidebar](/assets/images/daley-dose-home-window-section-4.png)
 
 The following table describes the buttons in the **Action Sidebar**.
 
@@ -105,8 +108,6 @@ The following table describes the buttons in the **Action Sidebar**.
 | **ADD MEDICAL SIGNATURE**| Select to add your official medical signature to the prescription.<br><br>This field is required to finalize the prescription.<br><br>**NOTE:** You must have a medical signature template saved in the **Profile** window to use this functionality. |
 | **PRINT COPY**           | Select to print the current prescription on a local printer.<br><br>**NOTES:**<br>– This option is available only on devices with a confirmed connection to a printer.<br>– This feature is not available on the **Daley Dose** mobile app. |
 | **SEND ONLINE**          | Select to send the prescription to the **Daley Dose** database for deployment.<br><br>**NOTE:** The application displays the confirmation message “**Finalize and send out this prescription?**” before sending. |
-
-![Daily Dose Action Sidebar](/assets/images/daley-dose-home-window-section-4.png)
 
 ### **WORK AREA**
 ---
