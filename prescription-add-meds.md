@@ -28,6 +28,8 @@ To add medication to the current prescription, follow these steps:
 6. Select **OK**.  
    - The application disables the **OK** button when at least one of the following fields is empty: **Generic Name**, **Dose**, or **Amount**.
 
+![Daley Dose user interface screenshot](/assets/images/daley-dose-add-medication-window.png)
+
 ## **PROBLEMS YOU MIGHT ENCOUNTER**  
 ---
 
