@@ -160,6 +160,8 @@ This tab enables you to create prescriptions by adding medications and notes. Ea
 
 You can learn more about this tab in the [**How to create a new prescription**](/daleydose/prescription-create-new) topic.
 
+![Daily Dose Prescription Tab](/assets/images/daley-dose-home-window-tab-1-labels.png)
+
 ### **DRUG HISTORY**
 ---
 The **Drug History** tab enables you to check the current patient’s history of prescribed medication. The Daley Dose application syncs with the online database to provide the latest updates (within 1 hour) on the patient’s digital records.  
