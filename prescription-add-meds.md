@@ -9,28 +9,28 @@ layout: default
 
 To add medication to the current prescription, follow these steps:
 
-1. Select the green **+** button on the Prescription tab. 
+1. Select the green **+** button on the **Prescription** tab. 
    - When you do this, the application displays the **Add Medication** window.
 
-2. In the Add Medication window, enter either the generic or brand name of the medication in their respective fields.  
+2. In the **Add Medication** window, enter either the generic or brand name of the medication in their respective fields.  
    - The **Generic Name** field is mandatory, while the **Brand Name** field is optional.
 
 3. If you enter a brand name while the **Generic Name** field is empty, the application automatically lists the brand name’s generic version in that field.  
    - The application auto-completes generic and brand name suggestions for each medication.  
-   - You can turn off this feature in the **Options** window.
+   - You can turn off this feature in the options.
 
 4. Enter the medication dosage.
 
 5. Enter the amount of medication you want to prescribe.
 
-6. Select **Save**.  
-   - The application disables the **Save** button when at least one of the following fields is empty: **Generic Name**, **Dose**, or **Amount**.
+6. Select **OK**.  
+   - The application disables the **OK** button when at least one of the following fields is empty: **Generic Name**, **Dose**, or **Amount**.
 
 ## **PROBLEMS YOU MIGHT ENCOUNTER**  
 ---
 
 ### The application prevents you from selecting the **+ Meds** button  
-- **REASON:** The application disables the **+ Meds** button when the **Patient Name** field is empty, the device has no internet connection, the current prescription already has 5 medications, or the user does not have a **Prescriber** role.  
+- **REASON:** The application disables the green **+** button when the **Patient Name** fields are empty, the device has no internet connection, the current prescription already has 5 medications, or the user does not have a **Prescriber** role.  
 - **SOLUTION:** Check whether any of the above conditions apply, and then try again.
 
 ### Error message when entering medication name: **"Medication Incompatible with Patient"**  
