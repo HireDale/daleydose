@@ -92,7 +92,9 @@ For simplicity, this guide presents the button definitions by category.
 
 ### **UTILITY**
 ---
-The **Utility** buttons enable you to manage individual entries in the current prescription. They also provide access to in‑app references.
+The **Utility** buttons enable you to manage individual prescription entries and access in‑app references, including the help files and the latest *Monthly Index of Medical Specialities (MIMS)* edition.
+
+![Daily Dose Action Sidebar: Utility](/assets/images/daley-dose-home-window-section-4-1.png)
 
 The following table describes the **Utility** buttons in the **Action Sidebar**:
 
@@ -110,7 +112,9 @@ The following table describes the **Utility** buttons in the **Action Sidebar**:
 
 ### **MAIN**
 ---
-The **Main** buttons enable you to add, edit, or finalize prescriptions.
+The **Main** buttons enable you to add, edit, or finalize prescriptions. The application disables the **Finalize** button if it detects an issue with any of the current prescription items.
+
+![Daily Dose Action Sidebar: Main](/assets/images/daley-dose-home-window-section-4-2.png)
 
 The following table describes the **Main** buttons in the **Action Sidebar**:
 
@@ -123,7 +127,11 @@ The following table describes the **Main** buttons in the **Action Sidebar**:
 
 ### **GENERATE**
 ---
-The **Generate** buttons enable you to sign, print, and send out the current prescription.
+The **Generate** buttons enable you to sign, print, and send the current prescription. These buttons are locked by the system to prevent errors when issuing prescriptions.
+
+To unlock the **Generate** buttons, you must first select the **Finalize** button.
+
+![Daily Dose Action Sidebar: Generate](/assets/images/daley-dose-home-window-section-4-3.png)
 
 The following table describes the **Generate** buttons in the **Action Sidebar**:
 
