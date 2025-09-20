@@ -26,7 +26,7 @@ Explore core topics about the Daley Dose application and its features.
   View available user roles, including each role’s responsibilities and limitations.
 
 - [**About Prescription Restrictions**](/daleydose/about-prescription-restrictions)  
-  View details about the prescription restriction feature, which prevents selected Prescribers from ordering specific types of medication.
+  View details about the Prescription Restriction feature, which prevents selected Prescribers from ordering specific types of medication.
 
 ## **WINDOW DEFINITIONS**
 View available windows and their functions in the application.
