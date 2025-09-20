@@ -6,9 +6,8 @@ layout: default
 
 # **HOME WINDOW**
 ---
-The **Home** window appears when you start the **Daley Dose** application. 
 
-By default, it opens with the last saved instance of a previous prescription (if any), allowing you to continue where you left off. You can disable this feature in the options.
+By default, the **Home** window opens with the last saved instance of a previous prescription (if any), allowing you to continue where you left off. You can disable this feature in the options.
 
 Here, you can create medical prescriptions for your patients. Each prescription can include up to 5 medications. You can also scan physical prescriptions and convert them into a digital version.
 
@@ -21,10 +20,8 @@ Here, you can create medical prescriptions for your patients. Each prescription 
 
 ## **RELATED TOPICS**
 ---
-- You must have a **Prescriber** role to create prescriptions.  
-  + See [**User Roles**](/daleydose/about-user-roles) for more information.  
-- An **Administrator** or **Support** user can impose or remove a prescription restriction on a **Prescriber**.  
-  + See [**Prescription Restrictions**](/daleydose/about-prescription-restrictions) for more information.  
+- You must have a **Prescriber** role to create prescriptions. See [**User Roles**](/daleydose/about-user-roles) for more information.  
+- An **Administrator** or **Support** user can impose or remove a prescription restriction on a **Prescriber**. See [**Prescription Restrictions**](/daleydose/about-prescription-restrictions) for more information.  
 
 ## **INTERFACE DETAILS**
 ---
