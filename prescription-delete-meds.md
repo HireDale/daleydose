@@ -4,7 +4,7 @@ description: ""
 layout: default
 ---
 
-# **DELETE MEDICATIONS FROM A PRESCRIPTION**  
+# **DELETE MEDICATIONS AND NOTES FROM A PRESCRIPTION**  
 ---
 ![Daley Dose user interface delete button](/assets/images/daley-dose-home-window-parts-delete.png)
 
