@@ -4,25 +4,25 @@ description: ""
 layout: default
 ---
 
-# **ADD AND EDIT MEDICATION NOTES**  
+# **ADD, EDIT, AND DELETE MEDICATION NOTES**  
 ---
 
 To manage notes for a medication, follow these steps:
 
-1. On the **Home** window, select the medication you want to add notes to.
+1. On the **Prescription** tab, select the medication you want to add notes to.
 
-2. Select the **+ Notes** button.  
+2. Select the **Add Notes** button (blue **Plus**) under the medication.  
    - You can add new notes to the selected medication.  
-   - You can also edit and delete existing notes.
+   - You can also edit and delete existing notes by double-clicking it and accessing the [**Add Notes** window](/daleydose/window-add-notes).
 
    **NOTES**  
    - The application disables this button when there are no medications currently added to the prescription.  
    - You can write up to 25 words per note.  
    - You cannot restore deleted notes.
 
-To delete notes directly from the **Home** window:
+To delete notes directly from the **Prescription** tab:
 
-1. Find the note you want to delete.
+1. Select the Delete button on the.
 
 2. Double-click the note number to delete the corresponding entry from the prescription.
 
