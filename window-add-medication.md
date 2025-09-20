@@ -9,7 +9,7 @@ In the **Add Medication** window, you can add medication to the patient’s curr
 
 To view this window: **Prescription** tab > **Add Medication** (green **Plus** button) 
 
-![Daley Dose user interface screenshot](/assets/images/daley-dose-add-medication-window.png)
+![Daley Dose user interface screenshot](/assets/images/daley-dose-home-window-parts-add-meds.png)
 
 ## **NOTES**
 ---
@@ -24,6 +24,8 @@ To view this window: **Prescription** tab > **Add Medication** (green **Plus** b
   + See [**User Roles**](/daleydose/about-user-roles) for more information.  
 - An **Administrator** or **Support** user can impose or remove a **Prescription Restriction** on a **Prescriber**.  
   + See [**Prescription Restrictions**](/daleydose/about-prescription-restrictions) for more information.
+
+![Daley Dose user interface screenshot](/assets/images/daley-dose-add-medication-window.png)
 
 ## **INTERFACE DETAILS**
 ---
