@@ -7,6 +7,8 @@ layout: default
 # **ADD MEDICATION TO A PRESCRIPTION**
 ---
 
+![Daley Dose user interface screenshot](/assets/images/daley-dose-home-window-parts-add-meds.png)
+
 To add medication to the current prescription, follow these steps:
 
 1. Select the **Add Medication** (green **Plus** button) on the **Prescription** tab. 
