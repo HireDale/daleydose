@@ -22,6 +22,5 @@ To delete a medication from the current prescription, follow these steps:
 
 ## **SEE ALSO**
 ---
-- [**Home Window**](/daleydose/window-home)  
 - [**How to create a new prescription**](/daleydose/prescription-create-new)  
 - [**How to add medications to a prescription**](/daleydose/prescription-add-meds)  
