@@ -7,7 +7,7 @@ layout: default
 
 In the **Add Alternative** window, you can add an alternative option for the pharmacy in case the prescribed medication is not available.  
 
-To view this window: **Home** > Select the medication you want to add an alternative option for > **Alt +**
+To view this window: **Prescription** tab > Select the medication you want to add an alternative option for > **Add Alternative** (**Alt +**)
   
 ![Daley Dose user interface alternative meds button](/assets/images/daley-dose-home-window-parts-alt.png)
 
