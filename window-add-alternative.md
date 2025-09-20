@@ -20,10 +20,8 @@ To view this window: **Prescription** tab > Select the medication you want to ad
 
 ## **RELATED TOPICS**
 ---
-- You must have the **Prescriber** role to view this window.  
-  + See [**User Roles**](/daleydose/about-user-roles) for more information.  
-- An **Administrator** or **Support** user can impose or remove a prescription restriction on a **Prescriber**.  
-  + See [**Prescription Restrictions**](/daleydose/about-prescription-restrictions) for more information.
+- You must have the **Prescriber** role to view this window. See [**User Roles**](/daleydose/about-user-roles) for more information.  
+- An **Administrator** or **Support** user can impose or remove a prescription restriction on a **Prescriber**. See [**Prescription Restrictions**](/daleydose/about-prescription-restrictions) for more information.
 
 ## **INTERFACE DETAILS**
 ---
