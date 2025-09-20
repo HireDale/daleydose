@@ -175,7 +175,7 @@ The following table describes the buttons in the **Prescription** tab.
 | **BUTTONS**        | **DEFINITION** |
 |--------------------|----------------|
 | **ADD MEDICATION** | Select to add a medication entry to the current prescription.<br><br>When selected, the application opens the [**Add Medication** window](/daleydose/window-add-medication). |
-| **ADD NOTE**       | Select to add a note entry to the selected medication.<br><br>When selected, the application opens the [**Add Note** window](/daleydose/window-add-notes). |
+| **ADD NOTE**       | Select to add a note entry to the selected medication.<br><br>When selected, the application opens the [**Add Notes** window](/daleydose/window-add-notes). |
 
 ### **DRUG HISTORY**
 ---
