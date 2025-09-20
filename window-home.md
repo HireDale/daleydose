@@ -64,7 +64,9 @@ The following table describes the buttons in the **Profile Section**:
 
 ## **INFORMATION SIDEBAR**
 ---
-The **Information Sidebar** displays details about the patient, the prescribing doctor, and the current prescription.  
+The **Information Sidebar** is located at the left of the screen. 
+
+It displays details about the patient, the prescribing doctor, and the current prescription. You cannot add medications to the current prescription while these fields are empty.  
 
 ![Daily Dose Information Sidebar](/assets/images/daley-dose-home-window-section-3.png)
 
@@ -81,7 +83,9 @@ The following table describes the fields in the **Information Sidebar**:
 
 ## **ACTION SIDEBAR**
 ---
-The **Action Sidebar** displays the buttons to create and manage prescriptions. These buttons are divided into three categories: **Utility**, **Main**, and **Generate**.
+The **Action Sidebar** is located at the right of the screen. 
+
+It displays the buttons to create and manage prescriptions. These buttons are divided into three categories: **Utility**, **Main**, and **Generate**.
 
 For simplicity, this guide presents the button definitions by category.
 
@@ -140,7 +144,9 @@ The following table describes the **Generate** buttons in the **Action Sidebar**
 
 ## **WORK AREA**
 ---
-The **Work Area** is the central section of the interface. It contains three tabs that serve as the main tools for creating a prescription: **Prescription**, **Drug History**, and **Med History**.
+The **Work Area** is the central section of the screen. 
+
+It contains three tabs that serve as the main tools for creating a prescription: **Prescription**, **Drug History**, and **Med History**.
 
 ![Daily Dose Work Area](/assets/images/daley-dose-home-window-section-5.png)
 
