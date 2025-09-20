@@ -18,6 +18,6 @@ This genuinely puts the FUN in functionality — finally!
 ## **RELEASE DATE**
 ---
 
-The **Custom Themes** feature of the application rolls out early 2027. This will be included in the standard package of the Daley Dose subscription.
+The **Custom Themes** feature of the application rolls out early 2029. This will be included in the standard package of the Daley Dose subscription.
 
 Follow us on our social media channels for sneak peeks, feature spotlights, and behind‑the‑scenes updates as we get closer to launch. We’ll be sharing early demos, integration tips, and ways you can be among the first to test new capabilities.
