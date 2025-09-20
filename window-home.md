@@ -84,27 +84,51 @@ The following table describes the fields in the **Information Sidebar**:
 
 ## **ACTION SIDEBAR**
 ---
-The **Action Sidebar** displays the main buttons used when creating and managing prescriptions.  
+The **Action Sidebar** displays the buttons to create and manage prescriptions. These buttons are divided into three categories: **Utility**, **Main**, and **Generate**.
+
+For simplicity, this guide presents the button definitions by category.
 
 ![Daily Dose Action Sidebar](/assets/images/daley-dose-home-window-section-4.png)
 
-The following table describes the buttons in the **Action Sidebar**:
+### **UTILITY**
+---
+The **Utility** buttons enable you to manage individual entries in the current prescription. They also provide access to in‑app references.
+
+The following table describes the **Utility** buttons in the **Action Sidebar**:
+
+| **BUTTONS**   | **DEFINITION** |
+|---------------|----------------|
+| **UNDO**      | Select to undo the last action performed in the current prescription. |
+| **SAVE**      | Select to save the current prescription. The application automatically displays the saved prescription the next time you log in. You can view a list of saved prescriptions using the **Open** button.<br><br>**NOTE:** Saved prescriptions are removed from the system. |
+| **REDO**      | Select to redo the last action undone in the current prescription. |
+| **CLEAR**     | Select to clear the current prescription entry’s contents. |
+| **HELP**      | Select to access an in‑app version of the latest **Daley Dose Help Files**.<br><br>**NOTES:**<br>– The help files automatically open the entry about the current window.<br>– You can also view the latest version of the help files on the **Daley Dose** website. |
+| **DELETE**    | Select to delete the currently selected medication or note.<br><br>**NOTE:** The application displays the confirmation message “**Are you sure you want to delete this from the prescription?**” before removing the medication from the list. |
+| **REFRESH**   | Select to refresh the contents of the current session to match any saved instances or records in the database. This includes the contents of the patient's **Drug History** and **Medical History** tabs. |
+| **MIMS**      | Select to access an in‑app version of the latest *Monthly Index of Medical Specialities (MIMS)* digital handbook, the most common drug reference for healthcare professionals.<br><br>**NOTE:** The **MIMS** version is updated along with every **Daley Dose** version. |
+| **ALT+**      | Select to add an alternative option for the pharmacy if the prescribed medication is not available.<br><br>When you select this button, the application opens the **Add Alternative** window.<br><br>**NOTE:** The application auto‑completes generic and brand name suggestions for each medication. You can turn off this feature in the options. |
+
+### **MAIN**
+---
+The **Main** buttons enable you to add, edit, or finalize prescriptions.
+
+The following table describes the **Main** buttons in the **Action Sidebar**:
+
+| **BUTTONS**         | **DEFINITION** |
+|---------------------|----------------|
+| **CREATE NEW**      | Select to create a new prescription.<br><br>When you select this button while there are items on the current prescription, the application displays the confirmation message “**Are you sure you want to erase the current prescription?**”<br><br>The application erases all populated fields when you select **Yes**. |
+| **EDIT**            | Select to open and edit a previously saved prescription. |
+| **SCAN PHYSICAL COPY** | Select to scan a handwritten prescription and create a digital version in a new prescription window.<br><br>When you select this button, the application opens the **Scan** window.<br><br>**NOTES:**<br>– The application displays this button on the desktop version only when your computer has a confirmed connected webcam.<br>– The application always displays this button on the mobile app. |
+| **FINALIZE**        | Select to finalize the current prescription.<br><br>When you select this button, the application locks the contents of the current prescription and enables the **Add Medical Signature**, **Print Copy**, and **Send Online** buttons. |
+
+### **GENERATE**
+---
+The **Generate** buttons enable you to sign, print, and send out the current prescription.
+
+The following table describes the **Generate** buttons in the **Action Sidebar**:
 
 | **BUTTONS**              | **DEFINITION** |
 |--------------------------|----------------|
-| **UNDO**                 | Select to undo the last action performed in the current prescription. |
-| **SAVE**                 | Select to save the current prescription. The application automatically displays the saved prescription the next time you log in. You can view a list of saved prescriptions using the **Open** button.<br><br>**NOTE:** Saved prescriptions are removed from the system. |
-| **REDO**                 | Select to redo the last action undone in the current prescription. |
-| **CLEAR**                | Select to clear the current prescription entry’s contents. |
-| **HELP**                 | Select to access an in‑app version of the latest **Daley Dose Help Files**.<br><br>**NOTES:**<br>– The help files automatically open the entry about the current window.<br>– You can also view the latest version of the help files on the **Daley Dose** website. |
-| **DELETE**               | Select to delete the currently selected medication or note.<br><br>**NOTE:** The application displays the confirmation message “**Are you sure you want to delete this from the prescription?**” before removing the medication from the list. |
-| **REFRESH**              | Select to refresh the contents of the current session to match any saved instances or records in the database. This includes the contents of the patient's **Drug History** and **Medical History** tabs. |
-| **MIMS**                 | Select to access an in‑app version of the latest *Monthly Index of Medical Specialities (MIMS)* digital handbook, the most common drug reference for healthcare professionals.<br><br>**NOTE:** The **MIMS** version is updated along with every **Daley Dose** version. |
-| **ALT+**                 | Select to add an alternative option for the pharmacy if the prescribed medication is not available.<br><br>When you select this button, the application opens the **Add Alternative** window.<br><br>**NOTE:** The application auto‑completes generic and brand name suggestions for each medication. You can turn off this feature in the options. |
-| **CREATE NEW**           | Select to create a new prescription.<br><br>When you select this button while there are items on the current prescription, the application displays the confirmation message “**Are you sure you want to erase the current prescription?**”<br><br>The application erases all populated fields when you select **Yes**. |
-| **EDIT**                 | Select to open and edit a previously saved prescription. |
-| **SCAN PHYSICAL COPY**   | Select to scan a handwritten prescription and create a digital version in a new prescription window.<br><br>When you select this button, the application opens the **Scan** window.<br><br>**NOTES:**<br>– The application displays this button on the desktop version only when your computer has a confirmed connected webcam.<br>– The application always displays this button on the mobile app. |
-| **FINALIZE**             | Select to finalize the current prescription.<br><br>When you select this button, the application locks the contents of the current prescription and enables the **Add Medical Signature**, **Print Copy**, and **Send Online** buttons. |
 | **ADD MEDICAL SIGNATURE**| Select to add your official medical signature to the prescription.<br><br>This field is required to finalize the prescription.<br><br>**NOTE:** You must have a medical signature template saved in the **Profile** window to use this functionality. |
 | **PRINT COPY**           | Select to print the current prescription on a local printer.<br><br>**NOTES:**<br>– This option is available only on devices with a confirmed connection to a printer.<br>– This feature is not available on the **Daley Dose** mobile app. |
 | **SEND ONLINE**          | Select to send the prescription to the **Daley Dose** database for deployment.<br><br>**NOTE:** The application displays the confirmation message “**Finalize and send out this prescription?**” before sending. |
