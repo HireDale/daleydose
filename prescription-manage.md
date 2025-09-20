@@ -7,6 +7,8 @@ layout: default
 # **ADD, EDIT, AND DELETE MEDICATION NOTES**  
 ---
 
+![Daley Dose user interface screenshot](/assets/images/daley-dose-home-window-parts-add-notes.png) 
+
 To manage notes for a medication, follow these steps:
 
 1. On the **Prescription** tab, select the medication you want to add notes to.
