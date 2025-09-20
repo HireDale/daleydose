@@ -8,8 +8,8 @@ layout: default
 In the **Add Medication** window, you can add medication to the patient’s current prescription.
 
 To view this window:  
-- On a new prescription: **Home** > **Create New** > green **(+)**  
-- On an existing prescription: **Home** > green **(+)**
+- On a new prescription: **Home** > **Create New** > **Add Medication** (green **Plus** button) 
+- On an existing prescription: **Home** > **Add Medication** (green **Plus** button) 
 
 ![Daley Dose user interface screenshot](/assets/images/daley-dose-home-window-parts-add-meds.png)
 
