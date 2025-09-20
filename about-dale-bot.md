@@ -20,7 +20,7 @@ With Dale Bot, the only thing left on your to‑do list might be figuring out 
 ## **RELEASE DATE**
 ---
 
-The **Dale Bot** feature launches across all applications in **late 2026**. Early access begins **January 2026**, available exclusively to Gold Package subscribers. 
+The **Dale Bot** feature launches across all applications in **late 2028**. Early access begins **January 2027**, available exclusively to **Gold Package** subscribers. 
 
 Follow us on our social media channels for sneak peeks, feature spotlights, and behind‑the‑scenes updates as we get closer to launch. We’ll be sharing early demos, integration tips, and ways you can be among the first to test new capabilities.
 
