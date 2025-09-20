@@ -16,13 +16,14 @@ Pharmacies print a copy of the medications and their associated notes when the p
 - Special instructions before or after taking the dose  
 - Whether the medication requires test results before taking  
 
-**To view this window:**  
-- On a new prescription: **Home** > **Create new** > Select an entered medication > **+ Notes**  
-- On an existing prescription: **Home** > Select an entered medication > **+ Notes**  
+To view this window: **Prescription** tab > Under the medication entry you want to add a note > **Add Note** (blue **Plus** button)
+
+![Daley Dose user interface screenshot](/assets/images/daley-dose-home-window-parts-add-notes.png) 
 
 ## **NOTES**
 ---
-- The application prevents you from adding notes when the **Patient Name** field is empty.  
+- The application prevents you from adding notes when the **Patient Name** fields are empty.
+- The application prevents you from adding notes when there are no medications added to the current prescription.
 - You can add up to 5 notes per medication.
 
 ## **RELATED TOPICS**
@@ -38,7 +39,7 @@ The following table describes the fields in the **Add Notes** window:
 
 | **FIELD**   | **DEFINITION** |
 |-------------|----------------|
-| **MEDICATION** | Displays the selected medication.<br><br>**NOTE:** This field is read‑only. It serves to remind you which medication you are creating notes for. To select another medication for notes, return to the **Home** window, select the medication, then select the **+ Notes** button. |
+| **MEDICATION** | Displays the selected medication.<br><br>**NOTE:** This field is read‑only. It serves to remind you which medication you are creating notes for. To select another medication for notes, you must return to the **Prescription** tab first. |
 | **NOTE** | Displays the note.<br><br>**NOTE:** You can add up to 5 notes per medication. |
 
 The following table describes the buttons in the **Add Notes** window:
@@ -53,6 +54,5 @@ The following table describes the buttons in the **Add Notes** window:
 
 ## **SEE ALSO**
 ---
-- [**Home Window**](/daleydose/window-home)
 - [**How to add, edit, and delete medication notes**](/daleydose/prescription-manage)  
 - [**How to finalize and send out a prescription**](/daleydose/prescription-finalize)
