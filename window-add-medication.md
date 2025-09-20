@@ -18,7 +18,7 @@ To view this window:
 - Your device must be connected to the internet to add medications. The Daley Dose database cross‑checks the entered patient’s diagnoses with the medications you are allowed to prescribe.  
 - The application prevents you from adding medication when the **Patient Name** fields are empty.  
 - You can add up to 5 medications per prescription.  
-- The application auto‑completes generic and brand name suggestions for each medication by default. You can permanently turn off this feature in the [**Options Window**](/daleydose/window-options).  
+- The application auto‑completes generic and brand name suggestions for each medication by default. You can permanently turn off this feature in the options.
 
 ## **RELATED TOPICS**
 ---
