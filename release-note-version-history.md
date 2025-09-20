@@ -199,9 +199,6 @@ This release introduces the ability to continue writing a prescription from a pr
 - **DD‑1318**  
   Resolved an extremely rare bug where the finalized prescription’s QR code sent pharmacies the entire opening monologue to the *Bee Movie*, causing devices to crash due to the amount of lines and text.
 
-### **KNOWN ISSUES**  
----
-
 ## **SEE ALSO**
 ---
 - [**Version 1.5 Release Notes**](/daleydose/release-notes-v1.5)
