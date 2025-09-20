@@ -55,7 +55,6 @@ To create a new prescription, follow these steps:
 
 ## **SEE ALSO**
 ---
-- [**Home Window**](/daleydose/window-home)  
 - [**How to delete medications from a prescription**](/daleydose/prescription-delete-meds) 
 - [**How to add, edit, and delete medication notes**](/daleydose/prescription-manage)  
 - [**How to digitize a handwritten prescription**](/daleydose/prescription-digitize)
