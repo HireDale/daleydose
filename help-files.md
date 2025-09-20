@@ -44,7 +44,7 @@ View available windows and their functions in the application.
   This window enables you to add, edit, and remove alternatives to medications in the prescription. The pharmacy uses the alternative option when the main medication is not available.
 
 - [**Scan Window**](/daleydose/window-scan)  
-  View the Scan window and its field and button definitions. This window enables you to scan a handwritten prescription and convert it to a digital form.
+  This window enables you to scan a handwritten prescription and convert it to a digital form.
 
 ## **INSTALLATION GUIDES**
 Learn how to install, troubleshoot, and update the application.
