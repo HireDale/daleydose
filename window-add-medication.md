@@ -11,6 +11,8 @@ To view this window:
 - On a new prescription: **Home** > **Create new** > **+ Meds**  
 - On an existing prescription: **Home** > **+ Meds**
 
+![Daley Dose user interface screenshot](/assets/images/daley-dose-add-medication-window.png)
+
 ## **NOTES**
 ---
 - Your device must be connected to the internet to add medications. The Daley Dose database cross‑checks the entered patient’s diagnoses with the medications you are allowed to prescribe.  
