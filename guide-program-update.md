@@ -7,11 +7,11 @@ layout: default
 # **DALEY DOSE UPDATE GUIDE**
 ---
 
-1. **Check the application’s version number** on the **Home** window.  
-2. Proceed to the next step only if the current version is below 1.4.  
+1. **Check the application’s version number** on the **Home** window. To view more information about the application’s version, select the **Daley Dose** icon at the top-left corner. 
+2. Proceed to the next step only if the current version is below **1.5**.  
 3. Select **Options**.  
 4. Select **System information**.  
-5. In the **Version** field, select **Update now**.  
+5. In the **Version** field, select **Update Now**.  
 
 ## **NOTES**
 ---
