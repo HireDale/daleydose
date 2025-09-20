@@ -36,7 +36,7 @@ The **Home** window is composed of the **Title Section**, **Profile Section**, *
 
 Most of the interface remains the same throughout the prescription‑making process. Only the middle section, referred to as the **Work Area**, changes depending on the current window accessed.
 
-### **TITLE SECTION**
+## **TITLE SECTION**
 ---
 The **Title Section** is located at the top left of the application and contains the **Daley Dose** name, logo, and version number.  
 
@@ -49,7 +49,7 @@ The following table describes the buttons in the **Title Section**:
 | **DALEY DOSE ICON** | Select the **Daley Dose** icon to view the **System Information** pop‑up window.<br><br>The application displays detailed information about the program, including its complete version number, release date, and a list of developer notes added in the build. |
 
 
-### **PROFILE SECTION**
+## **PROFILE SECTION**
 ---
 The **Profile Section** is located at the top right of the screen.  
 
@@ -65,7 +65,7 @@ The following table describes the buttons in the **Profile Section**:
 | **PROFILE**      | Select to view the active profile’s information, role, prescription restrictions, form templates, and saved security settings.<br><br>When you select this button, the application opens the **Profile** window.<br>
 | **OPTIONS**      | Select to view the application’s options. |
 
-### **INFORMATION SIDEBAR**
+## **INFORMATION SIDEBAR**
 ---
 The **Information Sidebar** displays details about the patient, the prescribing doctor, and the current prescription.  
 
@@ -82,7 +82,7 @@ The following table describes the fields in the **Information Sidebar**:
 | **PRESCRIBER LAST NAME**| Displays the prescribing user’s last name.<br><br>**NOTE:** This is a read‑only field. The prescriber information is based on the current user logged into the application. |
 | **PRESCRIBER FIRST NAME**| Displays the prescribing user’s first name.<br><br>**NOTE:** This is a read‑only field. The prescriber information is based on the current user logged into the application. |
 
-### **ACTION SIDEBAR**
+## **ACTION SIDEBAR**
 ---
 The **Action Sidebar** displays the main buttons used when creating and managing prescriptions.  
 
@@ -109,13 +109,13 @@ The following table describes the buttons in the **Action Sidebar**:
 | **PRINT COPY**           | Select to print the current prescription on a local printer.<br><br>**NOTES:**<br>– This option is available only on devices with a confirmed connection to a printer.<br>– This feature is not available on the **Daley Dose** mobile app. |
 | **SEND ONLINE**          | Select to send the prescription to the **Daley Dose** database for deployment.<br><br>**NOTE:** The application displays the confirmation message “**Finalize and send out this prescription?**” before sending. |
 
-### **WORK AREA**
+## **WORK AREA**
 ---
 The **Work Area** is the central section of the interface. It contains three tabs that serve as the main tools for creating a prescription: **Prescription**, **Drug History**, and **Med History**.
 
 ![Daily Dose Work Area](/assets/images/daley-dose-home-window-section-5.png)
 
-#### **PRESCRIPTION TAB**
+### **PRESCRIPTION TAB**
 ---
 You will be doing most of your work on the **Prescription** tab.  
 
@@ -123,7 +123,7 @@ This tab enables you to create prescriptions by adding medications and notes. Ea
 
 You can learn more about this tab in the [**How to create a new prescription**](/daleydose/prescription-create-new) topic.
 
-#### **DRUG HISTORY TAB**
+### **DRUG HISTORY TAB**
 ---
 The **Drug History** tab enables you to check the current patient’s history of prescribed medication. The Daley Dose application syncs with the online database to provide the latest updates (within 1 hour) on the patient’s digital records.  
 
@@ -131,7 +131,7 @@ This tab is useful when checking for previous prescriptions from other doctors o
 
 Because the **Drug History** tab syncs with the database each time you view it, the application requires an internet connection to use this functionality. The loading time of the information also depends on the current internet speed.
 
-#### **MED HISTORY TAB**
+### **MED HISTORY TAB**
 ---
 The **Med History** tab enables you to check the current patient’s history of medical conditions and treatments. The application divides this tab into two sections: **Current Status** and **Medical Records**.  
 
