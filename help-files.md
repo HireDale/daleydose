@@ -6,9 +6,9 @@ description: ""
 
 # **DALEY DOSE HELP FILES**
 ---
-The **Help files** enable you to learn individual parts of the Daley Dose application.
+The **Help Files** enable you to learn individual parts of the Daley Dose application.
 
-You can access the Daley Dose help files from within the application by selecting the **Help** button or through the Daley Dose website.
+You can access the help files from within the application by selecting the **Help** button or through the Daley Dose website.
 
 ![Help Button](/assets/images/daley-dose-home-window-help.png)  
 
