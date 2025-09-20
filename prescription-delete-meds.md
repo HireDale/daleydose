@@ -8,7 +8,7 @@ layout: default
 ---
 ![Daley Dose user interface delete button](/assets/images/daley-dose-home-window-parts-delete.png)
 
-To delete a medication from the current prescription, follow these steps:
+To delete an entry the current prescription, follow these steps:
 
 1. On the **Action Sidebar**, select the **Delete** button.  
 2. The application enables **Delete Mode** and displays checkboxes next to existing entries in the **Prescription** tab.  
