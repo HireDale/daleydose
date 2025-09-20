@@ -6,7 +6,7 @@ layout: default
 
 # **CREATE A NEW PRESCRIPTION**
 ---
-
+![Daley Dose user interface create new](/assets/images/daley-dose-home-window-parts-create-new.png)
 To create a new prescription, follow these steps:
 
 1. On the **Home** window, select **Create New**.  
