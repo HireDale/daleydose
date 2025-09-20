@@ -204,7 +204,5 @@ This release introduces the ability to continue writing a prescription from a pr
 
 ## **SEE ALSO**
 ---
-- [**Version 1.4 Release Notes**](/daleydose/release-notes-v1.5)
-- [**Product Overview**](https://hiredale.github.io/daleydose/)
+- [**Version 1.5 Release Notes**](/daleydose/release-notes-v1.5)
 - [**Access the Help Files**](/daleydose/help-files)
-- [**HireDale.com**](https://hiredale.github.io)
