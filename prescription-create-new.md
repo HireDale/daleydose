@@ -13,25 +13,32 @@ To create a new prescription, follow these steps:
 1. Verify that the **Prescriber** fields are correct on the **Information Sidebar**.  
    - An incorrect Prescriber name indicates that you are logged into the wrong account. Log out, then log back in using your credentials to continue.
 
+
 2. On the **Action Sidebar**, select **Create New**.  
    - Creating a new prescription erases all current work loaded on the **Prescription** tab. Save, send, or print any ongoing prescriptions before continuing.  
    - If there are items on the current prescription, the application displays the confirmation message **"Are you sure you want to erase the current prescription?"**. The application erases all populated fields when you select **Yes**.
+
 
 3. Enter the patient’s information in the **Patient Name** fields.  
    - The application prevents adding medications and notes when the **Patient Name** fields are empty.  
    - Entering a **Patient Last Name** restricts **Patient First Name** options to those with an existing record in the database.
 
+
 4. Enter the issue date in the **Prescription Date** field.  
    - The application displays this in [MM/DD/YYYY] format.  
    - If this field is empty when you finalize the prescription, the application fills it with the current date.
 
+
 5. (Optional) Enter the expected refill date in the **Refill Date** field.
+
 
 6. Add medications and notes. You can add up to 5 medications per prescription.  
    - See [**How to add medications to a prescription**](/daleydose/prescription-add-meds) for more information.
 
+
 7. Finalize your work. From here, you can either print the prescription or send it to the database for processing.  
    - See [**How to finalize and send out a prescription**](/daleydose/prescription-finalize) for more information.
+
 
 ## **PROBLEMS YOU MIGHT ENCOUNTER**
 ---
