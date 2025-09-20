@@ -62,7 +62,5 @@ Note that the latest Daley Dose application requires a corporate account with an
 
 ## **SEE ALSO**
 ---
-- [**Product Overview**](https://hiredale.github.io/daleydose/)
 - [**Access the Help Files**](/daleydose/help-files)
 - [**Version History**](/daleydose/release-note-version-history)
-- [**HireDale.com**](https://hiredale.github.io)
