@@ -25,10 +25,10 @@ To view this window: **Prescription** tab > **Add Medication** (green **Plus** b
 - An **Administrator** or **Support** user can impose or remove a **Prescription Restriction** on a **Prescriber**.  
   + See [**Prescription Restrictions**](/daleydose/about-prescription-restrictions) for more information.
 
-![Daley Dose user interface screenshot](/assets/images/daley-dose-add-medication-window.png)
-
 ## **INTERFACE DETAILS**
 ---
+![Daley Dose user interface screenshot](/assets/images/daley-dose-add-medication-window.png)
+
 The following table describes the fields available in the **Add Medication** window:
 
 | **FIELD** | **DEFINITION** |
