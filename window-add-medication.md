@@ -16,15 +16,15 @@ To view this window:
 ## **NOTES**
 ---
 - Your device must be connected to the internet to add medications. The Daley Dose database cross‑checks the entered patient’s diagnoses with the medications you are allowed to prescribe.  
-- The application prevents you from adding medication when the **Patient Name** field is empty.  
+- The application prevents you from adding medication when the **Patient Name** fields are empty.  
 - You can add up to 5 medications per prescription.  
-- The application auto‑completes generic and brand name suggestions for each medication by default. You can turn off this feature in the [**Options Window**](/daleydose/window-options).  
+- The application auto‑completes generic and brand name suggestions for each medication by default. You can permanently turn off this feature in the [**Options Window**](/daleydose/window-options).  
 
 ## **RELATED TOPICS**
 ---
 - You must have the **Prescriber** role to view this window.  
   + See [**User Roles**](/daleydose/about-user-roles) for more information.  
-- An **Administrator** or **Support** user can impose or remove a **Prescription restriction** on a **Prescriber**.  
+- An **Administrator** or **Support** user can impose or remove a **Prescription Restriction** on a **Prescriber**.  
   + See [**Prescription Restrictions**](/daleydose/about-prescription-restrictions) for more information.
 
 ![Daley Dose user interface screenshot](/assets/images/daley-dose-add-medication-window.png)
@@ -44,10 +44,11 @@ The following table describes the fields available in the **Add Medication** win
 
 The following table describes the buttons available in the **Add Medication** window:
 
-| **BUTTON** | **DEFINITION** |
-|------------|----------------|
-| **CANCEL** | Select to close the **Add Medication** window without adding the currently entered information to the prescription.<br><br>**NOTE:** When you select this button, the application displays the confirmation message **"Are you sure you want to close this window without adding the medication?"** before closing. |
-| **OK** | Select to close the **Add Medication** window and add the currently entered information to the prescription.<br><br>**NOTE:** The application disables this button when at least one of the following fields is empty: **Generic name**, **Dose**, or **Amount**. |
+| **BUTTON**         | **DEFINITION** |
+|--------------------|----------------|
+| **AUTO‑COMPLETE**  | Select to enable or disable the auto‑complete feature when entering medication names. **Green** indicates the feature is enabled; **red** indicates it is disabled. |
+| **CANCEL**         | Select to close the **Add Medication** window without adding the entered information to the prescription.<br><br>**NOTE:** When selected, the application displays the confirmation message **"Are you sure you want to close this window without adding the medication?"** before closing. |
+| **OK**             | Select to close the **Add Medication** window and add the entered information to the prescription.<br><br>**NOTE:** This button is disabled if any of the following fields are empty: **Generic name**, **Dose**, or **Amount**. |
 
 ## **SEE ALSO**
 ---
