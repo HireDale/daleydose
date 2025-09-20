@@ -11,6 +11,7 @@ layout: default
 To create a new prescription, follow these steps:
 
 1. Verify that the **Prescriber** fields are correct on the **Information Sidebar**.  
+   - The **Prescriber** fields are read‑only. The information displayed depends on the currently active user profile.
    - An incorrect Prescriber name indicates that you are logged into the wrong account. Log out, then log back in using your credentials to continue.  
    
 2. On the **Action Sidebar**, select **Create New**.  
