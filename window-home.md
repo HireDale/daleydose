@@ -35,7 +35,9 @@ Most of the interface remains the same throughout the prescription‑making proc
 
 ## **TITLE SECTION**
 ---
-The **Title Section** is located at the top left of the application and contains the **Daley Dose** name, logo, and version number.  
+The **Title Section** is located in the top‑left corner of the screen. 
+
+It contains the **Daley Dose** name, logo, and version number.
 
 ![Daily Dose Title Section](/assets/images/daley-dose-home-window-section-1.png)
 
@@ -48,7 +50,7 @@ The following table describes the buttons in the **Title Section**:
 
 ## **PROFILE SECTION**
 ---
-The **Profile Section** is located at the top right of the screen.  
+The **Profile Section** is located in the top‑right corner of the screen.
 
 You can view your profile information and access in‑app settings here. This section also displays a greeting during an active session, showing the current active **Prescriber** and their system‑assigned ID.  
 
@@ -64,7 +66,7 @@ The following table describes the buttons in the **Profile Section**:
 
 ## **INFORMATION SIDEBAR**
 ---
-The **Information Sidebar** is located at the left of the screen. 
+The **Information Sidebar** is located on the left side of the screen.  
 
 It displays details about the patient, the prescribing doctor, and the current prescription. You cannot add medications to the current prescription while these fields are empty.  
 
@@ -83,7 +85,7 @@ The following table describes the fields in the **Information Sidebar**:
 
 ## **ACTION SIDEBAR**
 ---
-The **Action Sidebar** is located at the right of the screen. 
+The **Action Sidebar** is located on the right side of the screen.  
 
 It displays the buttons to create and manage prescriptions. These buttons are divided into three categories: **Utility**, **Main**, and **Generate**.
 
@@ -144,7 +146,7 @@ The following table describes the **Generate** buttons in the **Action Sidebar**
 
 ## **WORK AREA**
 ---
-The **Work Area** is the central section of the screen. 
+The **Work Area** occupies the central section of the screen.
 
 It contains three tabs that serve as the main tools for creating a prescription: **Prescription**, **Drug History**, and **Med History**.
 
