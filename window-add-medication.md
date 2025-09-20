@@ -40,7 +40,6 @@ The following table describes the fields available in the **Add Medication** win
 | **DOSE** | Enter the medication’s dosage.<br><br>**NOTE:** The application disables this field when the entered medication does not include dosage instructions. |
 | **UNIT** | Displays the most common unit of measurement for the entered medication.<br><br>**NOTE:** This is a read‑only field. The application disables this field when the entered medication does not include dosage instructions. |
 | **AMOUNT** | Enter the medication quantity for the prescription. |
-| **AUTO‑COMPLETE STATUS** | Displays whether the generic and brand name auto‑complete function is enabled. This feature is enabled by default. You can turn off this feature in the **Options** window.<br><br>**STATUS:**<br>– Green: The option is turned on.<br>– Red: The option is turned off.<br>– Purple: The option is turned off for all accounts by an **Admin** or the owner of the corporate account. |
 
 The following table describes the buttons available in the **Add Medication** window:
 
