@@ -8,10 +8,10 @@ layout: default
 In the **Add Medication** window, you can add medication to the patient’s current prescription.
 
 To view this window:  
-- On a new prescription: **Home** > **Create new** > **+ Meds**  
-- On an existing prescription: **Home** > **+ Meds**
+- On a new prescription: **Home** > **Create New** > **+**  
+- On an existing prescription: **Home** > **+**
 
-![Daley Dose user interface screenshot](/assets/images/daley-dose-add-medication-window.png)
+![Daley Dose user interface screenshot](/assets/images/daley-dose-home-window-parts-add-meds.png)
 
 ## **NOTES**
 ---
@@ -26,6 +26,8 @@ To view this window:
   + See [**User Roles**](/daleydose/about-user-roles) for more information.  
 - An **Administrator** or **Support** user can impose or remove a **Prescription restriction** on a **Prescriber**.  
   + See [**Prescription Restrictions**](/daleydose/about-prescription-restrictions) for more information.
+
+![Daley Dose user interface screenshot](/assets/images/daley-dose-add-medication-window.png)
 
 ## **INTERFACE DETAILS**
 ---
@@ -45,7 +47,7 @@ The following table describes the buttons available in the **Add Medication** wi
 | **BUTTON** | **DEFINITION** |
 |------------|----------------|
 | **CANCEL** | Select to close the **Add Medication** window without adding the currently entered information to the prescription.<br><br>**NOTE:** When you select this button, the application displays the confirmation message **"Are you sure you want to close this window without adding the medication?"** before closing. |
-| **SAVE** | Select to close the **Add Medication** window and add the currently entered information to the prescription.<br><br>**NOTE:** The application disables this button when at least one of the following fields is empty: **Generic name**, **Dose**, or **Amount**. |
+| **OK** | Select to close the **Add Medication** window and add the currently entered information to the prescription.<br><br>**NOTE:** The application disables this button when at least one of the following fields is empty: **Generic name**, **Dose**, or **Amount**. |
 
 ## **SEE ALSO**
 ---
