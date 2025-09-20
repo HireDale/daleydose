@@ -108,7 +108,7 @@ The following table describes the **Utility** buttons in the **Action Sidebar**:
 | **REDO**      | Select to redo the last action undone in the current prescription. |
 | **CLEAR**     | Select to clear the current prescription entry’s contents. |
 | **HELP**      | Select to access an in‑app version of the latest **Daley Dose Help Files**.<br><br>**NOTES:**<br>– The help files automatically open the entry about the current window.<br>– You can also view the latest version of the help files on the **Daley Dose** website. |
-| **DELETE**    | Select to delete the currently selected medication or note.<br><br>**NOTE:** The application displays the confirmation message “**Are you sure you want to delete this from the prescription?**” before removing the medication from the list. |
+| **DELETE**    | Select to access **delete mode**, which displays checkboxes next to existing entries in the prescription. <br><br>**NOTE:** The application displays the confirmation message “**Are you sure you want to delete these from the prescription?**” before removing the selected entries from the list. |
 | **REFRESH**   | Select to refresh the contents of the current session to match any saved instances or records in the database. This includes the contents of the patient's **Drug History** and **Medical History** tabs. |
 | **MIMS**      | Select to access an in‑app version of the latest *Monthly Index of Medical Specialities (MIMS)* digital handbook, the most common drug reference for healthcare professionals.<br><br>**NOTE:** The **MIMS** version is updated along with every **Daley Dose** version. |
 | **ALT+**      | Select to add an alternative option for the pharmacy if the prescribed medication is not available.<br><br>When you select this button, the application opens the **Add Alternative** window.<br><br>**NOTE:** The application auto‑completes generic and brand name suggestions for each medication. You can turn off this feature in the options. |
@@ -161,6 +161,24 @@ This tab enables you to create prescriptions by adding medications and notes. Ea
 You can learn more about this tab in the [**How to create a new prescription**](/daleydose/prescription-create-new) topic.
 
 ![Daily Dose Prescription Tab](/assets/images/daley-dose-home-window-tab-1-labels.png)
+
+The following table describes the fields in the **Prescription** tab.
+
+| **FIELDS**         | **DEFINITION** |
+|--------------------|----------------|
+| **SEQUENCE NUMBER** | Displays the sequence of entries.<br><br>**NOTES:**<br>- You can have up to 5 medications per prescription.<br>- You can have up to 5 notes per medication. |
+| **MEDICATION**      | Displays the medication name and dose.<br><br>**NOTE:** This is a read-only field. To edit the contents of a **Medication** field, double-click the desired medication to re-open the [**Add Medication** window](/daleydose/window-add-medication). |
+| **QUANTITY**        | Displays the quantity associated with the medication for the prescription. |
+| **NOTE**            | Displays the note associated with the medication.<br><br>**NOTE:** This is a read-only field. To edit the contents of a **Note** field, double-click the desired medication to re-open the [**Add Note** window](/daleydose/window-add-notes). |
+| **ERROR**           | Displays one of the following error messages for the associated medication entry:<br><br>- **INSUFF STOCK:** Indicates that the pharmacies associated with the patient or hospital do not have the entered quantity of the medication in stock.<br>- **DOSAGE ERROR:** Indicates that the entered dose is inconsistent with medical protocols.<br>- **RESTRICTED:** Indicates that the medication entry cannot be prescribed by the user because of their current **Prescription Restrictions**. |
+| **ERROR INDICATOR** | Identifies the reason for the error message. The application highlights the affected field in red.<br><br>Existing fields identified as causing errors prevent you from finalizing the prescription. |
+
+The following table describes the buttons in the **Prescription** tab.
+
+| **BUTTONS**        | **DEFINITION** |
+|--------------------|----------------|
+| **ADD MEDICATION** | Select to add a medication entry to the current prescription.<br><br>When selected, the application opens the **Add Medication** window. |
+| **ADD NOTE**       | Select to add a note entry to the selected medication.<br><br>When selected, the application opens the **Add Note** window. |
 
 ### **DRUG HISTORY**
 ---
