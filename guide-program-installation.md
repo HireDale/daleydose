@@ -30,7 +30,7 @@ layout: default
 
 9. Select **Install** to start the installation process, and **Finish** once the progress bar reaches 100%.  
 
-10. Once installed, open the Daley Dose application from your **Start menu** or its desktop shortcut.  
+10. Once installed, open the Daley Dose application from your **Start Menu** or its desktop shortcut.  
 
 ## **NOTES**
 ---
