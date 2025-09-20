@@ -9,7 +9,7 @@ layout: default
 
 To add medication to the current prescription, follow these steps:
 
-1. Select the green **(+)** button on the **Prescription** tab. 
+1. Select the **Add Medication** (green **Plus** button) on the **Prescription** tab. 
    - When you do this, the application displays the **Add Medication** window.
 
 2. In the **Add Medication** window, enter either the generic or brand name of the medication in their respective fields.  
@@ -29,8 +29,8 @@ To add medication to the current prescription, follow these steps:
 ## **PROBLEMS YOU MIGHT ENCOUNTER**  
 ---
 
-### The application prevents you from selecting the **+ Meds** button  
-- **REASON:** The application disables the green **(+)** button when the **Patient Name** fields are empty, the device has no internet connection, the current prescription already has 5 medications, or the user does not have a **Prescriber** role.  
+### The application prevents you from selecting the **Add Medication** button  
+- **REASON:** The application disables the **Add Medication** button when the **Patient Name** fields are empty, the device has no internet connection, the current prescription already has 5 medications, or the user does not have a **Prescriber** role.  
 - **SOLUTION:** Check whether any of the above conditions apply, and then try again.
 
 ### Error message when entering medication name: **"Medication Incompatible with Patient"**  
