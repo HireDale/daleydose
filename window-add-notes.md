@@ -35,6 +35,8 @@ To view this window: **Prescription** tab > Under the medication entry you want 
  
 ## **INTERFACE DETAILS**
 ---
+![Daley Dose user interface screenshot](/assets/images/daley-dose-add-notes-window.png) 
+
 The following table describes the fields in the **Add Notes** window:
 
 | **FIELD**   | **DEFINITION** |
