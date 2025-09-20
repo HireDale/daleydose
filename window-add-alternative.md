@@ -7,10 +7,10 @@ layout: default
 
 In the **Add Alternative** window, you can add an alternative option for the pharmacy in case the prescribed medication is not available.  
 
-**To view this window:**  
-- **Home** > Select the medication you want to add an alternative option for > **Alt +**
-- 
+To view this window: **Home** > Select the medication you want to add an alternative option for > **Alt +**
+  
 ![Daley Dose user interface alternative meds button](/assets/images/daley-dose-home-window-parts-alt.png)
+
 ## **NOTES**
 ---
 - Your device must be connected to the internet to add medications. The Daley Dose database cross‑checks the entered patient’s diagnoses with the medications you are allowed to prescribe.  
