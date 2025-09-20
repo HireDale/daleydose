@@ -25,7 +25,6 @@ Note that the latest Daley Dose application requires a corporate account with an
   The application now features a redesigned layout with new **Information** and **Action** sidebars for faster access to tools.  
   - Added the **Undo**, **Redo**, **Save**, **Clear**, **Help**, **Delete**, **Refresh**, **MIMS**, and **Finalize** buttons  
   - Added the **Drug History** and **Med History** tabs for quick access to patient prescription and medication records  
-  - See Figure 1: The updated **Home** window with new sidebars and buttons  
   - **REFERENCE NUMBERS:** DD‑2011 / DD‑2012 / DD‑2013 / DD‑2014 / DD‑2015 / DD‑2017 / DD‑2020
 
 ## **ENHANCEMENTS**
