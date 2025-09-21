@@ -13,12 +13,6 @@ To digitize a handwritten prescription, follow these steps:
 
 1. Select **Scan Physical Copy** on the **Prescription** tab to view the [**Scan** window](/daleydose/window-scan).
 
-   **NOTES**
-   - Generating a new prescription based on a scanned physical copy erases all current work loaded on the **Prescription** tab. Make sure to **Send**, **Save**, or **Print** any ongoing prescriptions before you continue.
-   - If there are items on the current prescription, the application displays the confirmation message **"Are you sure you want to erase the current prescription?"** The application erases all populated fields when you select **Yes**.
-   - The application only displays the **Scan Physical Copy** button on the desktop version when your computer has a confirmed connected webcam.
-   - The application always displays the **Scan Physical Copy** button on the mobile app.
-
 2. Check the status of the **Camera** and **Internet** fields.
    - You need both fields to show green to continue.
 
@@ -34,11 +28,15 @@ To digitize a handwritten prescription, follow these steps:
 
 6. After a successful scan, the application generates a new prescription based on the processed information.
 
-   **NOTES**
-   - You cannot edit medications or notes on a scanned prescription.
-
-
 ![Scan Window](/assets/images/daley-dose-scan-window.png)  
+
+## **NOTES**
+---
+   - Generating a new prescription based on a scanned physical copy erases all current work loaded on the **Prescription** tab. Make sure to **Send**, **Save**, or **Print** any ongoing prescriptions before you continue.
+   - If there are items on the current prescription, the application displays the confirmation message **"Are you sure you want to erase the current prescription?"** The application erases all populated fields when you select **Yes**.
+   - The application only displays the **Scan Physical Copy** button on the desktop version when your computer has a confirmed connected webcam.
+   - The application always displays the **Scan Physical Copy** button on the mobile app.
+   - You cannot edit medications or notes on a scanned prescription.
 
 ## **PROBLEMS YOU MIGHT ENCOUNTER**
 ---
