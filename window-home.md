@@ -15,8 +15,6 @@ To open a previously saved, unissued prescription, select **Open Saved Records**
 
 In the **Home** window, you can create medical prescriptions for your patients. Each prescription can include up to 5 medications. You can also scan physical prescriptions and convert them into a digital version.
 
-![Daily Dose user interface](/assets/images/daley-dose-home-window-error.png)
-
 ## **NOTES**
 ---
 - Access to the **Daley Dose** application requires an active subscription.  
@@ -129,6 +127,8 @@ The following table describes the **Main** buttons in the **Action Sidebar**:
 | **OPEN SAVED RECORDS**            | Select to open and edit a previously saved prescription. |
 | **SCAN PHYSICAL COPY** | Select to scan a handwritten prescription and create a digital version in a new prescription window.<br><br>When you select this button, the application opens the [**Scan** window](/daleydose/window-scan).<br><br>**NOTES:**<br>– The application displays this button on the desktop version only when your computer has a confirmed connected webcam.<br>– The application always displays this button on the mobile app. |
 | **FINALIZE**        | Select to finalize the current prescription.<br><br>When you select this button, the application locks the contents of the current prescription and enables the **Add Medical Signature**, **Print Copy**, and **Send Online** buttons. |
+
+![Daily Dose user interface](/assets/images/daley-dose-home-window-error.png)
 
 ### **GENERATE**
 ---
