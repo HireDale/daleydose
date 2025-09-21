@@ -6,7 +6,13 @@ layout: default
 
 # **MED HISTORY**
 ---
-The **Med History** tab enables you to check the current patient’s history of medical conditions and treatments. The application divides this tab into two sections: **Current Status** and **Medical Records**.  
+![Daily Dose Tabs](/assets/images/daley-dose-home-window-parts-tabs.png)
+
+The **Med History** tab enables you to check the current patient’s history of medical conditions and treatments. 
+
+The **Med History** tab is one of three tabs featured in the **Work Area** of the Daley Dose application, alongside the [**Prescription**](/daleydose/window-prescription-tab) and [**Drug History**](/daleydose/window-drug-history-tab) tabs.
+
+The application divides this tab into two sections: **Current Status** and **Medical Records**.  
 
 The **Current Status** section displays information about the patient’s ongoing or most recent medical issue. This enables prescribers to access quick context about the patient’s current prescription needs.  
 
