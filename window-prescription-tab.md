@@ -6,9 +6,11 @@ layout: default
 
 # **PRESCRIPTION TAB**
 ---
-You will be doing most of your work on the **Prescription** tab. The application displays this tab on the Work Area by default. You can change this in the options.   
+The **Prescription** tab is the primary workspace for creating and managing prescriptions. This tab enables you to add medications, attach notes, and finalize the prescription for printing or online sending.
 
-The **Prescription** tab enables you to create prescriptions by adding medications and notes. Each prescription can have up to 5 medications to ensure accuracy and compliance with regulations during the drug dispensing process.  
+Each prescription can include up to 5 medications. This limit ensures accuracy and compliance with dispensing regulations, especially when prescriptions are processed across multiple pharmacies or remote setups.
+
+The **Prescription** tab is one of three tabs featured in the **Work Area** of the Daley Dose application, alongside the [**Drug History**](/daleydose/window-drug-history-tab) and [**Med History**](/daleydose/window-med-history-tab) tabs.
 
 ## **RELATED TOPICS**
 ---
