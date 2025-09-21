@@ -150,19 +150,13 @@ The following table describes the **Generate** buttons in the **Action Sidebar**
 
 The **Work Area** is where you create, review, and finalize prescriptions. It occupies the center of the screen and contains three tabs:
 
-- **Prescription Tab** — Enables you to build a prescription by adding medications and notes.  
-- **Drug History Tab** — Displays the patient’s digitized prescription history from the past 20 years.  
-- **Med History Tab** — Displays the patient’s digitized medical conditions and treatments from the past 20 years.
+- [**Prescription Tab**](/daleydose/window-prescription-tab) — Enables you to build a prescription by adding medications and notes.  
+- [**Drug History Tab**](/daleydose/window-drug-history-tab) — Displays the patient’s digitized prescription history from the past 20 years.  
+- [**Med History Tab**](/daleydose/window-med-history-tab) — Displays the patient’s digitized medical conditions and treatments from the past 20 years.
+
+These tabs work together to provide a complete view of the patient’s treatment plan. You can learn more about each tab on their individual entries.
 
 ![Daily Dose Work Area](/assets/images/daley-dose-home-window-section-5.png)
-
-These tabs work together to provide a complete view of the patient’s treatment plan. You can learn more about each tab on their individual entries:
-
-- [**Prescription Tab**](/daleydose/window-prescription-tab)  
-- [**Drug History Tab**](/daleydose/window-drug-history-tab)  
-- [**Med History Tab**](/daleydose/window-med-history-tab)
-
-
 
 ## **SEE ALSO**
 ---
