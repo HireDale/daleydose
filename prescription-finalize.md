@@ -6,6 +6,8 @@ layout: default
 
 # **FINALIZE A PRESCRIPTION**  
 ---
+![Finalize buttons](/assets/images/daley-dose-home-window-parts-finalize.png)
+
 The **Generate** buttons of the **Action Sidebar** are the **Add Medical Signature**, **Print Copy**, and **Send Online**. As a safety measure when dealing with medical prescriptions, these three buttons are disabled by the application until you have finalized your work.
 After adding medications and notes to the prescription, select the **Finalize** button to lock the prescription entries in place and prepare the prescription for printing or online sending.
 
