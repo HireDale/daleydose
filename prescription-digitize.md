@@ -7,6 +7,8 @@ layout: default
 # **DIGITIZE A HANDWRITTEN PRESCRIPTION**
 ---
 
+![Scan Button](/assets/images/daley-dose-home-window-parts-scan.png)  
+
 To digitize a handwritten prescription, follow these steps:
 
 1. Select **Scan Physical Copy** on the **Prescription** tab.
@@ -34,6 +36,9 @@ To digitize a handwritten prescription, follow these steps:
 
    **NOTES**
    - You cannot edit medications or notes on a scanned prescription.
+
+
+![Scan Window](/assets/images/daley-dose-scan-window.png)  
 
 ## **PROBLEMS YOU MIGHT ENCOUNTER**
 ---
