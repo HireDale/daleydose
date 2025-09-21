@@ -5,7 +5,7 @@ layout: default
 ---
 
 # **SCAN WINDOW**
-In the **Scan** window, you can scan and digitize a handwritten prescription. After a successful scan, the application enters all processed information into a new prescription window.  
+In the **Scan** window, you can scan and digitize a handwritten prescription. After a successful scan, the application generates a new prescription based on the gathered information.  
 
 To view this window: **Prescription** tab > **Scan Physical Copy**  
 
@@ -13,10 +13,10 @@ To view this window: **Prescription** tab > **Scan Physical Copy**
 
 ## **NOTES**
 ---
-- The scanning process takes 20 seconds to complete.  
+- The scanning process takes up to 20 seconds to complete. The process depends on your camera quality and internet connection strength. 
 - You cannot edit medications or notes on a scanned prescription.  
-- The application displays the **Scan** button on the desktop version only when your computer has a confirmed connected webcam.  
-- The application always displays the **Scan** button on the mobile app.
+- The application displays the **Scan Physical Copy** button on the desktop version only when your computer has a confirmed connected webcam.  
+- The application always displays the **Scan Physical Copy** button on the mobile app.
 
 ## **INTERFACE DETAILS**
 ---
