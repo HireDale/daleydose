@@ -30,7 +30,14 @@ To add a medical signature, select the **Medical Signature** button on a finaliz
  
 ## **PRINT COPY**
 ---
+The Print Copy button enables you to print the finalized prescription locally. This option is more useful on a clinic or office setting, where the patient can get the prescription printed out after a consultation. The downside for this option is that the pharmacy may run out of stock of the prescribed medication from the time you printed it until the patient arrives at a pharmacy branch. This would create conflicts and may prevent the patient from getting medication until a later date or a represcription with a different medication. This issue can be avoided by adding an alternative option during the prescription process.
 
+See [**How to add alternatives to medication entries**(/daleydose/prescription-add-alts) topic for more information.
+
+### **NOTES**
+---
+– This option is available only on devices with a confirmed connection to a printer.
+– This feature is not available on the Daley Dose mobile app.
 
 ## **SEND ONLINE**
 ---
