@@ -4,24 +4,31 @@ description: ""
 layout: default
 ---
 
-# **FINALIZE AND SEND OUT A PRESCRIPTION**  
+# **FINALIZE A PRESCRIPTION**  
 ---
+After adding medications and notes to the prescription, select the Finalize button to lock the prescription entries in place and prepare the prescription for printing or online sending.
 
-To finalize and send out a prescription, follow these steps:
+The application disables the Finalize button when there are errors in the current prescription.
+To finalize a prescription, the entries within the prescription must first have zero errors. The application highlights fields with errors in red. You can also see an error message indicating the nature of the error on the same line as its source. 
 
-1. Select the medication you want to add an alternative for, then select the **+ Alt** button on the left toolbar.  
-   - *(Optional)*  
-   - When you select this button, the application displays the **Add Alternative** window.  
-   - You can add an alternative option for the pharmacy in case the prescribed medication is not available.
 
-2. Select the **+ MD Sig** button to add your saved digital information at the bottom of the prescription.  
 
-   **NOTES**  
+## **ADD MEDICAL SIGNATURE**
+---
+Select the **+ MD Sig** button to add your saved digital information at the bottom of the prescription.  
+
    - The signature includes the prescriber’s full name, medical license number, contact information, and known office address.  
    - This is a required field for finalization.  
    - You must have a medical signature template saved in the **Profile** window to use this functionality.
+ 
+## **PRINT COPY**
+---
 
-3. Finalize the prescription.  
+
+## **SEND ONLINE**
+---
+
+Finalize the prescription.  
    - Select **Send** to send the current prescription’s information to the Daley Database.  
    - The application sends the prescription to the patient via a secure, one-time-use QR code. The patient can use this QR code to fill the prescription at a partner pharmacy.  
    - Select **Print** to use a local printer connected to your device and create a hard copy of the patient’s prescription.
@@ -57,5 +64,4 @@ To finalize and send out a prescription, follow these steps:
 
 ## **SEE ALSO**
 ---
-- [**Home Window**](/daleydose/window-home)  
 - [**How to create a new prescription**](/daleydose/prescription-create-new)  
