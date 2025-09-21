@@ -145,14 +145,14 @@ The following table describes the **Generate** buttons in the **Action Sidebar**
 | **SEND ONLINE**          | Select to send the prescription to the **Daley Dose** database for deployment.<br><br>**NOTE:** The application displays the confirmation message “**Finalize and send out this prescription?**” before sending. |
 
 
-# **WORK AREA**
+## **WORK AREA**
 ---
 
 The **Work Area** is where you create, review, and finalize prescriptions. It occupies the center of the screen and contains three tabs:
 
-- [**Prescription tab**](/daleydose/window-prescription-tab) — Enables you to build a prescription by adding medications and notes.  
-- [**Drug History tab**](/daleydose/window-drug-history-tab) — Displays the patient’s digitized prescription history from the past 20 years.  
-- [**Med History tab**](/daleydose/window-med-history-tab) — Displays the patient’s digitized medical conditions and treatments from the past 20 years.
+- [**Prescription**](/daleydose/window-prescription-tab) — Enables you to build a prescription by adding medications and notes.  
+- [**Drug History**](/daleydose/window-drug-history-tab) — Displays the patient’s digitized prescription history from the past 20 years.  
+- [**Med History**](/daleydose/window-med-history-tab) — Displays the patient’s digitized medical conditions and treatments from the past 20 years.
 
 These tabs work together to provide a complete view of the patient’s treatment plan. You can learn more about each tab on their individual entries.
 
