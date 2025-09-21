@@ -7,13 +7,11 @@ layout: default
 # **HOME WINDOW**
 ---
 
-By default, after logging into the application, the **Home** window loads the last saved instance of a previous prescription (if any), allowing you to continue where you left off. You can disable this feature in the options.
-
-To create a new prescription, select the **Create New** button on the **Action Sidebar**.
-
-To open a previously saved, unissued prescription, select **Open Saved Records**.
-
 In the **Home** window, you can create medical prescriptions for your patients. Each prescription can include up to 5 medications. You can also scan physical prescriptions and convert them into a digital version.
+
+- To create a new prescription, select the **Create New** button on the **Action Sidebar**.
+- To open a previously saved, unissued prescription, select **Open Saved Records**.
+- By default, after logging into the application, the **Home** window loads the last saved instance of a previous prescription (if any), allowing you to continue where you left off. You can disable this feature in the options.
 
 ## **NOTES**
 ---
