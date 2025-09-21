@@ -34,15 +34,6 @@ View available windows and their functions in the application.
 - [**Home Window**](/daleydose/window-home)  
   Starting point for creating and managing patient prescriptions.
 
-- [**Prescription Tab**](/daleydose/window-prescription-tab)  
-  Central workspace for creating and managing prescriptions. Displays all entries in the current prescription.
-
-- [**Drug History Tab**](/daleydose/window-drug-history-tab)  
-  View the patient’s digitized prescription history from the past 20 years.
-
-- [**Med History Tab**](/daleydose/window-med-history-tab)  
-  View the patient’s digitized medical conditions and treatments from the past 20 years.
-
 - [**Add Medication Window**](/daleydose/window-add-medication)  
   Add, edit, or remove medications from the current prescription.
 
@@ -55,6 +46,18 @@ View available windows and their functions in the application.
 - [**Scan Window**](/daleydose/window-scan)  
   Scan a handwritten prescription and convert it to a digital version.
 
+## **WORK AREA TABS**
+View and access the three core tabs used to build, review, and finalize prescriptions.
+
+- [**Prescription Tab**](/daleydose/window-prescription-tab)  
+  Central workspace for creating and managing prescriptions. Displays all entries in the current prescription.
+
+- [**Drug History Tab**](/daleydose/window-drug-history-tab)  
+  View the patient’s digitized prescription history from the past 20 years.
+
+- [**Med History Tab**](/daleydose/window-med-history-tab)  
+  View the patient’s digitized medical conditions and treatments from the past 20 years.
+  
 ## **INSTALLATION GUIDES**
 Learn how to install, troubleshoot, and update the application.
 
