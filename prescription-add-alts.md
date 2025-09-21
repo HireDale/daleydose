@@ -19,7 +19,6 @@ To add an alternative option to a medication entry in the current prescription, 
 
 2. In the **Add Alternative** window, enter either the generic or brand name of the medication in their respective fields.
    - The **Generic Name** field is mandatory, while the **Brand Name** field is optional.
-   - You cannot enter the original medication entry as its own alternative.
 
 3. If you enter a brand name while the **Generic Name** field is empty, the application automatically lists the brand name’s generic version in that field.
    - The application auto-completes generic and brand name suggestions for each medication.
@@ -37,7 +36,14 @@ To add an alternative option to a medication entry in the current prescription, 
 
 ## **PROBLEMS YOU MIGHT ENCOUNTER**  
 ---
+### The application prevents you from selecting the **Add Alternative** button  
+- **REASON:** The prescription is currently empty, or you have not selected which medication to create an alternative option for.  
+- **SOLUTION:** Ensure that you have selected a medication on the **Home** window and try again.
 
+### Error message when entering alternative medication name: **"Identical Medication"**  
+- **REASON:** The alternative medication name you entered is the same as the original.  
+- **SOLUTION:** Ensure that the alternative medication you enter is different from the original.
+- 
 ### Error message when entering medication name: **"Medication Unknown"**  
 - **REASON:** The medication name you are trying to add does not exist in the Daley Database.  
 - **SOLUTION:** Ensure that the generic or brand name is correct. With the auto-complete feature, make sure at least the first 3 letters of the medication are correct.
