@@ -49,13 +49,13 @@ View available windows and their functions in the application.
 ## **WORK AREA TABS**
 View and access the three core tabs used to build, review, and finalize prescriptions.
 
-- [**Prescription Tab**](/daleydose/window-prescription-tab)  
+- [**Prescription**](/daleydose/window-prescription-tab)  
   Central workspace for creating and managing prescriptions. Displays all entries in the current prescription.
 
-- [**Drug History Tab**](/daleydose/window-drug-history-tab)  
+- [**Drug History**](/daleydose/window-drug-history-tab)  
   View the patient’s digitized prescription history from the past 20 years.
 
-- [**Med History Tab**](/daleydose/window-med-history-tab)  
+- [**Med History**](/daleydose/window-med-history-tab)  
   View the patient’s digitized medical conditions and treatments from the past 20 years.
   
 ## **INSTALLATION GUIDES**
