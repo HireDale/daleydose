@@ -50,7 +50,6 @@ To add medication to the current prescription, follow these steps:
 
 ## **SEE ALSO**
 ---
-- [**Add Medication Window**](/daleydose/window-add-medication)  
-- [**Add Alternative Window**](/daleydose/window-add-alternative)  
-- [**How to create a new prescription**](/daleydose/prescription-create-new)  
 - [**How to delete medications from a prescription**](/daleydose/prescription-delete-meds) 
+- [**How to add, edit, and delete medication notes**](/daleydose/prescription-manage)  
+- [**How to finalize and send out a prescription**](/daleydose/prescription-finalize)
