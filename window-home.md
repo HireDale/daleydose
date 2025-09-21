@@ -29,6 +29,7 @@ In the **Home** window, you can create medical prescriptions for your patients. 
 
 ## **INTERFACE DETAILS**
 ---
+![Daily Dose user interface sections](/assets/images/daley-dose-home-window-clean-sections.png)
 
 The **Home** window is composed of the **Title Section**, **Profile Section**, **Work Area**, **Information Sidebar**, and **Action Sidebar**.  
 
