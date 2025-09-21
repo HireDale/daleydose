@@ -26,11 +26,6 @@ To view this window: **Prescription** tab > Under the medication entry you want 
 - The application prevents you from adding notes when there are no medications added to the current prescription.
 - You can add up to 5 notes per medication.
 
-## **RELATED TOPICS**
----
-- You must have the **Prescriber** role to view this window. See [**User Roles**](/daleydose/about-user-roles) for more information.  
-- An **Administrator** or **Support** user can impose or remove a prescription restriction on a **Prescriber**. See [**Prescription Restrictions**](/daleydose/about-prescription-restrictions) for more information.
- 
 ## **INTERFACE DETAILS**
 ---
 ![Daley Dose user interface screenshot](/assets/images/daley-dose-add-notes-window.png) 
@@ -51,6 +46,11 @@ The following table describes the buttons in the **Add Notes** window:
 | **DELETE** | Select to delete the selected note. |
 | **CANCEL** | Select to close the **Add Notes** window without adding the currently entered information to the prescription.<br><br>**NOTE:** When you select this button, the application displays the confirmation message **"Are you sure you want to close this window without adding the notes?"** before closing. |
 | **OK** | Select to close the **Add Notes** window and add the currently entered information to the prescription. |
+
+## **RELATED TOPICS**
+---
+- You must have the **Prescriber** role to view this window. See [**User Roles**](/daleydose/about-user-roles) for more information.  
+- An **Administrator** or **Support** user can impose or remove a prescription restriction on a **Prescriber**. See [**Prescription Restrictions**](/daleydose/about-prescription-restrictions) for more information.
 
 ## **SEE ALSO**
 ---
