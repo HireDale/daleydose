@@ -27,14 +27,14 @@ The following table describes the fields in the **Scan** window:
 
 | **FIELD** | **DEFINITION** |
 |-----------|----------------|
-| **CAMERA** | Displays the camera’s current status.<br><br>**Status:**<br>– **Green:** Camera ready.<br>– **Red:** Camera not detected. |
+| **CAMERA** | Displays the camera’s current status.<br><br>**Status:**<br>– **Green:** Camera ready.<br>– **Red:** Camera has poor quality or not detected. |
 | **INTERNET** | Displays the internet connection’s current status.<br><br>**Status:**<br>– **Green:** Internet connection available.<br>– **Red:** No or poor internet connection. |
 
 The following table describes the buttons in the **Scan** window:
 
 | **BUTTON** | **DEFINITION** |
 |------------|----------------|
-| **CAPTURE** | Select to begin the prescription scan.<br><br>**NOTES:**<br>– The application enables this button only when both the **Camera** and **Internet** fields are green.<br>– The scanning process takes 20 seconds to complete. |
+| **CAPTURE** | Select to begin the prescription scan.<br><br>**NOTES:**<br>– The application enables this button only when both the **Camera** and **Internet** fields are green.<br>– The scanning process takes up to 20 seconds to complete. |
 | **RESET** | Select to delete the previously taken image and restart the process. |
 | **CANCEL** | Select to close the **Scan** window without adding the currently scanned information to the prescription.<br><br>**NOTE:** When you select this button, the application displays the confirmation message **"Are you sure you want to close this window?"** before closing. |
 | **OK** | Select to close the **Scan** window and generate a new prescription based on the scanned information. |
