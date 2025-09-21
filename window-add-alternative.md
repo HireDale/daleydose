@@ -18,11 +18,6 @@ To view this window: **Prescription** tab > Select the medication you want to ad
 - You cannot set the same medication as its alternative option.  
 - The application auto‑completes generic and brand name suggestions for each medication by default. You can turn off this feature in the options.  
 
-## **RELATED TOPICS**
----
-- You must have the **Prescriber** role to view this window. See [**User Roles**](/daleydose/about-user-roles) for more information.  
-- An **Administrator** or **Support** user can impose or remove a prescription restriction on a **Prescriber**. See [**Prescription Restrictions**](/daleydose/about-prescription-restrictions) for more information.
-
 ## **INTERFACE DETAILS**
 ---
 ![Daley Dose Add Alternative Window](/assets/images/daley-dose-add-alts-window.png)
@@ -44,6 +39,11 @@ The following table describes the buttons available in the **Add Alternative** w
 | **AUTO‑COMPLETE**  | Select to enable or disable the auto‑complete feature when entering medication names. **Green** indicates the feature is enabled; **red** indicates it is disabled. |
 | **CANCEL**         | Select to close the **Add Medication** window without adding the entered information to the prescription.<br><br>**NOTE:** When selected, the application displays the confirmation message **"Are you sure you want to close this window without adding the medication?"** before closing. |
 | **OK**             | Select to close the **Add Alternative** window and add the entered information to the prescription.<br><br>**NOTE:** This button is disabled if any of the following fields are empty: **Generic Name**, **Dose**, or **Amount**. |
+
+## **RELATED TOPICS**
+---
+- You must have the **Prescriber** role to view this window. See [**User Roles**](/daleydose/about-user-roles) for more information.  
+- An **Administrator** or **Support** user can impose or remove a prescription restriction on a **Prescriber**. See [**Prescription Restrictions**](/daleydose/about-prescription-restrictions) for more information.
 
 ## **SEE ALSO**
 ---
