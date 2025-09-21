@@ -11,7 +11,7 @@ layout: default
 
 To add medication to the current prescription, follow these steps:
 
-1. Select the **Add Medication** (green **Plus** button) on the **Prescription** tab. 
+1. Select the **Add Medication** button (green **Plus**) on the **Prescription** tab. 
    - When you do this, the application displays the **Add Medication** window.
 
 2. In the **Add Medication** window, enter either the generic or brand name of the medication in their respective fields.  
