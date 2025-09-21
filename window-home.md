@@ -18,11 +18,6 @@ In the **Home** window, you can create medical prescriptions for your patients. 
 - Access to the **Daley Dose** application requires an active subscription.  
 - Your device must be connected to the internet to send digital prescriptions.
 
-## **RELATED TOPICS**
----
-- You must have a **Prescriber** role to create prescriptions. See [**User Roles**](/daleydose/about-user-roles) for more information.  
-- An **Administrator** or **Support** user can impose or remove a prescription restriction on a **Prescriber**. See [**Prescription Restrictions**](/daleydose/about-prescription-restrictions) for more information.  
-
 ## **INTERFACE DETAILS**
 ---
 ![Daily Dose user interface sections](/assets/images/daley-dose-home-window-clean-sections.png)
@@ -157,6 +152,11 @@ The **Work Area** is where you create, review, and finalize prescriptions. It oc
 These tabs work together to provide a complete view of the patient’s treatment plan. You can learn more about each tab on their individual entries.
 
 ![Daily Dose Work Area](/assets/images/daley-dose-home-window-section-5.png)
+
+## **RELATED TOPICS**
+---
+- You must have a **Prescriber** role to create prescriptions. See [**User Roles**](/daleydose/about-user-roles) for more information.  
+- An **Administrator** or **Support** user can impose or remove a prescription restriction on a **Prescriber**. See [**Prescription Restrictions**](/daleydose/about-prescription-restrictions) for more information.  
 
 ## **SEE ALSO**
 ---
