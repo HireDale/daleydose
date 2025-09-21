@@ -18,7 +18,7 @@ With the various Daley Dose features at your disposal, you can assign alternativ
 ## **FEATURED**
 ---
 
-- [**View the Help Files**](/daleydose/help-files)  
+- [**Access the Help Files**](/daleydose/help-files)  
   Access the Daley Dose Help Files to quickly find step‑by‑step guides, troubleshooting tips, and feature overviews that help you get the most out of the application.
 
 - [**About Daley Dose**](/daleydose/about-daley-dose)  
