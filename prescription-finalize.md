@@ -6,12 +6,12 @@ layout: default
 
 # **FINALIZE A PRESCRIPTION**  
 ---
-After adding medications and notes to the prescription, select the Finalize button to lock the prescription entries in place and prepare the prescription for printing or online sending.
+The **Generate** buttons of the **Action Sidebar** are the **Add Medical Signature**, **Print Copy**, and **Send Online**. As a safety measure when dealing with medical prescriptions, these three buttons are disabled by the application until you have finalized your work.
+After adding medications and notes to the prescription, select the **Finalize** button to lock the prescription entries in place and prepare the prescription for printing or online sending.
 
-The application disables the Finalize button when there are errors in the current prescription.
-To finalize a prescription, the entries within the prescription must first have zero errors. The application highlights fields with errors in red. You can also see an error message indicating the nature of the error on the same line as its source. 
+The application disables the **Finalize** button when there are errors in the current prescription. The application highlights fields with errors in red. You can also see an error message indicating the nature of the error on the same line as its source. 
 
-
+![Main Screen with Errors](/assets/images/daley-dose-home-window-error.png)
 
 ## **ADD MEDICAL SIGNATURE**
 ---
