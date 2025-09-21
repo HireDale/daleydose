@@ -32,7 +32,7 @@ Explore core topics about the Daley Dose application and its features.
 View available windows and their functions in the application.
 
 - [**Home Window**](/daleydose/window-home)  
-  This window enables you to create and edit a patient’s prescription.
+  This window enables you to create and manage a patient’s prescription.
 
 - [**Add Medication Window**](/daleydose/window-add-medication)  
   This window enables you to add, edit, and remove medications from the current prescription.
