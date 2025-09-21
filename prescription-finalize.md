@@ -8,20 +8,25 @@ layout: default
 ---
 ![Finalize buttons](/assets/images/daley-dose-home-window-parts-finalize.png)
 
-The **Generate** buttons of the **Action Sidebar** are the **Add Medical Signature**, **Print Copy**, and **Send Online**. As a safety measure when dealing with medical prescriptions, these three buttons are disabled by the application until you have finalized your work.
+The **Generate** section of the **Action Sidebar** include the **Add Medical Signature**, **Print Copy**, and **Send Online** buttons. As a safety measure when dealing with medical prescriptions, these three buttons are disabled by the application until you have finalized your work.
+
 After adding medications and notes to the prescription, select the **Finalize** button to lock the prescription entries in place and prepare the prescription for printing or online sending.
 
-The application disables the **Finalize** button when there are errors in the current prescription. The application highlights fields with errors in red. You can also see an error message indicating the nature of the error on the same line as its source. 
+The application disables the **Finalize** button when there are errors in the current prescription. The application highlights fields with errors in red. You can also see an error message indicating the nature of the error on the same line as its source. You must resolve these issues or delete the associated entries before you can finalize your work.
 
 ![Main Screen with Errors](/assets/images/daley-dose-home-window-error.png)
 
 ## **ADD MEDICAL SIGNATURE**
 ---
-Select the **+ MD Sig** button to add your saved digital information at the bottom of the prescription.  
+The **Add Medical Signature** button adds the prescriber's professional information to the prescription. This includes their Medical License number, complete name, office address, contact information, and official digital signature. The application also adds the Daley Dose stamp of clearance on the Medical Signature, indicating that the application has checked, approved, and finalized the digital prescription on behalf of the prescriber.
 
-   - The signature includes the prescriber’s full name, medical license number, contact information, and known office address.  
+To add a medical signature, select the **Medical Signature** button on a finalized prescription. Once you have added your medical signature, you can either print the prescription locally for a physical copy, or send the prescription online using the **Print Copy** and **Send Online** buttons, respectively.
+
+### **NOTES**
+---
    - This is a required field for finalization.  
-   - You must have a medical signature template saved in the **Profile** window to use this functionality.
+   - You must have a medical signature template saved in your profile to use this functionality.
+   - The application uses information saved in your profile when adding the medical signature. Make sure you update these regularly to prevent outdated information from being added into your prescriptions.
  
 ## **PRINT COPY**
 ---
