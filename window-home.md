@@ -137,7 +137,7 @@ The following table describes the **Generate** buttons in the **Action Sidebar**
 
 | **BUTTONS**              | **DEFINITION** |
 |--------------------------|----------------|
-| **ADD MEDICAL SIGNATURE**| Select to add your official medical signature to the prescription.<br><br>This field is required to finalize the prescription.<br><br>**NOTE:** You must have a medical signature template saved in the **Profile** window to use this functionality. |
+| **ADD MEDICAL SIGNATURE**| Select to add your official medical signature to the prescription.<br><br>This field is required to finalize the prescription.<br><br>**NOTE:** You must have a medical signature template saved in your profile to use this functionality. |
 | **PRINT COPY**           | Select to print the current prescription on a local printer.<br><br>**NOTES:**<br>– This option is available only on devices with a confirmed connection to a printer.<br>– This feature is not available on the **Daley Dose** mobile app. |
 | **SEND ONLINE**          | Select to send the prescription to the **Daley Dose** database for deployment.<br><br>**NOTE:** The application displays the confirmation message “**Finalize and send out this prescription?**” before sending. |
 
