@@ -7,8 +7,9 @@ layout: default
 # **SCAN WINDOW**
 In the **Scan** window, you can scan and digitize a handwritten prescription. After a successful scan, the application enters all processed information into a new prescription window.  
 
-**To view this window:**  
-- **Home** > **Create new** > **Scan**  
+To view this window: **Prescription** tab > **Scan Physical Copy**  
+
+![Scan Button](/assets/images/daley-dose-home-window-parts-scan.png)  
 
 ## **NOTES**
 ---
@@ -19,18 +20,22 @@ In the **Scan** window, you can scan and digitize a handwritten prescription. Af
 
 ## **INTERFACE DETAILS**
 ---
+
+![Scan Window](/assets/images/daley-dose-scan-window.png)  
+
 The following table describes the fields in the **Scan** window:
 
 | **FIELD** | **DEFINITION** |
 |-----------|----------------|
 | **CAMERA** | Displays the camera’s current status.<br><br>**Status:**<br>– **Green:** Camera ready.<br>– **Red:** Camera not detected. |
-| **INTERNET** | Displays the internet connection’s current status.<br><br>**Status:**<br>– **Green:** Internet connection available.<br>– **Red:** No internet connection. |
+| **INTERNET** | Displays the internet connection’s current status.<br><br>**Status:**<br>– **Green:** Internet connection available.<br>– **Red:** No or poor internet connection. |
 
 The following table describes the buttons in the **Scan** window:
 
 | **BUTTON** | **DEFINITION** |
 |------------|----------------|
-| **START** | Select to begin the prescription scan.<br><br>**NOTES:**<br>– The application enables this button only when both the **Camera** and **Internet** fields are green.<br>– The scanning process takes 20 seconds to complete. |
+| **CAPTURE** | Select to begin the prescription scan.<br><br>**NOTES:**<br>– The application enables this button only when both the **Camera** and **Internet** fields are green.<br>– The scanning process takes 20 seconds to complete. |
+| **RESET** | Select to delete the previously taken image and restart the process. |
 | **CANCEL** | Select to close the **Scan** window without adding the currently scanned information to the prescription.<br><br>**NOTE:** When you select this button, the application displays the confirmation message **"Are you sure you want to close this window?"** before closing. |
 | **SAVE** | Select to close the **Scan** window and add the currently scanned information to the prescription. |
 
