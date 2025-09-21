@@ -11,7 +11,7 @@ layout: default
 
 To digitize a handwritten prescription, follow these steps:
 
-1. Select **Scan Physical Copy** on the **Prescription** tab.
+1. Select **Scan Physical Copy** on the **Prescription** tab to view the [**Scan** window](/daleydose/window-scan).
 
    **NOTES**
    - Generating a new prescription based on a scanned physical copy erases all current work loaded on the **Prescription** tab. Make sure to **Send**, **Save**, or **Print** any ongoing prescriptions before you continue.
