@@ -4,7 +4,7 @@ description: ""
 layout: default
 ---
 
-# **ADD ALTERNATIVE TO A MEDICATION**
+# **ADD ALTERNATIVE TO A MEDICATION ENTRY**
 ---
 
 ![Daley Dose Add Alternative](/assets/images/daley-dose-home-window-parts-alt.png)
