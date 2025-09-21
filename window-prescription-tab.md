@@ -14,10 +14,6 @@ Each prescription can include up to 5 medications. This limit ensures accuracy a
 
 The **Prescription** tab is one of three tabs featured in the **Work Area** of the Daley Dose application, alongside the [**Drug History**](/daleydose/window-drug-history-tab) and [**Med History**](/daleydose/window-med-history-tab) tabs.
 
-## **RELATED TOPICS**
----
-You can learn more about this tab in the [**How to create a new prescription**](/daleydose/prescription-create-new) topic.
-
 ## **INTERFACE DETAILS**
 ---
 
