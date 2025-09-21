@@ -17,7 +17,7 @@ To manage notes for a medication, follow these steps:
 
 3. To edit or delete an existing note, double-click the note to reopen its **Add Notes** window.
 
-**NOTES**
+## **NOTES**
 - The application disables the **Add Notes** button when no medications are currently added to the prescription.
 - You can write up to 25 words per note.
 - Deleted notes cannot be restored.
