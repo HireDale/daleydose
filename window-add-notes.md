@@ -50,7 +50,7 @@ The following table describes the buttons in the **Add Notes** window:
 | **EDIT** | Select to edit an existing note. |
 | **DELETE** | Select to delete the selected note. |
 | **CANCEL** | Select to close the **Add Notes** window without adding the currently entered information to the prescription.<br><br>**NOTE:** When you select this button, the application displays the confirmation message **"Are you sure you want to close this window without adding the notes?"** before closing. |
-| **SAVE** | Select to close the **Add Notes** window and add the currently entered information to the prescription. |
+| **OK** | Select to close the **Add Notes** window and add the currently entered information to the prescription. |
 
 ## **SEE ALSO**
 ---
