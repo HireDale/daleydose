@@ -144,19 +144,25 @@ The following table describes the **Generate** buttons in the **Action Sidebar**
 | **PRINT COPY**           | Select to print the current prescription on a local printer.<br><br>**NOTES:**<br>– This option is available only on devices with a confirmed connection to a printer.<br>– This feature is not available on the **Daley Dose** mobile app. |
 | **SEND ONLINE**          | Select to send the prescription to the **Daley Dose** database for deployment.<br><br>**NOTE:** The application displays the confirmation message “**Finalize and send out this prescription?**” before sending. |
 
+
 # **WORK AREA**
 ---
+
 The **Work Area** is where you create, review, and finalize prescriptions. It occupies the center of the screen and contains three tabs:
 
 - **Prescription Tab** — Enables you to build a prescription by adding medications and notes.  
 - **Drug History Tab** — Displays the patient’s digitized prescription history from the past 20 years.  
 - **Med History Tab** — Displays the patient’s digitized medical conditions and treatments from the past 20 years.
 
+![Daily Dose Work Area](/assets/images/daley-dose-home-window-section-5.png)
+
 These tabs work together to provide a complete view of the patient’s treatment plan. You can learn more about each tab on their individual entries:
 
 - [**Prescription Tab**](/daleydose/window-prescription-tab)  
 - [**Drug History Tab**](/daleydose/window-drug-history-tab)  
 - [**Med History Tab**](/daleydose/window-med-history-tab)
+
+
 
 ## **SEE ALSO**
 ---
