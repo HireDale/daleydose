@@ -6,6 +6,8 @@ layout: default
 
 # **PRESCRIPTION TAB**
 ---
+![Daily Dose Tabs](/assets/images/daley-dose-home-window-parts-tabs.png)
+
 The **Prescription** tab is the primary workspace for creating and managing prescriptions. This tab enables you to add medications, attach notes, and finalize the prescription for printing or online sending.
 
 Each prescription can include up to 5 medications. This limit ensures accuracy and compliance with dispensing regulations, especially when prescriptions are processed across multiple pharmacies or remote setups.
