@@ -18,11 +18,6 @@ To view this window: **Prescription** tab > **Add Medication** (green **Plus**)
 - You can add up to 5 medications per prescription.  
 - The application auto‑completes generic and brand name suggestions for each medication by default. You can permanently turn off this feature in the options.
 
-## **RELATED TOPICS**
----
-- You must have the **Prescriber** role to view this window. See [**User Roles**](/daleydose/about-user-roles) for more information.  
-- An **Administrator** or **Support** user can impose or remove a **Prescription Restriction** on a **Prescriber**. See [**Prescription Restrictions**](/daleydose/about-prescription-restrictions) for more information.
-
 ## **INTERFACE DETAILS**
 ---
 ![Daley Dose user interface screenshot](/assets/images/daley-dose-add-medication-window.png)
@@ -44,6 +39,11 @@ The following table describes the buttons available in the **Add Medication** wi
 | **AUTO‑COMPLETE**  | Select to enable or disable the auto‑complete feature when entering medication names. **Green** indicates the feature is enabled; **Red** indicates it is disabled. |
 | **CANCEL**         | Select to close the **Add Medication** window without adding the entered information to the prescription.<br><br>**NOTE:** When selected, the application displays the confirmation message **"Are you sure you want to close this window without adding the medication?"** before closing. |
 | **OK**             | Select to close the **Add Medication** window and add the entered information to the prescription.<br><br>**NOTE:** This button is disabled if any of the following fields are empty: **Generic Name**, **Dose**, or **Amount**. |
+
+## **RELATED TOPICS**
+---
+- You must have the **Prescriber** role to view this window. See [**User Roles**](/daleydose/about-user-roles) for more information.  
+- An **Administrator** or **Support** user can impose or remove a **Prescription Restriction** on a **Prescriber**. See [**Prescription Restrictions**](/daleydose/about-prescription-restrictions) for more information.
 
 ## **SEE ALSO**
 ---
