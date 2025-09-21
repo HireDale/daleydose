@@ -53,6 +53,11 @@ The **Send Online** button enables you to send the digital version of the finali
 
 This option is ideal for remote consultations. Patients can walk into an affiliated pharmacy or hospital and receive their medication without printed prescriptions, as long as they present a valid ID.
 
+### **NOTES**
+---
+- The application displays the confirmation message “**Finalize and send out this prescription?**” before sending.
+- Your device must be connected to the internet to use this option.
+
 ## **PROBLEMS YOU MIGHT ENCOUNTER**
 ---
 
