@@ -37,12 +37,12 @@ View available windows and their functions in the application.
 - [**Add Medication Window**](/daleydose/window-add-medication)  
   This window enables you to add, edit, and remove medications from the current prescription.
 
-- [**Add Notes Window**](/daleydose/window-add-notes)  
-  This window enables you to add, edit, and remove notes from the current prescription.
-
 - [**Add Alternative Window**](/daleydose/window-add-alternative)  
   This window enables you to add, edit, and remove alternatives to medications in the prescription. The pharmacy uses the alternative option when the main medication is not available.
 
+- [**Add Notes Window**](/daleydose/window-add-notes)  
+  This window enables you to add, edit, and remove notes from the current prescription.
+  
 - [**Scan Window**](/daleydose/window-scan)  
   This window enables you to scan a handwritten prescription and convert it to a digital form.
 
@@ -57,7 +57,8 @@ Learn how to install, troubleshoot, and update the application.
 Learn how to perform tasks in the application.
 
 - [**How to create a new prescription**](/daleydose/prescription-create-new)  
-- [**How to add medications to a prescription**](/daleydose/prescription-add-meds)  
+- [**How to add medications to a prescription**](/daleydose/prescription-add-meds)
+- [**How to add alternatives to medication entries**](/daleydose/prescription-add-alts)  
 - [**How to delete medications from a prescription**](/daleydose/prescription-delete-meds) 
 - [**How to add, edit, and delete medication notes**](/daleydose/prescription-manage)  
 - [**How to finalize and send out a prescription**](/daleydose/prescription-finalize)
