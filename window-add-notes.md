@@ -16,7 +16,7 @@ Pharmacies print a copy of the medications and their associated notes when the p
 - Special instructions before or after taking the dose  
 - Whether the medication requires test results before taking  
 
-To view this window: **Prescription** tab > Under the medication entry you want to add a note > **Add Note** (blue **Plus** button)
+To view this window: **Prescription** tab > Under the medication entry you want to add a note > **Add Note** (blue **Plus**)
 
 ![Daley Dose user interface screenshot](/assets/images/daley-dose-home-window-parts-add-notes.png) 
 
