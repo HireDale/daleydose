@@ -38,14 +38,6 @@ Finalize the prescription.
 ## **PROBLEMS YOU MIGHT ENCOUNTER**
 ---
 
-### The application prevents you from selecting the **+ Alt** button  
-- **REASON:** The prescription is currently empty, or you have not selected which medication to create an alternative option for.  
-- **SOLUTION:** Ensure that you have selected a medication on the **Home** window and try again.
-
-### Error message when entering alternative medication name: **"Identical Medication"**  
-- **REASON:** The alternative medication name you entered is the same as the original.  
-- **SOLUTION:** Ensure that the alternative medication you enter is different from the original.
-
 ### The application prevents you from selecting the **+ MD Sig** button  
 - **REASON:** The application does not have your saved digital signature.  
 - **SOLUTION:** Ensure that you have completed entering information in the **Medical Signature** panel on the **Profile** window.
