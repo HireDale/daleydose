@@ -12,15 +12,15 @@ The **Med History** tab enables you to review the current patient’s history of
 
 By reviewing the patient’s medical history, the prescribing physician gains a broader clinical context and can tailor treatment accordingly. This is especially useful when prescribing medications that may interact with past conditions or ongoing therapies.
 
-### **LIMITATIONS**
----
+The **Med History** tab is one of three tabs featured in the **Work Area** of the Daley Dose application, alongside the [**Prescription**](/daleydose/window-prescription-tab) and [**Drug History**](/daleydose/window-drug-history-tab) tabs.
 
+## **LIMITATIONS**
+---
 - Medical records older than the year 2000 must be manually digitized by their originating hospitals, clinics, or institutions before they can appear in the **Med History** tab.
 - Legal restrictions may prevent certain records from being displayed. For example, sealed court records or privacy-related exclusions may limit visibility.
 
-The **Med History** tab is one of three tabs featured in the **Work Area** of the Daley Dose application, alongside the [**Prescription**](/daleydose/window-prescription-tab) and [**Drug History**](/daleydose/window-drug-history-tab) tabs.
-
 ## **SECTIONS**
+---
 The application divides this tab into two sections: **Current Status** and **Medical Records**.  
 
 The **Current Status** section displays information about the patient’s ongoing or most recent medical issue. This enables prescribers to access quick context about the patient’s current prescription needs.  
