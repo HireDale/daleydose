@@ -41,24 +41,6 @@ The following table describes the buttons in the **Prescription** tab.
 | **ADD MEDICATION** | Select to add a medication entry to the current prescription.<br><br>When selected, the application opens the [**Add Medication** window](/daleydose/window-add-medication). |
 | **ADD NOTE**       | Select to add a note entry to the selected medication.<br><br>When selected, the application opens the [**Add Notes** window](/daleydose/window-add-notes). |
 
-### **DRUG HISTORY**
----
-The **Drug History** tab enables you to check the current patient’s history of prescribed medication. The Daley Dose application syncs with the online database to provide the latest updates (within 1 hour) on the patient’s digital records.  
-
-This tab is useful when checking for previous prescriptions from other doctors or hospitals. This includes local, national, and international records, as long as the previous prescribers used the Daley Dose application.  
-
-Because the **Drug History** tab syncs with the database each time you view it, the application requires an internet connection to use this functionality. The loading time of the information also depends on the current internet speed.
-
-### **MED HISTORY**
----
-The **Med History** tab enables you to check the current patient’s history of medical conditions and treatments. The application divides this tab into two sections: **Current Status** and **Medical Records**.  
-
-The **Current Status** section displays information about the patient’s ongoing or most recent medical issue. This enables prescribers to access quick context about the patient’s current prescription needs.  
-
-The **Medical Records** section provides a detailed list of the patient’s medical conditions and treatments, going back up to 20 years. If earlier records have been digitized and uploaded to the database, the Daley Dose application can also provide that information.  
-
-Because the **Med History** tab syncs with the database each time you view it, the application requires an internet connection to use this functionality. The loading time of the information also depends on the current internet speed.
-
 ## **SEE ALSO**
 ---
 - [**How to create a new prescription**](/daleydose/prescription-create-new)  
