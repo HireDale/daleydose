@@ -13,7 +13,7 @@ To create a new prescription, select the **Create New** button on the **Action S
 
 To open a previously saved, unissued prescription, select **Open Saved Records**.
 
-Here, you can create medical prescriptions for your patients. Each prescription can include up to 5 medications. You can also scan physical prescriptions and convert them into a digital version.
+In the **Home** window, you can create medical prescriptions for your patients. Each prescription can include up to 5 medications. You can also scan physical prescriptions and convert them into a digital version.
 
 ![Daily Dose user interface](/assets/images/daley-dose-home-window-error.png)
 
@@ -125,7 +125,7 @@ The following table describes the **Main** buttons in the **Action Sidebar**:
 | **BUTTONS**         | **DEFINITION** |
 |---------------------|----------------|
 | **CREATE NEW**      | Select to create a new prescription.<br><br>When you select this button while there are items on the current prescription, the application displays the confirmation message “**Are you sure you want to erase the current prescription?**”<br><br>The application erases all populated fields when you select **Yes**. |
-| **EDIT**            | Select to open and edit a previously saved prescription. |
+| **OPEN SAVED RECORDS**            | Select to open and edit a previously saved prescription. |
 | **SCAN PHYSICAL COPY** | Select to scan a handwritten prescription and create a digital version in a new prescription window.<br><br>When you select this button, the application opens the [**Scan** window](/daleydose/window-scan).<br><br>**NOTES:**<br>– The application displays this button on the desktop version only when your computer has a confirmed connected webcam.<br>– The application always displays this button on the mobile app. |
 | **FINALIZE**        | Select to finalize the current prescription.<br><br>When you select this button, the application locks the contents of the current prescription and enables the **Add Medical Signature**, **Print Copy**, and **Send Online** buttons. |
 
