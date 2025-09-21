@@ -4,7 +4,7 @@ description: ""
 layout: default
 ---
 
-### **DRUG HISTORY TAB**
+# **DRUG HISTORY TAB**
 ---
 The **Drug History** tab enables you to check the current patient’s history of prescribed medication. The Daley Dose application syncs with the online database to provide the latest updates (within 1 hour) on the patient’s digital records.  
 
