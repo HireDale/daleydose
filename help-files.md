@@ -32,19 +32,28 @@ Explore core topics about the Daley Dose application and its features.
 View available windows and their functions in the application.
 
 - [**Home Window**](/daleydose/window-home)  
-  This window enables you to create and manage a patient’s prescription.
+  Starting point for creating and managing patient prescriptions.
+
+- [**Prescription Tab**](/daleydose/window-prescription-tab)  
+  Central workspace for creating and managing prescriptions. Displays all entries in the current prescription.
+
+- [**Drug History Tab**](/daleydose/window-drug-history-tab)  
+  View the patient’s digitized prescription history from the past 20 years.
+
+- [**Med History Tab**](/daleydose/window-med-history-tab)  
+  View the patient’s digitized medical conditions and treatments from the past 20 years.
 
 - [**Add Medication Window**](/daleydose/window-add-medication)  
-  This window enables you to add, edit, and remove medications from the current prescription.
+  Add, edit, or remove medications from the current prescription.
 
 - [**Add Alternative Window**](/daleydose/window-add-alternative)  
-  This window enables you to add, edit, and remove alternatives to medications in the prescription. The pharmacy uses the alternative option when the main medication is not available.
+  Add, edit, or remove alternative options for medications. Alternatives are used when the main medication is unavailable.
 
 - [**Add Notes Window**](/daleydose/window-add-notes)  
-  This window enables you to add, edit, and remove notes from the current prescription.
-  
+  Add, edit, or remove notes attached to the current prescription.
+
 - [**Scan Window**](/daleydose/window-scan)  
-  This window enables you to scan a handwritten prescription and convert it to a digital form.
+  Scan a handwritten prescription and convert it to a digital version.
 
 ## **INSTALLATION GUIDES**
 Learn how to install, troubleshoot, and update the application.
