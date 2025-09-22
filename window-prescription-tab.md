@@ -41,8 +41,4 @@ The following table describes the buttons in the **Prescription** tab.
 ---
 - [**How to create a new prescription**](/daleydose/prescription-create-new)  
 - [**How to add medications to a prescription**](/daleydose/prescription-add-meds)
-- [**How to add alternatives to medication entries**](/daleydose/prescription-add-alts)  
-- [**How to delete medications from a prescription**](/daleydose/prescription-delete-meds)  
-- [**How to add, edit, and delete medication notes**](/daleydose/prescription-manage)  
-- [**How to finalize and send out a prescription**](/daleydose/prescription-finalize)  
 - [**How to digitize a handwritten prescription**](/daleydose/prescription-digitize)
