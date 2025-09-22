@@ -7,7 +7,7 @@ layout: default
 # **DRUG HISTORY TAB**
 ---
 
-![Daily Dose Tabs](/assets/images/daley-dose-home-window-parts-tabs.png)
+![Daily Dose Tabs](/assets/images/daley-dose-home-window-parts-drug-history-1.png)
 
 The **Drug History** tab enables you to review the current patient’s history of prescribed medications. The Daley Dose application syncs with the online database to provide updated digital records within 1 hour of any changes.
 
