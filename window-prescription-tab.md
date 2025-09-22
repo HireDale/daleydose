@@ -17,7 +17,7 @@ The **Prescription** tab is one of three tabs featured in the **Work Area** of t
 ## **INTERFACE DETAILS**
 ---
 
-![Daily Dose Prescription Tab](/assets/images/daley-dose-home-window-tab-1-labels.png)
+![Daily Dose Prescription Tab](/assets/images/daley-dose-home-window-parts-prescription.png)
 
 The following table describes the fields in the **Prescription** tab.
 
