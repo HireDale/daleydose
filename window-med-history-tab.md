@@ -6,7 +6,7 @@ layout: default
 
 # **MED HISTORY TAB**
 ---
-![Daily Dose Tabs](/assets/images/daley-dose-home-window-parts-tabs.png)
+![Daily Dose Tabs](/assets/images/daley-dose-home-window-parts-med-history-1.png)
 
 The **Med History** tab enables you to review the current patient’s history of medical conditions and treatments. This tab is read-only and serves as a reference utility to support more accurate medical care.
 
