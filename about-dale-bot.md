@@ -14,6 +14,8 @@ It’s the future of prescribing: consistent, accurate, and blissfully _low‑ef
 
 With Dale Bot, the only thing left on your to‑do list might be figuring out how to thank a robot for making you look this efficient.
 
+![Dale Bot](/assets/images/daley-dose-dale-bot.png)  
+
 ## **RELEASE DATE**
 ---
 
@@ -22,5 +24,3 @@ The **Dale Bot** feature launches across all applications in **late 2028**. 
 Follow us on our social media channels for sneak peeks, feature spotlights, and behind‑the‑scenes updates as we get closer to launch. We’ll be sharing early demos, integration tips, and ways you can be among the first to test new capabilities.
 
 Stay connected, stay informed — and get ready to make Dale Bot part of your workday from day one.
-
-![Dale Bot](/assets/images/daley-dose-dale-bot.png)  
