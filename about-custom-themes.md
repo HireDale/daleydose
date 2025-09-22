@@ -12,12 +12,12 @@ We are especially proud of the **Resident Evil** theme — complete with health 
 
 This genuinely puts the FUN in functionality — finally!
 
-![User Interface with a Resident Evil theme](/assets/images/daley-dose-resident-evil.png)
-<p style="text-align:center;"><em>An early look at the Resident Evil theme for the Daley Dose application. Did someone say perma-death run?</em></p>
-
 ## **RELEASE DATE**
 ---
 
 The **Custom Themes** feature of the application rolls out early 2029. This will be included in the standard package of the Daley Dose subscription.
 
 Follow us on our social media channels for sneak peeks, feature spotlights, and behind‑the‑scenes updates as we get closer to launch. We’ll be sharing early demos, integration tips, and ways you can be among the first to test new capabilities.
+
+![User Interface with a Resident Evil theme](/assets/images/daley-dose-resident-evil.png)
+<p style="text-align:center;"><em>An early look at the Resident Evil theme for the Daley Dose application. Talk about a perma-death run.</em></p>
