@@ -14,6 +14,11 @@ By reviewing the patient’s medical history, the prescribing physician gains a 
 
 The **Med History** tab is one of three tabs featured in the **Work Area** of the Daley Dose application, alongside the [**Prescription**](/daleydose/window-prescription-tab) and [**Drug History**](/daleydose/window-drug-history-tab) tabs.
 
+## **NOTES**
+---
+- The **Action Sidebar** retracts to a more minimal pane to provide additional space for the **Consultations** panel.
+- The information in the **Med History** tab is read-only.
+
 ## **LIMITATIONS**
 ---
 - Medical records older than the year 2000 must be manually digitized by their originating hospitals, clinics, or institutions before they can appear in the **Med History** tab.
