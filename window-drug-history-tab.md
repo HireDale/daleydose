@@ -19,6 +19,11 @@ The **Drug History** tab is one of three tabs featured in the **Work Area**, alo
 
 ![Daily Dose Tabs](/assets/images/daley-dose-home-window-parts-drug-history.png)
 
+## **NOTES**
+---
+- The **Action Sidebar** retracts to a more minimal pane to provide additional space for the **Drug Entries** panel.
+- The information in the **Drug History** tab is read-only.
+
 ## **LIMITATIONS**
 ---
 
