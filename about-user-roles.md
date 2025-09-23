@@ -13,6 +13,8 @@ The Daley Dose application offers multiple user roles, each with distinct functi
 
 To request a role change, contact **Support** or an **Administrator**.
 
+![User Interface login screen](/assets/images/daley-dose-home-window-login.png)
+
 The following table describes the user roles available in the Daley Dose application:
 
 | **USER ROLE**     | **DEFINITION** |
