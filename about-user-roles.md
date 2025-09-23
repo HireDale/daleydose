@@ -6,8 +6,6 @@ description: ""
 
 # **ABOUT USER ROLES**
 ---
-**USER ROLES IN THE DALEY DOSE APPLICATION**
---------------------------------------------
 
 The Daley Dose application offers multiple user roles, each with distinct functions and restrictions. Roles can be assigned to an account and follow a linear hierarchy for escalating technical issues during troubleshooting.
 
