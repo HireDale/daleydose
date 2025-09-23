@@ -34,8 +34,6 @@ The Daley Dose application offers a wide variety of features for doctors and pha
 
   Sync seamlessly with existing Electronic Health Record (EHR) systems for quick patient data updates and smoother workflows.  
 
-![Main Screen with Errors](/assets/images/daley-dose-home-window-error.png)
-
 - **Data Handling Security**  
 
   Daley Dose uses strong encryption and advanced security protocols to protect patient information and comply with international healthcare regulations.  
@@ -52,9 +50,10 @@ The Daley Dose application offers a wide variety of features for doctors and pha
 
   Manage prescriptions from anywhere using Daley Dose’s mobile‑friendly companion app, ensuring access to essential data on the go.
 
+![Main Screen with Errors](/assets/images/daley-dose-home-window-error.png)
+
 ## **SEE ALSO**
 ---
-- [**Product Overview**](https://hiredale.github.io/daleydose/)  
 - [**About User Roles**](/daleydose/about-user-roles)  
 - [**About Prescription Restrictions**](/daleydose/about-prescription-restrictions)
 - [**Access the Help Files**](/daleydose/help-files)
