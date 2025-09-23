@@ -28,7 +28,7 @@ Explore core topics about the Daley Dose application and its features.
 - [**About Prescription Restrictions**](/daleydose/about-prescription-restrictions)  
   View details about the Prescription Restriction feature, which prevents selected Prescribers from ordering specific types of medication.
 
-![Daley Dose user interface screenshot](/assets/images/daley-dose-home-window-clean.png)
+![User Interface login screen](/assets/images/daley-dose-home-window-login.png)
 
 ## **WINDOW DEFINITIONS**
 View available windows and their functions in the application.
@@ -59,6 +59,8 @@ View and access the three core tabs used to build, review, and finalize prescrip
 
 - [**Med History**](/daleydose/window-med-history-tab)  
   View the patient’s digitized medical conditions and treatments from the past 20 years.
+
+![Daley Dose user interface screenshot](/assets/images/daley-dose-home-window-clean.png)
   
 ## **INSTALLATION GUIDES**
 Learn how to install, troubleshoot, and update the application.
