@@ -28,7 +28,6 @@ The following table describes the user roles available in the Daley Dose applica
 
 ## **SEE ALSO**
 ---
-- [**Product Overview**](https://hiredale.github.io/daleydose/)
 - [**About Daley Dose**](/daleydose/about-daley-dose)  
 - [**About Prescription Restrictions**](/daleydose/about-prescription-restrictions)
 - [**Access the Help Files**](/daleydose/help-files)
