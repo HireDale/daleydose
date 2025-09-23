@@ -24,7 +24,6 @@ The following table describes the prescription restriction options available in 
 
 ## **SEE ALSO**
 ---
-- [**Product Overview**](https://hiredale.github.io/daleydose/)  
 - [**About Daley Dose**](/daleydose/about-daley-dose)  
 - [**About User Roles**](/daleydose/about-user-roles)  
 - [**Access the Help Files**](/daleydose/help-files)  
