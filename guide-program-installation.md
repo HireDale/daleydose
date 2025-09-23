@@ -32,6 +32,8 @@ layout: default
 
 10. Once installed, open the Daley Dose application from your **Start Menu** or its desktop shortcut.  
 
+![User Interface login screen](/assets/images/daley-dose-home-window-login.png)
+
 ## **NOTES**
 ---
 - The application requires 200 GB of storage space and an active internet connection throughout the entire installation process.  
