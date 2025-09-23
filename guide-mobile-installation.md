@@ -18,7 +18,8 @@ The Daley Dose mobile companion app enables you to scan handwritten prescription
 7. Once the installation is complete, select the **Open** button.  
 8. To finish, log in with your corporate account and ensure that the account has an active subscription to Daley Dose.  
 
-daley-dose-home-window-mobile
+
+![User Interface mobile](/assets/images/daley-dose-home-window-mobile.png)
 
 ## **PROBLEMS YOU MIGHT ENCOUNTER** 
 ---
