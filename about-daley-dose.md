@@ -49,7 +49,7 @@ The Daley Dose application offers a wide variety of features for doctors and pha
 
   Manage prescriptions from anywhere using Daley Dose’s mobile‑friendly companion app, ensuring access to essential data on the go.
 
-![Main Screen with Errors](/assets/images/daley-dose-home-window-error.png)
+![User Interface mobile](/assets/images/daley-dose-home-window-mobile.png)
 
 ## **SEE ALSO**
 ---
