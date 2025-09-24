@@ -19,7 +19,7 @@ The Daley Dose application offers a wide variety of features for doctors and pha
 ---
 - **Highly Comprehensive Drug Database**  
 
-  Daley Dose partners up with the Monthly Index of Medical Specialities (MIMS) to provide the database with an extensive, up‑to‑date list of medications, restrictions, and interactions. This includes details on dosages, interactions, and contraindications to support informed prescribing decisions. Daley Dose also provides an in-app version of the latest MIMS drug reference handbook to ensure you have accurate resources at your disposal.
+  Daley Dose partners up with the _Monthly Index of Medical Specialities_ (MIMS) to provide the database with an extensive, up‑to‑date list of medications, restrictions, and interactions. This includes details on dosages, interactions, and contraindications to support informed prescribing decisions. Daley Dose also provides an in-app version of the latest MIMS drug reference handbook to ensure you have accurate resources at your disposal.
 
 - **Intuitive and User-Friendly Interface**  
 
