@@ -43,9 +43,9 @@ The Daley Dose application offers a wide variety of features for doctors and pha
 
 - **Linear and Streamlined Process**  
 
-  Create and send prescriptions to patients or pharmacies through a fast, secure process.  
+  Create, save, manage, and send prescriptions through a fast, secure process.  
 
-- **Enjoy Mobile Access**  
+- **Ease of Access**  
 
   Manage prescriptions from anywhere using Daley Dose’s mobile‑friendly companion app, ensuring access to essential data on the go.
 
