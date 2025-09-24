@@ -6,11 +6,10 @@ description: ""
 
 # **ABOUT DALEY DOSE**
 ---
+
 The **Daley Dose** application streamlines the prescription‑writing process for healthcare professionals.
 
-Its easy‑to‑use interface and robust features support accurate, efficient, and secure prescription management. The application can also contact patients, pharmacies, and online stores to coordinate timely medication distribution, ensuring patients receive their prescriptions when needed and at their convenience.
-
-With the various Daley Dose features at your disposal, you can assign alternative medications if a pharmacy or store has no current stock. This gives the dispensing side of the process greater flexibility in managing supplies and helps ensure patients leave the pharmacy with their prescribed medication.
+Its user-friendly interface combined with powerful features enable accurate, efficient, and secure creation of prescriptions. It also offers extended capabilities, including contacting patients, pharmacies, and online stores for accurate and on‑time medication distribution. This ensures that patients receive their medication promptly and at their convenience.
 
 ![User Interface login screen](/assets/images/daley-dose-home-window-login.png)
 
@@ -20,11 +19,11 @@ The Daley Dose application offers a wide variety of features for doctors and pha
 ---
 - **Highly Comprehensive Drug Database**  
 
-  The Daley Dose database provides access to an extensive, up‑to‑date list of medications. It includes details on dosages, interactions, and contraindications to support informed prescribing decisions.  
+  The Daley Dose database provides access to an extensive, up‑to‑date list of medications. It includes details on dosages, interactions, and contraindications to support informed prescribing decisions. Daley Dose also provides an in-app version of the latest MIMS drug reference handbook to ensure you have accurate resources at your disposal.
 
 - **Intuitive and User-Friendly Interface**  
 
-  Daley Dose features a clean, easy‑to‑learn design that simplifies navigation. Users can quickly perform basic tasks without a steep learning curve.  
+  Daley Dose features a clean, easy‑to‑learn design that simplifies navigation - both for its main desktop program as well as its mobile companion app. Users can quickly perform tasks in the application without having to deal with a steep learning curve.  
 
 - **Real-Time Drug Interaction Checks**  
 
