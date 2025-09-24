@@ -19,19 +19,19 @@ The Daley Dose application offers a wide variety of features for doctors and pha
 ---
 - **Highly Comprehensive Drug Database**  
 
-  The Daley Dose database provides access to an extensive, up‑to‑date list of medications. It includes details on dosages, interactions, and contraindications to support informed prescribing decisions. Daley Dose also provides an in-app version of the latest MIMS drug reference handbook to ensure you have accurate resources at your disposal.
+  Daley Dose partners up with the Monthly Index of Medical Specialities (MIMS) to provide the database with an extensive, up‑to‑date list of medications, restrictions, and interactions. This includes details on dosages, interactions, and contraindications to support informed prescribing decisions. Daley Dose also provides an in-app version of the latest MIMS drug reference handbook to ensure you have accurate resources at your disposal.
 
 - **Intuitive and User-Friendly Interface**  
 
-  Daley Dose features a clean, easy‑to‑learn design that simplifies navigation - both for its main desktop program as well as its mobile companion app. Users can quickly perform tasks in the application without having to deal with a steep learning curve.  
+  The application features a clean, easy‑to‑learn design that simplifies navigation - both for its main desktop program as well as its mobile companion app. Users can quickly perform tasks in the application without having to deal with a steep learning curve.  
 
 - **Real-Time Drug Interaction Checks**  
 
-  Check for potential drug interactions instantly while prescribing to enhance patient safety.  
+  Daley Dose has features that work behind the scenes. Whenever you add medication to a prescription, the application checks its drug interactions, patient history, and current condition to enhance patient safety.  
 
 - **Electronic Health Records Integration**  
 
-  Sync seamlessly with existing Electronic Health Record (EHR) systems for quick patient data updates and smoother workflows.  
+  Sync seamlessly with existing Electronic Health Record (EHR) systems for quick patient data updates and smoother workflows. This enables you to check a patient's drug and medical history while creating prescriptions to ensure that their current and previous conditions are accounted for. 
 
 - **Data Handling Security**  
 
