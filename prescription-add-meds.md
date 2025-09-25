@@ -24,7 +24,9 @@ To add medication to the current prescription, follow these steps:
 
 5. Enter the amount of medication you want to prescribe.
 
-6. Select **OK**.  
+6. Select **Add to List**.
+
+7. Select **OK**.  
    - The application disables the **OK** button when at least one of the following fields is empty: **Generic Name**, **Dose**, or **Amount**.
 
 ![Daley Dose user interface screenshot](/assets/images/daley-dose-add-medication-window.png)
