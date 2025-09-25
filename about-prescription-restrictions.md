@@ -26,39 +26,39 @@ The Prescriber has no medication restrictions for prescriptions. However, prescr
 **Note:** The application sets this option as the default for newly added prescription accounts.
 
 ### STRONG NARCOTICS LOCK
-The Prescriber cannot add Schedule II medication to their Daley Dose prescriptions, regardless of whether the patient profile permits its administration.
+The Prescriber cannot add **Schedule II** medication to their Daley Dose prescriptions, regardless of whether the patient profile permits its administration.
 
 ### HIGH RISK SUBSTANCES LOCK
-The Prescriber cannot add Schedule II or Schedule III medication to their Daley Dose prescriptions, regardless of whether the patient profile permits its administration.
+The Prescriber cannot add **Schedule II** or **Schedule III** medication to their Daley Dose prescriptions, regardless of whether the patient profile permits its administration.
 
 ### CONTROLLED PRESCRIPTION LOCK
-The Prescriber cannot add Schedule II, Schedule III, or Schedule IV medication to their Daley Dose prescriptions.
+The Prescriber cannot add **Schedule II**, **Schedule III**, or **Schedule IV** medication to their Daley Dose prescriptions.
 
 ### MAXIMUM RESTRICTIONS
-The Prescriber can add only Schedule V and over‑the‑counter (OTC) medication to their Daley Dose prescriptions.
+The Prescriber can add only **Schedule V** and over‑the‑counter (**OTC**) medication to their Daley Dose prescriptions.
 
 ## **DRUG CLASSIFICATIONS**
 ---
 The following are drug classifications that can be restricted by this feature.
 
 ### SCHEDULE TWO
-- **Description:** Drugs with a high potential for abuse, with use potentially leading to severe psychological or physical dependence. Considered dangerous.  
+- Drugs with a high potential for abuse, with use potentially leading to severe psychological or physical dependence. Considered dangerous.  
 - **Examples:** Oxycodone, Hydromorphone, Methadone, Fentanyl, Morphine, Amphetamine (Adderall), Methamphetamine, Methylphenidate (Ritalin)
 
 ### SCHEDULE THREE
-- **Description:** Drugs with a moderate to low potential for physical and psychological dependence. Abuse potential is less than Class I or II but still significant.  
+- Drugs with a moderate to low potential for physical and psychological dependence. Abuse potential is less than Class I or II but still significant.  
 - **Examples:** Anabolic steroids, Testosterone, Ketamine, Buprenorphine, Codeine (when combined with acetaminophen)
 
 ### SCHEDULE FOUR
-- **Description:** Drugs with a low potential for abuse and low risk of dependence compared to Class III.  
+- Drugs with a low potential for abuse and low risk of dependence compared to Class III.  
 - **Examples:** Alprazolam (Xanax), Diazepam (Valium), Lorazepam (Ativan), Zolpidem (Ambien), Tramadol
 
 ### SCHEDULE FIVE
-- **Description:** Drugs with the lowest potential for abuse. Often preparations containing limited quantities of certain narcotics.  
+- Drugs with the lowest potential for abuse. Often preparations containing limited quantities of certain narcotics.  
 - **Examples:** Cough preparations with less than 200 mg of codeine per 100 ml (Robitussin AC), Ezogabine, Pregabalin (Lyrica), Lomotil
 
 ### OVER-THE-COUNTER (OTC)
-- **Description:** Medications available without a prescription. Generally recognized as safe and effective for self-use when taken as directed. Lowest risk of abuse or dependence.  
+- Medications available without a prescription. Generally recognized as safe and effective for self-use when taken as directed. Lowest risk of abuse or dependence.  
 - **Examples:** Acetaminophen (Tylenol), Ibuprofen (Advil, Motrin), Diphenhydramine (Benadryl), Loratadine (Claritin), Antacids (Tums, Rolaids)
 
 ## **SEE ALSO**
