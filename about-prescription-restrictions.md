@@ -14,8 +14,6 @@ You can view a Prescriber’s restrictions in the options.
 
 ![Daley Dose Profile screen](/assets/images/daley-dose-profile.png)
 
-The following table describes the prescription restriction options available in the Daley Dose application:
-
 ## **RESTRICTION CATEGORIES**
 ---
 The following are the available restriction categories for this feature.
