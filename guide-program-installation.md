@@ -6,22 +6,22 @@ layout: default
 
 # **DALEY DOSE INSTALLATION GUIDE**
 ---
-1. **Download the Daley Dose installer.**  
+1. Download the **Daley Dose** installer.  
    Go to the Daley Dose official website and download the Daley Dose installation file.
 
-2. **Open the DaleyDose.exe installer.**  
+2. Open the **DaleyDose.exe** installer.  
    Locate the downloaded file and double‑click to start installation.  
 
-3. **Follow the installation prompts.**  
+3. Follow the installation prompts.  
    The installation wizard guides you through the setup process.  
 
 4. Select **Continue**.  
 
-5. Agree to Daley Chronicle’s corporate Terms and Conditions.  
+5. Agree to Daley Dose’s Terms and Conditions.  
 
 6. Select **Next**.  
 
-7. **Choose the installation location** for the Daley Dose software.  
+7. Choose the installation location for the Daley Dose software.  
    It is recommended that you do not change the installation location unless specified otherwise by your company’s tech support.  
 
 8. Select **Next** to start installation.  
