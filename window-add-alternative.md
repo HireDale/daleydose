@@ -36,7 +36,7 @@ The following table describes the buttons available in the **Add Alternative** w
 
 | **BUTTON**         | **DEFINITION** |
 |--------------------|----------------|
-| **AUTO‑COMPLETE**  | Select to enable or disable the auto‑complete feature when entering medication names. **Green** indicates the feature is enabled; **red** indicates it is disabled. |
+| **ADD AS ALTERNATIVE**  | Select to add the entered medication to the prescription. |
 | **CANCEL**         | Select to close the **Add Medication** window without adding the entered information to the prescription.<br><br>**NOTE:** When selected, the application displays the confirmation message **"Are you sure you want to close this window without adding the medication?"** before closing. |
 | **OK**             | Select to close the **Add Alternative** window and add the entered information to the prescription.<br><br>**NOTE:** This button is disabled if any of the following fields are empty: **Generic Name**, **Dose**, or **Amount**. |
 
