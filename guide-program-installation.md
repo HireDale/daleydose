@@ -7,15 +7,13 @@ layout: default
 # **DALEY DOSE INSTALLATION GUIDE**
 ---
 1. **Download the Daley Dose installer.**  
-   - Go to the Daley Chronicles official website and download the Daley Dose installation file.  
-   - The Daley Chronicles website requires a corporate account with an active subscription to enable the application download functionality. Contact your company’s tech support for more information.  
+   Go to the Daley Dose official website and download the Daley Dose installation file.
 
-2. **Open the installer.**  
-   - Locate the downloaded file and double‑click to start installation.  
-   - The downloaded file appears in your **Downloads** folder by default under the file name **DaleyDose.exe**.  
+2. **Open the DaleyDose.exe installer.**  
+   Locate the downloaded file and double‑click to start installation.  
 
 3. **Follow the installation prompts.**  
-   - The installation wizard guides you through the setup process.  
+   The installation wizard guides you through the setup process.  
 
 4. Select **Continue**.  
 
@@ -24,7 +22,7 @@ layout: default
 6. Select **Next**.  
 
 7. **Choose the installation location** for the Daley Dose software.  
-   - It is recommended that you do not change the installation location and stick with the default unless specified otherwise by your company’s tech support.  
+   It is recommended that you do not change the installation location unless specified otherwise by your company’s tech support.  
 
 8. Select **Next** to start installation.  
 
