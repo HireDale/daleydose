@@ -34,8 +34,8 @@ The Prescriber cannot add Schedule II or Schedule III medication to their Da
 ### CONTROLLED PRESCRIPTION LOCK
 The Prescriber cannot add Schedule II, Schedule III, or Schedule IV medication to their Daley Dose prescriptions.
 
-### ONLY OTCS
-The Prescriber can add only over‑the‑counter (OTC) medication to their Daley Dose prescriptions.
+### MAXIMUM RESTRICTIONS
+The Prescriber can add only Schedule V and over‑the‑counter (OTC) medication to their Daley Dose prescriptions.
 
 ## **DRUG CLASSIFICATIONS**
 ---
@@ -56,6 +56,10 @@ The following are drug classifications that can be restricted by this feature.
 ### SCHEDULE FIVE
 - **Description:** Drugs with the lowest potential for abuse. Often preparations containing limited quantities of certain narcotics.  
 - **Examples:** Cough preparations with less than 200 mg of codeine per 100 ml (Robitussin AC), Ezogabine, Pregabalin (Lyrica), Lomotil
+
+### OVER-THE-COUNTER (OTC)
+- **Description:** Medications available without a prescription. Generally recognized as safe and effective for self-use when taken as directed. Lowest risk of abuse or dependence.  
+- **Examples:** Acetaminophen (Tylenol), Ibuprofen (Advil, Motrin), Diphenhydramine (Benadryl), Loratadine (Claritin), Antacids (Tums, Rolaids)
 
 ## **SEE ALSO**
 ---
