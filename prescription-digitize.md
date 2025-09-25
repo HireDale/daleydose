@@ -14,21 +14,20 @@ To digitize a handwritten prescription, follow these steps:
 1. Select **Scan Physical Copy** on the **Prescription** tab to view the [**Scan** window](/daleydose/window-scan).
 
 2. Check the status of the **Camera** and **Internet** fields.
-   - You need both fields to show green to continue.
+   You need both fields to show green to continue.
 
 3. Aim the camera at the note and select **Capture**.
-   - The application scans the handwritten prescription using your computer or phone’s camera to create a digital version of the prescription’s contents.
+   The application scans the handwritten prescription using your computer or phone’s camera to create a digital version of the prescription’s contents.
 
 4. (Optional) Select **Reset** to delete the current image and redo the process.
 
 5. Wait for the scan to complete.
-   - The entire process can take up to 20 seconds.
-   - The application takes multiple photographs during this time to ensure accuracy.
-   - Make sure the note remains visible throughout the entire duration to avoid errors.
 
-6. After a successful scan, the application generates a new prescription based on the processed information.
+6. The entire process can take up to 20 seconds. Here, the application takes multiple photographs during this time to ensure accuracy.
 
-![Scan Window](/assets/images/daley-dose-scan-window.png)  
+7. Make sure the note remains visible throughout the entire duration to avoid errors.
+
+8. After a successful scan, the application generates a new prescription based on the processed information.
 
 ## **NOTES**
 ---
@@ -37,6 +36,8 @@ To digitize a handwritten prescription, follow these steps:
    - The application only displays the **Scan Physical Copy** button on the desktop version when your computer has a confirmed connected webcam.
    - The application always displays the **Scan Physical Copy** button on the mobile app.
    - You cannot edit medications or notes on a scanned prescription.
+
+![Scan Window](/assets/images/daley-dose-scan-window.png)  
 
 ## **PROBLEMS YOU MIGHT ENCOUNTER**
 ---
