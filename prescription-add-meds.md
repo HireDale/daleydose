@@ -14,11 +14,8 @@ To add medication to the current prescription, follow these steps:
 1. Select the **Add Medication** button (green **Plus**) on the **Prescription** tab to view the [**Add Medication** window](/daleydose/window-add-medication).
 
 2. In the **Add Medication** window, enter either the generic or brand name of the medication in their respective fields.  
-   - The **Generic Name** field is mandatory, while the **Brand Name** field is optional.
 
 3. If you enter a brand name while the **Generic Name** field is empty, the application automatically lists the brand name’s generic version in that field.  
-   - The application auto-completes generic and brand name suggestions for each medication.  
-   - You can turn off this feature in the options.
 
 4. Enter the medication dosage.
 
@@ -27,7 +24,12 @@ To add medication to the current prescription, follow these steps:
 6. Select **Add to List**.
 
 7. Select **OK**.  
-   - The application disables the **OK** button when at least one of the following fields is empty: **Generic Name**, **Dose**, or **Amount**.
+
+## **NOTES**
+---
+- The **Generic Name** field is mandatory, while the **Brand Name** field is optional.
+- The application auto-completes generic and brand name suggestions for each medication. You can turn off this feature in the options.
+- The application disables the **OK** button when at least one of the following fields is empty: **Generic Name**, **Dose**, or **Amount**.
 
 ![Daley Dose user interface screenshot](/assets/images/daley-dose-add-medication-window.png)
 
