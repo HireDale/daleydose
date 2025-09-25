@@ -18,11 +18,9 @@ To add an alternative option to a medication entry in the current prescription, 
 1. Select the medication entry you want to create an alternative for, then select the **Add Alternative** button (**Alt+**) on the **Prescription** tab to view the [**Add Alternative** window](/daleydose/window-add-alternative).
 
 2. In the **Add Alternative** window, enter either the generic or brand name of the medication in their respective fields.
-   - The **Generic Name** field is mandatory, while the **Brand Name** field is optional.
 
 3. If you enter a brand name while the **Generic Name** field is empty, the application automatically lists the brand name’s generic version in that field.
-   - The application auto-completes generic and brand name suggestions for each medication.
-   - You can turn off this feature in the options.
+  
 
 4. Enter the medication dosage.
 
@@ -31,8 +29,13 @@ To add an alternative option to a medication entry in the current prescription, 
 6. Select **Add as Alternative** to add the entered medication to the prescription.
 
 7. Select **OK**.
-   - When the pharmacy runs out of the prescribed medication, the pharmacist can provide the alternative instead.
-   - The application disables the **OK** button when at least one of the following fields is empty: **Generic Name**, **Dose**, or **Amount**.
+   When the pharmacy runs out of the prescribed medication, the pharmacist can provide the alternative instead.
+
+## **NOTES**
+---
+- The **Generic Name** field is mandatory, while the **Brand Name** field is optional.
+- The application auto-completes generic and brand name suggestions for each medication. You can turn off this feature in the options.
+- The application disables the **OK** button when at least one of the following fields is empty: **Generic Name**, **Dose**, or **Amount**.
 
 ![Daley Dose user interface screenshot](/assets/images/daley-dose-add-alts-window.png)
 
