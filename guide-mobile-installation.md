@@ -13,10 +13,8 @@ The Daley Dose mobile companion app enables you to scan handwritten prescription
 2. Search for and select the **Daley Dose** app.  
 3. On the Daley Dose store page, select **Install**.  
 4. The app downloads and installs onto your device.  
-5. You can monitor the progress on your home screen or in the notification bar.  
-6. Once the installation is complete, select the **Open** button.  
-7. On the Login Screen, enter your username and password.  
-
+5. Once the installation is complete, select the **Open** button.  
+6. On the Login screen, enter your username and password.  
 
 ![User Interface mobile](/assets/images/daley-dose-home-window-mobile.png)
 
