@@ -46,6 +46,8 @@ See the [**How to add alternatives to medication entries**](/daleydose/prescript
 - This option is available only on devices with a confirmed connection to a printer.
 - This feature is not available on the Daley Dose mobile app.
 
+![Prescription Sample](/assets/images/daley-dose-home-window-printed.png)
+
 ## **SEND ONLINE**
 ---
 
