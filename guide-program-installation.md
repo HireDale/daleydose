@@ -30,6 +30,8 @@ layout: default
 
 10. Once installed, open the Daley Dose application from your **Start Menu** or its desktop shortcut.  
 
+See the **Sign Up and Login Guide** for more information.
+
 ![User Interface login screen](/assets/images/daley-dose-home-window-login.png)
 
 ## **NOTES**
