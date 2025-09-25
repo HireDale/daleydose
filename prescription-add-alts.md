@@ -28,7 +28,9 @@ To add an alternative option to a medication entry in the current prescription, 
 
 5. Enter the amount of medication you want to prescribe.
 
-6. Select **OK**.
+6. Select **Add as Alternative** to add the entered medication to the prescription.
+
+7. Select **OK**.
    - When the pharmacy runs out of the prescribed medication, the pharmacist can provide the alternative instead.
    - The application disables the **OK** button when at least one of the following fields is empty: **Generic Name**, **Dose**, or **Amount**.
 
