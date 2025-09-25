@@ -16,12 +16,12 @@ To delete an entry the current prescription, follow these steps:
 4. The application displays the confirmation message **"Are you sure you want to delete this from the prescription?"** before removing the medication from the list.  
 5. Select the **Delete** button again to close **Delete Mode**.
 
-![Daley Dose user interface delete mode](/assets/images/daley-dose-home-window-tab-1-delete.png)
-
 ## **NOTES**
 ---
 - Deleting a medication entry also deletes any note attached to it.  
 - Leaving all checkboxes cleared and selecting the **Delete** button closes **Delete Mode** without removing anything.
+
+![Daley Dose user interface delete mode](/assets/images/daley-dose-home-window-tab-1-delete.png)
 
 ## **SEE ALSO**
 ---
