@@ -25,13 +25,13 @@ The Prescriber has no medication restrictions for prescriptions. However, prescr
 
 **Note:** The application sets this option as the default for newly added prescription accounts.
 
-### RESTRICT SCHEDULE TWO (II)
+### STRONG NARCOTICS LOCK
 The Prescriber cannot add Schedule II medication to their Daley Dose prescriptions, regardless of whether the patient profile permits its administration.
 
-### RESTRICT SCHEDULE TWO AND THREE (II, III)
+### HIGH RISK SUBSTANCES LOCK
 The Prescriber cannot add Schedule II or Schedule III medication to their Daley Dose prescriptions, regardless of whether the patient profile permits its administration.
 
-### RESTRICT SCHEDULE TWO, THREE, AND FOUR (II, III, IV)
+### CONTROLLED PRESCRIPTION LOCK
 The Prescriber cannot add Schedule II, Schedule III, or Schedule IV medication to their Daley Dose prescriptions.
 
 ### ONLY OTCS
