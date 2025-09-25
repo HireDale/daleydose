@@ -15,7 +15,7 @@ To manage notes for a medication, follow these steps:
 
 2. Select the **Add Notes** button (blue **Plus**) under the medication to view the [**Add Notes** window](/daleydose/window-add-notes).
 
-3. To edit or delete an existing note, double-click the note to reopen its **Add Notes** window.
+3. To edit or delete an existing note, select the note to reopen its **Add Notes** window.
 
 ## **NOTES**
 - The application disables the **Add Notes** button when no medications are currently added to the prescription.
