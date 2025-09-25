@@ -25,13 +25,13 @@ The Prescriber has no medication restrictions for prescriptions. However, prescr
 
 **Note:** The application sets this option as the default for newly added prescription accounts.
 
-### RESTRICT SCHEDULE II
+### RESTRICT SCHEDULE TWO (II)
 The Prescriber cannot add Schedule II medication to their Daley Dose prescriptions, regardless of whether the patient profile permits its administration.
 
-### RESTRICT SCHEDULE II AND III
+### RESTRICT SCHEDULE TWO AND THREE (II, III)
 The Prescriber cannot add Schedule II or Schedule III medication to their Daley Dose prescriptions, regardless of whether the patient profile permits its administration.
 
-### RESTRICT SCHEDULE II, III, AND IV
+### RESTRICT SCHEDULE TWO, THREE, AND FOUR (II, III, IV)
 The Prescriber cannot add Schedule II, Schedule III, or Schedule IV medication to their Daley Dose prescriptions.
 
 ### ONLY OTCS
@@ -41,19 +41,19 @@ The Prescriber can add only over‑the‑counter (OTC) medication to their Daley
 ---
 The following are drug classifications that can be restricted by this feature.
 
-### Class II
+### SCHEDULE TWO
 - **Description:** Drugs with a high potential for abuse, with use potentially leading to severe psychological or physical dependence. Considered dangerous.  
 - **Examples:** Oxycodone, Hydromorphone, Methadone, Fentanyl, Morphine, Amphetamine (Adderall), Methamphetamine, Methylphenidate (Ritalin)
 
-### Class III
+### SCHEDULE THREE
 - **Description:** Drugs with a moderate to low potential for physical and psychological dependence. Abuse potential is less than Class I or II but still significant.  
 - **Examples:** Anabolic steroids, Testosterone, Ketamine, Buprenorphine, Codeine (when combined with acetaminophen)
 
-### Class IV
+### SCHEDULE FOUR
 - **Description:** Drugs with a low potential for abuse and low risk of dependence compared to Class III.  
 - **Examples:** Alprazolam (Xanax), Diazepam (Valium), Lorazepam (Ativan), Zolpidem (Ambien), Tramadol
 
-### Class V
+### SCHEDULE FIVE
 - **Description:** Drugs with the lowest potential for abuse. Often preparations containing limited quantities of certain narcotics.  
 - **Examples:** Cough preparations with less than 200 mg of codeine per 100 ml (Robitussin AC), Ezogabine, Pregabalin (Lyrica), Lomotil
 
