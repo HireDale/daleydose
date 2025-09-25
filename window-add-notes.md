@@ -35,13 +35,13 @@ The following table describes the fields in the **Add Notes** window:
 | **FIELD**   | **DEFINITION** |
 |-------------|----------------|
 | **MEDICATION** | Displays the selected medication.<br><br>**NOTE:** This field is read‑only. It serves to remind you which medication you are creating notes for. To select another medication for notes, you must return to the **Prescription** tab first. |
-| **NOTE** | Displays the current note. Select to edit its contents. <br><br>**NOTE:** You can add up to 5 notes per medication. |
+| **CREATE NOTE** | Displays a blank note. Select to edit its contents. <br><br>**NOTE:** You can add up to 5 notes per medication. |
 
 The following table describes the buttons in the **Add Notes** window:
 
 | **BUTTON** | **DEFINITION** |
 |------------|----------------|
-| **ADD TO LIST** | Select to add the note to the prescription.<br><br>**NOTES:**<br>– You can add up to 25 words per note and 5 notes per medication.<br>– The application displays the error message **"Note Too Long"** when you attempt to add more than 25 words in a single note. |
+| **ADD TO LIST** | Select to add the created note to the prescription.<br><br>**NOTES:**<br>– You can add up to 25 words per note and 5 notes per medication.<br>– The application displays the error message **"Note Too Long"** when you attempt to add more than 25 words in a single note. |
 | **EDIT** | Select to edit the selected note. |
 | **DELETE** | Select to delete the selected note. |
 | **CANCEL** | Select to close the **Add Notes** window without adding the currently entered information to the prescription.<br><br>**NOTE:** When you select this button, the application displays the confirmation message **"Are you sure you want to close this window without adding the notes?"** before closing. |
