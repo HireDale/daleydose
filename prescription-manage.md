@@ -6,7 +6,7 @@ layout: default
 
 # **ADD, EDIT, AND DELETE MEDICATION NOTES**  
 ---
-Notes enable you to add instructions and information to individial medications. Notes attached to medications are printed alongside them when generating the prescription.
+**Notes** enable you to add patient instructions and additional information to a medication. Pharmacies print a copy of the medications and their associated notes when the patient comes in to fill the prescription.
 
 ![Daley Dose user interface screenshot](/assets/images/daley-dose-home-window-parts-add-notes.png) 
 
