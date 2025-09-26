@@ -6,7 +6,7 @@ layout: default
 
 # **FINALIZE A PRESCRIPTION**
 ---
-Finalizing a prescription involves locking its contents in place, adding your medical information, and sending the prescription out - either via a physical copy or through a secure, online message.
+Finalizing a prescription involves locking its contents in place, adding your medical information, and sending the prescription out - either via a physical copy or through a secure, online message straight to the pharmacy.
 
 ![Finalize buttons](/assets/images/daley-dose-home-window-parts-finalize.png)
 
