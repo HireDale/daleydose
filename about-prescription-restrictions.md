@@ -35,6 +35,8 @@ The Prescriber cannot add **Schedule II**, **Schedule III**, or **Schedule IV** 
 ### **MAXIMUM RESTRICTIONS**
 The Prescriber can add only **Schedule V** and over‑the‑counter (**OTC**) medication to their Daley Dose prescriptions.
 
+![Daley Dose Prescription Restrictions](/assets/images/daley-dose-profile-prescription.png)
+
 ## **DRUG CLASSIFICATIONS**
 ---
 The following are drug classifications that can be restricted by this feature.
