@@ -67,7 +67,7 @@ This option is ideal for remote consultations. Patients can walk into an affilia
 
 ### The application prevents you from selecting the **Add Medical Signature** button
 - **REASON:** The application does not have your saved digital signature.
-- **SOLUTION:** Complete the **Medical Signature** panel on the **Profile** window.
+- **SOLUTION:** Complete the **Medical Signature** section on the settings.
 
 ### The application prevents you from selecting the **Send Online** button
 - **REASON 1:** The application does not have access to the internet.
