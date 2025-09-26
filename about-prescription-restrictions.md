@@ -6,11 +6,11 @@ description: ""
 
 # **ABOUT PRESCRIPTION RESTRICTIONS**
 ---
-Administrators can impose or lift various levels of prescription restrictions on active Prescribers.
+Administrators can impose or lift various levels of **prescription restrictions** on active Prescribers. This prevents them from prescribing specific medication for a stated period of time.
 
 Orders to impose or lift restrictions must come from the hospital’s Department Head or higher. This process requires official hospital paperwork, an explanation, and the specified duration of any restrictions. The Prescriber receives a notification about any changes in prescription restrictions the next time they open the application.
 
-You can view a Prescriber’s restrictions in their profile. This also includes the duration of any active restrictions, a detailed history of previous restrictions, the incident report that caused the current restriction, and a way to appeal the duration or status of the restriction.
+You can view the details of a Prescriber’s restrictions in their profile.
 
 ![Daley Dose Profile screen](/assets/images/daley-dose-profile.png)
 
