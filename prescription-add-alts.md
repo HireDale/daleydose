@@ -7,9 +7,9 @@ layout: default
 # **ADD ALTERNATIVE TO A MEDICATION ENTRY**
 ---
 
-![Daley Dose Add Alternative](/assets/images/daley-dose-home-window-parts-alt.png)
-
 Adding **alternative options** to medication entries provides a fallback when the pharmacy runs out of the prescribed medication between the time of issuing the order and the patient arriving at the pharmacy. This ensures the patient still receives treatment for their condition without requiring you to re-prescribe a different medication.
+
+![Daley Dose Add Alternative](/assets/images/daley-dose-home-window-parts-alt.png)
 
 ---
 ### **Note: Adding alternatives to medication is completely optional.**
