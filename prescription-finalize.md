@@ -31,6 +31,8 @@ To add a medical signature, select the **Medical Signature** button on a finaliz
 - You must have a medical signature template saved in your profile to use this functionality.
 - The application uses information saved in your profile when adding the medical signature. Update this regularly to prevent outdated information from being added to prescriptions.
 
+![Daley Dose Signature](/assets/images/daley-dose-profile-signature.png)
+
 ## **PRINT COPY**
 ---
 
