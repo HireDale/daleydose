@@ -14,25 +14,33 @@ To create a new prescription, follow these steps:
 
 1. Verify that the **Prescriber** fields are correct on the **Information Sidebar**.  
 
-   The **Prescriber** fields are read‑only. The information displayed depends on the currently active user profile. An incorrect Prescriber name indicates that you are logged into the wrong account. Log out, then log back in using your credentials to continue.  
+   The **Prescriber** fields are read‑only. The information displayed depends on the currently active user profile.
+
+   An incorrect Prescriber name indicates that you are logged into the wrong account. Log out, then log back in using your credentials to continue.  
    
 3. On the **Action Sidebar**, select **Create New**.  
 
-   Creating a new prescription erases all current work loaded on the **Prescription** tab. Save, send, or print any ongoing prescriptions before continuing. If there are items on the current prescription, the application displays the confirmation message **"Are you sure you want to erase the current prescription?"**. The application erases all populated fields when you select **Yes**.  
+   Creating a new prescription erases all current work loaded on the **Prescription** tab.
+
+   Save, send, or print any ongoing prescriptions before continuing.
+
+   If there are items on the current prescription, the application displays the confirmation message **"Are you sure you want to erase the current prescription?"**. The application erases all populated fields when you select **Yes**.  
    
-4. Enter the patient’s information in the **Patient Name** fields.  
+5. Enter the patient’s information in the **Patient Name** fields.  
+
    Entering a **Patient Last Name** restricts **Patient First Name** options to those with an existing record in the database.  
    
-5. Enter the issue date in the **Prescription Date** field.  
+7. Enter the issue date in the **Prescription Date** field.  
+
    If this field is empty when you finalize the prescription, the application fills it with the current date.  
    
-6. (Optional) Enter the expected refill date in the **Refill Date** field.  
+9. (Optional) Enter the expected refill date in the **Refill Date** field.  
    
-7. Add medications and notes. You can add up to 5 medications per prescription.  
+10. Add medications and notes. You can add up to 5 medications per prescription.  
 
    See [**How to add medications to a prescription**](/daleydose/prescription-add-meds) for more information.  
    
-9. Finalize your work. From here, you can either print the prescription or send it to the database for processing.  
+11. Finalize your work. From here, you can either print the prescription or send it to the database for processing.  
 
    See [**How to finalize and send out a prescription**](/daleydose/prescription-finalize) for more information.  
 
