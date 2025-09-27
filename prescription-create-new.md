@@ -38,11 +38,11 @@ To create a new prescription, follow these steps:
    
 6. Add medications and notes. You can add up to 5 medications per prescription.
 
-   - See [**How to add medications to a prescription**](/daleydose/prescription-add-meds) for more information.  
-   
-7. Finalize your work. From here, you can either print the prescription or send it to the database for processing.  
+   - See [**How to add medications to a prescription**](/daleydose/prescription-add-meds) for more information.
 
-   - See [**How to finalize and send out a prescription**](/daleydose/prescription-finalize) for more information.  
+7. Finalize your work. From here, you can either print the prescription or send it to the database for processing.
+
+   - See [**How to finalize and send out a prescription**](/daleydose/prescription-finalize) for more information.
 
 ## **NOTES**
 ---
