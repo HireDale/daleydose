@@ -18,7 +18,7 @@ To add medication to the current prescription, follow these steps:
 
 2. In the **Add Medication** window, enter either the Generic or Brand Name of the medication in their respective fields.  
 
-   - If you enter a brand name while the **Generic Name** field is empty, the application automatically lists the brand name’s generic version in that field.  
+   If you enter a brand name while the **Generic Name** field is empty, the application automatically lists the brand name’s generic version in that field.  
 
 3. Enter the medication dosage.
 
