@@ -6,6 +6,9 @@ layout: default
 
 # **ADD MEDICATION TO A PRESCRIPTION**
 ---
+Adding **medication** is the core of the prescription process. You can use the **Drug History** and **Med History** tabs to learn more about the patient or review their previous medical records. This enables you to add appropriate, evidence-based medication that addresses the patient’s condition.
+
+The **Drug History** tab displays previously prescribed medication and potential interactions or contraindications. The **Med History** tab displays current and past medical diagnoses and hospitalizations.
 
 ![Daley Dose user interface screenshot](/assets/images/daley-dose-home-window-parts-add-meds.png)
 
