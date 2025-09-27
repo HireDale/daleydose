@@ -35,9 +35,9 @@ To add an alternative option to a medication entry in the current prescription, 
 
 ## **NOTES**
 ---
-- The **Generic Name** field is mandatory, while the **Brand Name** field is optional.
-- The application auto-completes generic and brand name suggestions for each medication. You can turn off this feature in the options.
-- The application disables the **OK** button when at least one of the following fields is empty: **Generic Name**, **Dose**, or **Amount**.
+1. The **Generic Name** field is mandatory, while the **Brand Name** field is optional.
+2. The application auto-completes generic and brand name suggestions for each medication. You can turn off this feature in the options.
+3. The application disables the **OK** button when at least one of the following fields is empty: **Generic Name**, **Dose**, or **Amount**.
 
 ![Daley Dose user interface screenshot](/assets/images/daley-dose-add-alts-window.png)
 
