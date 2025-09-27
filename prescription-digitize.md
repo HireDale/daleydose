@@ -15,20 +15,24 @@ To digitize a handwritten prescription, follow these steps:
 1. Select **Scan Physical Copy** on the **Prescription** tab to view the [**Scan** window](/daleydose/window-scan).
 
 2. Check the status of the **Camera** and **Internet** fields.
-   You need both fields to show green to continue.
 
-3. Aim the camera at the note and select **Capture**.
-   The application scans the handwritten prescription using your computer or phone’s camera to create a digital version of the prescription’s contents.
+   - You need both fields to show green to continue.
 
-4. (Optional) Select **Reset** to delete the current image and redo the process.
+4. Aim the camera at the note and select **Capture**.
 
-5. Wait for the scan to complete.
+   - The application scans the handwritten prescription using your computer or phone’s camera to create a digital version of the prescription’s contents.
 
-6. The entire process can take up to 20 seconds. Here, the application takes multiple photographs during this time to ensure accuracy.
+5. (Optional) Select **Reset** to delete the current image and redo the process.
 
-7. Make sure the note remains visible throughout the entire duration to avoid errors.
+6. Wait for the scan to complete.
 
-8. After a successful scan, the application generates a new prescription based on the processed information.
+7. The entire process can take up to 20 seconds.
+
+   - Here, the application takes multiple photographs during this time to ensure accuracy.
+
+8. Make sure the note remains visible throughout the entire duration to avoid errors.
+
+9. After a successful scan, the application generates a new prescription based on the processed information.
 
 ## **NOTES**
 ---
