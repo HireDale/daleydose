@@ -14,17 +14,17 @@ To create a new prescription, follow these steps:
 
 1. Verify that the **Prescriber** fields are correct on the **Information Sidebar**.  
 
-   The **Prescriber** fields are read‑only. The information displayed depends on the currently active user profile.
+   - The **Prescriber** fields are read‑only. The information displayed depends on the currently active user profile.
 
-   An incorrect Prescriber name indicates that you are logged into the wrong account. Log out, then log back in using your credentials to continue.  
+   - An incorrect Prescriber name indicates that you are logged into the wrong account. Log out, then log back in using your credentials to continue.  
    
 3. On the **Action Sidebar**, select **Create New**.  
 
-   Creating a new prescription erases all current work loaded on the **Prescription** tab.
+   - Creating a new prescription erases all current work loaded on the **Prescription** tab.
 
-   Save, send, or print any ongoing prescriptions before continuing.
+   - Save, send, or print any ongoing prescriptions before continuing.
 
-   If there are items on the current prescription, the application displays the confirmation message **"Are you sure you want to erase the current prescription?"**. The application erases all populated fields when you select **Yes**.  
+   - If there are items on the current prescription, the application displays the confirmation message **"Are you sure you want to erase the current prescription?"**. The application erases all populated fields when you select **Yes**.  
    
 5. Enter the patient’s information in the **Patient Name** fields.  
 
