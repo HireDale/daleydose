@@ -8,6 +8,12 @@ layout: default
 ---
 **Finalizing a prescription** involves locking its contents in place, adding your medical credentials to confirm that the information on the prescription is correct, and sending it out—either as a physical copy or through a secure online message directly to the pharmacy.
 
+The process to create a prescription is as follows:  
+
+1. Finalize the prescription and lock the details in place.  
+2. Add your medical credentials as proof that the prescription is valid.  
+3. Print a local copy or send the prescription online as a digital message to pharmacies.
+
 ![Finalize buttons](/assets/images/daley-dose-home-window-parts-finalize.png)
 
 ## **[1] FINALIZE BUTTON**
@@ -41,7 +47,9 @@ To add a medical signature, select the **Medical Signature** button on a finaliz
 ## **[3A] PRINT COPY**
 ---
 
-The **Print Copy** button enables you to print the finalized prescription locally. This option is useful in a clinic or office setting, where the patient receives a printed copy after consultation.
+The **Print Copy** button is one of two ways to send out a created prescription.
+
+This button enables you to print the finalized prescription locally. This option is useful in a clinic or office setting, where the patient receives a printed copy after consultation.
 
 However, the pharmacy may run out of stock of the prescribed medication between the time of printing and the patient’s arrival. This could delay treatment or require a new prescription. To avoid this, consider adding an alternative option during the prescription process.
 
@@ -58,9 +66,9 @@ See the [**How to add alternatives to medication entries**](/daleydose/prescript
 ## **[3B] SEND ONLINE**
 ---
 
-The **Send Online** button enables you to send the digital version of the finalized prescription to the Daley Dose database. Pharmacies can cross-reference a patient ID with the database to retrieve pending prescriptions.
+The **Send Online** button, on the other hand, enables you to send the digital version of the finalized prescription to the Daley Dose database. Pharmacies can cross-reference a patient ID with the database to retrieve pending prescriptions.
 
-This option is ideal for remote consultations. Patients can walk into an affiliated pharmacy or hospital and receive their medication without printed prescriptions, as long as they present a valid ID.
+This option is ideal for remote consultations. Patients can walk into an affiliated pharmacy or hospital and receive their medication without a printed prescription, as long as they present a valid ID. The pharmacy also prints the medication names and notes, so the patient has access to your specific instructions afterward.
 
 ### **NOTES**
 ---
