@@ -21,7 +21,7 @@ To add an alternative option to a medication entry in the current prescription, 
 
 2. In the **Add Alternative** window, enter either the generic or brand name of the medication in their respective fields.
 
-   - If you enter a brand name while the **Generic Name** field is empty, the application automatically lists the brand name’s generic version in that field.
+   If you enter a brand name while the **Generic Name** field is empty, the application automatically lists the brand name’s generic version in that field.
   
 3. Enter the medication dosage.
 
@@ -31,7 +31,7 @@ To add an alternative option to a medication entry in the current prescription, 
 
 6. Select **OK**.
 
-   - When the pharmacy runs out of the prescribed medication, the pharmacist can provide the alternative instead.
+   When the pharmacy runs out of the prescribed medication, the pharmacist can provide the alternative instead.
 
 ## **NOTES**
 ---
