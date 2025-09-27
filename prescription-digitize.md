@@ -16,11 +16,11 @@ To digitize a handwritten prescription, follow these steps:
 
 2. Check the status of the **Camera** and **Internet** fields.
 
-   - You need both fields to show green to continue.
+   You need both fields to show green to continue.
 
 4. Aim the camera at the note and select **Capture**.
 
-   - The application scans the handwritten prescription using your computer or phone’s camera to create a digital version of the prescription’s contents.
+   The application scans the handwritten prescription using your computer or phone’s camera to create a digital version of the prescription’s contents.
 
 5. (Optional) Select **Reset** to delete the current image and redo the process.
 
@@ -28,7 +28,7 @@ To digitize a handwritten prescription, follow these steps:
 
 7. The entire process can take up to 20 seconds.
 
-   - Here, the application takes multiple photographs during this time to ensure accuracy.
+   Here, the application takes multiple photographs during this time to ensure accuracy.
 
 8. Make sure the note remains visible throughout the entire duration to avoid errors.
 
