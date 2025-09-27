@@ -31,17 +31,14 @@ To create a new prescription, follow these steps:
    - Entering a **Patient Last Name** restricts **Patient First Name** options to those with an existing record in the database.  
    
 4. Enter the issue date in the **Prescription Date** field.  
-
    - If this field is empty when you finalize the prescription, the application fills it with the current date.  
       
 5. (Optional) Enter the expected refill date in the **Refill Date** field.  
    
 6. Add medications and notes. You can add up to 5 medications per prescription.  
-
    - See [**How to add medications to a prescription**](/daleydose/prescription-add-meds) for more information.  
 
 7. Finalize your work. From here, you can either print the prescription or send it to the database for processing.  
-
    - See [**How to finalize and send out a prescription**](/daleydose/prescription-finalize) for more information.  
 
 ## **NOTES**
