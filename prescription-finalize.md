@@ -6,19 +6,23 @@ layout: default
 
 # **FINALIZE A PRESCRIPTION**
 ---
-**Finalizing a prescription** involves locking its contents in place, adding your medical credentials to confirm that the information on the prescription is correct, and sending the prescription out - either via a physical copy or through a secure, online message straight to the pharmacy.
+**Finalizing a prescription** involves locking its contents in place, adding your medical credentials to confirm that the information on the prescription is correct, and sending it out—either as a physical copy or through a secure online message directly to the pharmacy.
 
 ![Finalize buttons](/assets/images/daley-dose-home-window-parts-finalize.png)
 
+## **[1] FINALIZE BUTTON**
+---
 The **Generate** section of the **Action Sidebar** includes the **Add Medical Signature**, **Print Copy**, and **Send Online** buttons. As a safety measure when dealing with medical prescriptions, these buttons are disabled until you finalize your work.
 
 After adding medications and notes to the prescription, select the **Finalize** button to lock the prescription entries in place and prepare the prescription for printing or online sending.
 
 The application disables the **Finalize** button when there are errors in the current prescription. Fields with errors are highlighted in red. You will also see an error message on the same line as the source. You must resolve these issues or delete the associated entries before finalizing.
 
+By selecting the **Finalize** button, you are confirming that the prescription created is accurate and ready to be processed for the customer.
+
 ![Main Screen with Errors](/assets/images/daley-dose-home-window-error.png)
 
-## **ADD MEDICAL SIGNATURE**
+## **[2] ADD MEDICAL SIGNATURE**
 ---
 
 The **Add Medical Signature** button adds the prescriber's professional information to the prescription. This includes their Medical License number, complete name, office address, contact information, and official digital signature. The application also adds the Daley Dose stamp of clearance, indicating that the prescription has been checked, approved, and finalized.
@@ -34,7 +38,7 @@ To add a medical signature, select the **Medical Signature** button on a finaliz
 
 ![Daley Dose Signature](/assets/images/daley-dose-profile-signature.png)
 
-## **PRINT COPY**
+## **[3A] PRINT COPY**
 ---
 
 The **Print Copy** button enables you to print the finalized prescription locally. This option is useful in a clinic or office setting, where the patient receives a printed copy after consultation.
@@ -51,7 +55,7 @@ See the [**How to add alternatives to medication entries**](/daleydose/prescript
 
 ![Prescription Sample](/assets/images/daley-dose-home-window-printed.png)
 
-## **SEND ONLINE**
+## **[3B] SEND ONLINE**
 ---
 
 The **Send Online** button enables you to send the digital version of the finalized prescription to the Daley Dose database. Pharmacies can cross-reference a patient ID with the database to retrieve pending prescriptions.
