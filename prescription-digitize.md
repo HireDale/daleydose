@@ -6,6 +6,7 @@ layout: default
 
 # **DIGITIZE A HANDWRITTEN PRESCRIPTION**
 ---
+Digitizing a handwritten prescription enables you to create its **digital copy**. This opens avenues that are not available for physical media, such as sending the prescription directly to a pharmacy's online facilities. It is recommended that you destroy the physical copy after scanning to avoid duplicate medication dispensing, whether accidental or intentional.
 
 ![Scan Button](/assets/images/daley-dose-home-window-parts-scan.png)  
 
