@@ -6,6 +6,8 @@ layout: default
 
 # **CREATE A NEW PRESCRIPTION**
 ---
+The Daley Dose application's main feature is the ability to create **digital prescriptions**. By using a secure, well-equipped application, prescribers around the world can maintain the highest standard of care for their patients.
+
 ![Daley Dose user interface create new](/assets/images/daley-dose-home-window-parts-create-new.png)
 
 To create a new prescription, follow these steps:
