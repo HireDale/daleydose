@@ -30,6 +30,8 @@ To log into the application using Spectator Mode:
 - Spectator Mode disables all prescription features and most of the user interface.  
 - The main purpose of this mode is to allow potential customers to view the application before purchasing a subscription or license.  
 
+![Spectator Mode](/assets/images/daley-dose-spectator-mode.png)
+
 ## **ACCOUNT CREATION**
 ---
 
