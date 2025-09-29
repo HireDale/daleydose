@@ -23,8 +23,7 @@ To log into the application using Spectator Mode:
 
 2. In the dropdown list, select **Continue as Guest**.  
 
-3. The application displays the warning message:  
-   **"Opening the application in Spectator Mode disables most of its features for that session. Are you sure you want to continue logging into Spectator Mode?"**
+3. Select **Continue** on the confirmation dialog box.
 
 **NOTES**  
 - Spectator Mode disables all prescription features and most of the user interface.  
