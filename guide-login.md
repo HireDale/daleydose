@@ -20,7 +20,9 @@ You can log into the application without an account or valid credentials using *
 To log into the application using Spectator Mode:
 
 1. On the **Login Screen**, select the **Support** dropdown.  
+
 2. In the dropdown list, select **Continue as Guest**.  
+
 3. The application displays the warning message:  
    **"Opening the application in Spectator Mode disables most of its features for that session. Are you sure you want to continue logging into Spectator Mode?"**
 
@@ -40,10 +42,15 @@ You can sign up as a single practitioner or as a representative of a health care
 To sign up as a single practitioner:
 
 1. Go to the Daley Dose website.  
+
 2. Select the **Register** button to display the **Account Creation** page.  
+
 3. On the **Account Creation** page, enter the required information in the **Personal**, **Professional**, and **Financial Information** sections.  
+
 4. Select a subscription plan.  
+
 5. Select **Finalize** to proceed to the **Payment** page.  
+
 6. Confirm and provide your payment to complete the process.  
 
 After payment, the website emails you a unique username and a temporary password. You can then log into the Daley Dose application.
@@ -55,8 +62,11 @@ To create accounts for a hospital, company, or team of practitioners, you must c
 To sign up for a corporate setup:
 
 1. Go to the Daley Dose website.  
+
 2. Select the **Corporate** button to display the **Corporate Account Creation** page.  
+
 3. On the **Corporate Account** page, enter your company’s contact information. A customer service representative will call after confirming your company, required number of accounts, and payment details.  
+
 4. The representative will guide you through the sign‑up process.  
 
 After selecting a subscription plan and finalizing payment, your company must wait for account setup:  
@@ -75,8 +85,11 @@ To log into the Daley Dose application:
 1. On the **Login Screen**, enter your assigned username and password.  
    - Individual practitioners receive login details via email after subscription purchase.  
    - Group practitioners receive login details from their IT department.  
+   
 2. Select the **Question Mark** buttons beside the **Username** or **Password** fields to view hints or notes. You can customize these hints in the options.  
+
 3. Select the **Log In** button to continue. Depending on your settings, the application may request additional authentication (for example, a PIN code or external verification).  
+
 4. After a successful login, the application opens the **Home** window.  
 
 **NOTES**  
