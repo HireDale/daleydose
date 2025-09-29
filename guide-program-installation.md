@@ -29,8 +29,7 @@ layout: default
 9. Select **Install** to start the installation process, and **Finish** once the progress bar reaches 100%.  
 
 10. Once installed, open the Daley Dose application from your **Start Menu** or its desktop shortcut.  
-
-See the **Sign Up and Login Guide** for more information.
+    See the [**Sign Up and Login Guide**](/daleydose/guide-login) for more information.
 
 ![User Interface login screen](/assets/images/daley-dose-home-window-login.png)
 
