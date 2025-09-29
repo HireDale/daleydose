@@ -1,5 +1,5 @@
 ---
-title: Daley Dose - "Login Screen"
+title: "Daley Dose - Login Screen"
 description: ""
 layout: default
 ---
