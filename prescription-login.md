@@ -7,6 +7,7 @@ layout: default
 ---
 
 After installing the Daley Dose application or its mobile companion app, you must first log into the system before you can view the main interface and prescription features.  
+
 This requires an active Daley Dose account with system‑assigned login credentials (a username and a temporary password) or the use of **Spectator Mode**.
 
 ## **SPECTATOR MODE**
@@ -60,6 +61,8 @@ After selecting a subscription plan and finalizing payment, your company must wa
 - At least 1 month for accounts exceeding 1,000.  
 
 Once created, the website sends bulk login credentials to your company’s IT department, which distributes them to the health care team.
+
+![User Interface login screen](/assets/images/daley-dose-home-window-login.png)
 
 ## **LOG IN PROCESS**
 ---
