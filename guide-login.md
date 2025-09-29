@@ -32,6 +32,7 @@ To log into the application using Spectator Mode:
 ---
 
 To obtain login credentials, you must have an active Daley Dose account or be part of a group with an active account. Registration is completed on the Daley Dose website.  
+
 You can sign up as a single practitioner or as a representative of a health care group.
 
 ### **SIGN UP PROCESS (SINGLE PRACTITIONER)**
