@@ -10,10 +10,15 @@ layout: default
 The Daley Dose mobile companion app enables you to scan handwritten prescriptions and write digital ones on the go. This section is optional, but it offers greater flexibility for completing tasks.  
 
 1. Open the **App Store**.  
+
 2. Search for and select the **Daley Dose** app.  
+
 3. On the Daley Dose store page, select **Install**.  
+
 4. The app downloads and installs onto your device.  
+
 5. Once the installation is complete, select the **Open** button.  
+
 6. On the Login screen, enter your username and password.  
 
 See the **Sign Up and Login Guide** for more information.
