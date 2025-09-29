@@ -65,7 +65,9 @@ To sign up for a corporate setup:
 
 2. Select the **Corporate** button to display the **Corporate Account Creation** page.  
 
-3. On the **Corporate Account** page, enter your company’s contact information. A customer service representative will call after confirming your company, required number of accounts, and payment details.  
+3. On the **Corporate Account** page, enter your company’s contact information. 
+
+   A customer service representative will call after confirming your company, required number of accounts, and payment details.  
 
 4. The representative will guide you through the sign‑up process.  
 
