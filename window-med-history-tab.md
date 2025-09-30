@@ -1,5 +1,5 @@
 ---
-title: "Daley Dose - Drug History Tab"
+title: "Daley Dose - Med History Tab"
 description: ""
 layout: default
 ---
