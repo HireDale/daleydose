@@ -34,16 +34,17 @@ Explore core topics about the Daley Dose application and its features.
 View available windows and their functions in the application.
 
 - [**Home Window**](/daleydose/window-home)  
-  Starting point for creating and managing patient prescriptions. Here, you can view and access the three core tabs used to build, review, and finalize prescriptions.
+  Starting point for creating and managing patient prescriptions. 
   
-  The Home window has three tabs:
-  - [**Prescription**](/daleydose/window-prescription-tab)  
+  Here, you can view and access the three core tabs used to build, review, and finalize prescriptions.
+  
+  - [**Prescription Tab**](/daleydose/window-prescription-tab)  
     Central workspace for creating and managing prescriptions. Displays all entries in the current prescription.
 
-  - [**Drug History**](/daleydose/window-drug-history-tab)  
+  - [**Drug History Tab**](/daleydose/window-drug-history-tab)  
     View the patient’s digitized prescription history from the past 20 years.
 
-  - [**Med History**](/daleydose/window-med-history-tab)  
+  - [**Med History Tab**](/daleydose/window-med-history-tab)  
     View the patient’s digitized medical conditions and treatments from the past 20 years.
     
 - [**Add Medication Window**](/daleydose/window-add-medication)  
