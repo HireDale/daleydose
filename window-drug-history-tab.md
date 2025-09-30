@@ -15,6 +15,8 @@ This tab is especially useful when checking for previous prescriptions issued by
 
 By reviewing the patient’s drug history, the prescribing physician gains a broader clinical context and can tailor treatment accordingly. This is particularly important when prescribing medications that may cause interactions or contraindications.
 
+Select the **View Prescription Info** button on a prescription entry to view additional information, including the prescribing physician and the location where the prescription was filled. 
+
 The **Drug History** tab is one of three tabs featured in the **Work Area**, alongside the [**Prescription**](/daleydose/window-prescription-tab) and [**Med History**](/daleydose/window-med-history-tab) tabs.
 
 ![Daily Dose Tabs](/assets/images/daley-dose-home-window-parts-drug-history.png)
