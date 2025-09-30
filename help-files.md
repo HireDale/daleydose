@@ -59,18 +59,6 @@ View available windows and their functions in the application.
 - [**Scan Window**](/daleydose/window-scan)  
   Scan a handwritten prescription and convert it to a digital version.
 
-## **WORK AREA TABS**
-View and access the three core tabs used to build, review, and finalize prescriptions.
-
-- [**Prescription**](/daleydose/window-prescription-tab)  
-  Central workspace for creating and managing prescriptions. Displays all entries in the current prescription.
-
-- [**Drug History**](/daleydose/window-drug-history-tab)  
-  View the patient’s digitized prescription history from the past 20 years.
-
-- [**Med History**](/daleydose/window-med-history-tab)  
-  View the patient’s digitized medical conditions and treatments from the past 20 years.
-
 ![Daley Dose user interface screenshot](/assets/images/daley-dose-home-window-clean.png)
   
 ## **INSTALLATION GUIDES**
