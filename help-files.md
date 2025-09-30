@@ -61,12 +61,13 @@ View available windows and their functions in the application.
 
 ![Daley Dose user interface screenshot](/assets/images/daley-dose-home-window-clean.png)
   
-## **INSTALLATION GUIDES**
+## **SYSTEM SETUP GUIDES**
 Learn how to install, troubleshoot, and update the application.
 
 - [**How to install the Daley Dose application**](/daleydose/guide-program-installation)
 - [**How to install the mobile companion app**](/daleydose/guide-mobile-installation)
-- [**How to update to the latest version**](/daleydose/guide-program-update)
+- [**How to check for application updates**](/daleydose/guide-program-update)
+- [**How to set up accounts and log into Daley Dose**](/daleydose/guide-login)
 
 ## **USER INTERFACE GUIDES**
 Learn how to perform tasks in the application.
