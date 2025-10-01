@@ -14,7 +14,7 @@ This release features a **major overhaul** of the application's user interface a
 
 Note that the latest Daley Dose application requires a corporate account with an active subscription. Visit our website for more information on tiered services.
 
-![Daily Dose user interface](/assets/images/daley-dose-home-window-error.png)
+![Daily Dose user interface](/assets/images/featured-updates-v1-5.png)
 
 ## **NEW FEATURES**
 ---
