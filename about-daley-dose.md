@@ -35,11 +35,11 @@ The Daley Dose application offers a wide variety of features for doctors and pha
 
 - **Data Handling Security**  
 
-  Daley Dose uses strong encryption and advanced security protocols to protect patient information and comply with international healthcare regulations.  
+  Daley Dose uses strong encryption and advanced security protocols to protect patient information and comply with international healthcare regulations. The prescription process also involves several layers of checking both from a security standpoint and a medical one. This ensures that each patient prescription created with the application is both secure and medically accurate. 
 
-- **Automated Refill Alerts**  
+- **Automated Patient Information Updates**  
 
-  Configure automatic reminders for prescription refills to help patients maintain adherence and receive continuous care.  
+  The application provides medical and drug prescription history to enable you to prescribe medication with the most accurate data in mind. Daley Dose updates the patient records each time you visit the Drug History and Med History tabs to ensure access to accurate information. The database that stores patient information updates every hour and has sources from nearly all hospitals and pharmacies worldwide. 
 
 - **Linear and Streamlined Process**  
 
