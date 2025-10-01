@@ -14,7 +14,7 @@ This release features a **major overhaul** of the application's user interface a
 
 Note that the latest Daley Dose application requires a corporate account with an active subscription. Visit our website for more information on tiered services.
 
-![Daily Dose user interface](/assets/images/featured-updates-v1-5.png)
+![Daily Dose user interface](/assets/images/featured-updates-v1-5-2.png)
 
 ## **NEW FEATURES**
 ---
@@ -22,6 +22,8 @@ Note that the latest Daley Dose application requires a corporate account with an
 | Feature | Reference Number(s) |
 | --- | --- |
 | **Revamped user interface** – Redesigned layout with new **Information** and **Action** sidebars for faster access to tools. Added the **Undo**, **Redo**, **Save**, **Clear**, **Help**, **Delete**, **Refresh**, **MIMS**, and **Finalize** buttons. Added the **Drug History** and **Med History** tabs for quick access to patient prescription and medication records. | DD‑2011 / DD‑2012 / DD‑2013 / DD‑2014 / DD‑2015 / DD‑2017 / DD‑2020 |
+
+![Daily Dose user interface](/assets/images/featured-updates-v1-5.png)
 
 ## **ENHANCEMENTS**
 ---
