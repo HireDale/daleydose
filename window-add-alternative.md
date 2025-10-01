@@ -26,8 +26,8 @@ The following table describes the fields in the **Add Alternative** window:
 
 | **FIELD** | **DEFINITION** |
 |-----------|----------------|
-| **GENERIC NAME** | Enter the medication’s generic name. |
-| **BRAND NAME** | Enter the medication’s brand name.<br><br>**NOTES:**<br>– This field is optional.<br>– When you enter a brand name while the **Generic Name** field is empty, the application automatically lists the entered brand name’s generic version in that field. |
+| **ORIGINAL MEDICATION** | Displays the original medication name and dose. This is a read-only field and only serves as a reference when creating the alternative entry. |
+| **ALTERNATIVE** | Enter the alternative medication’s brand or generic name.
 | **DOSE** | Enter the medication’s dosage.<br><br>**NOTE:** The application disables this field when the entered medication does not include dosage instructions. |
 | **QUANTITY** | Enter the medication quantity for the prescription. |
 
