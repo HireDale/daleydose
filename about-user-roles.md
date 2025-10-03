@@ -28,5 +28,4 @@ The following table describes the user roles available in the Daley Dose applica
 ---
 - [**About Daley Dose**](/daleydose/about-daley-dose)  
 - [**About Prescription Restrictions**](/daleydose/about-prescription-restrictions)
-- [**Access the Help Files**](/daleydose/help-files)
 - [**How to set up accounts and log into Daley Dose**](/daleydose/guide-login)
