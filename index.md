@@ -11,7 +11,7 @@ The **Daley Dose** application streamlines the prescription‑writing process fo
 
 Its user-friendly interface combined with powerful features enable accurate, efficient, and secure creation of prescriptions. It also offers extended capabilities, including contacting patients, pharmacies, and online stores for accurate and on‑time medication distribution. This ensures that patients receive their medication promptly and at their convenience.
 
-![Daley Dose user interface screenshot](/assets/images/daley-dose-home-window-clean.png)
+![Daley Dose process](/assets/images/daley-dose-process.png)
 
 ## **FEATURED**
 ---
@@ -27,6 +27,8 @@ Its user-friendly interface combined with powerful features enable accurate, eff
 
 - [**About Prescription Restrictions**](/daleydose/about-prescription-restrictions)  
   Understand how prescription restrictions manage what medications a Prescriber can order in Daley Dose. Learn how Administrators apply limits, view current restrictions, and ensure prescriptions comply with hospital guidelines.
+
+![Daley Dose user interface screenshot](/assets/images/daley-dose-home-window-clean.png)
 
 ## **ADDITIONAL LINKS**
 ---
