@@ -59,7 +59,7 @@ View available windows and their functions in the application.
 - [**Scan Window**](/daleydose/window-scan)  
   Scan a handwritten prescription and convert it to a digital version.
   
-![User Interface login screen](/assets/images/daley-dose-home-window-login.png)
+![User Interface mobile](/assets/images/daley-dose-home-window-mobile.png)
   
 ## **SYSTEM SETUP GUIDES**
 Learn how to install, troubleshoot, and update the application.
