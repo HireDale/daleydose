@@ -9,7 +9,7 @@ description: ""
 
 The Daley Dose application offers multiple user roles, each with distinct functions and restrictions. Roles can be assigned to an account and follow a linear hierarchy for escalating technical issues during troubleshooting.
 
-To request a role change, contact **Support** or an **Administrator**.
+To request a role change, contact an **Administrator**.
 
 ![User Interface login screen](/assets/images/daley-dose-about-user-profiles.png)
 
