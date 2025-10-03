@@ -28,8 +28,6 @@ Its user-friendly interface combined with powerful features enable accurate, eff
 - [**About Prescription Restrictions**](/daleydose/about-prescription-restrictions)  
   Understand how prescription restrictions manage what medications a Prescriber can order in Daley Dose. Learn how Administrators apply limits, view current restrictions, and ensure prescriptions comply with hospital guidelines.
 
-![Daley Dose user interface screenshot](/assets/images/daley-dose-home-window-clean.png)
-
 ## **ADDITIONAL LINKS**
 ---
 
