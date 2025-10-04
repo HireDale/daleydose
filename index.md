@@ -38,12 +38,6 @@ Its user-friendly interface combined with powerful features enable accurate, eff
 - [**About Prescription Restrictions**](/daleydose/about-prescription-restrictions)  
   Understand how prescription restrictions manage what medications a Prescriber can order in Daley Dose. Learn how Administrators apply limits, view current restrictions, and ensure prescriptions comply with hospital guidelines.
 
-## **ADDITIONAL LINKS**
----
-  
-- [**HireDale.com**](https://hiredale.github.io)  
-  The main hub for my portfolio, technical documentation, and professional resources.
-
 ## **COMING SOON**
 ---
 - [**AI Integration**](/daleydose/about-dale-bot)  
@@ -51,3 +45,9 @@ Its user-friendly interface combined with powerful features enable accurate, eff
 
 - [**Application Themes**](/daleydose/about-custom-themes)  
   Stronger security updates? Better prescription safety measures? Something much better is coming soon. That's right - customizable themes!
+
+## **ADDITIONAL LINKS**
+---
+  
+- [**HireDale.com**](https://hiredale.github.io)  
+  The main hub for my portfolio, technical documentation, and professional resources.
