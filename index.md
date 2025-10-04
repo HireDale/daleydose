@@ -19,6 +19,13 @@ Its user-friendly interface combined with powerful features enable accurate, eff
 - [**Access the Help Files**](/daleydose/help-files)  
   Access the Daley Dose Help Files to quickly find step‑by‑step guides, troubleshooting tips, and feature overviews that help you get the most out of the application.
 
+- [**Version 1.5 Release Notes**](/daleydose/release-notes-v1.5)  
+  Review the updates, enhancements, and fixes included in the latest version of the Daley Dose application.
+  
+- [**Version History**](/daleydose/release-note-version-history)  
+  View a complete archive of past releases, including feature additions, changes, and resolved issues.
+
+
 ## **FUNDAMENTALS**
 ---
 
@@ -33,12 +40,6 @@ Its user-friendly interface combined with powerful features enable accurate, eff
 
 ## **ADDITIONAL LINKS**
 ---
-
-- [**Version 1.5 Release Notes**](/daleydose/release-notes-v1.5)  
-  Review the updates, enhancements, and fixes included in the latest version of the Daley Dose application.
-  
-- [**Version History**](/daleydose/release-note-version-history)  
-  View a complete archive of past releases, including feature additions, changes, and resolved issues.
   
 - [**HireDale.com**](https://hiredale.github.io)  
   The main hub for my portfolio, technical documentation, and professional resources.
