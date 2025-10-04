@@ -19,6 +19,7 @@ Its user-friendly interface combined with powerful features enable accurate, eff
 - [**Access the Help Files**](/daleydose/help-files)  
   Access the Daley Dose Help Files to quickly find step‑by‑step guides, troubleshooting tips, and feature overviews that help you get the most out of the application.
 
+## **FUNDAMENTALS**
 ---
 
 - [**About Daley Dose**](/daleydose/about-daley-dose)  
