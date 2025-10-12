@@ -7,11 +7,11 @@ description: ""
 # **ABOUT USER ROLES**
 ---
 
-The complete prescription process involves three interactions: Consulting, Prescribing, and Dispensing. These interactions involve the patient, prescriber, and pharmacist.
+The prescription process involves 3 key interactions: **Consulting**, **Prescribing**, and **Dispensing**. These interactions involve the patient, prescriber, and pharmacist.
 
 ![Prescription Process](/assets/images/daley-dose-prescription-process.png)
 
-The Daley Dose application offers multiple user roles, each with distinct functions and restrictions. Roles can be assigned to an account and follow a linear hierarchy for escalating technical issues during troubleshooting.
+The Daley Dose enables you to manage the entire prescription process efficiently. To support the 3 key interactions, the application provides multiple user roles, each with distinct functions and restrictions. Roles can be assigned to an account and follow a linear hierarchy for escalating technical issues during troubleshooting.
 
 To request a role change, contact an **Administrator**.
 
