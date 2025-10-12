@@ -12,7 +12,6 @@ The Daley Dose application offers multiple user roles, each with distinct functi
 To request a role change, contact an **Administrator**.
 
 ![User Profiles](/assets/images/daley-dose-about-user-profiles.png)
-![Prescription Process](/assets/images/daley-dose-prescription-process.png)
 
 The following table describes the user roles available in the Daley Dose application:
 
@@ -24,6 +23,7 @@ The following table describes the user roles available in the Daley Dose applica
 | **PHARMACIST**    | Pharmacists are healthcare professionals who can dispense medication in pharmacies, clinics, hospitals, or through online vendors.<br><br>Pharmacists can use the Daley Dose application to view a patient’s prescription and verify it against the database, but cannot access other information or use the application’s prescription functions. |
 | **SPECTATOR**     | Users with the Spectator role can open the application but are limited to the [**Home** window](/daleydose/window-home). This role is generally used for accounts on trial runs before purchasing the application. You can go on Spectator Mode by selecting the **Continue as Guest** option in the **Login** screen.<br><br>To use the application’s full functionality, contact an **Administrator** for a role change. Role upgrades require an account with an active subscription. |
 
+![Prescription Process](/assets/images/daley-dose-prescription-process.png)
 
 ## **SEE ALSO**
 ---
