@@ -7,6 +7,10 @@ description: ""
 # **ABOUT USER ROLES**
 ---
 
+The complete prescription process involves three interactions: Consulting, Prescribing, and Dispensing.
+
+![Prescription Process](/assets/images/daley-dose-prescription-process.png)
+
 The Daley Dose application offers multiple user roles, each with distinct functions and restrictions. Roles can be assigned to an account and follow a linear hierarchy for escalating technical issues during troubleshooting.
 
 To request a role change, contact an **Administrator**.
@@ -22,8 +26,6 @@ The following table describes the user roles available in the Daley Dose applica
 | **PRESCRIBER**    | Prescribers are healthcare professionals who can prescribe medications to patients. They are the only users who can access the prescription tools in the Daley Dose application.<br><br>To obtain the Prescriber role, an Administrator must cross-check the healthcare professional’s credentials with their saved profile in the Daley Dose database.<br><br>**NOTES:**<br>– The application rechecks the Prescriber’s credentials before finalizing a prescription.<br>– An Administrator can impose or remove a prescription restriction on a Prescriber.<br><br>See [**Prescription Restrictions**](/daleydose/about-prescription-restrictions) for more information. |
 | **PHARMACIST**    | Pharmacists are healthcare professionals who can dispense medication in pharmacies, clinics, hospitals, or through online vendors.<br><br>Pharmacists can use the Daley Dose application to view a patient’s prescription and verify it against the database, but cannot access other information or use the application’s prescription functions. |
 | **SPECTATOR**     | Users with the Spectator role can open the application but are limited to the [**Home** window](/daleydose/window-home). This role is generally used for accounts on trial runs before purchasing the application. You can go on Spectator Mode by selecting the **Continue as Guest** option in the **Login** screen.<br><br>To use the application’s full functionality, contact an **Administrator** for a role change. Role upgrades require an account with an active subscription. |
-
-![Prescription Process](/assets/images/daley-dose-prescription-process.png)
 
 ## **SEE ALSO**
 ---
