@@ -7,7 +7,7 @@ description: ""
 # **ABOUT USER ROLES**
 ---
 
-The complete prescription process involves three interactions: Consulting, Prescribing, and Dispensing.
+The complete prescription process involves three interactions: Consulting, Prescribing, and Dispensing. These interactions involve the patient, prescriber, and pharmacist.
 
 ![Prescription Process](/assets/images/daley-dose-prescription-process.png)
 
