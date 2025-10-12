@@ -7,13 +7,19 @@ description: ""
 # **ABOUT USER ROLES**
 ---
 
-The prescription process involves 3 key interactions: **Consulting**, **Prescribing**, and **Dispensing**. These interactions involve the patient, prescriber, and pharmacist.
+The prescription process involves 3 key interactions: **Consulting**, **Prescribing**, and **Dispensing**.  
+
+The goal of the Daley Dose application is to streamline this process while ensuring the security and validity of prescribed medication. This enables you, your practice, or your organization to assess, diagnose, prescribe, and provide the appropriate medication to patients. This security and convenience deliver a higher level of care for the patient.  
+
+These interactions involve the patient, prescriber, and pharmacist.
 
 ![Prescription Process](/assets/images/daley-dose-prescription-process.png)
 
-The Daley Dose enables you to manage the entire prescription process efficiently. To support the 3 key interactions, the application provides multiple user roles, each with distinct functions and restrictions. Roles can be assigned to an account and follow a linear hierarchy for escalating technical issues during troubleshooting.
+The Daley Dose enables you to manage the entire prescription process efficiently. To support the 3 key interactions, the application provides multiple user roles, each with distinct functions and restrictions.
 
-To request a role change, contact an **Administrator**.
+These roles include **Administrator**, **Support**, **Prescriber**, and **Pharmacist**. A fifth role, **Spectator**, is used to view the application without a subscription. Users with this role cannot use the Daley Dose application but can browse its contents. This role is assigned to potential buyers so they can view the application before purchasing.
+
+Roles can be assigned to an account and follow a linear hierarchy for escalating technical issues during troubleshooting. To request a role change, contact an **Administrator**.
 
 ![User Profiles](/assets/images/daley-dose-about-user-profiles.png)
 
