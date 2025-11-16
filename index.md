@@ -33,8 +33,6 @@ Its user-friendly interface combined with powerful features enable accurate, eff
 - [**Version History**](/daleydose/release-note-version-history)  
   View a complete archive of past releases, including feature additions, changes, and resolved issues.
 
-![Daley Dose user interface screenshot](/assets/images/daley-dose-home-window-clean.png)
-
 ## **FUNDAMENTALS**
 ---
 
