@@ -11,7 +11,7 @@ The **Daley Dose** application streamlines the prescription‑writing process fo
 
 Its user-friendly interface combined with powerful features enable accurate, efficient, and secure creation of prescriptions. It also offers extended capabilities, including contacting patients, pharmacies, and online stores for accurate and on‑time medication distribution. This ensures that patients receive their medication promptly and at their convenience.
 
-
+![Daley Dose introduction](/assets/images/daley-dose-intro.mp4)
 
 ## **FEATURED**
 ---
