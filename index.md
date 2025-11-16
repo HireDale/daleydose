@@ -15,6 +15,7 @@ Its user-friendly interface combined with powerful features enable accurate, eff
         src="https://www.youtube.com/embed/wbKUKx70PxM"
         title="Daley Dose intro"
         frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         allowfullscreen>
 </iframe>
 
