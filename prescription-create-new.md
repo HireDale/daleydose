@@ -18,7 +18,7 @@ To create a new prescription, follow these steps:
 
    - An incorrect Prescriber name indicates that you are logged into the wrong account. Log out, then log back in using your credentials to continue.  
    
-2. On the **Action Sidebar**, select **Create New**.  
+2. On the **Action Sidebar**, click **Create New**.  
 
    - Creating a new prescription erases all current work loaded on the **Prescription** tab.  
 
