@@ -4,7 +4,7 @@ description: ""
 layout: default
 ---
 
-# **CREATE A NEW PRESCRIPTION**
+# **CREATING A NEW PRESCRIPTION**
 ---
 The Daley Dose application's main feature is the ability to create **digital prescriptions**. By using a secure, well-equipped application, prescribers around the world can maintain the highest standard of care for their patients.
 
