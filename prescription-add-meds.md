@@ -14,7 +14,7 @@ The **Drug History** tab displays previously prescribed medication and potential
 
 To add medication to the current prescription, follow these steps:
 
-1. Click the **Add Medication** button (green **Plus**) on the **Prescription** tab to view the [**Add Medication** window](/daleydose/window-add-medication).
+1. Click the **Add Medication** button (green **Plus**) in the **Prescription** tab to view the [**Add Medication** window](/daleydose/window-add-medication).
 
 2. In the **Add Medication** window, enter either the Generic or Brand Name of the medication in their respective fields.  
 
@@ -45,7 +45,7 @@ To add medication to the current prescription, follow these steps:
 
 ### Error message when entering medication name: **"Medication Incompatible with Patient"**  
 - **REASON:** The patient’s profile does not match the medication you are trying to prescribe.  
-- **SOLUTION:** Ensure that the patient’s profile on the Daley Dose website is up to date. The application requires appropriate diagnoses to authorize the prescription of specific medications.
+- **SOLUTION:** Ensure that the patient’s profile in the Daley Dose website is up to date. The application requires appropriate diagnoses to authorize the prescription of specific medications.
 
 ### Error message when entering medication name: **"Medication Unknown"**  
 - **REASON:** The medication name you are trying to add does not exist in the Daley Database.  
