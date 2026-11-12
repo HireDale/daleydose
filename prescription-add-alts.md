@@ -47,7 +47,7 @@ To add an alternative option to a medication entry in the current prescription, 
 ---
 ### The application prevents you from selecting the **Add Alternative** button  
 - **REASON:** The prescription is currently empty, or you have not selected which medication to create an alternative option for.  
-- **SOLUTION:** Ensure that you have selected a medication on the **Home** window and try again.
+- **SOLUTION:** Ensure that you have selected a medication in the **Home** window and try again.
 
 ### Error message when entering alternative medication name: **"Identical Medication"**  
 - **REASON:** The alternative medication name you entered is the same as the original.  
