@@ -12,7 +12,7 @@ Digitizing a handwritten prescription enables you to create its **digital copy**
 
 To digitize a handwritten prescription, follow these steps:
 
-1. Select **Scan Physical Copy** on the **Prescription** tab to view the [**Scan** window](/daleydose/window-scan).
+1. Select **Scan Physical Copy** in the **Prescription** tab to view the [**Scan** window](/daleydose/window-scan).
 
 2. Check the status of the **Camera** and **Internet** fields.
 
@@ -36,11 +36,11 @@ To digitize a handwritten prescription, follow these steps:
 
 ## **NOTES**
 ---
-   - Generating a new prescription based on a scanned physical copy erases all current work loaded on the **Prescription** tab. Make sure to **Send**, **Save**, or **Print** any ongoing prescriptions before you continue.
-   - If there are items on the current prescription, the application displays the confirmation message **"Are you sure you want to erase the current prescription?"** The application erases all populated fields when you select **Yes**.
-   - The application only displays the **Scan Physical Copy** button on the desktop version when your computer has a confirmed connected webcam.
-   - The application always displays the **Scan Physical Copy** button on the mobile app.
-   - You cannot edit medications or notes on a scanned prescription.
+   - Generating a new prescription based on a scanned physical copy erases all current work loaded in the **Prescription** tab. Make sure to **Send**, **Save**, or **Print** any ongoing prescriptions before you continue.
+   - If there are items in the current prescription, the application displays the confirmation message **"Are you sure you want to erase the current prescription?"** The application erases all populated fields when you select **Yes**.
+   - The application only displays the **Scan Physical Copy** button in the desktop version when your computer has a confirmed connected webcam.
+   - The application always displays the **Scan Physical Copy** button in the mobile app.
+   - You cannot edit medications or notes in a scanned prescription.
 
 ![Scan Window](/assets/images/daley-dose-scan-window.png)  
 
