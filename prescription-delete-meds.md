@@ -4,17 +4,17 @@ description: ""
 layout: default
 ---
 
-# **DELETE MEDICATIONS AND NOTES FROM A PRESCRIPTION**  
+# **DELETING MEDICATIONS AND NOTES FROM A PRESCRIPTION**  
 ---
 ![Daley Dose user interface delete button](/assets/images/daley-dose-home-window-parts-delete.png)
 
 To delete an entry the current prescription, follow these steps:
 
-1. On the **Action Sidebar**, select the **Delete** button.  
+1. On the **Action Sidebar**, click **Delete**.  
 2. The application enables **Delete Mode** and displays checkboxes next to existing entries in the **Prescription** tab.  
-3. Select the checkboxes for the entries you want to delete. When finished, select **Yes**.  
+3. Select the checkboxes for the entries you want to delete, then click **Yes**.  
 4. The application displays the confirmation message **"Are you sure you want to delete this from the prescription?"** before removing the medication from the list.  
-5. Select the **Delete** button again to close **Delete Mode**.
+5. Click the **Delete** button again to close **Delete Mode**.
 
 ## **NOTES**
 ---
