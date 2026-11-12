@@ -4,7 +4,7 @@ description: ""
 layout: default
 ---
 
-# **ADD ALTERNATIVE TO A MEDICATION ENTRY**
+# **ADDING AN ALTERNATIVE/SUBSTITUTE PRESCRIPTION**
 ---
 
 Adding **alternative options** to medication entries provides a fallback when the pharmacy runs out of the prescribed medication between the time the order is issued and the patient arrives at the pharmacy. This ensures the patient still receives treatment for their condition without requiring you to prescribe a different medication again.
@@ -17,7 +17,7 @@ Adding **alternative options** to medication entries provides a fallback when th
 
 To add an alternative option to a medication entry in the current prescription, follow these steps:
 
-1. Select the medication entry you want to create an alternative for, then select the **Add Alternative** button (**Alt+**) on the **Prescription** tab to view the [**Add Alternative** window](/daleydose/window-add-alternative).
+1. Select the medication entry you want to create an alternative for, then click the **Add Alternative** button (**Alt+**) on the **Prescription** tab to view the [**Add Alternative** window](/daleydose/window-add-alternative).
 
 2. In the **Add Alternative** window, enter either the generic or brand name of the medication in their respective fields.
 
@@ -27,9 +27,9 @@ To add an alternative option to a medication entry in the current prescription, 
 
 4. Enter the amount of medication you want to prescribe.
 
-5. Select **Add as Alternative** to add the entered medication to the prescription.
+5. Click **Add as Alternative** to add the entered medication to the prescription.
 
-6. Select **OK**.
+6. Click **OK**.
 
    When the pharmacy runs out of the prescribed medication, the pharmacist can provide the alternative instead.
 
