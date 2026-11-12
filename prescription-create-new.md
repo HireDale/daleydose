@@ -10,7 +10,7 @@ The Daley Dose application's main feature is the ability to create **digital pre
 
 ![Daley Dose user interface create new](/assets/images/daley-dose-home-window-parts-create-new.png)
 
-To create a new prescription, follow these steps:
+To create a new prescription, do the following:
 
 1. Verify that the **Prescriber** fields are correct in the **Information Sidebar**.  
 
