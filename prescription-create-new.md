@@ -12,19 +12,19 @@ The Daley Dose application's main feature is the ability to create **digital pre
 
 To create a new prescription, follow these steps:
 
-1. Verify that the **Prescriber** fields are correct on the **Information Sidebar**.  
+1. Verify that the **Prescriber** fields are correct in the **Information Sidebar**.  
 
    - The **Prescriber** fields are read‑only. The information displayed depends on the currently active user profile.
 
    - An incorrect Prescriber name indicates that you are logged into the wrong account. Log out, then log back in using your credentials to continue.  
    
-2. On the **Action Sidebar**, click **Create New**.  
+2. In the **Action Sidebar**, click **Create New**.  
 
-   - Creating a new prescription erases all current work loaded on the **Prescription** tab.  
+   - Creating a new prescription erases all current work loaded in the **Prescription** tab.  
 
    - Save, send, or print any ongoing prescriptions before continuing.  
 
-   - If there are items on the current prescription, the application displays the confirmation message **"Are you sure you want to erase the current prescription?"**. The application erases all populated fields when you select **Yes**.  
+   - If there are items in the current prescription, the application displays the confirmation message **"Are you sure you want to erase the current prescription?"**. The application erases all populated fields when you select **Yes**.  
    
 3. Enter the patient’s information in the **Patient Name** fields.  
 
@@ -58,7 +58,7 @@ To create a new prescription, follow these steps:
 
 ### Error message when entering a patient’s name: **"Patient Unrecognized"**  
 - **REASON:** The application does not recognize the name entered in the **Patient Name** fields.  
-- **SOLUTION:** Ensure that the patient’s profile on the **Daley Dose** website is up to date. The application requires a matching patient profile before you can prescribe medication.
+- **SOLUTION:** Ensure that the patient’s profile in the **Daley Dose** website is up to date. The application requires a matching patient profile before you can prescribe medication.
 
 ### Error message when entering a date: **"Unable to Time Travel"**  
 - **REASON:** The entered date is set before today’s date.  
