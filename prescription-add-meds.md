@@ -4,7 +4,7 @@ description: ""
 layout: default
 ---
 
-# **ADD MEDICATION TO A PRESCRIPTION**
+# **ADDING A MEDICATION ENTRY**
 ---
 Adding **medication** is the core of the prescription process. You can use the **Drug History** and **Med History** tabs to learn more about the patient or review their previous medical records. This enables you to add appropriate, evidence-based medication that addresses the patient’s condition.
 
@@ -14,7 +14,7 @@ The **Drug History** tab displays previously prescribed medication and potential
 
 To add medication to the current prescription, follow these steps:
 
-1. Select the **Add Medication** button (green **Plus**) on the **Prescription** tab to view the [**Add Medication** window](/daleydose/window-add-medication).
+1. Click the **Add Medication** button (green **Plus**) on the **Prescription** tab to view the [**Add Medication** window](/daleydose/window-add-medication).
 
 2. In the **Add Medication** window, enter either the Generic or Brand Name of the medication in their respective fields.  
 
@@ -24,9 +24,9 @@ To add medication to the current prescription, follow these steps:
 
 4. Enter the amount of medication you want to prescribe.
 
-5. Select **Add to List**.
+5. Click **Add to List**.
 
-6. Select **OK**.  
+6. Click **OK**.  
 
 ## **NOTES**
 ---
