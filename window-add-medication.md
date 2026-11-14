@@ -28,7 +28,7 @@ The following table describes the fields available in the **Add Medication** win
 | # | FIELD | DEFINITION |
 |---|---|---|
 | 1 | **GENERIC NAME** | Enter the medication’s generic name. |
-| 2 | **BRAND NAME** | Enter the medication’s brand name.<br><br>**Notes:**<br>This field is optional.<br>When you enter a brand name while the **Generic Name** field is empty, the application automatically lists the entered brand name’s generic version in that field. |
+| 2 | **BRAND NAME** | Enter the medication’s brand name.<br><br>**Notes:**<br>• This field is optional.<br>• When you enter a brand name while the **Generic Name** field is empty, the application automatically lists the entered brand name’s generic version in that field. |
 | 3 | **DOSE** | Enter the medication’s dosage.<br><br>**Note:** The application disables this field when the entered medication does not include dosage instructions. |
 | 4 | **QUANTITY** | Enter the medication quantity for the prescription. |
 
