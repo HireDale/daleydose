@@ -58,7 +58,7 @@ To create a new prescription, do the following:
 
 ### Error message when entering a patient’s name: **"Patient Unrecognized"**  
 - **REASON:** The application does not recognize the name entered in the **Patient Name** fields.  
-- **SOLUTION:** Ensure that the patient’s profile in the **Daley Dose** website is up to date. The application requires a matching patient profile before you can prescribe medication.
+- **SOLUTION:** Ensure that the patient’s profile on the **Daley Dose** website is up to date. The application requires a matching patient profile before you can prescribe medication.
 
 ### Error message when entering a date: **"Unable to Time Travel"**  
 - **REASON:** The entered date is set before today’s date.  
