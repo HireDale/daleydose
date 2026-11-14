@@ -14,7 +14,7 @@ The **Drug History** tab displays previously prescribed medication and potential
 
 To add medication to the current prescription, do the following:
 
-1. Click the **Add Medication** button (green **Plus**) in the **Prescription** tab to view the [**Add Medication** window](/daleydose/window-add-medication).
+1. Click the **Add Medication** button (green **Plus**) on the **Prescription** tab to view the [**Add Medication** window](/daleydose/window-add-medication).
 
 2. In the **Add Medication** window, enter either the Generic or Brand Name of the medication in their respective fields.  
 
