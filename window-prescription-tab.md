@@ -40,7 +40,8 @@ The following table describes the buttons in the **Prescription** tab.
 | 1 | **ADD MEDICATION** | Select to add a medication entry to the current prescription.<br><br>When selected, the application opens the [**Add Medication** window](/daleydose/window-add-medication). |
 | 2 | **ADD NOTE** | Select to add a note entry to the selected medication.<br><br>When selected, the application opens the [**Add Notes** window](/daleydose/window-add-notes). |
 
-![Daily Dose Prescription Tab](/assets/images/ddaley-dose-home-window-tab-1-labels-2.png)
+![Daily Dose Prescription Tab](/assets/images/daley-dose-home-window-tab-1-labels-2.png)
+
 ## **SEE ALSO**
 ---
 - [**How to create a new prescription**](/daleydose/prescription-create-new)  
