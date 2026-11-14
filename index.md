@@ -67,10 +67,10 @@ Its user-friendly interface and powerful features enable users to create prescri
 ---
 
 - [**AI Integration**](/daleydose/about-dale-bot)  
-  Coming soon to every Daley Dose application: meet Dale Bot, your always-on, AI-powered prescribing assistant.
+  Coming soon to every Daley Dose application: meet Dale Bot, your always-on, AI-powered prescribing assistant. 
 
 - [**Application Themes**](/daleydose/about-custom-themes)  
-  A more personalized experience is coming soon. Customize the application's appearance with themes that suit your preferences.
+  Stronger security updates? Better prescription safety measures? Something much better is coming soon. That's right - customizable themes!
 
 ## **ADDITIONAL LINKS**
 ---
