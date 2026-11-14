@@ -4,7 +4,7 @@ description: ""
 layout: default
 ---
 
-# **ADD, EDIT, AND DELETE MEDICATION NOTES**  
+# **MANAGING MEDICATION NOTES**  
 ---
 **Notes** enable you to add patient instructions and additional information to a medication. Pharmacies print a copy of the medications and their associated notes when the patient comes in to fill the prescription.
 
@@ -14,7 +14,7 @@ To manage notes for a medication, follow these steps:
 
 1. On the **Prescription** tab, select the medication you want to add notes to.
 
-2. Select the **Add Notes** button (blue **Plus**) under the medication to view the [**Add Notes** window](/daleydose/window-add-notes).
+2. Click **Add Notes** (blue **Plus**) under the medication to view the [**Add Notes** window](/daleydose/window-add-notes).
 
 3. To edit or delete an existing note, select the note to reopen its **Add Notes** window.
 
@@ -29,7 +29,7 @@ To manage notes for a medication, follow these steps:
 
 To delete a note directly from the **Prescription** tab, follow these steps:
 
-1. On the **Action Sidebar**, select the **Delete** button.  
+1. In the **Action Sidebar**, select the **Delete** button.  
 2. The application enables **Delete Mode** and displays checkboxes next to existing entries.  
 3. Select the checkboxes for the entries you want to delete.
 4. When finished, select **Yes**.  
