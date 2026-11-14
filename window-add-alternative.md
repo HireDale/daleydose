@@ -20,26 +20,28 @@ To view this window: **Prescription** tab > Select the medication you want to ad
 
 ## **INTERFACE DETAILS**
 ---
-![Daley Dose Add Alternative Window](/assets/images/daley-dose-add-alts-window.png)
+![Daley Dose Add Alternative Window Fields](/assets/images/daley-dose-add-alts-window.png)
 
 The following table describes the fields in the **Add Alternative** window:
 
-| NO. | FIELD | DEFINITION |
+| # | FIELD | DEFINITION |
 |---|---|---|
 | 1 | **ORIGINAL MEDICATION** | Displays the original medication name and dose. This is a read-only field and serves as a reference when creating the alternative entry. **NOTE:** This field reminds you which medication you are creating the alternative for. To select another medication, return to the **Prescription** tab first. |
 | 2 | **ALTERNATIVE** | Enter the alternative medication’s brand or generic name. |
 | 3 | **DOSE** | Enter the medication’s dosage. **NOTE:** The application disables this field when the entered medication does not include dosage instructions. |
 | 4 | **QUANTITY** | Enter the medication quantity for the prescription. |
 
+![Daley Dose Add Alternative Window Buttons](/assets/images/daley-dose-add-alts-window-2.png)
+
 The following table describes the buttons available in the **Add Alternative** window:
 
-| **BUTTON**         | **DEFINITION** |
-|--------------------|----------------|
-| **ALT+**  | Select to add an alternative to the medication. |
-| **DELETE**  | Select to delete the current entry from the prescription. |
-| **ADD AS ALTERNATIVE**  | Select to add the entered medication to the prescription. |
-| **CANCEL**         | Select to close the **Add Medication** window without adding the entered information to the prescription.<br><br>**NOTE:** When selected, the application displays the confirmation message **"Are you sure you want to close this window without adding the medication?"** before closing. |
-| **OK**             | Select to close the **Add Alternative** window and add the entered information to the prescription.<br><br>**NOTE:** This button is disabled if any of the following fields are empty: **Generic Name**, **Dose**, or **Amount**. |
+| # | BUTTON | DEFINITION |
+|---|---|---|
+| 1 | **ALT+** | Select to add an alternative to the medication. |
+| 2 | **DELETE** | Select to delete the current entry from the prescription. |
+| 3 | **ADD AS ALTERNATIVE** | Select to add the entered medication to the prescription. |
+| 4 | **CANCEL** | Select to close the **Add Medication** window without adding the entered information to the prescription. **NOTE:** When selected, the application displays the confirmation message **"Are you sure you want to close this window without adding the medication?"** before closing. |
+| 5 | **OK** | Select to close the **Add Alternative** window and add the entered information to the prescription. **NOTE:** This button is disabled if any of the following fields are empty: **Generic Name**, **Dose**, or **Amount**. |
 
 ## **RELATED TOPICS**
 ---
