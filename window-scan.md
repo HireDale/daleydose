@@ -25,19 +25,19 @@ To view this window: **Prescription** tab > **Scan Physical Copy**
 
 The following table describes the fields in the **Scan** window:
 
-| **FIELD** | **DEFINITION** |
-|-----------|----------------|
-| **CAMERA** | Displays the camera’s current status.<br><br>**Status:**<br>– **Green:** Camera ready.<br>– **Red:** Camera has poor quality or not detected. |
-| **INTERNET** | Displays the internet connection’s current status.<br><br>**Status:**<br>– **Green:** Internet connection available.<br>– **Red:** No or poor internet connection. |
+| # | **FIELD** | **DEFINITION** |
+|---|-----------|----------------|
+| 1 | **CAMERA** | Displays the camera’s current status.<br><br>**Status:**<br>• **Green:** Camera ready.<br>• **Red:** Camera has poor quality or not detected. |
+| 2 | **INTERNET** | Displays the internet connection’s current status.<br><br>**Status:**<br>• **Green:** Internet connection available.<br>• **Red:** No or poor internet connection. |
 
 The following table describes the buttons in the **Scan** window:
 
-| **BUTTON** | **DEFINITION** |
-|------------|----------------|
-| **CAPTURE** | Click to begin the prescription scan.<br><br>**NOTES:**<br>– The application enables this button only when both the **Camera** and **Internet** fields are green.<br>– The scanning process takes up to 20 seconds to complete. |
-| **RESET** | Click to delete the previously taken image and restart the process. |
-| **CANCEL** | Click to close the **Scan** window without adding the currently scanned information to the prescription.<br><br>**NOTE:** When you click this button, the application displays the confirmation message **"Are you sure you want to close this window?"** before closing. |
-| **OK** | Click to close the **Scan** window and generate a new prescription based on the scanned information. |
+| # | **BUTTON** | **DEFINITION** |
+|---|------------|----------------|
+| 1 | **CAPTURE** | Click to begin the prescription scan.<br><br>**Notes:**<br>• The application enables this button only when both the **Camera** and **Internet** fields are green.<br>• The scanning process takes up to 20 seconds to complete. |
+| 2 | **RESET** | Click to delete the previously taken image and restart the process. |
+| 3 | **CANCEL** | Click to close the **Scan** window without adding the currently scanned information to the prescription.<br><br>**Note:** When you click this button, the application displays the confirmation message **"Are you sure you want to close this window?"** before closing. |
+| 4 | **OK** | Click to close the **Scan** window and generate a new prescription based on the scanned information. |
 
 ## **SEE ALSO**
 ---
