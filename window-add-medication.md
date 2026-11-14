@@ -20,7 +20,7 @@ To view this window: **Prescription** tab > **Add Medication** (green **Plus**)
 
 ## **INTERFACE DETAILS**
 ---
-The elements in this window are divided into two categories: **Fields** and **Buttons**. Each category is described in the following sections.
+The elements in this window are divided into two categories: **Fields** and **Buttons**.
 
 ### **FIELDS**
 The following table describes the fields available in the **Add Medication** window:
