@@ -11,24 +11,7 @@ The **Daley Dose** application streamlines the prescription‑writing process fo
 
 Its user-friendly interface combined with powerful features enable accurate, efficient, and secure creation of prescriptions. It also offers extended capabilities, including contacting patients, pharmacies, and online stores for accurate and on‑time medication distribution. This ensures that patients receive their medication promptly and at their convenience.
 
-
-<div id="daley-dose-video"
-     style="position:relative; width:100%; max-width:1000px; margin:0 auto; aspect-ratio:16/9; cursor:pointer;">
-
-  <img
-    src="https://raw.githubusercontent.com/HireDale/daleydose/main/assets/images/daley-dose-introduction-thumbnail.png"
-    alt="Daley Dose introduction video"
-    style="width:100%; height:100%; object-fit:cover; display:block;"
-  >
-
-  <button
-    type="button"
-    aria-label="Play Daley Dose introduction video"
-    style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); background:rgba(0,0,0,0.75); color:white; border:0; border-radius:50%; width:76px; height:76px; font-size:32px; cursor:pointer;"
-    onclick="document.getElementById('daley-dose-video').innerHTML='<iframe src=&quot;https://www.youtube.com/embed/c6zMy_7k_SA?autoplay=1&quot; title=&quot;Daley Dose intro&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen style=&quot;position:absolute; top:0; left:0; width:100%; height:100%;&quot;></iframe>';"
-  >▶</button>
-
-</div>
+![Daley Dose user interface screenshot](/assets/images/daley-dose-home-window-clean.png)
 
 ## **FEATURED**
 ---
@@ -53,6 +36,24 @@ Its user-friendly interface combined with powerful features enable accurate, eff
 
 - [**About Prescription Restrictions**](/daleydose/about-prescription-restrictions)  
   Understand how prescription restrictions manage what medications a Prescriber can order in Daley Dose. Learn how Administrators apply limits, view current restrictions, and ensure prescriptions comply with hospital guidelines.
+
+<div id="daley-dose-video"
+     style="position:relative; width:100%; max-width:1000px; margin:0 auto; aspect-ratio:16/9; cursor:pointer;">
+
+  <img
+    src="https://raw.githubusercontent.com/HireDale/daleydose/main/assets/images/daley-dose-introduction-thumbnail.png"
+    alt="Daley Dose introduction video"
+    style="width:100%; height:100%; object-fit:cover; display:block;"
+  >
+
+  <button
+    type="button"
+    aria-label="Play Daley Dose introduction video"
+    style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); background:rgba(0,0,0,0.75); color:white; border:0; border-radius:50%; width:76px; height:76px; font-size:32px; cursor:pointer;"
+    onclick="document.getElementById('daley-dose-video').innerHTML='<iframe src=&quot;https://www.youtube.com/embed/c6zMy_7k_SA?autoplay=1&quot; title=&quot;Daley Dose intro&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen style=&quot;position:absolute; top:0; left:0; width:100%; height:100%;&quot;></iframe>';"
+  >▶</button>
+
+</div>  
 
 ## **COMING SOON**
 ---
