@@ -20,7 +20,7 @@ To view this window: **Prescription** tab > Select the medication you want to ad
 
 ## **INTERFACE DETAILS**
 ---
-The elements in this window are divided into two categories: Fields and Buttons. Each category is described in the following sections.
+The elements in this window are divided into two categories: **Fields** and **Buttons**. Each category is described in the following sections.
 
 ### **FIELDS**
 The following table describes the fields in the **Add Alternative** window:
