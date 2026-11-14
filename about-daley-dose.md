@@ -4,7 +4,7 @@ title: "Daley Dose - About the Application"
 description: ""
 ---
 
-# **DALEY DOSE**
+# **THE DALEY DOSE PROCESS**
 ---
 
 The **Daley Dose** application streamlines the prescription‑writing process for healthcare professionals.
