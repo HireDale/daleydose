@@ -20,7 +20,9 @@ To view this window: **Prescription** tab > **Add Medication** (green **Plus**)
 
 ## **INTERFACE DETAILS**
 ---
-![Daley Dose user interface screenshot](/assets/images/daley-dose-add-medication-window.png)
+The elements in this window are divided into two categories: **Fields** and **Buttons**. Each category is described in the following sections.
+
+### **FIELDS**
 
 The following table describes the fields available in the **Add Medication** window:
 
@@ -30,6 +32,10 @@ The following table describes the fields available in the **Add Medication** win
 | **BRAND NAME** | Enter the medication’s brand name.<br><br>**NOTES:**<br>– This field is optional.<br>– When you enter a brand name while the **Generic Name** field is empty, the application automatically lists the entered brand name’s generic version in that field. |
 | **DOSE** | Enter the medication’s dosage.<br><br>**NOTE:** The application disables this field when the entered medication does not include dosage instructions. |
 | **QUANTITY** | Enter the medication quantity for the prescription. |
+
+![Daley Dose user interface screenshot](/assets/images/daley-dose-add-medication-window.png)
+
+### **BUTTONS**
 
 The following table describes the buttons available in the **Add Medication** window:
 
