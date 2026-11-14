@@ -19,7 +19,7 @@ To delete an entry in the current prescription, do the following:
 ## **NOTES**
 ---
 - Deleting a medication entry also deletes any note attached to it.  
-- Leaving all checkboxes cleared and selecting the **Delete** button closes **Delete Mode** without removing anything.
+- Leaving all checkboxes cleared and clicking the **Delete** button closes **Delete Mode** without removing anything.
 
 ![Daley Dose user interface delete mode](/assets/images/daley-dose-home-window-tab-1-delete.png)
 
