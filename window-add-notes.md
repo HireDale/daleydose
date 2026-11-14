@@ -28,8 +28,9 @@ To view this window: **Prescription** tab > Under the medication entry you want 
 
 ## **INTERFACE DETAILS**
 ---
-![Daley Dose user interface screenshot](/assets/images/daley-dose-add-notes-window.png) 
+The elements in this window are divided into two categories: **Fields** and **Buttons**.
 
+## **FIELDS**
 The following table describes the fields in the **Add Notes** window:
 
 | **FIELD**   | **DEFINITION** |
@@ -37,6 +38,9 @@ The following table describes the fields in the **Add Notes** window:
 | **MEDICATION** | Displays the selected medication.<br><br>**NOTE:** This field is read‑only. It serves to remind you which medication you are creating notes for. To select another medication for notes, you must return to the **Prescription** tab first. |
 | **CREATE NOTE** | Displays a blank note. Select to edit its contents. <br><br>**NOTE:** You can add up to 5 notes per medication. |
 
+![Daley Dose user interface screenshot](/assets/images/daley-dose-add-notes-window.png) 
+
+## **BUTTONS**
 The following table describes the buttons in the **Add Notes** window:
 
 | **BUTTON** | **DEFINITION** |
