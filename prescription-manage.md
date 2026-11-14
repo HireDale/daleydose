@@ -49,7 +49,7 @@ To delete a note directly from the **Prescription** tab, follow these steps:
 
 ### The application prevents you from selecting the **Add Notes** button  
 - **REASON:** The current prescription has no medication listed.  
-- **SOLUTION:** Ensure that you have at least one medication listed on the current prescription.
+- **SOLUTION:** Ensure that you have at least one medication listed in the current prescription.
 
 ### Error message: **"Note Too Long"**  
 - **REASON:** The current note has over 25 words and cannot be processed.  
