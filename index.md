@@ -60,6 +60,8 @@ Its user-friendly interface combined with powerful features enable accurate, eff
 - [**Access the Pharmacy**](/daleydose/window-pharmacy)  
   View and learn about the Pharmacist's version of the Daley Dose application.
 
+![Prescription Window](/assets/images/daley-dose-prescription-window.png)    
+
 ## **COMING SOON**
 ---
 - [**AI Integration**](/daleydose/about-dale-bot)  
