@@ -12,7 +12,7 @@ Digitizing a handwritten prescription enables you to create its **digital copy**
 
 To digitize a handwritten prescription, do the following:
 
-1. Select **Scan Physical Copy** in the **Prescription** tab to view the [**Scan** window](/daleydose/window-scan).
+1. Click **Scan Physical Copy** in the **Prescription** tab to view the [**Scan** window](/daleydose/window-scan).
 
 2. Check the status of the **Camera** and **Internet** fields.
 
