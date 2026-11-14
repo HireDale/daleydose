@@ -39,9 +39,11 @@ The following table describes the buttons available in the **Add Medication** wi
 
 | # | BUTTON | DEFINITION |
 |---|---|---|
-| 1 | **ADD TO LIST** | Select to add the entered medication to the current prescription. |
-| 2 | **CANCEL** | Select to close the **Add Medication** window without adding the entered information to the prescription. **NOTE:** When selected, the application displays the confirmation message **"Are you sure you want to close this window without adding the medication?"** before closing. |
-| 3 | **OK** | Select to close the **Add Medication** window and add the entered information to the prescription. **NOTE:** This button is disabled if any of the following fields are empty: **Generic Name**, **Dose**, or **Amount**. |
+| 1 | **EDIT** | Select to edit the current medication entry. |
+| 2 | **DELETE** | Select to delete the current entry from the prescription. |
+| 3 | **ADD TO LIST** | Select to add the entered medication to the current prescription. |
+| 4 | **CANCEL** | Select to close the **Add Medication** window without adding the entered information to the prescription. **NOTE:** When selected, the application displays the confirmation message **"Are you sure you want to close this window without adding the medication?"** before closing. |
+| 5 | **OK** | Select to close the **Add Medication** window and add the entered information to the prescription. **NOTE:** This button is disabled if any of the following fields are empty: **Generic Name**, **Dose**, or **Amount**. |
 
 ![Daley Dose user interface screenshot](/assets/images/daley-dose-add-medication-window-2.png)
 
