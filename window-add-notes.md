@@ -38,7 +38,7 @@ The following table describes the fields in the **Add Notes** window:
 | 1 | **MEDICATION** | Displays the selected medication.<br><br>**NOTE:**<br>This field is read-only. It serves to remind you which medication you are creating notes for. To select another medication for notes, you must return to the **Prescription** tab first. |
 | 2 | **CREATE NOTE** | Displays a blank note. Select to edit its contents.<br><br>**NOTE:**<br>You can add up to 5 notes per medication. |
 
-![Daley Dose user interface screenshot](/assets/images/daley-dose-add-notes-window.png) 
+![Daley Dose Add Notes Fields](/assets/images/daley-dose-add-notes-window.png) 
 
 ## **BUTTONS**
 The following table describes the buttons in the **Add Notes** window:
@@ -50,6 +50,8 @@ The following table describes the buttons in the **Add Notes** window:
 | 3 | **DELETE** | Select to delete the selected note. |
 | 4 | **CANCEL** | Select to close the **Add Notes** window without adding the currently entered information to the prescription.<br><br>**NOTE:**<br>When you select this button, the application displays the confirmation message **"Are you sure you want to close this window without adding the notes?"** before closing. |
 | 5 | **OK** | Select to close the **Add Notes** window and add the currently entered information to the prescription. |
+
+![Daley Dose Add Notes Buttons](/assets/images/daley-dose-add-notes-window-2.png) 
 
 ## **RELATED TOPICS**
 ---
