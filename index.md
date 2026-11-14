@@ -55,6 +55,11 @@ Its user-friendly interface combined with powerful features enable accurate, eff
 
 </div>  
 
+## **PHARMACY TOOLS**
+---
+- [**Access the Pharmacy**](/daleydose/window-pharmacy)  
+  View and learn about the pharmacist's version of the Daley Dose application.
+
 ## **COMING SOON**
 ---
 - [**AI Integration**](/daleydose/about-dale-bot)  
