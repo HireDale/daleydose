@@ -29,12 +29,12 @@ To manage notes for a medication, follow these steps:
 
 To delete a note directly from the **Prescription** tab, follow these steps:
 
-1. In the **Action Sidebar**, select the **Delete** button.  
+1. In the **Action Sidebar**, click **Delete**.  
 2. The application enables **Delete Mode** and displays checkboxes next to existing entries.  
 3. Select the checkboxes for the entries you want to delete.
 4. When finished, select **Yes**.  
 5. The application displays the confirmation message **"Are you sure you want to delete these from the prescription?"** before removing the medication from the list.  
-6. Select the **Delete** button again to close **Delete Mode**.
+6. Click the **Delete** button again to close **Delete Mode**.
 
 ![Daley Dose user interface delete mode](/assets/images/daley-dose-home-window-tab-1-delete.png)
 
