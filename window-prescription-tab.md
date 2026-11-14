@@ -16,6 +16,7 @@ The **Prescription** tab is one of three tabs featured in the **Work Area** of t
 
 ## **INTERFACE DETAILS**
 ---
+The elements in this window are divided into two categories: **Fields** and **Buttons**.
 
 ### **FIELDS**
 The following table describes the fields in the **Prescription** tab.
