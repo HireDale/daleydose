@@ -4,7 +4,7 @@ title: "Daley Dose - About User Roles"
 description: ""
 ---
 
-# **ABOUT USER ROLES**
+# **USER ROLES**
 ---
 
 The prescription process involves 3 key interactions: **Consulting**, **Prescribing**, and **Dispensing**.  
