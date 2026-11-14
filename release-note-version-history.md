@@ -104,7 +104,7 @@ This release introduces auto-complete functionality, note and medication deletio
   Resolved a known issue where the application incorrectly recognized *Thoughts and Prayers* as a type of chemotherapy medication.
 
 - **DD-1514**  
-  Fixed a rare bug where the application sent multiple copies of the same Schedule II Narcotics prescription to different pharmacy outlets when you selected **Send**.  
+  Fixed a rare bug where the application sent multiple copies of the same Schedule II Narcotics prescription to different pharmacy outlets when you clicked **Send**.  
   - The application now assigns a serial number per prescription to prevent duplicates.
 
 - **DD-1515**  
@@ -142,7 +142,7 @@ This release introduces the ability to add alternative medications, apply prescr
 ---
 
 - **Add prescription restrictions**  
-  Administrators can now set prescription restrictions for Prescriber users in **Home > Profile**. *(All platforms)*  
+  Administrators can now set prescription restrictions for Prescriber users under **Home > Profile**. *(All platforms)*  
   - Added the **Prescription restriction** drop‑down list with the following options:  
     - No restrictions  
     - Restrict Schedule II  
