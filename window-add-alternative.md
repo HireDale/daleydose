@@ -24,12 +24,12 @@ To view this window: **Prescription** tab > Select the medication you want to ad
 
 The following table describes the fields in the **Add Alternative** window:
 
-| **FIELD** | **DEFINITION** |
-|-----------|----------------|
-| **ORIGINAL MEDICATION** | Displays the original medication name and dose. This is a read-only field and only serves as a reference when creating the alternative entry. <br><br>**NOTE:** This field is read‑only. It serves to remind you which medication you are creating the alternative for. To select another medication, you must return to the **Prescription** tab first.|
-| **ALTERNATIVE** | Enter the alternative medication’s brand or generic name.
-| **DOSE** | Enter the medication’s dosage.<br><br>**NOTE:** The application disables this field when the entered medication does not include dosage instructions. |
-| **QUANTITY** | Enter the medication quantity for the prescription. |
+| NO. | FIELD | DEFINITION |
+|---|---|---|
+| 1 | **ORIGINAL MEDICATION** | Displays the original medication name and dose. This is a read-only field and serves as a reference when creating the alternative entry. **NOTE:** This field reminds you which medication you are creating the alternative for. To select another medication, return to the **Prescription** tab first. |
+| 2 | **ALTERNATIVE** | Enter the alternative medication’s brand or generic name. |
+| 3 | **DOSE** | Enter the medication’s dosage. **NOTE:** The application disables this field when the entered medication does not include dosage instructions. |
+| 4 | **QUANTITY** | Enter the medication quantity for the prescription. |
 
 The following table describes the buttons available in the **Add Alternative** window:
 
