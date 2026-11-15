@@ -38,7 +38,8 @@ The following table describes the buttons in the **Title Section**:
 
 | # | **BUTTONS** | **DEFINITION** |
 |---|-------------|----------------|
-| 1 | **DALEY DOSE ICON** | Click the **Daley Dose** icon to view the **System Information** pop‑up window.<br><br>The application displays detailed information about the program, including its complete version number, release date, and a list of developer notes added in the build. |
+| 1 | **DALEY DOSE ICON** | Displays the current **Daley Dose** icon. Click the icon to view the **System Information** pop-up window.<br><br>This window displays detailed information about the application, including its complete version number, release date, and a list of developer notes included in the build. |
+| 2 | **BRANDING AREA** | Displays the **Daley Dose** branding and the current application version. Click the **Daley Dose** title to refresh the current screen. |
 
 
 ## **PROFILE SECTION**
