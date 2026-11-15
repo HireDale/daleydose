@@ -20,13 +20,21 @@ In the **Pharmacy** window, you can create medical prescriptions for your patien
 
 ## **INTERFACE DETAILS**
 ---
-![Daily Dose user interface sections](/assets/images/daley-dose-prescription-window.png)
+![Prescription Window](/assets/images/daley-dose-prescription-window-parts.png)  
 
-The **Home** window is composed of the **Title Section**, **Profile Section**, **Information Sidebar**, **Action Sidebar**, and **Work Area**.  
+The **Home** window is composed of the following sections:
+
+| # | **SECTION** | **DEFINITION** |
+|---|-------------|----------------|
+| 1 | **TITLE SECTION** | Displays the application title and version number. |
+| 2 | **PROFILE SECTION** | Displays the name of the prescriber currently logged into the application. |
+| 3 | **INFORMATION SIDEBAR** | Displays fields related to patient information. |
+| 4 | **ACTION SIDEBAR** | Displays options used during the prescription process. |
+| 5 | **WORK AREA** | Displays the current prescription draft. |
 
 Most of the interface remains the same throughout the prescription‑making process. Only the middle section, referred to as the **Work Area**, changes depending on the current window or tab accessed.
 
-![Prescription Window](/assets/images/daley-dose-prescription-window-parts.png)  
+
 
 The following table describes the fields in the **Information Sidebar**:
 
