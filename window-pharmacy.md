@@ -7,22 +7,18 @@ layout: default
 # **PHARMACY WINDOW**
 ---
 
-In the **Pharmacy** window, you can create medical prescriptions for your patients. Each prescription can include up to 5 medications. You can also scan physical prescriptions and convert them into a digital version.
-
-- To create a new prescription, click **Create New** in the **Action Sidebar**.
-- To open a previously saved prescription drafts, click **Open Saved Records**.
-- By default, after logging into the application, the **Home** window loads the last saved instance of a previous prescription draft (if any), enabling you to continue where you left off. You can disable this feature in the options.
+In the **Pharmacy** window, you can manage medical prescriptions queued for your pharmacy branch. Each prescription can include up to 5 medications. You can also print digital prescriptions and include them with the medications.
 
 ## **NOTES**
 ---
 - Access to the **Daley Dose** application requires an active subscription.  
-- Your device must be connected to the internet to send digital prescriptions.
+- Your device must be connected to the internet to receive digital prescriptions.
 
 ## **INTERFACE DETAILS**
 ---
 ![Prescription Window](/assets/images/daley-dose-prescription-window-parts.png)  
 
-The **Home** window is composed of the following sections:
+The **Pharmacy** window is composed of the following sections:
 
 | # | **SECTION** | **DEFINITION** |
 |---|-------------|----------------|
@@ -32,7 +28,7 @@ The **Home** window is composed of the following sections:
 | 4 | **ACTION SIDEBAR** | Displays options used during the prescription process. |
 | 5 | **WORK AREA** | Displays the current prescription draft. |
 
-Most of the interface remains the same throughout the prescription‑making process. Only the middle section, referred to as the **Work Area**, changes depending on the current window or tab accessed.
+Most of the interface remains the same throughout the medication dispensing process. Only the middle section, referred to as the **Work Area**, changes depending on the current window or tab accessed.
 
 ## **TITLE SECTION**
 ---
@@ -53,7 +49,7 @@ The following table describes the buttons in the **Title Section**:
 ---
 The **Profile Section** is located in the top‑right corner of the screen.
 
-You can view your profile information and access in‑app settings here. This section also displays a greeting during an active session, showing the current active **Prescriber** and their system‑assigned ID.  
+You can view your profile information and access in‑app settings here. This section also displays a greeting during an active session, showing the current active **Pharmacist** and their system‑assigned ID, along with their branch and address.  
 
 ![Daily Dose Profile Section](/assets/images/daley-dose-prescription-window-parts-2.png)
 
@@ -122,15 +118,16 @@ The following table describes the buttons in the **Action Sidebar**:
 ---
 The **Work Area** is where you create, review, and finalize prescriptions. It occupies the center of the screen.
 
+![Daily Dose Title Section](/assets/images/daley-dose-prescription-window-parts-4.png)
+
+The following table describes the fields in the **Work Area**:
+
 | # | **FIELDS** | **DEFINITION** |
 |---|-------------|----------------|
 | 1 | **DALEY DOSE ICON** | Displays the current **Daley Dose** icon. Click the icon to refresh the application's connection to the database. |
 | 2 | **BRANDING AREA** | Displays the **Daley Dose** branding and the current application version. Click the **Daley Dose** title to view the **System Information** pop-up window.<br><br>This window displays detailed information about the application, including its complete version number, release date, and a list of developer notes included in the build. |
 
-![Daily Dose Title Section](/assets/images/daley-dose-prescription-window-parts-4.png)
-
 ## **RELATED TOPICS**
 ---
-- You must have a **Prescriber** role to create prescriptions. See [**User Roles**](/daleydose/about-user-roles) for more information.  
-- An **Administrator** or **Support** user can impose or remove a prescription restriction on a **Prescriber**. See [**Prescription Restrictions**](/daleydose/about-prescription-restrictions) for more information.  
+- You must have a **Pharmacist** role to create prescriptions. See [**User Roles**](/daleydose/about-user-roles) for more information.  
 
