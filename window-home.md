@@ -87,6 +87,12 @@ For simplicity, this guide presents the button definitions by category.
 
 ![Daily Dose Action Sidebar](/assets/images/daley-dose-home-window-section-4.png)
 
+| # | **TABS** | **DEFINITION** |
+|---|-------------|----------------|
+| 1 | **UTILITY** | Displays buttons that allow you to modify the contents of the current prescription. Also provides access to tools that assist with prescription writing, such as the latest MIMS drug manual and the application's help files. |
+| 2 | **MAIN** | Displays buttons that allow you to create new prescriptions, open existing drafts, scan and digitize physical prescriptions, and finalize the current work in preparation for generation. |
+| 3 | **GENERATION** | Displays buttons that allow you to generate and print prescriptions, as well as send them to the database. |
+
 ### **UTILITY**
 ---
 The **Utility** buttons enable you to manage individual prescription entries and access in‑app references, including the help files and the latest *Monthly Index of Medical Specialities (MIMS)* edition.
