@@ -138,7 +138,7 @@ To unlock the **Generation** buttons, you must first click the **Finalize** butt
 
 ![Daily Dose Action Sidebar: Generate](/assets/images/daley-dose-home-window-section-4-3.png)
 
-The following table describes the **Generate** buttons in the **Action Sidebar**:
+The following table describes the **Generation** buttons in the **Action Sidebar**:
 
 | # | **BUTTONS** | **DEFINITION** |
 |---|-------------|----------------|
