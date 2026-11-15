@@ -90,6 +90,9 @@ The following table describes the fields in the **Information Sidebar**:
 The **Action Sidebar** is located on the right side of the screen. It displays the buttons that enable you to work on prescriptions in your task list.
 
 ### **FIELDS**
+
+![Daily Dose Title Section](/assets/images/daley-dose-prescription-window-parts-6.png)
+
 The following table describes the fields in the **Action Sidebar**:
 
 | # | **FIELDS** | **DEFINITION** |
@@ -97,9 +100,11 @@ The following table describes the fields in the **Action Sidebar**:
 | 1 | **DALEY DOSE ICON** | Displays the current **Daley Dose** icon. Click the icon to refresh the application's connection to the database. |
 | 2 | **BRANDING AREA** | Displays the **Daley Dose** branding and the current application version. Click the **Daley Dose** title to view the **System Information** pop-up window.<br><br>This window displays detailed information about the application, including its complete version number, release date, and a list of developer notes included in the build. |
 
-![Daily Dose Title Section](/assets/images/daley-dose-prescription-window-parts-6.png)
-
 ### **BUTTONS**
+
+![Daily Dose Title Section](/assets/images/daley-dose-prescription-window-parts-5.png)
+
+The following table describes the buttons in the **Action Sidebar**:
 
 | # | **BUTTONS** | **DEFINITION** |
 |---|-------------|----------------|
@@ -112,8 +117,6 @@ The following table describes the fields in the **Action Sidebar**:
 | 7 | **REFRESH** | Click to refresh the contents of the current session to match any saved instances or records in the database. This includes the contents of the patient's **Drug History** and **Medical History** tabs. |
 | 8 | **MIMS** | Click to access an in-app version of the latest *Monthly Index of Medical Specialities (MIMS)* digital handbook, the most common drug reference for healthcare professionals.<br><br>**Note:** The **MIMS** version is updated along with every **Daley Dose** version. |
 | 9 | **ALT+** | Click to add an alternative option for the pharmacy if the prescribed medication is not available.<br><br>When you select this button, the application opens the [**Add Alternative** window](/daleydose/window-add-alternative).<br><br>**Note:** The application auto-completes generic and brand name suggestions for each medication. You can turn off this feature in the options. |
-
-![Daily Dose Title Section](/assets/images/daley-dose-prescription-window-parts-5.png)
 
 ## **WORK AREA**
 ---
