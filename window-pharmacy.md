@@ -92,6 +92,11 @@ The **Action Sidebar** is located on the right side of the screen. It displays t
 ### **FIELDS**
 The following table describes the fields in the **Action Sidebar**:
 
+| # | **FIELDS** | **DEFINITION** |
+|---|-------------|----------------|
+| 1 | **DALEY DOSE ICON** | Displays the current **Daley Dose** icon. Click the icon to refresh the application's connection to the database. |
+| 2 | **BRANDING AREA** | Displays the **Daley Dose** branding and the current application version. Click the **Daley Dose** title to view the **System Information** pop-up window.<br><br>This window displays detailed information about the application, including its complete version number, release date, and a list of developer notes included in the build. |
+
 ![Daily Dose Title Section](/assets/images/daley-dose-prescription-window-parts-6.png)
 
 ### **BUTTONS**
@@ -113,6 +118,11 @@ The following table describes the fields in the **Action Sidebar**:
 ## **WORK AREA**
 ---
 The **Work Area** is where you create, review, and finalize prescriptions. It occupies the center of the screen.
+
+| # | **FIELDS** | **DEFINITION** |
+|---|-------------|----------------|
+| 1 | **DALEY DOSE ICON** | Displays the current **Daley Dose** icon. Click the icon to refresh the application's connection to the database. |
+| 2 | **BRANDING AREA** | Displays the **Daley Dose** branding and the current application version. Click the **Daley Dose** title to view the **System Information** pop-up window.<br><br>This window displays detailed information about the application, including its complete version number, release date, and a list of developer notes included in the build. |
 
 ![Daily Dose Title Section](/assets/images/daley-dose-prescription-window-parts-4.png)
 
