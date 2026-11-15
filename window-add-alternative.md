@@ -23,6 +23,9 @@ To view this window: **Prescription** tab > Select the medication you want to ad
 The elements in this window are divided into two categories: **Fields** and **Buttons**.
 
 ### **FIELDS**
+
+![Daley Dose Add Alternative Window Fields](/assets/images/daley-dose-add-alts-window.png)
+
 The following table describes the fields in the **Add Alternative** window:
 
 | # | FIELD | DEFINITION |
@@ -32,9 +35,10 @@ The following table describes the fields in the **Add Alternative** window:
 | 3 | **DOSE** | Enter the medication’s dosage.<br><br>**Note:** The application disables this field when the entered medication does not include dosage instructions. |
 | 4 | **QUANTITY** | Enter the medication quantity for the prescription. |
 
-![Daley Dose Add Alternative Window Fields](/assets/images/daley-dose-add-alts-window.png)
-
 ### **BUTTONS**
+
+![Daley Dose Add Alternative Window Buttons](/assets/images/daley-dose-add-alts-window-2.png)
+
 The following table describes the buttons available in the **Add Alternative** window:
 
 | # | BUTTON | DEFINITION |
@@ -44,8 +48,6 @@ The following table describes the buttons available in the **Add Alternative** w
 | 3 | **ADD AS ALTERNATIVE** | Click to add the entered medication to the prescription. |
 | 4 | **CANCEL** | Click to close the **Add Medication** window without adding the entered information to the prescription.<br><br>**Note:** When clicked, the application displays the confirmation message **"Are you sure you want to close this window without adding the medication?"** before closing. |
 | 5 | **OK** | Click to close the **Add Alternative** window and add the entered information to the prescription.<br><br>**Note:** This button is disabled if any of the following fields are empty: **Generic Name**, **Dose**, or **Amount**. |
-
-![Daley Dose Add Alternative Window Buttons](/assets/images/daley-dose-add-alts-window-2.png)
 
 ## **RELATED TOPICS**
 ---
