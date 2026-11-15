@@ -5,8 +5,26 @@ layout: default
 ---
 
 # **PHARMACY WINDOW**
+---
 
-Coming soon!
+In the **Pharmacy** window, you can create medical prescriptions for your patients. Each prescription can include up to 5 medications. You can also scan physical prescriptions and convert them into a digital version.
+
+- To create a new prescription, click **Create New** in the **Action Sidebar**.
+- To open a previously saved prescription drafts, click **Open Saved Records**.
+- By default, after logging into the application, the **Home** window loads the last saved instance of a previous prescription draft (if any), enabling you to continue where you left off. You can disable this feature in the options.
+
+## **NOTES**
+---
+- Access to the **Daley Dose** application requires an active subscription.  
+- Your device must be connected to the internet to send digital prescriptions.
+
+## **INTERFACE DETAILS**
+---
+![Daily Dose user interface sections](/assets/images/daley-dose-home-window-clean-sections.png)
+
+The **Home** window is composed of the **Title Section**, **Profile Section**, **Information Sidebar**, **Action Sidebar**, and **Work Area**.  
+
+Most of the interface remains the same throughout the prescription‑making process. Only the middle section, referred to as the **Work Area**, changes depending on the current window or tab accessed.
 
 ![Prescription Window](/assets/images/daley-dose-prescription-window.png)  
 
