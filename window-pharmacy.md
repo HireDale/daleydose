@@ -55,7 +55,7 @@ The **Profile Section** is located in the top‑right corner of the screen.
 
 You can view your profile information and access in‑app settings here. This section also displays a greeting during an active session, showing the current active **Prescriber** and their system‑assigned ID.  
 
-![Daily Dose Profile Section](/assets/images/ddaley-dose-prescription-window-parts-2.png)
+![Daily Dose Profile Section](/assets/images/daley-dose-prescription-window-parts-2.png)
 
 The following table describes the buttons in the **Profile Section**:
 
