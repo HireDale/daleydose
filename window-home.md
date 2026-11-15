@@ -80,7 +80,7 @@ The following table describes the fields in the **Information Sidebar**:
 ---
 The **Action Sidebar** is located on the right side of the screen.  
 
-It displays the buttons to create and manage prescriptions. These buttons are divided into three categories: **Utility**, **Main**, and **Generate**.
+It displays the buttons to create and manage prescriptions. These buttons are divided into three categories: **Utility**, **Main**, and **Generation**.
 
 For simplicity, this guide presents the button definitions by category.
 
@@ -123,11 +123,11 @@ The following table describes the **Main** buttons in the **Action Sidebar**:
 
 ![Daily Dose user interface](/assets/images/daley-dose-home-window-error.png)
 
-### **GENERATE**
+### **GENERATION**
 ---
-The **Generate** buttons enable you to sign, print, and send the current prescription. These buttons are locked by the system to prevent errors when issuing prescriptions.
+The **Generation** buttons enable you to sign, print, and send the current prescription. These buttons are locked by the system to prevent errors when issuing prescriptions.
 
-To unlock the **Generate** buttons, you must first select the **Finalize** button.
+To unlock the **Generation** buttons, you must first click the **Finalize** button.
 
 ![Daily Dose Action Sidebar: Generate](/assets/images/daley-dose-home-window-section-4-3.png)
 
