@@ -54,9 +54,10 @@ The following table describes the buttons in the **Profile Section**:
 
 | # | **BUTTONS** | **DEFINITION** |
 |---|-------------|----------------|
-| 1 | **PROFILE ICON** | Click to view the **Profile Summary** pop‑up window.<br><br>The application displays detailed information about the user currently logged in, such as their professional license number, specialization, and any prescription restrictions, as well as their duration. |
-| 2 | **PROFILE** | Click to view the active profile’s information, role, prescription restrictions, form templates, and saved security settings.<br><br>When you select this button, the application opens the profile settings. |
-| 3 | **OPTIONS** | Click to view the application’s options. |
+| 1 | **PROFILE ICON** | Click to view the **Profile Summary** pop-up window.<br><br>The application displays detailed information about the user currently logged in, such as their professional license number, specialization, and any prescription restrictions, as well as their duration. |
+| 2 | **PROFILE DETAILS** | Displays the prescriber's name and account number. |
+| 3 | **PROFILE** | Click to view the active profile’s information, role, prescription restrictions, form templates, and saved security settings.<br><br>When you select this button, the application opens the profile settings. |
+| 4 | **OPTIONS** | Click to view the application’s options. |
 
 ## **INFORMATION SIDEBAR**
 ---
