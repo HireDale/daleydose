@@ -72,7 +72,7 @@ The **Information Sidebar** is located on the left side of the screen.
 
 It displays details about the patient, the prescribing doctor, and the current prescription. You cannot add medications to the current prescription while these fields are empty.  
 
-![Daily Dose Information Sidebar](/assets/images/daley-dose-home-window-section-3.png)
+![Daily Dose Title Section](/assets/images/daley-dose-prescription-window-parts-3.png)
 
 The following table describes the fields in the **Information Sidebar**:
 
@@ -87,21 +87,14 @@ The following table describes the fields in the **Information Sidebar**:
 
 ## **ACTION SIDEBAR**
 ---
-The **Action Sidebar** is located on the right side of the screen.  
+The **Action Sidebar** is located on the right side of the screen. It displays the buttons that enable you to work on prescriptions in your task list.
 
-It displays the buttons to create and manage prescriptions. These buttons are divided into three categories: **Utility**, **Main**, and **Generation**.
+### **FIELDS**
+The following table describes the fields in the **Action Sidebar**:
 
-For simplicity, this guide presents the button definitions by category.
+![Daily Dose Title Section](/assets/images/daley-dose-prescription-window-parts-6.png)
 
-![Daily Dose Action Sidebar](/assets/images/daley-dose-home-window-section-4.png)
-
-### **UTILITY**
----
-The **Utility** buttons enable you to manage individual prescription entries and access in‑app references, including the help files and the latest *Monthly Index of Medical Specialities (MIMS)* edition.
-
-![Daily Dose Action Sidebar: Utility](/assets/images/daley-dose-home-window-section-4-1.png)
-
-The following table describes the **Utility** buttons in the **Action Sidebar**:
+### **BUTTONS**
 
 | # | **BUTTONS** | **DEFINITION** |
 |---|-------------|----------------|
@@ -115,52 +108,13 @@ The following table describes the **Utility** buttons in the **Action Sidebar**:
 | 8 | **MIMS** | Click to access an in-app version of the latest *Monthly Index of Medical Specialities (MIMS)* digital handbook, the most common drug reference for healthcare professionals.<br><br>**Note:** The **MIMS** version is updated along with every **Daley Dose** version. |
 | 9 | **ALT+** | Click to add an alternative option for the pharmacy if the prescribed medication is not available.<br><br>When you select this button, the application opens the [**Add Alternative** window](/daleydose/window-add-alternative).<br><br>**Note:** The application auto-completes generic and brand name suggestions for each medication. You can turn off this feature in the options. |
 
-### **MAIN**
----
-The **Main** buttons enable you to add, edit, or finalize prescriptions. The application disables the **Finalize** button if it detects an issue with any of the current prescription items.
-
-![Daily Dose Action Sidebar: Main](/assets/images/daley-dose-home-window-section-4-2.png)
-
-The following table describes the **Main** buttons in the **Action Sidebar**:
-
-| # | **BUTTONS** | **DEFINITION** |
-|---|-------------|----------------|
-| 1 | **CREATE NEW** | Click to create a new prescription.<br><br>When you select this button while there are items on the current prescription, the application displays the confirmation message “**Are you sure you want to erase the current prescription?**”<br><br>The application erases all populated fields when you select **Yes**. |
-| 2 | **OPEN SAVED RECORDS** | Click to open and edit a previously saved prescription. |
-| 3 | **SCAN PHYSICAL COPY** | Click to scan a handwritten prescription and create a digital version in a new prescription window.<br><br>When you select this button, the application opens the [**Scan** window](/daleydose/window-scan).<br><br>**Notes:**<br>• The application displays this button on the desktop version only when your computer has a confirmed connected webcam.<br>• The application always displays this button on the mobile app. |
-| 4 | **FINALIZE** | Click to finalize the current prescription.<br><br>When you select this button, the application locks the contents of the current prescription and enables the **Add Medical Signature**, **Print Copy**, and **Send Online** buttons. |
-
-![Daily Dose user interface](/assets/images/daley-dose-home-window-error.png)
-
-### **GENERATION**
----
-The **Generation** buttons enable you to sign, print, and send the current prescription. These buttons are locked by the system to prevent errors when issuing prescriptions.
-
-To unlock the **Generation** buttons, you must first click the **Finalize** button.
-
-![Daily Dose Action Sidebar: Generate](/assets/images/daley-dose-home-window-section-4-3.png)
-
-The following table describes the **Generate** buttons in the **Action Sidebar**:
-
-| # | **BUTTONS** | **DEFINITION** |
-|---|-------------|----------------|
-| 1 | **ADD MEDICAL SIGNATURE** | Click to add your official medical signature to the prescription.<br><br>This field is required to finalize the prescription.<br><br>**Note:** You must have a medical signature template saved in your profile to use this functionality. |
-| 2 | **PRINT COPY** | Click to print the current prescription on a local printer.<br><br>**Notes:**<br>• This option is available only on devices with a confirmed connection to a printer.<br>• This feature is not available on the **Daley Dose** mobile app. |
-| 3 | **SEND ONLINE** | Click to send the prescription to the **Daley Dose** database for deployment.<br><br>**Note:** The application displays the confirmation message “**Finalize and send out this prescription?**” before sending. |
-
+![Daily Dose Title Section](/assets/images/daley-dose-prescription-window-parts-5.png)
 
 ## **WORK AREA**
 ---
+The **Work Area** is where you create, review, and finalize prescriptions. It occupies the center of the screen.
 
-The **Work Area** is where you create, review, and finalize prescriptions. It occupies the center of the screen and contains three tabs:
-
-- [**Prescription**](/daleydose/window-prescription-tab) — Enables you to build a prescription by adding medications and notes.  
-- [**Drug History**](/daleydose/window-drug-history-tab) — Displays the patient’s digitized prescription history from the past 20 years.  
-- [**Med History**](/daleydose/window-med-history-tab) — Displays the patient’s digitized medical conditions and treatments from the past 20 years.
-
-These tabs work together to provide a complete view of the patient’s treatment plan. You can learn more about each tab on their individual entries.
-
-![Daily Dose Work Area](/assets/images/daley-dose-home-window-section-5.png)
+![Daily Dose Title Section](/assets/images/daley-dose-prescription-window-parts-4.png)
 
 ## **RELATED TOPICS**
 ---
