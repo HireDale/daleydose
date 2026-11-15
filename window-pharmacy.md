@@ -34,7 +34,45 @@ The **Home** window is composed of the following sections:
 
 Most of the interface remains the same throughout the prescription‑making process. Only the middle section, referred to as the **Work Area**, changes depending on the current window or tab accessed.
 
+## **TITLE SECTION**
+---
+The **Title Section** is located in the top‑left corner of the screen. 
 
+It contains the **Daley Dose** name, logo, and version number.
+
+![Daily Dose Title Section](/assets/images/daley-dose-home-window-section-1.png)
+
+The following table describes the buttons in the **Title Section**:
+
+| # | **BUTTONS** | **DEFINITION** |
+|---|-------------|----------------|
+| 1 | **DALEY DOSE ICON** | Displays the current **Daley Dose** icon. Click the icon to refresh the application's connection to the database. |
+| 2 | **BRANDING AREA** | Displays the **Daley Dose** branding and the current application version. Click the **Daley Dose** title to view the **System Information** pop-up window.<br><br>This window displays detailed information about the application, including its complete version number, release date, and a list of developer notes included in the build. |
+
+## **PROFILE SECTION**
+---
+The **Profile Section** is located in the top‑right corner of the screen.
+
+You can view your profile information and access in‑app settings here. This section also displays a greeting during an active session, showing the current active **Prescriber** and their system‑assigned ID.  
+
+![Daily Dose Profile Section](/assets/images/daley-dose-home-window-section-2.png)
+
+The following table describes the buttons in the **Profile Section**:
+
+| # | **BUTTONS** | **DEFINITION** |
+|---|-------------|----------------|
+| 1 | **PROFILE ICON** | Click to view the **Profile Summary** pop-up window.<br><br>The application displays detailed information about the user currently logged in, such as their professional license number, specialization, and any prescription restrictions, as well as their duration. |
+| 2 | **PROFILE DETAILS** | Displays the prescriber's name and account number. |
+| 3 | **PROFILE** | Click to view the active profile’s information, role, prescription restrictions, form templates, and saved security settings.<br><br>When you select this button, the application opens the profile settings. |
+| 4 | **OPTIONS** | Click to view the application’s options. |
+
+## **INFORMATION SIDEBAR**
+---
+The **Information Sidebar** is located on the left side of the screen.  
+
+It displays details about the patient, the prescribing doctor, and the current prescription. You cannot add medications to the current prescription while these fields are empty.  
+
+![Daily Dose Information Sidebar](/assets/images/daley-dose-home-window-section-3.png)
 
 The following table describes the fields in the **Information Sidebar**:
 
