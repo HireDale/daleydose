@@ -58,7 +58,7 @@ Its user-friendly interface and powerful features enable users to create prescri
 ## **PHARMACY TOOLS**
 ---
 
-- [**Access the Pharmacy**](/daleydose/window-pharmacy)  
+- [**The Pharmacist's View**](/daleydose/window-pharmacy)  
   Explore the pharmacist-facing version of the Daley Dose application.
 
 ![Prescription Window](/assets/images/daley-dose-prescription-window.png)
