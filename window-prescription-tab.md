@@ -19,7 +19,9 @@ The **Prescription** tab is one of three tabs featured in the **Work Area** of t
 The elements in this window are divided into two categories: **Fields** and **Buttons**.
 
 ### **FIELDS**
-The following table describes the fields in the **Prescription** tab.
+The following table describes the fields in the **Prescription** tab:
+
+![Daily Dose Prescription Tab](/assets/images/daley-dose-home-window-tab-1-labels.png)
 
 | # | **FIELD** | **DEFINITION** |
 |---|-----------|----------------|
@@ -30,17 +32,15 @@ The following table describes the fields in the **Prescription** tab.
 | 5 | **ERROR** | Displays one of the following error messages for the associated medication entry:<br><br>• **INSUFF STOCK:** Indicates that the pharmacies associated with the patient or hospital do not have the entered quantity of the medication in stock.<br>• **DOSAGE ERROR:** Indicates that the entered dose is inconsistent with medical protocols.<br>• **RESTRICTED:** Indicates that the medication entry cannot be prescribed by the user because of their current [**Prescription Restrictions**](/daleydose/about-prescription-restrictions). |
 | 6 | **ERROR INDICATOR** | Identifies the reason for the error message. The application highlights the affected field in red.<br><br>Existing fields identified as causing errors prevent you from finalizing the prescription. |
 
-![Daily Dose Prescription Tab](/assets/images/daley-dose-home-window-tab-1-labels.png)
-
 ### **BUTTONS**
 The following table describes the buttons in the **Prescription** tab.
+
+![Daily Dose Prescription Tab](/assets/images/daley-dose-home-window-tab-1-labels-2.png)
 
 | # | **BUTTON** | **DEFINITION** |
 |---|------------|----------------|
 | 1 | **ADD MEDICATION** | Click to add a medication entry to the current prescription.<br><br>When clicked, the application opens the [**Add Medication** window](/daleydose/window-add-medication). |
 | 2 | **ADD NOTE** | Click to add a note entry to the selected medication.<br><br>When clicked, the application opens the [**Add Notes** window](/daleydose/window-add-notes). |
-
-![Daily Dose Prescription Tab](/assets/images/daley-dose-home-window-tab-1-labels-2.png)
 
 ## **SEE ALSO**
 ---
