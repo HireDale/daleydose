@@ -36,9 +36,7 @@ Most of the interface remains the same throughout the prescription‑making proc
 
 ## **TITLE SECTION**
 ---
-The **Title Section** is located in the top‑left corner of the screen. 
-
-It contains the **Daley Dose** name, logo, and version number.
+The **Title Section** is located in the top‑left corner of the screen. It contains the **Daley Dose** name, logo, and version number.
 
 ![Daily Dose Title Section](/assets/images/daley-dose-home-window-section-1.png)
 
@@ -161,6 +159,8 @@ The following table describes the **Generation** buttons in the **Action Sidebar
 The **Work Area** is where you create, review, and finalize prescriptions. It occupies the center of the screen and contains three tabs. These tabs work together to provide a complete view of the patient’s treatment plan. You can learn more about each tab on their individual entries.
 
 ![Daily Dose Work Area](/assets/images/daley-dose-home-window-section-5.png)
+
+The following table describes the three tabs available in the **Work Area**:
 
 | # | **TABS** | **DEFINITION** |
 |---|-------------|----------------|
