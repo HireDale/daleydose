@@ -25,6 +25,8 @@ The elements in this window are divided into two categories: **Fields** and **Bu
 ### **FIELDS**
 The following table describes the fields available in the **Add Medication** window:
 
+![Daley Dose user interface screenshot](/assets/images/daley-dose-add-medication-window.png)
+
 | # | FIELD | DEFINITION |
 |---|---|---|
 | 1 | **GENERIC NAME** | Enter the medication’s generic name. |
@@ -32,10 +34,10 @@ The following table describes the fields available in the **Add Medication** win
 | 3 | **DOSE** | Enter the medication’s dosage.<br><br>**Note:** The application disables this field when the entered medication does not include dosage instructions. |
 | 4 | **QUANTITY** | Enter the medication quantity for the prescription. |
 
-![Daley Dose user interface screenshot](/assets/images/daley-dose-add-medication-window.png)
-
 ### **BUTTONS**
 The following table describes the buttons available in the **Add Medication** window:
+
+![Daley Dose user interface screenshot](/assets/images/daley-dose-add-medication-window-2.png)
 
 | # | BUTTON | DEFINITION |
 |---|---|---|
@@ -44,8 +46,6 @@ The following table describes the buttons available in the **Add Medication** wi
 | 3 | **ADD TO LIST** | Click to add the entered medication to the current prescription. |
 | 4 | **CANCEL** | Click to close the **Add Medication** window without adding the entered information to the prescription.<br><br>**Note:** When clicked, the application displays the confirmation message **"Are you sure you want to close this window without adding the medication?"** before closing. |
 | 5 | **OK** | Click to close the **Add Medication** window and add the entered information to the prescription.<br><br>**Note:** This button is disabled if any of the following fields are empty: **Generic Name**, **Dose**, or **Amount**. |
-
-![Daley Dose user interface screenshot](/assets/images/daley-dose-add-medication-window-2.png)
 
 ## **RELATED TOPICS**
 ---
