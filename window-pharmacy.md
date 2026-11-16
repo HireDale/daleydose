@@ -32,9 +32,7 @@ Most of the interface remains the same throughout the medication dispensing proc
 
 ## **TITLE SECTION**
 ---
-The **Title Section** is located in the top‑left corner of the screen. 
-
-It contains the **Daley Dose** name, logo, and version number.
+The **Title Section** is located in the top‑left corner of the screen. It contains the **Daley Dose** name, logo, and version number.
 
 ![Daily Dose Title Section](/assets/images/daley-dose-prescription-window-parts-1.png)
 
