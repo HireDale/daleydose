@@ -136,6 +136,8 @@ The following table describes the **Main** buttons in the **Action Sidebar**:
 
 ![Daily Dose user interface](/assets/images/daley-dose-home-window-error.png)
 
+**Note**: The application disables the **Finalize** button when issues are detected in the current prescription draft. This prevents you from applying your medical signature, printing the prescription, or sending it to the database until all issues have been resolved.
+
 ### **GENERATION**
 ---
 The **Generation** buttons enable you to sign, print, and send the current prescription. These buttons are locked by the system to prevent errors when issuing prescriptions.
