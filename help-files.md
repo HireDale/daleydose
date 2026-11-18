@@ -57,7 +57,10 @@ View available windows and their functions in the application.
 - [**Scan Window**](/daleydose/window-scan)  
   Scan a handwritten prescription and convert it to a digital version.
   
-## **SYSTEM SETUP GUIDES**
+## **QUICK REFERENCE GUIDES**
+Find step-by-step instructions for setting up the application and completing common tasks.
+
+### **SYSTEM SETUP GUIDES**
 Learn how to install, troubleshoot, and update the application.
 
 - [**Account Setup and Login**](/daleydose/guide-login)
@@ -65,7 +68,7 @@ Learn how to install, troubleshoot, and update the application.
 - [**Installing the Daley Dose application**](/daleydose/guide-program-installation)
 - [**Installing the mobile companion app**](/daleydose/guide-mobile-installation)
 
-## **USER INTERFACE GUIDES**
+### **USER INTERFACE GUIDES**
 Learn how to perform tasks in the application.
 
 - [**Adding alternatives to medication entries**](/daleydose/prescription-add-alts)
