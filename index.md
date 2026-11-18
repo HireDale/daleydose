@@ -66,6 +66,8 @@ Its user-friendly interface and powerful features enable users to create prescri
 
 ## **ADDITIONAL LINKS**
 ---
-
 - [**HireDale.com**](https://hiredale.github.io)  
   The main hub for my portfolio, technical documentation, and professional resources.
+
+- [**LinkedIn Profile**](https://www.linkedin.com/in/dalealbertgaddi/)  
+  My professional profile, including work experience, qualifications, and career background.
