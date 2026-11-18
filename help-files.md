@@ -28,8 +28,6 @@ Explore core topics about the Daley Dose application and its features.
 - [**About Prescription Restrictions**](/daleydose/about-prescription-restrictions)  
   View details about the Prescription Restriction feature, which prevents selected Prescribers from ordering specific types of medication.
 
-![Daley Dose user interface screenshot](/assets/images/daley-dose-home-window-clean.png)
-
 ## **WINDOW DEFINITIONS**
 View available windows and their functions in the application.
 
@@ -58,8 +56,6 @@ View available windows and their functions in the application.
 
 - [**Scan Window**](/daleydose/window-scan)  
   Scan a handwritten prescription and convert it to a digital version.
-  
-![User Interface mobile](/assets/images/daley-dose-home-window-mobile.png)
   
 ## **SYSTEM SETUP GUIDES**
 Learn how to install, troubleshoot, and update the application.
