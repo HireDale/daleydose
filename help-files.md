@@ -8,7 +8,7 @@ description: ""
 ---
 The **Help Files** enable you to learn individual parts of the Daley Dose application.
 
-You can access the help files from within the application by selecting the **Help** button or through the Daley Dose website.
+You can access the help files from within the application by clicking the **Help** button in the **Action Sidebar** or through the [Daley Dose website](https://hiredale.com/daleydose/).
 
 ![Help Button](/assets/images/daley-dose-home-window-help.png)  
 
@@ -64,21 +64,21 @@ View available windows and their functions in the application.
 ## **SYSTEM SETUP GUIDES**
 Learn how to install, troubleshoot, and update the application.
 
-- [**How to install the Daley Dose application**](/daleydose/guide-program-installation)
-- [**How to install the mobile companion app**](/daleydose/guide-mobile-installation)
-- [**How to check for application updates**](/daleydose/guide-program-update)
-- [**How to set up accounts and log into Daley Dose**](/daleydose/guide-login)
+- [**Account Setup and Login**](/daleydose/guide-login)
+- [**Checking for application updates**](/daleydose/guide-program-update)
+- [**Installing the Daley Dose application**](/daleydose/guide-program-installation)
+- [**Installing the mobile companion app**](/daleydose/guide-mobile-installation)
 
 ## **USER INTERFACE GUIDES**
 Learn how to perform tasks in the application.
 
-- [**How to create a new prescription**](/daleydose/prescription-create-new)  
-- [**How to add medications to a prescription**](/daleydose/prescription-add-meds)
-- [**How to add alternatives to medication entries**](/daleydose/prescription-add-alts)  
-- [**How to delete medications from a prescription**](/daleydose/prescription-delete-meds) 
-- [**How to add, edit, and delete medication notes**](/daleydose/prescription-manage)  
-- [**How to finalize and send out a prescription**](/daleydose/prescription-finalize)
-- [**How to digitize a handwritten prescription**](/daleydose/prescription-digitize)
+- [**Adding alternatives to medication entries**](/daleydose/prescription-add-alts)
+- [**Adding medications to a prescription**](/daleydose/prescription-add-meds)
+- [**Creating a new prescription**](/daleydose/prescription-create-new)
+- [**Deleting medications from a prescription**](/daleydose/prescription-delete-meds)
+- [**Digitizing a handwritten prescription**](/daleydose/prescription-digitize)
+- [**Finalizing a prescription**](/daleydose/prescription-finalize)
+- [**Managing medication notes**](/daleydose/prescription-manage)
 
 ## **ADDITIONAL LINKS**
 ---
