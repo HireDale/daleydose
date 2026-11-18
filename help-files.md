@@ -33,13 +33,31 @@ Explore core topics about the Daley Dose application and its features.
 ## **WINDOW DEFINITIONS**
 View available windows and their functions in the application.
 
-| Window | Description |
-|---|---|
-| [**Home Window**](/daleydose/window-home) | Starting point for creating and managing patient prescriptions. Here, you can view and access the three core tabs used to build, review, and finalize prescriptions:<br><br>• [**Prescription Tab**](/daleydose/window-prescription-tab): Central workspace for creating and managing prescriptions. Displays all entries in the current prescription.<br><br>• [**Drug History Tab**](/daleydose/window-drug-history-tab): View the patient’s digitized prescription history from the past 20 years.<br><br>• [**Med History Tab**](/daleydose/window-med-history-tab): View the patient’s digitized medical conditions and treatments from the past 20 years. |
-| [**Add Medication Window**](/daleydose/window-add-medication) | Add, edit, or remove medications from the current prescription. |
-| [**Add Alternative Window**](/daleydose/window-add-alternative) | Add, edit, or remove alternative options for medications. Alternatives are used when the main medication is unavailable. |
-| [**Add Notes Window**](/daleydose/window-add-notes) | Add, edit, or remove notes attached to the current prescription. |
-| [**Scan Window**](/daleydose/window-scan) | Scan a handwritten prescription and convert it to a digital version. |
+- [**Home Window**](/daleydose/window-home)  
+  Starting point for creating and managing patient prescriptions.
+
+  Here, you can view and access the three core tabs used to build, review, and finalize prescriptions.
+
+  - [**Prescription Tab**](/daleydose/window-prescription-tab)  
+    Central workspace for creating and managing prescriptions. Displays all entries in the current prescription.
+
+  - [**Drug History Tab**](/daleydose/window-drug-history-tab)  
+    View the patient’s digitized prescription history from the past 20 years.
+
+  - [**Med History Tab**](/daleydose/window-med-history-tab)  
+    View the patient’s digitized medical conditions and treatments from the past 20 years.
+
+- [**Add Medication Window**](/daleydose/window-add-medication)  
+  Add, edit, or remove medications from the current prescription.
+
+- [**Add Alternative Window**](/daleydose/window-add-alternative)  
+  Add, edit, or remove alternative options for medications. Alternatives are used when the main medication is unavailable.
+
+- [**Add Notes Window**](/daleydose/window-add-notes)  
+  Add, edit, or remove notes attached to the current prescription.
+
+- [**Scan Window**](/daleydose/window-scan)  
+  Scan a handwritten prescription and convert it to a digital version.
   
 ![User Interface mobile](/assets/images/daley-dose-home-window-mobile.png)
   
