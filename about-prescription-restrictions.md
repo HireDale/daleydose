@@ -18,7 +18,7 @@ You can view the details of a Prescriber’s restrictions in their profile.
 ---
 The following are the available restriction levels for this feature.
 
-| **RESTRICTION LEVEL** | **RESTRICTION** | **DESCRIPTION** |
+| **LEVEL** | **RESTRICTION** | **DESCRIPTION** |
 |:---:|-------------------------------|----------------|
 | **A** | **NO RESTRICTIONS** | The Prescriber has no medication restrictions for prescriptions. However, prescribed medication must align with the patient’s current diagnosis saved in the Daley Dose database.<br><br>**Note:** The application sets this option as the default for newly added prescription accounts. |
 | **B** | **STRONG NARCOTICS LOCK** | The Prescriber cannot add **Schedule II** medication to their Daley Dose prescriptions, regardless of whether the patient profile permits its administration. |
@@ -32,7 +32,7 @@ The following are the available restriction levels for this feature.
 ---
 The following are drug classifications that can be restricted by this feature.
 
-| **CLASSIFICATION** | **CATEGORY** | **DESCRIPTION AND EXAMPLES** |
+| **CLASS** | **CATEGORY** | **DESCRIPTION AND EXAMPLES** |
 |:---:|-------------------------------|------------------------------|
 | **A** | **SCHEDULE II** | Drugs with a high potential for abuse, with use potentially leading to severe psychological or physical dependence. Considered dangerous.<br><br>**Examples:** Oxycodone, Hydromorphone, Methadone, Fentanyl, Morphine, Amphetamine (Adderall), Methamphetamine, Methylphenidate (Ritalin) |
 | **B** | **SCHEDULE III** | Drugs with a moderate to low potential for physical and psychological dependence. Abuse potential is less than Class I or II but still significant.<br><br>**Examples:** Anabolic steroids, Testosterone, Ketamine, Buprenorphine, Codeine (when combined with acetaminophen) |
