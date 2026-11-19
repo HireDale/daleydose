@@ -19,8 +19,7 @@ Its user-friendly interface and powerful features enable users to create prescri
   Access the Help Files to quickly find step-by-step guides, troubleshooting tips, and feature overviews.
 
 - **Browse the Release Notes**  
-
-  Explore release information for both internal teams and application end users, with content tailored to each audience.
+  Find information on the latest application updates, changes, and improvements.
 
   - [**Enterprise Release Notes**](/daleydose/release-notes-v1.5)  
     Review product changes, new features, and other release details intended for internal stakeholders, project teams, and organizational personnel.
