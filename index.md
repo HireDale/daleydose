@@ -13,7 +13,7 @@ Its user-friendly interface and powerful features enable users to create prescri
 
 ![Daley Dose user interface screenshot](/assets/images/daley-dose-home-window-clean.png)
 
-## **FEATURES**
+## **FEATURED DOCUMENTATION**
 ---
 
 - [**Help Files**](/daleydose/help-files)  
