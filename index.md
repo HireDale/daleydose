@@ -17,13 +17,16 @@ Its user-friendly interface and powerful features enable users to create prescri
 ---
 
 - [**Access the Help Files**](/daleydose/help-files)  
-  Access the Daley Dose Help Files to quickly find step-by-step guides, troubleshooting tips, and feature overviews that help you get the most out of the application.
+  Access the Help Files to quickly find step-by-step guides, troubleshooting tips, and feature overviews.
 
-- [**Version 1.5 Release Notes**](/daleydose/release-notes-v1.5)  
-  Review the updates, enhancements, and fixes included in the latest version of the Daley Dose application.
-
-- [**Version History**](/daleydose/release-note-version-history)  
-  View a complete archive of past releases, including feature additions, changes, and resolved issues.
+- **Release Notes**  
+  Explore release information for both internal teams and application end users, with content tailored to each audience.
+  - [**Enterprise Release Notes**](/daleydose/release-notes-v1.5)  
+    Review product changes, new features, and other release details intended for internal stakeholders, project teams, and organizational personnel.
+  - [**End-User Release Notes**](/daleydose/release-customer-notes-v1.5)  
+    Discover new features, application improvements, and changes relevant to Daley Dose users.
+  - [**Version History**](/daleydose/release-note-version-history)  
+    View a complete archive of past releases, including feature additions, changes, and resolved issues.
 
 ## **FUNDAMENTALS**
 ---
