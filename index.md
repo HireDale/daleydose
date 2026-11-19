@@ -12,22 +12,20 @@ The **Daley Dose** application streamlines the prescription-writing process for 
 Its user-friendly interface and powerful features enable users to create prescriptions accurately, efficiently, and securely. The application also offers extended capabilities, including communication with patients, pharmacies, and online stores to support accurate and timely medication distribution. These features help ensure that patients receive their medications promptly and conveniently.
 
 ![Daley Dose user interface screenshot](/assets/images/daley-dose-home-window-clean.png)
-## **FEATURED**
+
+## **FEATURES**
 ---
 
-- [**Access the Help Files**](/daleydose/help-files)  
+- [**Help Files**](/daleydose/help-files)  
   Access the Help Files to quickly find step-by-step guides, troubleshooting tips, and feature overviews.
 
-- **See What's New**  
-  Find information on the latest application updates, changes, and improvements.
-
-  - [**Internal Release Notes**](/daleydose/release-internal-notes-1.5)  
+- [**Internal Release Notes**](/daleydose/release-internal-notes-1.5)  
     Review product changes, new features, and other release details intended for stakeholders, project teams, and organizational personnel.
 
-  - [**End-User Release Notes**](/daleydose/release-enduser-notes-1.5)  
+- [**End-User Release Notes**](/daleydose/release-enduser-notes-1.5)  
     Discover new features, application improvements, and changes relevant to end users of the Daley Dose application.
 
-  - [**Version History**](/daleydose/release-note-version-history)  
+- [**Version History**](/daleydose/release-note-version-history)  
     View a complete archive of past releases, including feature additions, changes, and resolved issues.
 
 ## **FUNDAMENTALS**
