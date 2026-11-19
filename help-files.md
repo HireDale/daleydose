@@ -16,18 +16,6 @@ You can access the help files from within the application by clicking the **Help
 ---
 To begin, select a topic. These topics group related information together for easy navigation.
 
-## **APPLICATION FUNDAMENTALS**
-Explore core topics about the Daley Dose application and its features.
-
-- [**About Daley Dose**](/daleydose/about-daley-dose)  
-  View general information and key features of the Daley Dose application.
-
-- [**About User Roles**](/daleydose/about-user-roles)  
-  View available user roles, including each role’s responsibilities and limitations.
-
-- [**About Prescription Restrictions**](/daleydose/about-prescription-restrictions)  
-  View details about the Prescription Restriction feature, which prevents selected Prescribers from ordering specific types of medication.
-
 ## **WINDOW DEFINITIONS**
 View available windows and their functions in the application.
 
@@ -79,6 +67,18 @@ Learn how to perform tasks in the application.
 - [**Finalizing a prescription**](/daleydose/prescription-finalize)
 - [**Managing medication notes**](/daleydose/prescription-manage)
 
+## **APPLICATION FUNDAMENTALS**
+Explore core topics about the Daley Dose application and its features.
+
+- [**About Daley Dose**](/daleydose/about-daley-dose)  
+  View general information and key features of the Daley Dose application.
+
+- [**About User Roles**](/daleydose/about-user-roles)  
+  View available user roles, including each role’s responsibilities and limitations.
+
+- [**About Prescription Restrictions**](/daleydose/about-prescription-restrictions)  
+  View details about the Prescription Restriction feature, which prevents selected Prescribers from ordering specific types of medication.
+  
 ## **ADDITIONAL LINKS**
 ---
 - [**Version 1.5 Release Notes**](/daleydose/release-notes-v1.5)
