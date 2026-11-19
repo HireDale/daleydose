@@ -18,7 +18,7 @@ Its user-friendly interface and powerful features enable users to create prescri
 - [**Access the Help Files**](/daleydose/help-files)  
   Access the Help Files to quickly find step-by-step guides, troubleshooting tips, and feature overviews.
 
-- **Release Notes**  
+- **Browse the Release Notes**  
 
   Explore release information for both internal teams and application end users, with content tailored to each audience.
 
