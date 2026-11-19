@@ -21,10 +21,10 @@ Its user-friendly interface and powerful features enable users to create prescri
 - **Browse the Release Notes**  
   Find information on the latest application updates, changes, and improvements.
 
-  - [**Enterprise Release Notes**](/daleydose/release-notes-v1.5)  
+  - [**Internal Release Notes**](/daleydose/release-internal-notes-v1.5)  
     Review product changes, new features, and other release details intended for internal stakeholders, project teams, and organizational personnel.
 
-  - [**End-User Release Notes**](/daleydose/release-customer-notes-v1.5)  
+  - [**End-User Release Notes**](/daleydose/release-enduser-notes-v1.5)  
     Discover new features, application improvements, and changes relevant to end users, including pharmacists, doctors, and hospital management.
 
   - [**Version History**](/daleydose/release-note-version-history)  
