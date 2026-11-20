@@ -81,5 +81,5 @@ Explore core topics about the Daley Dose application and its features.
   
 ## **ADDITIONAL LINKS**
 ---
-- [**Version 1.5 Release Notes**](/daleydose/release-enterprise-notes-v1.5)
+- [**Version 1.5 Internal Release Notes**](/daleydose/release-note-internal-1.5)
 - [**Version History**](/daleydose/release-note-version-history)
