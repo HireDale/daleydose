@@ -17,11 +17,11 @@ Its user-friendly interface and powerful features enable users to create prescri
 - [**Help Files**](/daleydose/help-files)  
   Access the Help Files to quickly find step-by-step guides, troubleshooting tips, and feature overviews.
 
-- [**Internal Release Notes**](/daleydose/release-internal-notes-1.5)  
-    Review internal changes from the latest update.
-
-- [**End-User Release Notes**](/daleydose/release-enduser-notes-1.5)  
+- [**Customer Release Notes**](/daleydose/release-note-customer-1.5)  
     Discover new features, application improvements, and changes.
+
+- [**Internal Release Notes**](/daleydose/release-note-internal-1.5)  
+    Review internal changes from the latest update.  
 
 - [**Version History**](/daleydose/release-note-version-history)  
     View a complete archive of past releases, including feature additions, changes, and resolved issues.
