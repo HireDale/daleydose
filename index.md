@@ -13,18 +13,19 @@ Its user-friendly interface and powerful features enable users to create prescri
 
 ## **FEATURED DOCUMENTATION**
 ---
-
 - [**Help Files**](/daleydose/help-files)  
-  Access the Help Files to quickly find step-by-step guides, troubleshooting tips, and feature overviews.
+&#x20; Access the Help Files to quickly find step-by-step guides, troubleshooting tips, and feature overviews.
 
+<!--
 - [**Customer Release Notes**](/daleydose/release-note-customer-1.5)  
-    Discover new features, application improvements, and changes.
+&#x20;   Discover new features, application improvements, and changes.
+-->
 
 - [**Internal Release Notes**](/daleydose/release-note-internal-1.5)  
-    Review internal changes from the latest update.  
+&#x20;   Review internal changes from the latest update.  
 
 - [**Version History**](/daleydose/release-note-version-history)  
-    View a complete archive of past releases, including feature additions, changes, and resolved issues.
+&#x20;   View a complete archive of past releases, including feature additions, changes, and resolved issues.
 
 ![Daley Dose user interface screenshot](/assets/images/daley-dose-home-window-clean.png)
 
@@ -58,14 +59,14 @@ Its user-friendly interface and powerful features enable users to create prescri
 
 </div>
 
+<!--
 ## **PHARMACY TOOLS**
 ---
-
 - [**The Pharmacist's View**](/daleydose/window-pharmacy)  
-  Explore the pharmacist-facing version of the Daley Dose application.
+&#x20; Explore the pharmacist-facing version of the Daley Dose application.
 
 ![Prescription Window](/assets/images/daley-dose-prescription-window.png)
-
+-->
 
 ## **ADDITIONAL LINKS**
 ---
