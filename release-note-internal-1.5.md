@@ -50,7 +50,7 @@ The following enhancements were introduced in version 1.5 of the Daley Dose appl
 
 To improve the application's usability on desktop devices and transition toward a browser-based application.
 
-**Changes**
+**Change**
 
 Rebuilt the entire interface for desktop use, moving toward a browser-based application.
 
@@ -64,7 +64,7 @@ DD-541
 
 To streamline prescription creation by providing direct access to medication and note entry within the Prescription tab.
 
-**Changes**
+**Change**
 
 Moved the **Add Medication** and **Add Note** buttons from the sidebar to the **Prescription** tab for faster prescription creation.
 
@@ -94,7 +94,7 @@ DD-546/547/548
 
 To standardize patient and doctor name entry by using separate first and last name fields.
 
-**Changes**
+**Change**
 
 Split the **Patient Name** field into **First Name** and **Last Name** fields to match the **Doctor** field format.
 
@@ -108,7 +108,7 @@ DD-549
 
 To centralize alternative medication and medical signature actions within the **Action** sidebar.
 
-**Changes**
+**Change**
 
 Moved the **Add Alternative** and **Add Medical Signature** buttons to the **Action** sidebar.
 
@@ -122,7 +122,7 @@ DD-551/552
 
 To consolidate document and prescription-related actions within the **Action** sidebar for easier access.
 
-**Changes**
+**Change**
 
 Moved the **Create New**, **Scan**, **Send**, and **Print** buttons to the **Action** sidebar.
 
@@ -136,7 +136,7 @@ DD-554
 
 To clarify the functions of the Scan and Send actions through more descriptive button labels.
 
-**Changes**
+**Change**
 
 Renamed **Scan** to **Scan Physical Copy** and **Send** to **Send Online** for clarity.
 
