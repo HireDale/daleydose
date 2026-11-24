@@ -18,6 +18,7 @@ Note that the latest Daley Dose application requires an active subscription.
 
 ## **NEW FEATURES**
 ---
+The following features were introduced in version 1.5 of the Daley Dose application:
 
 ### DD-536/537/538/539/540/542/545
 
@@ -31,6 +32,7 @@ Note that the latest Daley Dose application requires an active subscription.
 
 ## **ENHANCEMENTS**
 ---
+The following enhancements were introduced in version 1.5 of the Daley Dose application:
 
 ### DD-541
 
@@ -66,6 +68,7 @@ Renamed **Scan** to **Scan Physical Copy** and **Send** to **Send Online** for c
 
 ## **BUG FIXES**
 ---
+The following bugs and issues were addressed in version 1.5 of the Daley Dose application:
 
 - **DD-525**  
   Fixed an issue where adding Vicodin as an alternative bypassed restrictions and diagnostic checks.
