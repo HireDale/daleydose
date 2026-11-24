@@ -10,7 +10,7 @@ layout: default
 
 We are excited to introduce the latest version of the **Daley Dose** application!
 
-This release features a **major overhaul** of the application's user interface and functionality. It also includes several updates to the medication database, cloud coverage, and new prescription features to enhance your experience.
+This release features a major overhaul of the application's user interface and functionality. It also includes several updates to the medication database, cloud coverage, and new prescription features to enhance your experience.
 
 Note that the latest Daley Dose application requires an active subscription.
 
