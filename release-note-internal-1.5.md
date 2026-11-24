@@ -20,11 +20,21 @@ Note that the latest Daley Dose application requires an active subscription.
 ---
 The following features were introduced in version 1.5 of the Daley Dose application:
 
-### DD-536/537/538/539/540/542/545
+### Redesigned Application Interface
 
-- Redesigned layout with new **Information** and **Action** sidebars for faster access to tools.
+**Purpose**
+
+To provide users with a redesigned interface that improves navigation and enables faster access to commonly used tools and patient records.
+
+**Changes**
+
+- Introduced the **Information** and **Action** sidebars for easier access to application tools.
 - Added the **Undo**, **Redo**, **Save**, **Clear**, **Help**, **Delete**, **Refresh**, **MIMS**, and **Finalize** buttons.
 - Added the **Drug History** and **Med History** tabs for quick access to patient prescription and medication records.
+
+**Reference Numbers**
+
+DD-536/537/538/539/540/542/545
 
 <!-- -->
 
