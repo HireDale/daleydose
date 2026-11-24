@@ -68,7 +68,7 @@ Note that the latest Daley Dose application requires an active subscription.
   Corrected classification of Coffee as an FDA-approved cardiac stimulant.
 
 - **DD-533**  
-  - Removed invalid prescription option for Narcan as a cure for (Addiction Category: World of Warcraft).
+  - Removed invalid prescription option for Narcan as a cure for World of Warcraft addiction.
   - Removed **World of Warcraft** from the available **Addiction Category** options.
 
 - **DD-535**  
