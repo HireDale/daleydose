@@ -67,47 +67,39 @@ Renamed **Scan** to **Scan Physical Copy** and **Send** to **Send Online** for c
 ## **BUG FIXES**
 ---
 
-### DD-525
+- **DD-525**  
+  Fixed an issue where adding Vicodin as an alternative bypassed restrictions and diagnostic checks.
 
-Fixed an issue where adding Vicodin as an alternative bypassed restrictions and diagnostic checks.
+- **DD-526**  
+  Corrected a rare bug allowing Schedule II narcotics for rhinovirus diagnoses.
 
-### DD-526
+- **DD-529**  
+  Removed incorrect recommendation of Garlic Bread as a prophylactic antibiotic.
 
-Corrected a rare bug allowing Schedule II narcotics for rhinovirus diagnoses.
+- **DD-530**  
+  Corrected classification of Coffee as an FDA-approved cardiac stimulant.
 
-### DD-529
-
-Removed incorrect recommendation of Garlic Bread as a prophylactic antibiotic.
-
-### DD-530
-
-Corrected classification of Coffee as an FDA-approved cardiac stimulant.
-
-### DD-533
-
-- Removed invalid prescription option for Narcan as a cure for World of Warcraft addiction.
-- Removed **World of Warcraft** from the available **Addiction Category** options.
+- **DD-533**  
+  - Removed invalid prescription option for Narcan as a cure for World of Warcraft addiction.
+  - Removed **World of Warcraft** from the available **Addiction Category** options.
 
 <!-- -->
 
-### DD-535
+- **DD-535**  
+  Fixed an issue allowing prescription of 100,000 pseudoephedrine tablets for rhinovirus.
 
-Fixed an issue allowing prescription of 100,000 pseudoephedrine tablets for rhinovirus.
-
-### DD-557/558/559/560/561
-
-Removed the following diseases and conditions from the list of accepted medical conditions:
-
-- Ataxia
-- Black Heart Blight
-- Bone Break Fever
-- Brain Rot
-- Droops
-- Rattles
-- Rockjoint
-- Sanguinare Vampiris
-- Witbane
-- Lycanthropy
+- **DD-557/558/559/560/561**  
+  Removed the following diseases and conditions from the list of accepted medical conditions:
+  - Ataxia
+  - Black Heart Blight
+  - Bone Break Fever
+  - Brain Rot
+  - Droops
+  - Rattles
+  - Rockjoint
+  - Sanguinare Vampiris
+  - Witbane
+  - Lycanthropy
 
 <!-- -->
 
