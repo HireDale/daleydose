@@ -40,6 +40,8 @@ Note that the latest Daley Dose application requires an active subscription.
   - Updated the work area to provide direct access to both **Prescription** and **Medical History**.
   - Renamed the **Prescription Pad** area to the **Prescription** tab.
 
+<br>
+
 - **DD-549**  
   Split the **Patient Name** field into **First Name** and **Last Name** fields to match the **Doctor** field format.
 
