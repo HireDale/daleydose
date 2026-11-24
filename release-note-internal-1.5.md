@@ -19,7 +19,7 @@ Note that the latest Daley Dose application requires an active subscription.
 ## **NEW FEATURES**
 ---
 
-- **DD-2011/2012/2013/2014/2015/2017/2020**  
+- **DD-536/537/538/539/540/542/545**  
   - Redesigned layout with new **Information** and **Action** sidebars for faster access to tools.
   - Added the **Undo**, **Redo**, **Save**, **Clear**, **Help**, **Delete**, **Refresh**, **MIMS**, and **Finalize** buttons.
   - Added the **Drug History** and **Med History** tabs for quick access to patient prescription and medication records.
@@ -29,49 +29,62 @@ Note that the latest Daley Dose application requires an active subscription.
 ## **ENHANCEMENTS**
 ---
 
-- **DD-2016**  
+- **DD-541**  
   Rebuilt the entire interface for desktop use, moving toward a browser-based application.
 
-- **DD-2018/2019**  
+- **DD-543/544**  
   Moved the **Add Medication** and **Add Note** buttons from the sidebar to the **Prescription** tab for faster prescription creation.
 
-- **DD-2021/2022/2023**  
+- **DD-546/547/548**  
   - Moved the **Patient**, **Doctor**, and **Prescription Date** fields to the **Information** sidebar.
   - Updated the work area to provide direct access to both **Prescription** and **Medical History**.
   - Renamed the **Prescription Pad** area to the **Prescription** tab.
 
-- **DD-2024**  
+- **DD-549**  
   Split the **Patient Name** field into **First Name** and **Last Name** fields to match the **Doctor** field format.
 
-- **DD-2026/2027**  
+- **DD-551/552**  
   Moved the **Add Alternative** and **Add Medical Signature** buttons to the **Action** sidebar.
 
-- **DD-2029**  
+- **DD-554**  
   Moved the **Create New**, **Scan**, **Send**, and **Print** buttons to the **Action** sidebar.
 
-- **DD-2030/2031**  
+- **DD-555/556**  
   Renamed **Scan** to **Scan Physical Copy** and **Send** to **Send Online** for clarity.
 
 ## **BUG FIXES**
 ---
 
-- **DD-2000**  
+- **DD-525**  
   Fixed an issue where adding Vicodin as an alternative bypassed restrictions and diagnostic checks.
 
-- **DD-2001**  
+- **DD-526**  
   Corrected a rare bug allowing Schedule II narcotics for rhinovirus diagnoses.
 
-- **DD-2004**  
+- **DD-529**  
   Removed incorrect recommendation of Garlic Bread as a prophylactic antibiotic.
 
-- **DD-2005**  
+- **DD-530**  
   Corrected classification of Coffee as an FDA-approved cardiac stimulant.
 
-- **DD-2008**  
+- **DD-533**  
   Removed invalid prescription option for Narcan as a cure for “World of Warcraft addiction.”
 
-- **DD-2010**  
+- **DD-535**  
   Fixed an issue allowing prescription of 100,000 pseudoephedrine tablets for rhinovirus.
+
+- **DD-557/558/559/560/561**  
+  Removed the following Skyrim-related diseases and conditions from the list of accepted medical conditions when creating a patient's profile:
+  - Ataxia
+  - Black Heart Blight
+  - Bone Break Fever
+  - Brain Rot
+  - Droops
+  - Rattles
+  - Rockjoint
+  - Sanguinare Vampiris
+  - Witbane
+  - Lycanthropy
 
 ## **SEE ALSO**
 ---
