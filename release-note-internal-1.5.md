@@ -44,37 +44,105 @@ DD-536/537/538/539/540/542/545
 ---
 The following enhancements were introduced in version 1.5 of the Daley Dose application:
 
-### DD-541
+### Desktop Application Interface
+
+**Purpose**
+
+To improve the application's usability on desktop devices and transition toward a browser-based application.
+
+**Changes**
 
 Rebuilt the entire interface for desktop use, moving toward a browser-based application.
 
-### DD-543/544
+**Reference Numbers**
+
+DD-541
+
+### Prescription Creation
+
+**Purpose**
+
+To streamline prescription creation by providing direct access to medication and note entry within the Prescription tab.
+
+**Changes**
 
 Moved the **Add Medication** and **Add Note** buttons from the sidebar to the **Prescription** tab for faster prescription creation.
 
-### DD-546/547/548
+**Reference Numbers**
+
+DD-543/544
+
+### Patient and Medical History Information
+
+**Purpose**
+
+To improve access to patient and doctor information while providing a more organized workspace for prescription and medical history management.
+
+**Changes**
 
 - Moved the **Patient**, **Doctor**, and **Prescription Date** fields to the **Information** sidebar.
 - Updated the work area to provide direct access to both **Prescription** and **Medical History**.
 - Renamed the **Prescription Pad** area to the **Prescription** tab.
 
-<!-- -->
+**Reference Numbers**
 
-### DD-549
+DD-546/547/548
+
+### Patient Name Fields
+
+**Purpose**
+
+To standardize patient and doctor name entry by using separate first and last name fields.
+
+**Changes**
 
 Split the **Patient Name** field into **First Name** and **Last Name** fields to match the **Doctor** field format.
 
-### DD-551/552
+**Reference Numbers**
+
+DD-549
+
+### Alternative and Medical Signature Actions
+
+**Purpose**
+
+To centralize alternative medication and medical signature actions within the **Action** sidebar.
+
+**Changes**
 
 Moved the **Add Alternative** and **Add Medical Signature** buttons to the **Action** sidebar.
 
-### DD-554
+**Reference Numbers**
+
+DD-551/552
+
+### Document and Prescription Actions
+
+**Purpose**
+
+To consolidate document and prescription-related actions within the **Action** sidebar for easier access.
+
+**Changes**
 
 Moved the **Create New**, **Scan**, **Send**, and **Print** buttons to the **Action** sidebar.
 
-### DD-555/556
+**Reference Numbers**
+
+DD-554
+
+### Scan and Send Button Labels
+
+**Purpose**
+
+To clarify the functions of the Scan and Send actions through more descriptive button labels.
+
+**Changes**
 
 Renamed **Scan** to **Scan Physical Copy** and **Send** to **Send Online** for clarity.
+
+**Reference Numbers**
+
+DD-555/556
 
 ## **BUG FIXES**
 ---
