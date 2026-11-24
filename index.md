@@ -22,7 +22,7 @@ Its user-friendly interface and powerful features enable users to create prescri
 -->
 
 - [**Internal Release Notes**](/daleydose/release-note-internal-1.5)  
-&#x20;   Review internal changes from the latest update.  
+&#x20;   Review enhancements and bug fixes from the latest update.  
 
 - [**Version History**](/daleydose/release-note-version-history)  
 &#x20;   View a complete archive of past releases, including feature additions, changes, and resolved issues.
