@@ -39,6 +39,7 @@ Note that the latest Daley Dose application requires an active subscription.
   - Moved the **Patient**, **Doctor**, and **Prescription Date** fields to the **Information** sidebar.
   - Updated the work area to provide direct access to both **Prescription** and **Medical History**.
   - Renamed the **Prescription Pad** area to the **Prescription** tab.
+
 <br>
 
 - **DD-549**  
