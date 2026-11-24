@@ -74,7 +74,7 @@ Note that the latest Daley Dose application requires an active subscription.
   Fixed an issue allowing prescription of 100,000 pseudoephedrine tablets for rhinovirus.
 
 - **DD-557/558/559/560/561**  
-  Removed the following Skyrim-related diseases and conditions from the list of accepted medical conditions when creating a patient's profile:
+  Removed the following diseases and conditions from the list of accepted medical conditions:
   - Ataxia
   - Black Heart Blight
   - Bone Break Fever
