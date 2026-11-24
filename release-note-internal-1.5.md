@@ -24,6 +24,8 @@ Note that the latest Daley Dose application requires an active subscription.
   - Added the **Undo**, **Redo**, **Save**, **Clear**, **Help**, **Delete**, **Refresh**, **MIMS**, and **Finalize** buttons.
   - Added the **Drug History** and **Med History** tabs for quick access to patient prescription and medication records.
 
+<!-- -->
+
 ![Daily Dose user interface](/assets/images/featured-updates-v1-5.png)
 
 ## **ENHANCEMENTS**
@@ -72,6 +74,8 @@ Note that the latest Daley Dose application requires an active subscription.
   - Removed invalid prescription option for Narcan as a cure for World of Warcraft addiction.
   - Removed **World of Warcraft** from the available **Addiction Category** options.
 
+<!-- -->
+
 - **DD-535**  
   Fixed an issue allowing prescription of 100,000 pseudoephedrine tablets for rhinovirus.
 
@@ -87,6 +91,8 @@ Note that the latest Daley Dose application requires an active subscription.
   - Sanguinare Vampiris
   - Witbane
   - Lycanthropy
+
+<!-- -->
 
 ## **SEE ALSO**
 ---
