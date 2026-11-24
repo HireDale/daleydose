@@ -75,3 +75,5 @@ Its user-friendly interface and powerful features enable users to create prescri
 
 - [**LinkedIn Profile**](https://www.linkedin.com/in/dalealbertgaddi/)  
   My professional profile, including work experience, qualifications, and career background.
+
+![Daley Dose Footer Banner](/assets/images/daley-dose-footer-banner.png)  
