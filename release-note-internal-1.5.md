@@ -34,12 +34,11 @@ Note that the latest Daley Dose application requires an active subscription.
 
 - **DD-543/544**  
   Moved the **Add Medication** and **Add Note** buttons from the sidebar to the **Prescription** tab for faster prescription creation.
-
+  
 - **DD-546/547/548**  
   - Moved the **Patient**, **Doctor**, and **Prescription Date** fields to the **Information** sidebar.
   - Updated the work area to provide direct access to both **Prescription** and **Medical History**.
   - Renamed the **Prescription Pad** area to the **Prescription** tab.
-
 
 - **DD-549**  
   Split the **Patient Name** field into **First Name** and **Last Name** fields to match the **Doctor** field format.
