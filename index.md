@@ -13,8 +13,8 @@ Its user-friendly interface and powerful features enable users to create prescri
 
 ## **FEATURED CONTENT**
 ---
-- [**Help Files**](/daleydose/help-files)  
-&#x20; Access documentation containing detailed window definitions and step-by-step user guides.
+- [**Access the Help Files**](/daleydose/help-files)  
+&#x20; View documentation containing detailed window definitions and step-by-step user guides.
 
 <!--
 - [**Customer Release Notes**](/daleydose/release-note-customer-1.5)  
@@ -22,7 +22,7 @@ Its user-friendly interface and powerful features enable users to create prescri
 -->
 
 - [**Version 1.5 Release Notes**](/daleydose/release-note-internal-1.5)  
-&#x20;   Review new features, enhancements, and bug fixes from the latest update.
+&#x20;   Explore new features, enhancements, and bug fixes from the latest update.
 
 <!--
 - [**Version History**](/daleydose/release-note-version-history)  
