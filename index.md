@@ -14,19 +14,19 @@ Its user-friendly interface and powerful features enable users to create prescri
 ## **FEATURED CONTENT**
 ---
 - [**Help Files**](/daleydose/help-files)  
-&#x20; Access the Help Files to quickly find step-by-step guides, troubleshooting tips, and feature overviews.
+&#x20; Access the Help Files to view user guides and essential information about the application.
 
 <!--
 - [**Customer Release Notes**](/daleydose/release-note-customer-1.5)  
 &#x20;   Discover new features, application improvements, and changes.
 -->
 
-- [**Internal Release Notes**](/daleydose/release-note-internal-1.5)  
-&#x20;   Review enhancements and bug fixes from the latest update.  
-
+- [**Version 1.5 Release Notes**](/daleydose/release-note-internal-1.5)  
+&#x20;   Review new features, enhancements, and bug fixes from the latest update.  
+<!--
 - [**Version History**](/daleydose/release-note-version-history)  
 &#x20;   View a complete archive of past releases, including feature additions, changes, and resolved issues.
-
+-->
 ![Daley Dose user interface screenshot](/assets/images/daley-dose-home-window-clean.png)
 
 ## **FUNDAMENTALS**
