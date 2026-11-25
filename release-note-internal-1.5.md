@@ -148,7 +148,7 @@ DD-555/556
 The following bugs and issues were addressed in version 1.5 of the Daley Dose application:
 
 ---
-### **MEDICAL DATABASE**
+### **MEDICAL DATABASE ISSUES**
 
 - **DD-525**  
   Fixed an issue where selecting Vicodin as an Aspirin alternative bypassed restrictions and diagnostic checks.
