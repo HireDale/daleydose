@@ -22,11 +22,13 @@ Its user-friendly interface and powerful features enable users to create prescri
 -->
 
 - [**Version 1.5 Release Notes**](/daleydose/release-note-internal-1.5)  
-&#x20;   Review new features, enhancements, and bug fixes from the latest update.  
+&#x20;   Review new features, enhancements, and bug fixes from the latest update.
+
 <!--
 - [**Version History**](/daleydose/release-note-version-history)  
 &#x20;   View a complete archive of past releases, including feature additions, changes, and resolved issues.
 -->
+
 ![Daley Dose user interface screenshot](/assets/images/daley-dose-home-window-clean.png)
 
 ## **FUNDAMENTALS**
