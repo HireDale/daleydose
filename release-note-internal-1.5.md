@@ -142,7 +142,29 @@ Renamed **Scan** to **Scan Physical Copy** and **Send** to **Send Online** for c
 DD-555/556
 
 ---
+## **MISCELLANEOUS ENHANCEMENTS**
+---
 
+- **DD-579**  
+  Increased the database synchronization frequency for patient information from once every 48 hours to once every 180 seconds.
+
+- **DD-580**  
+  Expanded the interactive selection areas of application fields, allowing users to select them without clicking directly within their boundaries.
+
+- **DD-581**  
+  Implemented asynchronous data retrieval and progressive loading to prevent application freezes when accessing Patient Profiles with extensive medical histories.
+
+- **DD-582**  
+  Expanded language support through database-driven localization, enabling access to a wider range of languages within the application. Newly supported languages include:
+  - Latin
+  - High Valyrian
+  - Elvish
+  - Dothraki
+  - Binary
+
+<!-- -->
+
+---
 ## **BUG FIXES**
 ---
 The following bugs and issues were addressed in version 1.5 of the Daley Dose application:
