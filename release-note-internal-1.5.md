@@ -24,7 +24,7 @@ The following features were introduced in version 1.5 of the Daley Dose applicat
 
 ### **REDESIGNED APPLICATION INTERFACE**
 
-**PURPOSE**
+**PURPOSE**  
 To provide users with a redesigned interface that improves navigation and enables faster access to commonly used tools and patient records.
 
 **CHANGES**
