@@ -8,17 +8,17 @@ layout: default
 ---
 **RELEASE DATE**: 2025-09-12
 
-We are excited to introduce the latest version of the **Daley Dose** application!
+This document provides an overview of the changes introduced in version 1.5 of the **Daley Dose** application.
 
-This release features a major overhaul of the application's user interface and functionality. It also includes several updates to the medication database, cloud coverage, and new prescription features to enhance your experience.
-
-Note that the latest Daley Dose application requires an active subscription.
+This release includes a major overhaul of the application's user interface and functionality, alongside updates to the medication database, cloud coverage, and prescription management features. The following release notes summarize the new features, enhancements, and bug fixes delivered in this version.
 
 ![Daily Dose user interface](/assets/images/featured-updates-v1-5-2.png)
 
 ## **NEW FEATURES**
 ---
 The following features were introduced in version 1.5 of the Daley Dose application:
+
+---
 
 ### Redesigned Application Interface
 
@@ -36,6 +36,7 @@ To provide users with a redesigned interface that improves navigation and enable
 
 DD-536/537/538/539/540/542/545
 
+---
 <!-- -->
 
 ![Daily Dose user interface](/assets/images/featured-updates-v1-5.png)
