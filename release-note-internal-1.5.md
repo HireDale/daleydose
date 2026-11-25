@@ -50,6 +50,35 @@ The following enhancements were introduced in version 1.5 of the Daley Dose appl
 
 ---
 
+### **ACCESSIBILITY MODES**
+
+**PURPOSE**  
+To improve application accessibility and usability for users with different accessibility requirements.
+
+**CHANGES**
+
+- Added **Colorblind Mode** to improve visibility and clarity of application interface elements for users with color vision deficiencies.
+- Added **Dyslexia Mode** with adjusted typography and text spacing to improve readability.
+- Added **Braille Mode** to support navigation and information access through compatible Braille display devices.
+
+**REFERENCE NUMBER**  
+DD-578
+
+---
+
+### **ALTERNATIVE AND MEDICAL SIGNATURE ACTIONS**
+
+**PURPOSE**  
+To centralize alternative medication and medical signature actions within the **Action** sidebar.
+
+**CHANGE**  
+Moved the **Add Alternative** and **Add Medical Signature** buttons to the **Action** sidebar.
+
+**REFERENCE NUMBERS**  
+DD-551/552
+
+---
+
 ### **DESKTOP APPLICATION INTERFACE**
 
 **PURPOSE**  
@@ -63,16 +92,16 @@ DD-541
 
 ---
 
-### **PRESCRIPTION CREATION**
+### **DOCUMENT AND PRESCRIPTION ACTIONS**
 
 **PURPOSE**  
-To streamline prescription creation by providing direct access to medication and note entry within the Prescription tab.
+To consolidate document and prescription-related actions within the **Action** sidebar for easier access.
 
 **CHANGE**  
-Moved the **Add Medication** and **Add Note** buttons from the sidebar to the **Prescription** tab for faster prescription creation.
+Moved the **Create New**, **Scan**, **Send**, and **Print** buttons to the **Action** sidebar.
 
-**REFERENCE NUMBERS**  
-DD-543/544
+**REFERENCE NUMBER**  
+DD-554
 
 ---
 
@@ -81,7 +110,8 @@ DD-543/544
 **PURPOSE**  
 To improve access to patient and doctor information while providing a more organized workspace for prescription and medical history management.
 
-**CHANGES**  
+**CHANGES**
+
 - Moved the **Patient**, **Doctor**, and **Prescription Date** fields to the **Information** sidebar.
 - Updated the work area to provide direct access to both **Prescription** and **Medical History**.
 - Renamed the **Prescription Pad** area to the **Prescription** tab.
@@ -104,29 +134,16 @@ DD-549
 
 ---
 
-### **ALTERNATIVE AND MEDICAL SIGNATURE ACTIONS**
+### **PRESCRIPTION CREATION**
 
 **PURPOSE**  
-To centralize alternative medication and medical signature actions within the **Action** sidebar.
+To streamline prescription creation by providing direct access to medication and note entry within the Prescription tab.
 
 **CHANGE**  
-Moved the **Add Alternative** and **Add Medical Signature** buttons to the **Action** sidebar.
+Moved the **Add Medication** and **Add Note** buttons from the sidebar to the **Prescription** tab for faster prescription creation.
 
 **REFERENCE NUMBERS**  
-DD-551/552
-
----
-
-### **DOCUMENT AND PRESCRIPTION ACTIONS**
-
-**PURPOSE**  
-To consolidate document and prescription-related actions within the **Action** sidebar for easier access.
-
-**CHANGE**  
-Moved the **Create New**, **Scan**, **Send**, and **Print** buttons to the **Action** sidebar.
-
-**REFERENCE NUMBER**  
-DD-554
+DD-543/544
 
 ---
 
@@ -143,32 +160,27 @@ DD-555/556
 
 ---
 
-### **ACCESSIBILITY MODES**
-
-**PURPOSE**  
-To improve application accessibility and usability for users with different accessibility requirements.
-
-**CHANGES**
-
-- Added **Colorblind Mode** to improve visibility and clarity of application interface elements for users with color vision deficiencies.
-- Added **Dyslexia Mode** with adjusted typography and text spacing to improve readability.
-- Added **Braille Mode** to support navigation and information access through compatible Braille display devices.
-
-**REFERENCE NUMBER**  
-DD-578
-
+### **MISCELLANEOUS ENHANCEMENTS**
 ---
-## **MISCELLANEOUS ENHANCEMENTS**
----
+
+**DATA SYNCHRONIZATION AND PERFORMANCE**
 
 - **DD-579**  
   Increased the database synchronization frequency for patient information from once every 48 hours to once every 180 seconds.
 
+- **DD-581**  
+  Implemented asynchronous data retrieval and progressive loading to prevent application freezes when accessing Patient Profiles with extensive medical histories.
+
+<!-- -->
+
+**INTERFACE USABILITY**
+
 - **DD-580**  
   Expanded the interactive selection areas of application fields, allowing users to select them without clicking directly within their boundaries.
 
-- **DD-581**  
-  Implemented asynchronous data retrieval and progressive loading to prevent application freezes when accessing Patient Profiles with extensive medical histories.
+<!-- -->
+
+**LOCALIZATION**
 
 - **DD-582**  
   Expanded language support through database-driven localization, enabling access to a wider range of languages within the application. Newly supported languages include:
@@ -186,7 +198,12 @@ DD-578
 The following bugs and issues were addressed in version 1.5 of the Daley Dose application:
 
 ---
-### **MEDICAL DATABASE ISSUES**
+
+- **DD-525**  
+  Fixed an issue where selecting **Vicodin** as an **Aspirin** alternative bypassed restrictions and diagnostic checks.
+
+- **DD-526**  
+  Corrected a rare bug allowing **Schedule II narcotics** for **rhinovirus** diagnoses.
 
 - **DD-529**  
   Removed incorrect recommendation of **Garlic Bread** as a prophylactic antibiotic.
@@ -194,9 +211,12 @@ The following bugs and issues were addressed in version 1.5 of the Daley Dose ap
 - **DD-530**  
   Corrected classification of **Coffee** as an FDA-approved cardiac stimulant.
 
-- **DD-533**  
+- **DD-533**
   - Removed invalid prescription option for **Narcan** as a cure for **World of Warcraft** addiction.
   - Removed **World of Warcraft** from the available **Addiction Category** options.
+
+- **DD-535**  
+  Fixed an issue allowing prescription of 100,000 **pseudoephedrine** tablets for **rhinovirus**.
 
 <!-- -->
 
@@ -216,6 +236,11 @@ The following bugs and issues were addressed in version 1.5 of the Daley Dose ap
 
 <!-- -->
 
+- **DD-562/DD-563**  
+  Fixed intermittent stuttering when retrieving and loading information from the database.
+
+<!-- -->
+
 - **DD-564/DD-565**  
   Resolved an intermittent issue preventing the application from updating saved **Patient Profiles** with the latest database information when requests were submitted after office hours.
 
@@ -229,7 +254,8 @@ The following bugs and issues were addressed in version 1.5 of the Daley Dose ap
   Resolved an issue where the application automatically changed the **Sanguinare Vampiris** diagnosis in a **Patient Profile** to **Vampirism** three days after profile creation.
 
 - **DD-571/DD-572/DD-573**  
-    Removed the following invalid options from the medication browser:
+  Removed the following invalid options from the medication browser:
+
   - **Minor Healing Potion**
   - **Minor Mana Potion**
   - **Rejuvenation Potion**
@@ -252,28 +278,10 @@ The following bugs and issues were addressed in version 1.5 of the Daley Dose ap
 
 <!-- -->
 
-### **PRESCRIPTION VALIDATION ISSUES**
-
-- **DD-525**  
-  Fixed an issue where selecting **Vicodin** as an **Aspirin** alternative bypassed restrictions and diagnostic checks.
-
-- **DD-526**  
-  Corrected a rare bug allowing **Schedule II narcotics** for **rhinovirus** diagnoses.
-
-- **DD-535**  
-  Fixed an issue allowing prescription of 100,000 **pseudoephedrine** tablets for **rhinovirus**.
-
 - **DD-577**  
   Fixed an issue preventing **Patient Profile** saves when the patient had a diagnosis of **Lupus**.
 
   **NOTE:** It's never Lupus.
-
-<!-- -->
-
-### **PERFORMANCE ISSUES**
-
-- **DD-562/DD-563**  
-  Fixed intermittent stuttering when retrieving and loading information from the database.
 
 <!-- -->
 
