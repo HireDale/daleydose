@@ -65,98 +65,80 @@ DD-541
 
 ### **PRESCRIPTION CREATION**
 
-**PURPOSE**
-
+**PURPOSE**  
 To streamline prescription creation by providing direct access to medication and note entry within the Prescription tab.
 
-**CHANGE**
-
+**CHANGE**  
 Moved the **Add Medication** and **Add Note** buttons from the sidebar to the **Prescription** tab for faster prescription creation.
 
-**REFERENCE NUMBERS**
-
+**REFERENCE NUMBERS**  
 DD-543/544
 
 ---
 
 ### **PATIENT AND MEDICAL HISTORY INFORMATION**
 
-**PURPOSE**
-
+**PURPOSE**  
 To improve access to patient and doctor information while providing a more organized workspace for prescription and medical history management.
 
-**CHANGES**
-
+**CHANGES**  
 - Moved the **Patient**, **Doctor**, and **Prescription Date** fields to the **Information** sidebar.
 - Updated the work area to provide direct access to both **Prescription** and **Medical History**.
 - Renamed the **Prescription Pad** area to the **Prescription** tab.
 
-**REFERENCE NUMBERS**
-
+**REFERENCE NUMBERS**  
 DD-546/547/548
 
 ---
 
 ### **PATIENT NAME FIELDS**
 
-**PURPOSE**
-
+**PURPOSE**  
 To standardize patient and doctor name entry by using separate first and last name fields.
 
-**CHANGE**
-
+**CHANGE**  
 Split the **Patient Name** field into **First Name** and **Last Name** fields to match the **Doctor** field format.
 
-**REFERENCE NUMBER**
-
+**REFERENCE NUMBER**  
 DD-549
 
 ---
 
 ### **ALTERNATIVE AND MEDICAL SIGNATURE ACTIONS**
 
-**PURPOSE**
-
+**PURPOSE**  
 To centralize alternative medication and medical signature actions within the **Action** sidebar.
 
-**CHANGE**
-
+**CHANGE**  
 Moved the **Add Alternative** and **Add Medical Signature** buttons to the **Action** sidebar.
 
-**REFERENCE NUMBERS**
-
+**REFERENCE NUMBERS**  
 DD-551/552
 
 ---
 
 ### **DOCUMENT AND PRESCRIPTION ACTIONS**
 
-**PURPOSE**
-
+**PURPOSE**  
 To consolidate document and prescription-related actions within the **Action** sidebar for easier access.
 
-**CHANGE**
-
+**CHANGE**  
 Moved the **Create New**, **Scan**, **Send**, and **Print** buttons to the **Action** sidebar.
 
-**REFERENCE NUMBER**
-
+**REFERENCE NUMBER**  
 DD-554
 
 ---
 
 ### **SCAN AND SEND BUTTON LABELS**
 
-**PURPOSE**
-
+**PURPOSE**  
 To clarify the functions of the Scan and Send actions through more descriptive button labels.
 
-**CHANGE**
-
+**CHANGE**  
 Renamed **Scan** to **Scan Physical Copy** and **Send** to **Send Online** for clarity.
 
-**REFERENCE NUMBERS**
-
+**REFERENCE NUMBERS**  
 DD-555/556
 
 ---
@@ -189,7 +171,7 @@ The following bugs and issues were addressed in version 1.5 of the Daley Dose ap
   Fixed an issue allowing prescription of 100,000 pseudoephedrine tablets for rhinovirus.
 
 - **DD-557/558/559/560/561**  
-  Removed the following diseases and conditions from the list of accepted medical conditions:
+  Removed the following diseases and conditions from the list of accepted medical conditions:  
   - Ataxia
   - Black Heart Blight
   - Bone Break Fever
