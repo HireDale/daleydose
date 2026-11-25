@@ -150,12 +150,6 @@ The following bugs and issues were addressed in version 1.5 of the Daley Dose ap
 ---
 ### **MEDICAL DATABASE ISSUES**
 
-- **DD-525**  
-  Fixed an issue where selecting Vicodin as an Aspirin alternative bypassed restrictions and diagnostic checks.
-
-- **DD-526**  
-  Corrected a rare bug allowing Schedule II narcotics for rhinovirus diagnoses.
-
 - **DD-529**  
   Removed incorrect recommendation of Garlic Bread as a prophylactic antibiotic.
 
@@ -167,9 +161,6 @@ The following bugs and issues were addressed in version 1.5 of the Daley Dose ap
   - Removed **World of Warcraft** from the available **Addiction Category** options.
 
 <!-- -->
-
-- **DD-535**  
-  Fixed an issue allowing prescription of 100,000 pseudoephedrine tablets for rhinovirus.
 
 - **DD-557/558/559/560/561**  
   Removed the following diseases and conditions from the list of accepted medical conditions:  
@@ -183,6 +174,23 @@ The following bugs and issues were addressed in version 1.5 of the Daley Dose ap
   - Sanguinare Vampiris
   - Witbane
   - Lycanthropy
+
+<!-- -->
+
+### **PRESCRIPTION VALIDATION ISSUES**
+
+- **DD-525**  
+  Fixed an issue where selecting Vicodin as an Aspirin alternative bypassed restrictions and diagnostic checks.
+
+- **DD-526**  
+  Corrected a rare bug allowing Schedule II narcotics for rhinovirus diagnoses.
+
+- **DD-535**  
+  Fixed an issue allowing prescription of 100,000 pseudoephedrine tablets for rhinovirus.
+
+<!-- -->
+
+### **PERFORMANCE ISSUES**
 
 <!-- -->
 
