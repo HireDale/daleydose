@@ -22,19 +22,19 @@ The following features were introduced in version 1.5 of the Daley Dose applicat
 
 ---
 
-### Redesigned Application Interface
+### **REDESIGNED APPLICATION INTERFACE**
 
-**Purpose**
+**PURPOSE**
 
 To provide users with a redesigned interface that improves navigation and enables faster access to commonly used tools and patient records.
 
-**Changes**
+**CHANGES**
 
 - Introduced the **Information** and **Action** sidebars for easier access to application tools.
 - Added the **Undo**, **Redo**, **Save**, **Clear**, **Help**, **Delete**, **Refresh**, **MIMS**, and **Finalize** buttons.
 - Added the **Drug History** and **Med History** tabs for quick access to patient prescription and medication records.
 
-**Reference Numbers**
+**REFERENCE NUMBERS**
 
 DD-536/537/538/539/540/542/545
 
@@ -49,115 +49,115 @@ The following enhancements were introduced in version 1.5 of the Daley Dose appl
 
 ---
 
-### Desktop Application Interface
+### **DESKTOP APPLICATION INTERFACE**
 
-**Purpose**
+**PURPOSE**
 
 To improve the application's usability on desktop devices and transition toward a browser-based application.
 
-**Change**
+**CHANGE**
 
 Rebuilt the entire interface for desktop use, moving toward a browser-based application.
 
-**Reference Numbers**
+**REFERENCE NUMBERS**
 
 DD-541
 
 ---
 
-### Prescription Creation
+### **PRESCRIPTION CREATION**
 
-**Purpose**
+**PURPOSE**
 
 To streamline prescription creation by providing direct access to medication and note entry within the Prescription tab.
 
-**Change**
+**CHANGE**
 
 Moved the **Add Medication** and **Add Note** buttons from the sidebar to the **Prescription** tab for faster prescription creation.
 
-**Reference Numbers**
+**REFERENCE NUMBERS**
 
 DD-543/544
 
 ---
 
-### Patient and Medical History Information
+### **PATIENT AND MEDICAL HISTORY INFORMATION**
 
-**Purpose**
+**PURPOSE**
 
 To improve access to patient and doctor information while providing a more organized workspace for prescription and medical history management.
 
-**Changes**
+**CHANGES**
 
 - Moved the **Patient**, **Doctor**, and **Prescription Date** fields to the **Information** sidebar.
 - Updated the work area to provide direct access to both **Prescription** and **Medical History**.
 - Renamed the **Prescription Pad** area to the **Prescription** tab.
 
-**Reference Numbers**
+**REFERENCE NUMBERS**
 
 DD-546/547/548
 
 ---
 
-### Patient Name Fields
+### **PATIENT NAME FIELDS**
 
-**Purpose**
+**PURPOSE**
 
 To standardize patient and doctor name entry by using separate first and last name fields.
 
-**Change**
+**CHANGE**
 
 Split the **Patient Name** field into **First Name** and **Last Name** fields to match the **Doctor** field format.
 
-**Reference Numbers**
+**REFERENCE NUMBERS**
 
 DD-549
 
 ---
 
-### Alternative and Medical Signature Actions
+### **ALTERNATIVE AND MEDICAL SIGNATURE ACTIONS**
 
-**Purpose**
+**PURPOSE**
 
 To centralize alternative medication and medical signature actions within the **Action** sidebar.
 
-**Change**
+**CHANGE**
 
 Moved the **Add Alternative** and **Add Medical Signature** buttons to the **Action** sidebar.
 
-**Reference Numbers**
+**REFERENCE NUMBERS**
 
 DD-551/552
 
 ---
 
-### Document and Prescription Actions
+### **DOCUMENT AND PRESCRIPTION ACTIONS**
 
-**Purpose**
+**PURPOSE**
 
 To consolidate document and prescription-related actions within the **Action** sidebar for easier access.
 
-**Change**
+**CHANGE**
 
 Moved the **Create New**, **Scan**, **Send**, and **Print** buttons to the **Action** sidebar.
 
-**Reference Numbers**
+**REFERENCE NUMBERS**
 
 DD-554
 
 ---
 
-### Scan and Send Button Labels
+### **SCAN AND SEND BUTTON LABELS**
 
-**Purpose**
+**PURPOSE**
 
 To clarify the functions of the Scan and Send actions through more descriptive button labels.
 
-**Change**
+**CHANGE**
 
 Renamed **Scan** to **Scan Physical Copy** and **Send** to **Send Online** for clarity.
 
-**Reference Numbers**
+**REFERENCE NUMBERS**
 
 DD-555/556
 
