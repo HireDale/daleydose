@@ -87,10 +87,10 @@ DD-631/632/633
 ### **ASYNCHRONOUS DATA RETRIEVAL AND PROGRESSIVE LOADING**
 
 **PURPOSE**  
-To improve application responsiveness when accessing Patient Profiles containing extensive medical histories.
+To improve application responsiveness when accessing **Patient Profiles** containing extensive medical histories.
 
 **CHANGE**  
-Implemented asynchronous data retrieval and progressive loading to prevent application freezes when accessing Patient Profiles with extensive medical histories.
+Implemented asynchronous data retrieval and progressive loading to prevent application freezes when accessing **Patient Profiles** with extensive medical histories.
 
 **REFERENCE NUMBERS**  
 DD-634/635/636
