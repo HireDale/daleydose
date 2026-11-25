@@ -209,3 +209,5 @@ The following bugs and issues were addressed in version 1.5 of the Daley Dose ap
 ---
 - [**Access the Help Files**](/daleydose/help-files)
 - [**Version History**](/daleydose/release-note-version-history)
+
+<div style="height: 60px;"></div>
