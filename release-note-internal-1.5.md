@@ -56,7 +56,7 @@ To improve the application's usability on desktop devices and transition toward 
 **CHANGE**  
 Rebuilt the entire interface for desktop use, moving toward a browser-based application.
 
-**REFERENCE NUMBERS**  
+**REFERENCE NUMBER**  
 DD-541
 
 ---
@@ -105,7 +105,7 @@ To standardize patient and doctor name entry by using separate first and last na
 
 Split the **Patient Name** field into **First Name** and **Last Name** fields to match the **Doctor** field format.
 
-**REFERENCE NUMBERS**
+**REFERENCE NUMBER**
 
 DD-549
 
@@ -137,7 +137,7 @@ To consolidate document and prescription-related actions within the **Action** s
 
 Moved the **Create New**, **Scan**, **Send**, and **Print** buttons to the **Action** sidebar.
 
-**REFERENCE NUMBERS**
+**REFERENCE NUMBER**
 
 DD-554
 
@@ -163,8 +163,10 @@ DD-555/556
 ---
 The following bugs and issues were addressed in version 1.5 of the Daley Dose application:
 
+---
+
 - **DD-525**  
-  Fixed an issue where adding Vicodin as an alternative bypassed restrictions and diagnostic checks.
+  Fixed an issue where selecting Vicodin as an Aspirin alternative bypassed restrictions and diagnostic checks.
 
 - **DD-526**  
   Corrected a rare bug allowing Schedule II narcotics for rhinovirus diagnoses.
