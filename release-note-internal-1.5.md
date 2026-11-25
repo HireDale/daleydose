@@ -220,14 +220,15 @@ DD-670/671
 
 <!-- -->
 
----
 ## **BUG FIXES**
 ---
 The following bugs and issues were addressed in version 1.5 of the Daley Dose application:
 
 ---
+
 ### **MEDICAL DATABASE ISSUES**
 
+---
 - **DD-529**  
   Removed incorrect recommendation of **Garlic Bread** as a prophylactic antibiotic.
 
@@ -304,6 +305,7 @@ The following bugs and issues were addressed in version 1.5 of the Daley Dose ap
   - **Cure Disease Potion**
 
 <!-- -->
+---
 
 ### **PRESCRIPTION VALIDATION ISSUES**
 
