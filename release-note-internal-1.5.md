@@ -151,82 +151,82 @@ The following bugs and issues were addressed in version 1.5 of the Daley Dose ap
 ### **MEDICAL DATABASE ISSUES**
 
 - **DD-529**  
-  Removed incorrect recommendation of Garlic Bread as a prophylactic antibiotic.
+  Removed incorrect recommendation of **Garlic Bread** as a prophylactic antibiotic.
 
 - **DD-530**  
-  Corrected classification of Coffee as an FDA-approved cardiac stimulant.
+  Corrected classification of **Coffee** as an FDA-approved cardiac stimulant.
 
 - **DD-533**  
-  - Removed invalid prescription option for Narcan as a cure for World of Warcraft addiction.
+  - Removed invalid prescription option for **Narcan** as a cure for **World of Warcraft** addiction.
   - Removed **World of Warcraft** from the available **Addiction Category** options.
 
 <!-- -->
 
 - **DD-557/558/559/560/561**  
   Removed the following diseases and conditions from the list of accepted medical conditions:
-  
-  - Ataxia
-  - Black Heart Blight
-  - Bone Break Fever
-  - Brain Rot
-  - Droops
-  - Rattles
-  - Rockjoint
-  - Sanguinare Vampiris
-  - Witbane
-  - Lycanthropy
+
+  - **Ataxia**
+  - **Black Heart Blight**
+  - **Bone Break Fever**
+  - **Brain Rot**
+  - **Droops**
+  - **Rattles**
+  - **Rockjoint**
+  - **Sanguinare Vampiris**
+  - **Witbane**
+  - **Lycanthropy**
 
 <!-- -->
 
 - **DD-564/DD-565**  
-  Resolved an intermittent issue preventing the application from updating saved Patient Profiles with the latest database information when requests were submitted after office hours.
+  Resolved an intermittent issue preventing the application from updating saved **Patient Profiles** with the latest database information when requests were submitted after office hours.
 
 - **DD-566/DD-567**  
-  Fixed an issue preventing Patient Profile creation when a portion of the patient's name was flagged as offensive by the application's international reference sources.
+  Fixed an issue preventing **Patient Profile** creation when a portion of the patient's name was flagged as offensive by the application's international reference sources.
 
 - **DD-568**  
-  Removed Gregory House, MD, from the list of accepted primary physicians.
+  Removed **Gregory House, MD**, from the list of accepted primary physicians.
 
 - **DD-569/DD-570**  
-  Resolved an issue where the application automatically changed the Sanguinare Vampiris diagnosis in a Patient Profile to Vampirism three days after profile creation.
+  Resolved an issue where the application automatically changed the **Sanguinare Vampiris** diagnosis in a **Patient Profile** to **Vampirism** three days after profile creation.
 
 - **DD-571/DD-572/DD-573**  
     Removed the following invalid options from the medication browser:
-  - Minor Healing Potion
-  - Minor Mana Potion
-  - Rejuvenation Potion
-  - Stamina Potion
-  - Antidote
-  - Thawing Potion
+  - **Minor Healing Potion**
+  - **Minor Mana Potion**
+  - **Rejuvenation Potion**
+  - **Stamina Potion**
+  - **Antidote**
+  - **Thawing Potion**
 
 <!-- -->
 
 - **DD-574/DD-575/DD-576**  
   Removed the following invalid options from the radiation poisoning treatment browser:
-  
-  - RadAway
-  - RadX
-  - First Aid Spray
-  - Mixed Herb
-  - Golden Oriole
-  - Mekansm
-  - Cure Disease Potion
+
+  - **RadAway**
+  - **RadX**
+  - **First Aid Spray**
+  - **Mixed Herb**
+  - **Golden Oriole**
+  - **Mekansm**
+  - **Cure Disease Potion**
 
 <!-- -->
 
 ### **PRESCRIPTION VALIDATION ISSUES**
 
 - **DD-525**  
-  Fixed an issue where selecting Vicodin as an Aspirin alternative bypassed restrictions and diagnostic checks.
+  Fixed an issue where selecting **Vicodin** as an **Aspirin** alternative bypassed restrictions and diagnostic checks.
 
 - **DD-526**  
-  Corrected a rare bug allowing Schedule II narcotics for rhinovirus diagnoses.
+  Corrected a rare bug allowing **Schedule II narcotics** for **rhinovirus** diagnoses.
 
 - **DD-535**  
-  Fixed an issue allowing prescription of 100,000 pseudoephedrine tablets for rhinovirus.
+  Fixed an issue allowing prescription of 100,000 **pseudoephedrine** tablets for **rhinovirus**.
 
 - **DD-577**  
-  Fixed an issue preventing Patient Profile saves when the patient had a diagnosis of Lupus.
+  Fixed an issue preventing **Patient Profile** saves when the patient had a diagnosis of **Lupus**.
 
   **NOTE:** It's never Lupus.
 
