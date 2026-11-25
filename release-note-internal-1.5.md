@@ -18,32 +18,6 @@ This release includes a major overhaul of the application's user interface and f
 
 ![Daily Dose user interface](/assets/images/featured-updates-v1-5-2.png)
 
-## **NEW FEATURES**
----
-The following features were introduced in version 1.5 of the Daley Dose application:
-
----
-
-### **REDESIGNED APPLICATION INTERFACE**
-
-**PURPOSE**  
-To provide users with a redesigned interface that improves navigation and enables faster access to commonly used tools and patient records.
-
-**CHANGES**
-
-- Introduced the **Information** and **Action** sidebars for easier access to application tools.
-- Added the **Undo**, **Redo**, **Save**, **Clear**, **Help**, **Delete**, **Refresh**, **MIMS**, and **Finalize** buttons.
-- Added the **Drug History** and **Med History** tabs for quick access to patient prescription and medication records.
-
-**REFERENCE NUMBERS**  
-DD-536/537/538/539/540/542/545
-
-<!-- -->
-
-![Daily Dose user interface](/assets/images/featured-updates-v1-5.png)
-
----
-
 ## **ENHANCEMENTS**
 ---
 The following enhancements were introduced in version 1.5 of the Daley Dose application:
@@ -61,8 +35,8 @@ To improve application accessibility and usability for users with different acce
 - Added **Dyslexia Mode** with adjusted typography and text spacing to improve readability.
 - Added **Braille Mode** to support navigation and information access through compatible Braille display devices.
 
-**REFERENCE NUMBER**  
-DD-578
+**REFERENCE NUMBERS**  
+DD-578/584/591/601/608/618/626
 
 ---
 
@@ -75,7 +49,33 @@ To centralize alternative medication and medical signature actions within the **
 Moved the **Add Alternative** and **Add Medical Signature** buttons to the **Action** sidebar.
 
 **REFERENCE NUMBERS**  
-DD-551/552
+DD-631/632/633
+
+---
+
+### **ASYNCHRONOUS DATA RETRIEVAL AND PROGRESSIVE LOADING**
+
+**PURPOSE**  
+To improve application responsiveness when accessing Patient Profiles containing extensive medical histories.
+
+**CHANGE**  
+Implemented asynchronous data retrieval and progressive loading to prevent application freezes when accessing Patient Profiles with extensive medical histories.
+
+**REFERENCE NUMBERS**  
+DD-634/635/636
+
+---
+
+### **DATABASE SYNCHRONIZATION FREQUENCY**
+
+**PURPOSE**  
+To ensure patient information is updated more frequently by reducing the interval between database synchronization cycles.
+
+**CHANGE**  
+Increased the database synchronization frequency for patient information from once every 48 hours to once every 180 seconds.
+
+**REFERENCE NUMBERS**  
+DD-638/639
 
 ---
 
@@ -87,8 +87,8 @@ To improve the application's usability on desktop devices and transition toward 
 **CHANGE**  
 Rebuilt the entire interface for desktop use, moving toward a browser-based application.
 
-**REFERENCE NUMBER**  
-DD-541
+**REFERENCE NUMBERS**  
+DD-641/642/643/644
 
 ---
 
@@ -100,8 +100,37 @@ To consolidate document and prescription-related actions within the **Action** s
 **CHANGE**  
 Moved the **Create New**, **Scan**, **Send**, and **Print** buttons to the **Action** sidebar.
 
-**REFERENCE NUMBER**  
-DD-554
+**REFERENCE NUMBERS**  
+DD-646/647/648
+
+---
+
+### **EXPANDED APPLICATION FIELD SELECTION AREAS**
+
+**PURPOSE**  
+To improve field selection usability by making application fields easier to interact with.
+
+**CHANGE**  
+Expanded the interactive selection areas of application fields, allowing users to select them without clicking directly within their boundaries.
+
+**REFERENCE NUMBERS**  
+DD-650/651
+
+---
+
+### **LOCALIZATION AND LANGUAGE CUSTOMIZATION**
+
+**PURPOSE**  
+To expand application localization capabilities and provide users with greater flexibility in language selection and customization.
+
+**CHANGES**
+
+- Implemented database-driven localization to support dynamic language configuration within the application.
+- Expanded the available language options to support additional languages.
+- Added support for **Latin**, **High Valyrian**, **Elvish**, **Dothraki**, and **Binary**.
+
+**REFERENCE NUMBERS**  
+DD-582/587/595/605/612/622/630/640/649/658
 
 ---
 
@@ -117,7 +146,7 @@ To improve access to patient and doctor information while providing a more organ
 - Renamed the **Prescription Pad** area to the **Prescription** tab.
 
 **REFERENCE NUMBERS**  
-DD-546/547/548
+DD-660/661/662
 
 ---
 
@@ -129,8 +158,8 @@ To standardize patient and doctor name entry by using separate first and last na
 **CHANGE**  
 Split the **Patient Name** field into **First Name** and **Last Name** fields to match the **Doctor** field format.
 
-**REFERENCE NUMBER**  
-DD-549
+**REFERENCE NUMBERS**  
+DD-664/665
 
 ---
 
@@ -143,7 +172,7 @@ To streamline prescription creation by providing direct access to medication and
 Moved the **Add Medication** and **Add Note** buttons from the sidebar to the **Prescription** tab for faster prescription creation.
 
 **REFERENCE NUMBERS**  
-DD-543/544
+DD-667/668
 
 ---
 
@@ -156,39 +185,7 @@ To clarify the functions of the Scan and Send actions through more descriptive b
 Renamed **Scan** to **Scan Physical Copy** and **Send** to **Send Online** for clarity.
 
 **REFERENCE NUMBERS**  
-DD-555/556
-
----
-
-### **MISCELLANEOUS ENHANCEMENTS**
----
-
-**DATA SYNCHRONIZATION AND PERFORMANCE**
-
-- **DD-579**  
-  Increased the database synchronization frequency for patient information from once every 48 hours to once every 180 seconds.
-
-- **DD-581**  
-  Implemented asynchronous data retrieval and progressive loading to prevent application freezes when accessing Patient Profiles with extensive medical histories.
-
-<!-- -->
-
-**INTERFACE USABILITY**
-
-- **DD-580**  
-  Expanded the interactive selection areas of application fields, allowing users to select them without clicking directly within their boundaries.
-
-<!-- -->
-
-**LOCALIZATION**
-
-- **DD-582**  
-  Expanded language support through database-driven localization, enabling access to a wider range of languages within the application. Newly supported languages include:
-  - Latin
-  - High Valyrian
-  - Elvish
-  - Dothraki
-  - Binary
+DD-670/671
 
 <!-- -->
 
