@@ -190,9 +190,8 @@ The following bugs and issues were addressed in version 1.5 of the Daley Dose ap
 - **DD-569/DD-570**  
   Resolved an issue where the application automatically changed the Sanguinare Vampiris diagnosis in a Patient Profile to Vampirism three days after profile creation.
 
-- **DD-571/DD-572/DD-573**
-  
-  Removed the following invalid options from the medication browser:
+- **DD-571/DD-572/DD-573**  
+    Removed the following invalid options from the medication browser:
   - Minor Healing Potion
   - Minor Mana Potion
   - Rejuvenation Potion
