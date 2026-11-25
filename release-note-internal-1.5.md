@@ -325,9 +325,7 @@ The following bugs and issues were addressed in version 1.5 of the Daley Dose ap
 <!-- -->
 
 - **DD-577**  
-  Fixed an issue preventing **Patient Profile** saves when the patient had a diagnosis of **Lupus**.
-
-  **NOTE:** It's never Lupus.
+  Fixed an issue preventing **Patient Profile** saves when the patient had a diagnosis of **Lupus** and disabled the error message: **It's never Lupus** from displaying after the unsuccessful save.
 
 <!-- -->
 
