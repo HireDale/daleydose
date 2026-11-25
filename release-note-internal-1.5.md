@@ -26,6 +26,32 @@ For questions or clarification regarding the changes outlined in these release n
 ![Daily Dose user interface](/assets/images/featured-updates-v1-5-2.png)
 
 ---
+
+## **NEW FEATURES**
+---
+The following features were introduced in version 1.5 of the Daley Dose application:
+
+---
+
+### **REDESIGNED APPLICATION INTERFACE**
+
+**PURPOSE**  
+To provide users with a redesigned interface that improves navigation and enables faster access to commonly used tools and patient records.
+
+**CHANGES**
+
+- Introduced the **Information** and **Action** sidebars for easier access to application tools.
+- Added the **Undo**, **Redo**, **Save**, **Clear**, **Help**, **Delete**, **Refresh**, **MIMS**, and **Finalize** buttons.
+- Added the **Drug History** and **Med History** tabs for quick access to patient prescription and medication records.
+
+**REFERENCE NUMBERS**  
+DD-536/537/538/539/540/542/545
+
+<!-- -->
+
+![Daily Dose user interface](/assets/images/featured-updates-v1-5.png)
+
+---
 ## **ENHANCEMENTS**
 ---
 The following enhancements were introduced in version 1.5 of the Daley Dose application:
