@@ -142,6 +142,22 @@ Renamed **Scan** to **Scan Physical Copy** and **Send** to **Send Online** for c
 DD-555/556
 
 ---
+
+### **ACCESSIBILITY MODES**
+
+**PURPOSE**  
+To improve application accessibility and usability for users with different accessibility requirements.
+
+**CHANGES**
+
+- Added **Colorblind Mode** to improve visibility and clarity of application interface elements for users with color vision deficiencies.
+- Added **Dyslexia Mode** with adjusted typography and text spacing to improve readability.
+- Added **Braille Mode** to support navigation and information access through compatible Braille display devices.
+
+**REFERENCE NUMBER**  
+DD-578
+
+---
 ## **MISCELLANEOUS ENHANCEMENTS**
 ---
 
