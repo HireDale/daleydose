@@ -33,8 +33,7 @@ To provide users with a redesigned interface that improves navigation and enable
 - Added the **Undo**, **Redo**, **Save**, **Clear**, **Help**, **Delete**, **Refresh**, **MIMS**, and **Finalize** buttons.
 - Added the **Drug History** and **Med History** tabs for quick access to patient prescription and medication records.
 
-**REFERENCE NUMBERS**
-
+**REFERENCE NUMBERS**  
 DD-536/537/538/539/540/542/545
 
 <!-- -->
@@ -51,16 +50,13 @@ The following enhancements were introduced in version 1.5 of the Daley Dose appl
 
 ### **DESKTOP APPLICATION INTERFACE**
 
-**PURPOSE**
-
+**PURPOSE**  
 To improve the application's usability on desktop devices and transition toward a browser-based application.
 
-**CHANGE**
-
+**CHANGE**  
 Rebuilt the entire interface for desktop use, moving toward a browser-based application.
 
-**REFERENCE NUMBERS**
-
+**REFERENCE NUMBERS**  
 DD-541
 
 ---
