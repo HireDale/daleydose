@@ -19,12 +19,13 @@ For questions or clarification regarding the changes outlined in these release n
 - **Applications Team:** Application functionality, user interface changes, and general application behavior.
 - **Development Team:** Feature implementation and technical changes.
 - **QA Team:** Bug fixes, testing results, and issue verification.
-- **Database Team:** Medication database updates, medical classifications, and prescription validation.
+- **Database Team:** Medication database updates, medical classifications, and prescription validation.  
 
 <!-- -->
 
 ![Daily Dose user interface](/assets/images/featured-updates-v1-5-2.png)
 
+---
 ## **ENHANCEMENTS**
 ---
 The following enhancements were introduced in version 1.5 of the Daley Dose application:
