@@ -163,7 +163,8 @@ The following bugs and issues were addressed in version 1.5 of the Daley Dose ap
 <!-- -->
 
 - **DD-557/558/559/560/561**  
-  Removed the following diseases and conditions from the list of accepted medical conditions:  
+  Removed the following diseases and conditions from the list of accepted medical conditions:
+  
   - Ataxia
   - Black Heart Blight
   - Bone Break Fever
@@ -189,7 +190,8 @@ The following bugs and issues were addressed in version 1.5 of the Daley Dose ap
 - **DD-569/DD-570**  
   Resolved an issue where the application automatically changed the Sanguinare Vampiris diagnosis in a Patient Profile to Vampirism three days after profile creation.
 
-- **DD-571/DD-572/DD-573**  
+- **DD-571/DD-572/DD-573**
+  
   Removed the following invalid options from the medication browser:
   - Minor Healing Potion
   - Minor Mana Potion
@@ -198,8 +200,11 @@ The following bugs and issues were addressed in version 1.5 of the Daley Dose ap
   - Antidote
   - Thawing Potion
 
+<!-- -->
+
 - **DD-574/DD-575/DD-576**  
   Removed the following invalid options from the radiation poisoning treatment browser:
+  
   - RadAway
   - RadX
   - First Aid Spray
