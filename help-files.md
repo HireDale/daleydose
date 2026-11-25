@@ -83,3 +83,5 @@ Explore core topics about the Daley Dose application and its features.
 ---
 - [**Version 1.5 Internal Release Notes**](/daleydose/release-note-internal-1.5)
 - [**Version History**](/daleydose/release-note-version-history)
+
+<div style="height: 60px;"></div>
