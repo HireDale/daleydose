@@ -282,6 +282,7 @@ The following bugs and issues were addressed in version 1.5 of the Daley Dose ap
 
 - **DD-571/DD-572/DD-573**  
   Removed the following invalid options from the medication browser:
+  
   - **Minor Healing Potion**
   - **Minor Mana Potion**
   - **Rejuvenation Potion**
