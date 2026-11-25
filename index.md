@@ -14,7 +14,7 @@ Its user-friendly interface and powerful features enable users to create prescri
 ## **FEATURED CONTENT**
 ---
 - [**Help Files**](/daleydose/help-files)  
-&#x20; Access the Help Files to view user guides and essential information about the application.
+&#x20; Access documentation containing detailed window definitions and step-by-step user guides.
 
 <!--
 - [**Customer Release Notes**](/daleydose/release-note-customer-1.5)  
