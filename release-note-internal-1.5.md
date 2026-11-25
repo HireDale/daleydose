@@ -14,6 +14,8 @@ This document provides an overview of the changes introduced in version 1.5 of t
 
 This release includes a major overhaul of the application's user interface and functionality, alongside updates to the medication database, cloud coverage, and prescription management features. The following release notes summarize the new features, enhancements, and bug fixes delivered in this version.
 
+<!-- -->
+
 ![Daily Dose user interface](/assets/images/featured-updates-v1-5-2.png)
 
 ## **NEW FEATURES**
