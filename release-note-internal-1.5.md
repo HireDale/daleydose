@@ -6,7 +6,9 @@ layout: default
 
 # **DALEY DOSE VERSION 1.5 RELEASE NOTES**
 ---
-**RELEASE DATE**: 2025-09-12
+**RELEASE DATE**: 2026-12-25
+
+---
 
 This document provides an overview of the changes introduced in version 1.5 of the **Daley Dose** application.
 
@@ -45,6 +47,8 @@ DD-536/537/538/539/540/542/545
 ---
 The following enhancements were introduced in version 1.5 of the Daley Dose application:
 
+---
+
 ### Desktop Application Interface
 
 **Purpose**
@@ -59,6 +63,8 @@ Rebuilt the entire interface for desktop use, moving toward a browser-based appl
 
 DD-541
 
+---
+
 ### Prescription Creation
 
 **Purpose**
@@ -72,6 +78,8 @@ Moved the **Add Medication** and **Add Note** buttons from the sidebar to the **
 **Reference Numbers**
 
 DD-543/544
+
+---
 
 ### Patient and Medical History Information
 
@@ -89,6 +97,8 @@ To improve access to patient and doctor information while providing a more organ
 
 DD-546/547/548
 
+---
+
 ### Patient Name Fields
 
 **Purpose**
@@ -102,6 +112,8 @@ Split the **Patient Name** field into **First Name** and **Last Name** fields to
 **Reference Numbers**
 
 DD-549
+
+---
 
 ### Alternative and Medical Signature Actions
 
@@ -117,6 +129,8 @@ Moved the **Add Alternative** and **Add Medical Signature** buttons to the **Act
 
 DD-551/552
 
+---
+
 ### Document and Prescription Actions
 
 **Purpose**
@@ -131,6 +145,8 @@ Moved the **Create New**, **Scan**, **Send**, and **Print** buttons to the **Act
 
 DD-554
 
+---
+
 ### Scan and Send Button Labels
 
 **Purpose**
@@ -144,6 +160,8 @@ Renamed **Scan** to **Scan Physical Copy** and **Send** to **Send Online** for c
 **Reference Numbers**
 
 DD-555/556
+
+---
 
 ## **BUG FIXES**
 ---
@@ -184,6 +202,8 @@ The following bugs and issues were addressed in version 1.5 of the Daley Dose ap
   - Lycanthropy
 
 <!-- -->
+
+---
 
 ## **SEE ALSO**
 ---
