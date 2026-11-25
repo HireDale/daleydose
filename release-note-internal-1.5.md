@@ -331,6 +331,7 @@ The following bugs and issues were addressed in version 1.5 of the Daley Dose ap
 
 <!-- -->
 
+---
 ### **PERFORMANCE ISSUES**
 
 - **DD-562/DD-563**  
