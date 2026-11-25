@@ -6,7 +6,7 @@ layout: default
 
 # **VERSION 1.5 RELEASE NOTES**
 ---
-**RELEASE DATE**: 2026-12-25
+**RELEASE DATE**: 2026-12-1
 
 ---
 
