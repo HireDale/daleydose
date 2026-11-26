@@ -99,13 +99,13 @@ DD-407/408
 To allow administrators to assign user roles and control access to application functions based on assigned roles.
 
 **CHANGES**
-- Added the **Role** field to the **User Profile** window with the following options:
-&#x20;  
-&#x20; - **Administrator**
-&#x20; - **Support**
-&#x20; - **Prescriber**
-&#x20; - **Pharmacist**
-&#x20; - **Spectator**
+- Added the **Role** field to the **User Profile** window with the following options:  
+
+ - **Administrator**
+ - **Support**
+ - **Prescriber**
+ - **Pharmacist**
+ - **Spectator**
 
 <!-- -->
 
@@ -143,7 +143,7 @@ To allow users to add more notes per medication and include additional informati
 
 - Increased the note limit per medication from 3 to 5.
 - Increased the note length limit from 10 words to 25 words.
-- Added the error message **"Note Too Long"** when a note exceeds 25 words.
+- Added the error message **Note Too Long** when a note exceeds 25 words.
 
 **REFERENCE NUMBERS**  
 DD-412/413
@@ -162,12 +162,12 @@ The following bugs and issues were addressed in version 1.3 of the Daley Dose ap
 ---
 
 - **DD-414**  
-  Resolved a known issue where the application incorrectly recognized *Potion of Minor Healing* as the generic name for cough medication.
+  Resolved a known issue where the application incorrectly recognized **Potion of Minor Healing** as the generic name for cough medication.
 
 <!-- -->
 
 - **DD-415**  
-  Resolved a known issue where the application incorrectly recognized *Thoughts and Prayers* as a type of chemotherapy medication.
+  Resolved a known issue where the application incorrectly recognized **Thoughts and Prayers** as a type of chemotherapy medication.
 
 <!-- -->
 
@@ -224,7 +224,7 @@ To allow users to specify an alternative medication when the originally prescrib
 
 - Added the **+ Alt** button, which opens the **Add Alternative** window.
 - Enabled users to enter a different brand or generic name for the selected medication.
-- Configured the application to use the alternative when the pharmacy reports that the original medication is out of stock on the patient's refill date.
+- Configured the application to use the alternative when the pharmacy reports that the original medication is out of stock at the time of the patient's refill.
 - Available on all platforms.
 
 **REFERENCE NUMBERS**  
@@ -239,7 +239,7 @@ To allow administrators to control which medication schedules Prescriber users a
 
 **CHANGES**  
 
-- Added the **Prescription restriction** drop-down list under **Home > Profile** with the following options:  
+- Added the **Prescription Restriction** drop-down list under **Home > Profile** with the following options:  
 
   - **No Restrictions**
   - **Restrict Schedule II**
@@ -250,7 +250,7 @@ To allow administrators to control which medication schedules Prescriber users a
 <!-- -->
 
 - Restricted configuration of this option to Administrators for Prescriber users.
-- Advised users to contact their company's tech support for more information.
+- Advised users to contact their company's technical support team for more information.
 - Available on all platforms.
 
 **REFERENCE NUMBER**  
@@ -301,7 +301,7 @@ To allow users to resume writing a prescription from where they left off in a pr
 **CHANGES**  
 
 - Modified Daley Dose to save the last unfinalized session before the application is closed.
-- Enabled users to view and continue from the last saved instance of a previous prescription, if available, upon starting the application.
+- Enabled users to view and continue from the last saved instance of a previous prescription, if available, when starting the application.
 - Enabled this feature by default, with the option to disable it in the **Options** window.
 - Available on all platforms.
 
@@ -321,13 +321,12 @@ The following bugs and issues were addressed in version 1.1 of the Daley Dose ap
 <!-- -->
 
 - **DD-204**  
-  Resolved an extremely rare bug where the finalized prescription's QR code sent pharmacies a link to the Rickroll YouTube page.
+  Resolved an extremely rare bug where the finalized prescription's QR code sent pharmacies a link to the **Rickroll** YouTube page.
 
 <!-- -->
 
 - **DD-205**  
-  Resolved an extremely rare bug where the finalized prescription's QR code sent pharmacies the entire opening monologue to the **Bee Movie**, causing devices to crash due to the amount of lines and text.
-
+  Resolved an extremely rare bug where the finalized prescription's QR code sent pharmacies the entire opening monologue to the **Bee Movie**, causing devices to crash due to the volume of text.
   
 <!-- -->
 
