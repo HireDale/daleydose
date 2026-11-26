@@ -8,6 +8,9 @@ layout: default
 ---
 ![Daley Dose user interface delete button](/assets/images/daley-dose-home-window-parts-delete.png)
 
+## **INSTRUCTIONS**
+---
+
 To delete an entry in the current prescription, do the following:
 
 1. In the **Action Sidebar**, click **Delete**.  
@@ -27,3 +30,5 @@ To delete an entry in the current prescription, do the following:
 ---
 - [**How to create a new prescription**](/daleydose/prescription-create-new)  
 - [**How to add medications to a prescription**](/daleydose/prescription-add-meds)  
+
+<div style="height: 60px;"></div>
