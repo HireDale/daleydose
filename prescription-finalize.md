@@ -72,7 +72,7 @@ This option is ideal for remote consultations. Patients can walk into an affilia
 
 ### **NOTES**
 ---
-- The application displays the confirmation message “**Finalize and send out this prescription?**” before sending.
+- The application displays the confirmation message **Finalize and send out this prescription?** before sending.
 - Your device must be connected to the internet to use this option.
 
 ## **PROBLEMS YOU MIGHT ENCOUNTER**
