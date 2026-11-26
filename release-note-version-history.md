@@ -148,7 +148,6 @@ To allow users to add more notes per medication and include additional informati
 **REFERENCE NUMBERS**  
 DD-412/413
 
----
 
 ### **BUG FIXES**
 ---
