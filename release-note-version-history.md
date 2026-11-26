@@ -279,7 +279,6 @@ The following bugs and issues were addressed in version 1.2 of the Daley Dose ap
 - **DD-307**  
   Resolved a bug that disabled prescription features on phones older than five years.
 
----
 
 ## **VERSION 1.1**
 ---
