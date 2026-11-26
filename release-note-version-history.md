@@ -198,7 +198,6 @@ The following bugs and issues were addressed in version 1.3 of the Daley Dose ap
   - The application now saves current progress, allowing you to continue building the prescription.  
   - An active internet connection is still required to finalize, send, or print the draft.
 
----
 ## **VERSION 1.2**
 ---
 
