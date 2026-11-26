@@ -327,7 +327,6 @@ The following bugs and issues were addressed in version 1.1 of the Daley Dose ap
   
 <!-- -->
 
----
 ## **SEE ALSO**
 ---
 - [**Version 1.5 Release Notes**](/daleydose/release-note-internal-1.5)
