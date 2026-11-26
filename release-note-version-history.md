@@ -186,84 +186,129 @@ The following bugs and issues were addressed in version 1.3 of the Daley Dose ap
   - An active internet connection is still required to finalize, send, or print the draft.
 
 ---
-## **VERSION 1.2**  
+### **VERSION 1.2**
 ---
 
 **RELEASE DATE**: 2024-06-15
 
 This release introduces the ability to add alternative medications, apply prescription restrictions, and includes critical bug fixes to improve reliability and patient safety.
 
-### **NEW FEATURES**  
+#### **NEW FEATURES**
 ---
 
-- **Add alternative medication**  
-  You can now add an alternative option to a prescribed medication when the original is unavailable at the pharmacy. This ensures patients can receive their medication without returning for a refill. *(All platforms)*  
-  - Added the **+ Alt** button, which opens the **Add Alternative** window.  
-  - You can enter a different brand or generic name for the selected medication.  
-  - The application uses the alternative when the pharmacy reports the original medication is out of stock on a patient’s refill date.  
-  - **REFERENCE NUMBERS:** DD‑1467 / DD‑1468
+##### **ADD ALTERNATIVE MEDICATION**
+
+**PURPOSE**  
+To allow users to specify an alternative medication when the originally prescribed medication is unavailable at the pharmacy, avoiding the need for patients to return for a refill.
+
+**CHANGES**
+- Added the **+ Alt** button, which opens the **Add Alternative** window.
+- Enabled users to enter a different brand or generic name for the selected medication.
+- Configured the application to use the alternative when the pharmacy reports that the original medication is out of stock on the patient's refill date.
+- Available on all platforms.
+
+**REFERENCE NUMBERS**  
+DD-301/302
 
 ---
 
-- **Add prescription restrictions**  
-  Administrators can now set prescription restrictions for Prescriber users under **Home > Profile**. *(All platforms)*  
-  - Added the **Prescription restriction** drop‑down list with the following options:  
-    - No restrictions  
-    - Restrict Schedule II  
-    - Restrict Schedule II and III  
-    - Restrict Schedule II, III, and IV  
-    - Only OTCs  
-  - Only Administrators can set this option for Prescriber users.  
-  - Contact your company’s tech support for more information.  
-  - **REFERENCE NUMBER:** JIRA‑DD‑1471
+##### **ADD PRESCRIPTION RESTRICTIONS**
 
-### **BUG FIXES**  
+**PURPOSE**  
+To allow administrators to control which medication schedules Prescriber users are authorized to prescribe.
+
+**CHANGES**
+- Added the **Prescription restriction** drop-down list under **Home > Profile** with the following options:
+  - No restrictions
+  - Restrict Schedule II
+  - Restrict Schedule II and III
+  - Restrict Schedule II, III, and IV
+  - Only OTCs
+- Restricted configuration of this option to Administrators for Prescriber users.
+- Advised users to contact their company's tech support for more information.
+- Available on all platforms.
+
+**REFERENCE NUMBERS**  
+DD-303
+
+#### **BUG FIXES**
 ---
 
-- **DD‑1402**  
+The following bugs and issues were addressed in version 1.2 of the Daley Dose application:
+
+---
+
+- **DD-304**  
   Resolved an issue where the application incorrectly recognized *Just Be Happy* as an antidepressant medication.
 
-- **DD‑1405**  
+<!-- -->
+
+- **DD-305**  
   Fixed a critical issue where pharmacies received notifications for all patients, causing repeated alerts until devices were turned off.
 
-- **DD‑1406**  
-  Fixed an authentication issue that required users to re‑enter their information every minute.
+<!-- -->
 
-- **DD‑1409**  
+- **DD-306**  
+  Fixed an authentication issue that required users to re-enter their information every minute.
+
+<!-- -->
+
+- **DD-307**  
   Resolved a bug that disabled prescription features on phones older than five years.
 
 ---
 
-## **VERSION 1.1**  
+### **VERSION 1.1**
 ---
 
 **RELEASE DATE**: 2024-03-16
 
 This release introduces the ability to continue writing a prescription from a previous session and includes critical bug fixes to improve stability and prevent unintended QR code behavior.
 
-### **NEW FEATURES**  
+#### **NEW FEATURES**
 ---
 
-- **Continue previous session**  
-  You can now resume writing a prescription from where you left off in a previous session. *(All platforms)*  
-  - Modified Daley Dose to save the last unfinalized session before you closed the application.  
-  - Upon starting the application, you can view and continue from the last saved instance of a previous prescription (if any).  
-  - This feature is enabled by default and can be disabled in the **Options** window.  
-  - **REFERENCE NUMBERS:** DD‑1333 / DD‑1334
+##### **CONTINUE PREVIOUS SESSION**
 
-### **BUG FIXES**  
+**PURPOSE**  
+To allow users to resume writing a prescription from where they left off in a previous session.
+
+**CHANGES**
+- Modified Daley Dose to save the last unfinalized session before the application is closed.
+- Enabled users to view and continue from the last saved instance of a previous prescription, if available, upon starting the application.
+- Enabled this feature by default, with the option to disable it in the **Options** window.
+- Available on all platforms.
+
+**REFERENCE NUMBERS**  
+DD-201/202
+
+#### **BUG FIXES**
 ---
 
-- **DD‑1316**  
+The following bugs and issues were addressed in version 1.1 of the Daley Dose application:
+
+---
+
+- **DD-203**  
   Fixed a minor bug that closed the application when it idled for more than 30 seconds.
 
-- **DD‑1317**  
-  Resolved an extremely rare bug where the finalized prescription’s QR code sent pharmacies a link to the Rickroll YouTube page.
+<!-- -->
 
-- **DD‑1318**  
-  Resolved an extremely rare bug where the finalized prescription’s QR code sent pharmacies the entire opening monologue to the *Bee Movie*, causing devices to crash due to the amount of lines and text.
+- **DD-204**  
+  Resolved an extremely rare bug where the finalized prescription's QR code sent pharmacies a link to the Rickroll YouTube page.
 
+<!-- -->
+
+- **DD-205**  
+  Resolved an extremely rare bug where the finalized prescription's QR code sent pharmacies the entire opening monologue to the *Bee Movie*, causing devices to crash due to the amount of lines and text.
+
+  
+<!-- -->
+
+---
 ## **SEE ALSO**
 ---
-- [**Version 1.5 Release Notes**](/daleydose/release-notes-v1.5)
+- [**Version 1.5 Release Notes**](/daleydose/release-note-internal-1.5)
 - [**Access the Help Files**](/daleydose/help-files)
+
+<div style="height: 60px;"></div>
