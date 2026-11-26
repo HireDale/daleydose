@@ -36,9 +36,11 @@ To help users enter medication details more efficiently by providing generic and
 **CHANGES**
 
 - Added the **Auto-Complete Status** field to the **Add Medication** window with the following indicators:
-  - Green: Auto-complete is enabled.
-  - Red: Auto-complete is disabled.
-  - Purple: Auto-complete is disabled for all accounts by an administrator.
+  
+  - **Green**: Auto-complete is enabled.
+  - **Red**: Auto-complete is disabled.
+  - **Purple**: Auto-complete is disabled for all accounts by an administrator.
+    
 - Enabled this feature by default, with the option to turn it off in the **Options** window.
 - See Figure 1: The **Add Medication** window with the newly added **Auto-Complete Status** field.
 
@@ -57,7 +59,7 @@ DD-401/402/403
 **PURPOSE**  
 To allow users to remove medications and notes directly from the current prescription.
 
-**CHANGES**
+**CHANGES**  
 
 - Added the **Medication Number** and **Note Number** fields.
 - Enabled users to delete the corresponding medication or note by double-clicking its respective field.
@@ -75,7 +77,8 @@ DD-404/405/406
 **PURPOSE**  
 To allow users to convert handwritten prescriptions into digital prescriptions using a webcam or smartphone.
 
-**CHANGES**
+**CHANGES**  
+
 - Added the **Scan** button for desktop and mobile devices.
 - The desktop version requires a connected webcam, while the mobile version always displays the button.
 - Scanned prescriptions cannot be edited.
@@ -96,11 +99,13 @@ To allow administrators to assign user roles and control access to application f
 
 **CHANGES**
 - Added the **Role** field to the **User Profile** window with the following options:
+  
   - Administrator
   - Support
   - Prescriber
   - Pharmacist
   - Spectator
+    
 - Restricted role assignment and editing to users with the **Administrator** or **Support** role.
 - Restricted medication prescribing to users with the **Prescriber** role.
 
@@ -115,10 +120,10 @@ DD-409/410
 **PURPOSE**  
 To allow users to add more medications to a single prescription.
 
-**CHANGES**
-- Increased the medication limit per prescription from 3 to 5.
+**CHANGE**  
+Increased the medication limit per prescription from 3 to 5.
 
-**REFERENCE NUMBERS**  
+**REFERENCE NUMBER**  
 DD-411
 
 ---
@@ -128,7 +133,8 @@ DD-411
 **PURPOSE**  
 To allow users to add more notes per medication and include additional information in each note.
 
-**CHANGES**
+**CHANGES**  
+
 - Increased the note limit per medication from 3 to 5.
 - Increased the note length limit from 10 words to 25 words.
 - Added the error message **"Note Too Long"** when a note exceeds 25 words.
@@ -161,6 +167,7 @@ The following bugs and issues were addressed in version 1.3 of the Daley Dose ap
 
 - **DD-416**  
   Fixed a rare bug where the application sent multiple copies of the same Schedule II narcotics prescription to different pharmacy outlets when the **Send** button was clicked.
+  
   - The application now assigns a serial number to each prescription to prevent duplicates.
 
 <!-- -->
@@ -182,6 +189,7 @@ The following bugs and issues were addressed in version 1.3 of the Daley Dose ap
 
 - **DD-422/423/424**  
   Resolved an issue where the application erased all progress when the internet connection was lost during prescription creation.
+  
   - The application now saves current progress, allowing you to continue building the prescription.
   - An active internet connection is still required to finalize, send, or print the draft.
 
@@ -201,7 +209,8 @@ This release introduces the ability to add alternative medications, apply prescr
 **PURPOSE**  
 To allow users to specify an alternative medication when the originally prescribed medication is unavailable at the pharmacy, avoiding the need for patients to return for a refill.
 
-**CHANGES**
+**CHANGES**  
+
 - Added the **+ Alt** button, which opens the **Add Alternative** window.
 - Enabled users to enter a different brand or generic name for the selected medication.
 - Configured the application to use the alternative when the pharmacy reports that the original medication is out of stock on the patient's refill date.
@@ -217,18 +226,20 @@ DD-301/302
 **PURPOSE**  
 To allow administrators to control which medication schedules Prescriber users are authorized to prescribe.
 
-**CHANGES**
+**CHANGES**  
+
 - Added the **Prescription restriction** drop-down list under **Home > Profile** with the following options:
   - No restrictions
   - Restrict Schedule II
   - Restrict Schedule II and III
   - Restrict Schedule II, III, and IV
   - Only OTCs
+
 - Restricted configuration of this option to Administrators for Prescriber users.
 - Advised users to contact their company's tech support for more information.
 - Available on all platforms.
 
-**REFERENCE NUMBERS**  
+**REFERENCE NUMBER**  
 DD-303
 
 ### **BUG FIXES**
@@ -273,7 +284,8 @@ This release introduces the ability to continue writing a prescription from a pr
 **PURPOSE**  
 To allow users to resume writing a prescription from where they left off in a previous session.
 
-**CHANGES**
+**CHANGES**  
+
 - Modified Daley Dose to save the last unfinalized session before the application is closed.
 - Enabled users to view and continue from the last saved instance of a previous prescription, if available, upon starting the application.
 - Enabled this feature by default, with the option to disable it in the **Options** window.
