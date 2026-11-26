@@ -1,4 +1,3 @@
-
 ---
 title: "Daley Dose - Version 1.5"
 description: ""
