@@ -10,6 +10,9 @@ layout: default
 
 ![Daley Dose user interface screenshot](/assets/images/daley-dose-home-window-parts-add-notes.png) 
 
+## **INSTRUCTIONS**
+---
+
 To manage notes for a medication, follow these steps:
 
 1. On the **Prescription** tab, select the medication you want to add notes to.
@@ -51,11 +54,11 @@ To delete a note directly from the **Prescription** tab, follow these steps:
 - **REASON:** The current prescription has no medication listed.  
 - **SOLUTION:** Ensure that you have at least one medication listed in the current prescription.
 
-### Error message: **"Note Too Long"**  
+### Error message: **Note Too Long**  
 - **REASON:** The current note has over 25 words and cannot be processed.  
 - **SOLUTION:** Ensure that the note stays under 25 words.
 
-### Error message: **"Unable to Contact Servers"**  
+### Error message: **Unable to Contact Servers**  
 - **REASON:** The application cannot process your request because it needs to consult the Daley Database.  
 - **SOLUTION:** Ensure that the internet connection remains consistent throughout the process and try again.
 
