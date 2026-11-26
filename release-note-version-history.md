@@ -15,8 +15,7 @@ Each version lists updates under three categories:
 
 Versions are presented in reverse chronological order, with the most recent release at the top.
 
-
-## **VERSION 1.3**
+# **VERSION 1.3**
 ---
 
 **RELEASE DATE**: 2024-09-15
@@ -26,59 +25,87 @@ This release introduces auto-complete functionality, note and medication deletio
 ![Daily Dose user interface version 1.3](/assets/images/daley-dose-home-window.1.3.png)
 <p style="text-align:center;"><em>The Daley Dose user interface for version 1.3</em></p>
 
-### **NEW FEATURES**
+## **NEW FEATURES**
 ---
 
-- **Auto-complete medication names**  
-  You can now receive generic and brand-name suggestions when entering medication details in the **Add Medication** window.
-  - Added the **Auto-Complete Status** field with the following indicators:
-    - Green: Auto-complete is enabled.
-    - Red: Auto-complete is disabled.
-    - Purple: Auto-complete is disabled for all accounts by an administrator.
-  - This feature is enabled by default and can be turned off in the **Options** window.
-  - See Figure 1: The **Add Medication** window with the newly added **Auto-Complete Status** field.
-  - **REFERENCE NUMBERS:** DD-401/402/403
+### **AUTO-COMPLETE MEDICATION NAMES**
+
+**PURPOSE**  
+To help users enter medication details more efficiently by providing generic and brand-name suggestions.
+
+**CHANGES**
+
+- Added the **Auto-Complete Status** field to the **Add Medication** window with the following indicators:
+  - Green: Auto-complete is enabled.
+  - Red: Auto-complete is disabled.
+  - Purple: Auto-complete is disabled for all accounts by an administrator.
+- Enabled this feature by default, with the option to turn it off in the **Options** window.
+- See Figure 1: The **Add Medication** window with the newly added **Auto-Complete Status** field.
+
+**REFERENCE NUMBERS**  
+DD-401/402/403
+
+<!-- -->
 
 ![Figure 1](/assets/images/daley-dose-add-meds.png)
 <p style="text-align:center;"><em><strong>Figure 1</strong>: The Add Medication window with the newly added <strong>Auto-Complete Status</strong> field</em></p>
 
 ---
 
-- **Delete existing medications and notes**  
-  You can now delete medications and notes directly from the current prescription.
-  - Added the **Medication Number** and **Note Number** fields.
-  - Double-clicking either field deletes the corresponding item.
-  - The application displays the confirmation message **"Are you sure you want to delete this from the prescription?"** before deletion.
-  - Deleted items cannot be restored and must be manually re-entered using the **+ Med** or **+ Note** buttons.
-  - Deletion is not available for transcribed prescriptions.
-  - **REFERENCE NUMBERS:** DD-404/405/406
+### **DELETE EXISTING MEDICATIONS AND NOTES**
+
+**PURPOSE**  
+To allow users to remove medications and notes directly from the current prescription.
+
+**CHANGES**
+
+- Added the **Medication Number** and **Note Number** fields.
+- Enabled users to delete the corresponding medication or note by double-clicking its respective field.
+- Added the confirmation message **"Are you sure you want to delete this from the prescription?"** before deletion.
+- Deleted items cannot be restored and must be manually re-entered using the **+ Med** or **+ Note** buttons.
+- Deletion is not available for transcribed prescriptions.
+
+**REFERENCE NUMBERS**  
+DD-404/405/406
 
 ---
 
-- **Digitize handwritten prescriptions**  
-  You can now scan handwritten notes using your webcam or smartphone to create digital prescriptions.
-  - Added the **Scan** button for desktop and mobile devices.
-  - The desktop version requires a connected webcam, while the mobile version always displays the button.
-  - Scanned prescriptions cannot be edited.
-  - See Figure 2: The **Home** window with the newly added **Scan** button.
-  - **REFERENCE NUMBERS:** DD-407/408
+### **DIGITIZE HANDWRITTEN PRESCRIPTIONS**
+
+**PURPOSE**  
+To allow users to convert handwritten prescriptions into digital prescriptions using a webcam or smartphone.
+
+**CHANGES**
+- Added the **Scan** button for desktop and mobile devices.
+- The desktop version requires a connected webcam, while the mobile version always displays the button.
+- Scanned prescriptions cannot be edited.
+- See Figure 2: The **Home** window with the newly added **Scan** button.
+
+**REFERENCE NUMBERS**  
+DD-407/408
 
 ![Figure 2](/assets/images/daley-dose-scan-button.png)
 <p style="text-align:center;"><em><strong>Figure 2</strong>: The Home window with the newly added <strong>Scan</strong> button</em></p>
 
 ---
 
-- **Additional user profile roles**  
-  You can now assign roles to users in the **User Profile** window.
-  - Added the **Role** field with the following options:
-    - Administrator
-    - Support
-    - Prescriber
-    - Pharmacist
-    - Spectator
-  - Only users with the **Administrator** and **Support** roles can assign or edit roles.
-  - Only users with the **Prescriber** role can prescribe medication.
-  - **REFERENCE NUMBERS:** DD-409/410
+### **ADDITIONAL USER PROFILE ROLES**
+
+**PURPOSE**  
+To allow administrators to assign user roles and control access to application functions based on assigned roles.
+
+**CHANGES**
+- Added the **Role** field to the **User Profile** window with the following options:
+  - Administrator
+  - Support
+  - Prescriber
+  - Pharmacist
+  - Spectator
+- Restricted role assignment and editing to users with the **Administrator** or **Support** role.
+- Restricted medication prescribing to users with the **Prescriber** role.
+
+**REFERENCE NUMBERS**  
+DD-409/410
 
 ### **ENHANCEMENTS**
 ---
