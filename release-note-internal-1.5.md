@@ -261,12 +261,12 @@ The following bugs and issues were addressed in version 1.5 of the Daley Dose ap
 
 <!-- -->
 
-- **DD-564/DD-565**  
+- **DD-564/565**  
   Resolved an intermittent issue preventing the application from updating saved **Patient Profiles** with the latest database information when requests were submitted after office hours.
 
 <!-- -->
 
-- **DD-566/DD-567**  
+- **DD-566/567**  
   Fixed an issue preventing **Patient Profile** creation when a portion of the patient's name was flagged as offensive by the application's international reference sources.
 
 <!-- -->
@@ -276,12 +276,12 @@ The following bugs and issues were addressed in version 1.5 of the Daley Dose ap
 
 <!-- -->
 
-- **DD-569/DD-570**  
+- **DD-569/570**  
   Resolved an issue where the application automatically changed the **Sanguinare Vampiris** diagnosis in a **Patient Profile** to **Vampirism** three days after profile creation.
 
 <!-- -->
 
-- **DD-571/DD-572/DD-573**  
+- **DD-571/572/573**  
   Removed the following invalid options from the medication browser:
   
   - **Minor Healing Potion**
@@ -293,7 +293,7 @@ The following bugs and issues were addressed in version 1.5 of the Daley Dose ap
 
 <!-- -->
 
-- **DD-574/DD-575/DD-576**  
+- **DD-574/575/576**  
   Removed the following invalid options from the radiation poisoning treatment browser:
 
   - **RadAway**
@@ -332,7 +332,7 @@ The following bugs and issues were addressed in version 1.5 of the Daley Dose ap
 ---
 ### **PERFORMANCE ISSUES**
 
-- **DD-562/DD-563**  
+- **DD-562/563**  
   Fixed intermittent stuttering when retrieving and loading information from the database.
 
 <!-- -->
