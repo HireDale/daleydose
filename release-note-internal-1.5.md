@@ -10,17 +10,20 @@ layout: default
 
 ---
 
-This document provides an overview of the changes introduced in version 1.5 of the **Daley Dose** application.
+This document provides an overview of the new features, enhancements, and bug fixes introduced in version 1.5 of the **Daley Dose** application. This release includes a major overhaul of the application's user interface and functionality, along with updates to the medication database and prescription management features.
 
-This release includes a major overhaul of the application's user interface and functionality, alongside updates to the medication database and prescription management features. The following release notes summarize the new features, enhancements, and bug fixes delivered in this version.
+For questions or clarification regarding specific changes, please contact the appropriate team:
 
-For questions or clarification regarding the changes outlined in these release notes, please contact the appropriate team:
-
-- **Applications Team:** Application functionality, user interface changes, and general application behavior.
+- **Applications Team:** Application functionality, user interface changes, and general behavior.
 - **Development Team:** Feature implementation and technical changes.
 - **QA Team:** Bug fixes, testing results, and issue verification.
 - **Database Team:** Medication database updates, medical classifications, and prescription validation.
 
+Changes in this release are organized into three categories:
+
+- **New Features:** Capabilities introduced for the first time.
+- **Enhancements:** Improvements to existing functionality, performance, or usability.
+- **Bug Fixes:** Corrections to defects, errors, or unexpected behavior.
 <!-- -->
 
 ![Daily Dose user interface](/assets/images/featured-updates-v1-5-2.png)
