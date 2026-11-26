@@ -16,7 +16,7 @@ To delete an entry in the current prescription, do the following:
 1. In the **Action Sidebar**, click **Delete**.  
 2. The application enables **Delete Mode** and displays checkboxes next to existing entries in the **Prescription** tab.  
 3. Select the checkboxes for the entries you want to delete, then click **Yes**.  
-4. The application displays the confirmation message **"Are you sure you want to delete this from the prescription?"** before removing the medication from the list.  
+4. The application displays the confirmation message **Are you sure you want to delete this from the prescription?** before removing the medication from the list.  
 5. Click the **Delete** button again to close **Delete Mode**.
 
 ## **NOTES**
