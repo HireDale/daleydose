@@ -65,4 +65,7 @@ To add an alternative option to a medication entry in the current prescription, 
 ---
 - [**How to create a new prescription**](/daleydose/prescription-create-new)
 - [**How to add medications to a prescription**](/daleydose/prescription-add-meds)
-- [**How to delete medications from a prescription**](/daleydose/prescription-delete-meds) 
+- [**How to delete medications from a prescription**](/daleydose/prescription-delete-meds)
+
+<div style="height: 60px;"></div>
+
