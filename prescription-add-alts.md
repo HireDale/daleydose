@@ -51,15 +51,15 @@ To add an alternative option to a medication entry in the current prescription, 
 - **REASON:** The prescription is currently empty, or you have not selected which medication to create an alternative option for.  
 - **SOLUTION:** Ensure that you have selected a medication in the **Home** window and try again.
 
-### Error message when entering alternative medication name: **"Identical Medication"**  
+### Error message when entering alternative medication name: **Identical Medication**  
 - **REASON:** The alternative medication name you entered is the same as the original.  
 - **SOLUTION:** Ensure that the alternative medication you enter is different from the original.
   
-### Error message when entering medication name: **"Medication Unknown"**  
+### Error message when entering medication name: **Medication Unknown**  
 - **REASON:** The medication name you are trying to add does not exist in the Daley Database.  
 - **SOLUTION:** Ensure that the generic or brand name is correct. With the auto-complete feature, make sure at least the first 3 letters of the medication are correct.
 
-### Error message: **"Unable to Contact Servers"**  
+### Error message: **Unable to Contact Servers**  
 - **REASON:** The application cannot process your request because it needs to consult the Daley Database.  
 - **SOLUTION:** Ensure that the internet connection remains consistent throughout the process and try again.
 
