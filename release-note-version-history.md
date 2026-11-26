@@ -44,7 +44,6 @@ To help users enter medication details more efficiently by providing generic and
 <!-- -->
 
 - Enabled this feature by default, with the option to turn it off in the **Options** window.
-- See Figure 1: The **Add Medication** window with the newly added **Auto-Complete Status** field.
 
 **REFERENCE NUMBERS**  
 DD-401/402/403
@@ -52,7 +51,7 @@ DD-401/402/403
 <!-- -->
 
 ![Figure 1](/assets/images/daley-dose-add-meds.png)
-<p style="text-align:center;"><em><strong>Figure 1</strong>: The <strong>Add Medication</strong> window with the newly added <strong>Auto-Complete Status</strong> field.</em></p>
+<p style="text-align:center;"><em>The <strong>Add Medication</strong> window with the newly added <strong>Auto-Complete Status</strong> field.</em></p>
 
 ---
 
