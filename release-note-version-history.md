@@ -39,10 +39,10 @@ To help users enter medication details more efficiently by providing generic and
 **CHANGES**
 
 - Added the **Auto-Complete Status** field to the **Add Medication** window with the following indicators:
-  
-  - **Green**: Auto-complete is enabled.
-  - **Red**: Auto-complete is disabled.
-  - **Purple**: Auto-complete is disabled for all accounts by an administrator.
+&#x20;  
+&#x20; - **Green**: Auto-complete is enabled.
+&#x20; - **Red**: Auto-complete is disabled.
+&#x20; - **Purple**: Auto-complete is disabled for all accounts by an administrator.
 
 <!-- -->
 
@@ -66,7 +66,7 @@ To allow users to remove medications and notes directly from the current prescri
 
 - Added the **Medication Number** and **Note Number** fields.
 - Enabled users to delete the corresponding medication or note by double-clicking its respective field.
-- Added the confirmation message **"Are you sure you want to delete this from the prescription?"** before deletion.
+- Added the confirmation message **Are you sure you want to delete this from the prescription?** before deletion.
 - Deleted items cannot be restored and must be manually re-entered using the **+ Med** or **+ Note** buttons.
 - Deletion is not available for transcribed prescriptions.
 
@@ -100,12 +100,12 @@ To allow administrators to assign user roles and control access to application f
 
 **CHANGES**
 - Added the **Role** field to the **User Profile** window with the following options:
-  
-  - **Administrator**
-  - **Support**
-  - **Prescriber**
-  - **Pharmacist**
-  - **Spectator**
+&#x20;  
+&#x20; - **Administrator**
+&#x20; - **Support**
+&#x20; - **Prescriber**
+&#x20; - **Pharmacist**
+&#x20; - **Spectator**
 
 <!-- -->
 
