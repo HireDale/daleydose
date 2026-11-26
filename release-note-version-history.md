@@ -15,7 +15,7 @@ Each version lists updates under three categories:
 
 Versions are presented in reverse chronological order, with the most recent release at the top.
 
-# **VERSION 1.3**
+## **VERSION 1.3**
 ---
 
 **RELEASE DATE**: 2024-09-15
@@ -25,10 +25,10 @@ This release introduces auto-complete functionality, note and medication deletio
 ![Daily Dose user interface version 1.3](/assets/images/daley-dose-home-window.1.3.png)
 <p style="text-align:center;"><em>The Daley Dose user interface for version 1.3</em></p>
 
-## **NEW FEATURES**
+### **NEW FEATURES**
 ---
 
-### **AUTO-COMPLETE MEDICATION NAMES**
+#### **AUTO-COMPLETE MEDICATION NAMES**
 
 **PURPOSE**  
 To help users enter medication details more efficiently by providing generic and brand-name suggestions.
@@ -52,7 +52,7 @@ DD-401/402/403
 
 ---
 
-### **DELETE EXISTING MEDICATIONS AND NOTES**
+#### **DELETE EXISTING MEDICATIONS AND NOTES**
 
 **PURPOSE**  
 To allow users to remove medications and notes directly from the current prescription.
@@ -70,7 +70,7 @@ DD-404/405/406
 
 ---
 
-### **DIGITIZE HANDWRITTEN PRESCRIPTIONS**
+#### **DIGITIZE HANDWRITTEN PRESCRIPTIONS**
 
 **PURPOSE**  
 To allow users to convert handwritten prescriptions into digital prescriptions using a webcam or smartphone.
@@ -89,7 +89,7 @@ DD-407/408
 
 ---
 
-### **ADDITIONAL USER PROFILE ROLES**
+#### **ADDITIONAL USER PROFILE ROLES**
 
 **PURPOSE**  
 To allow administrators to assign user roles and control access to application functions based on assigned roles.
@@ -110,57 +110,80 @@ DD-409/410
 ### **ENHANCEMENTS**
 ---
 
-- **Increased medication limit per prescription**  
-  You can now add up to 5 medications per prescription (previous limit was 3).
-  - **REFERENCE NUMBER:** DD-411
+#### **INCREASED MEDICATION LIMIT PER PRESCRIPTION**
+
+**PURPOSE**  
+To allow users to add more medications to a single prescription.
+
+**CHANGES**
+- Increased the medication limit per prescription from 3 to 5.
+
+**REFERENCE NUMBERS**  
+DD-411
 
 ---
 
-- **Increased note limit per medication**  
-  You can now add up to 5 notes per medication (previous limit was 3).
-  - Increased the note length limit from 10 words to 25 words.
-  - The application displays the error message **"Note Too Long"** if a note exceeds 25 words.
-  - **REFERENCE NUMBERS:** DD-412/413
+#### **INCREASED NOTE LIMIT PER MEDICATION**
+
+**PURPOSE**  
+To allow users to add more notes per medication and include additional information in each note.
+
+**CHANGES**
+- Increased the note limit per medication from 3 to 5.
+- Increased the note length limit from 10 words to 25 words.
+- Added the error message **"Note Too Long"** when a note exceeds 25 words.
+
+**REFERENCE NUMBERS**  
+DD-412/413
+
+---
 
 ### **BUG FIXES**
+---
+
+The following bugs and issues were addressed in version 1.3 of the Daley Dose application:
+
+---
+
+#### **MEDICAL DATABASE ISSUES**
+
 ---
 
 - **DD-414**  
   Resolved a known issue where the application incorrectly recognized *Potion of Minor Healing* as the generic name for cough medication.
 
----
+<!-- -->
 
 - **DD-415**  
   Resolved a known issue where the application incorrectly recognized *Thoughts and Prayers* as a type of chemotherapy medication.
 
----
+<!-- -->
 
 - **DD-416**  
   Fixed a rare bug where the application sent multiple copies of the same Schedule II narcotics prescription to different pharmacy outlets when the **Send** button was clicked.
   - The application now assigns a serial number to each prescription to prevent duplicates.
 
----
+<!-- -->
 
 - **DD-417**  
   Resolved an issue where the application incorrectly approved prescriptions for Schedule II narcotics for minor pain diagnoses.
 
----
+<!-- -->
 
 - **DD-418**  
   Fixed a common bug that duplicated the **Doctor** title when applying an **MD Signature**.
 
----
+<!-- -->
 
 - **DD-419/420/421**  
   Fixed a rare bug that incorrectly classified Schedule II narcotics as over-the-counter (OTC) medication.
 
----
+<!-- -->
 
 - **DD-422/423/424**  
   Resolved an issue where the application erased all progress when the internet connection was lost during prescription creation.
   - The application now saves current progress, allowing you to continue building the prescription.
   - An active internet connection is still required to finalize, send, or print the draft.
-
 
 ---
 ## **VERSION 1.2**  
