@@ -27,7 +27,7 @@ To create a new prescription, do the following:
 
    - Save, send, or print any ongoing prescriptions before continuing.  
 
-   - If there are items in the current prescription, the application displays the confirmation message **"Are you sure you want to erase the current prescription?"**. The application erases all populated fields when you select **Yes**.  
+   - If there are items in the current prescription, the application displays the confirmation message **Are you sure you want to erase the current prescription?**. The application erases all populated fields when you select **Yes**.  
    
 3. Enter the patient’s information in the **Patient Name** fields.  
 
