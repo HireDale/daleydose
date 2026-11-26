@@ -1,12 +1,13 @@
 ---
-title: "Daley Dose - Version History"
+title: "Daley Dose - Update History"
 description: ""
 layout: default
 ---
 
-# **DALEY DOSE VERSION HISTORY**
+# **DALEY DOSE UPDATE HISTORY**
 ---
-This page provides a complete record of changes to the Daley Dose application, organized by release.  
+This page provides a complete record of updates to the Daley Dose application, organized by release.  
+
 Each version lists updates under three categories:
 
 - **New Features** – Capabilities introduced for the first time in that release.
@@ -26,6 +27,9 @@ This release introduces auto-complete functionality, note and medication deletio
 <p style="text-align:center;"><em>The Daley Dose user interface for version 1.3</em></p>
 
 ### **NEW FEATURES**
+---
+The following features were introduced in version 1.3 of the Daley Dose application:
+
 ---
 
 #### **AUTO-COMPLETE MEDICATION NAMES**
@@ -204,6 +208,9 @@ The following bugs and issues were addressed in version 1.3 of the Daley Dose ap
 This release introduces the ability to add alternative medications, apply prescription restrictions, and includes critical bug fixes to improve reliability and patient safety.
 
 ### **NEW FEATURES**
+---
+The following features were introduced in version 1.2 of the Daley Dose application:
+
 ---
 
 #### **ADD ALTERNATIVE MEDICATION**
