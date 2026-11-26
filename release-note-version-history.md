@@ -172,9 +172,9 @@ The following bugs and issues were addressed in version 1.3 of the Daley Dose ap
 <!-- -->
 
 - **DD-416**  
-  Fixed a rare bug where the application sent multiple copies of the same Schedule II narcotics prescription to different pharmacy outlets when the **Send** button was clicked.  
 
-  The application now assigns a serial number to each prescription to prevent duplicates.
+  - Fixed a rare bug where the application sent multiple copies of the same Schedule II narcotics prescription to different pharmacy outlets when the **Send** button was clicked.  
+  - The application now assigns a serial number to each prescription to prevent duplicates.
 
 <!-- -->
 
@@ -193,11 +193,11 @@ The following bugs and issues were addressed in version 1.3 of the Daley Dose ap
 
 <!-- -->
 
-- **DD-422/423/424**  
-  Resolved an issue where the application erased all progress when the internet connection was lost during prescription creation.  
-  
-  The application now saves current progress, allowing you to continue building the prescription.  
-  An active internet connection is still required to finalize, send, or print the draft.
+- **DD-422/423/424**
+
+  - Resolved an issue where the application erased all progress when the internet connection was lost during prescription creation.  
+  - The application now saves current progress, allowing you to continue building the prescription.  
+  - An active internet connection is still required to finalize, send, or print the draft.
 
 ---
 ## **VERSION 1.2**
