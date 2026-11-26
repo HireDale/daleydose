@@ -13,12 +13,12 @@ Each version lists updates under three categories:
 - **Enhancements** – Improvements to existing functionality, performance, or usability.
 - **Bug Fixes** – Corrections to defects, errors, or unexpected behaviors.
 
-Versions are presented in reverse chronological order, with the most recent release at the top.
-
 ## **VERSION 1.3**
 ---
 
 **RELEASE DATE**: 2024-09-15
+
+---
 
 This release introduces auto-complete functionality, note and medication deletion, handwritten prescription scanning, expanded user roles, increased prescription and note limits, and critical bug fixes.
 
@@ -197,7 +197,9 @@ The following bugs and issues were addressed in version 1.3 of the Daley Dose ap
 ## **VERSION 1.2**
 ---
 
-**RELEASE DATE**: 2024-06-15
+**RELEASE DATE**: 2024-03-20
+
+---
 
 This release introduces the ability to add alternative medications, apply prescription restrictions, and includes critical bug fixes to improve reliability and patient safety.
 
