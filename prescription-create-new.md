@@ -10,6 +10,9 @@ The Daley Dose application's main feature is the ability to create **digital pre
 
 ![Daley Dose user interface create new](/assets/images/daley-dose-home-window-parts-create-new.png)
 
+## **INSTRUCTIONS**
+---
+
 To create a new prescription, do the following:
 
 1. Verify that the **Prescriber** fields are correct in the **Information Sidebar**.  
@@ -56,15 +59,15 @@ To create a new prescription, do the following:
 - **REASON:** Only users with the **Prescriber** role can create prescriptions.  
 - **SOLUTION:** Check whether you have the correct role. To request a role change, contact **Support** or an **Administrator**.
 
-### Error message when entering a patient’s name: **"Patient Unrecognized"**  
+### Error message when entering a patient’s name: **Patient Unrecognized**  
 - **REASON:** The application does not recognize the name entered in the **Patient Name** fields.  
 - **SOLUTION:** Ensure that the patient’s profile on the **Daley Dose** website is up to date. The application requires a matching patient profile before you can prescribe medication.
 
-### Error message when entering a date: **"Unable to Time Travel"**  
+### Error message when entering a date: **Unable to Time Travel**  
 - **REASON:** The entered date is set before today’s date.  
 - **SOLUTION:** Ensure that the entered prescription date or refill date is not set before today’s date.
 
-### Error message while working: **"Unable to Contact Servers"**  
+### Error message while working: **Unable to Contact Servers**  
 - **REASON:** The application cannot process your request because it needs to consult the **Daley Dose** database.  
 - **SOLUTION:** Ensure that the internet connection remains consistent throughout the process, then try again.
 
@@ -76,3 +79,5 @@ To create a new prescription, do the following:
 - [**How to add, edit, and delete medication notes**](/daleydose/prescription-manage)  
 - [**How to digitize a handwritten prescription**](/daleydose/prescription-digitize)
 - [**How to finalize and send out a prescription**](/daleydose/prescription-finalize)
+
+<div style="height: 60px;"></div>
