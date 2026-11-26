@@ -24,7 +24,6 @@ Each version lists updates under three categories:
 This release introduces auto-complete functionality, note and medication deletion, handwritten prescription scanning, expanded user roles, increased prescription and note limits, and critical bug fixes.
 
 ![Daily Dose user interface version 1.3](/assets/images/daley-dose-home-window.1.3.png)
-<p style="text-align:center;"><em>The Daley Dose user interface for version 1.3</em></p>
 
 ### **NEW FEATURES**
 ---
@@ -55,7 +54,6 @@ DD-401/402/403
 <!-- -->
 
 ![Figure 1](/assets/images/daley-dose-add-meds.png)
-<p style="text-align:center;"><em>The <strong>Add Medication</strong> window with the newly added <strong>Auto-Complete Status</strong> field.</em></p>
 
 ---
 
@@ -92,7 +90,6 @@ To allow users to convert handwritten prescriptions into digital prescriptions u
 DD-407/408
 
 ![Figure 2](/assets/images/daley-dose-scan-button.png)
-<p style="text-align:center;"><em> The <strong>Home window</strong> with the newly added <strong>Scan</strong> button.</em></p>
 
 ---
 
@@ -104,12 +101,14 @@ To allow administrators to assign user roles and control access to application f
 **CHANGES**
 - Added the **Role** field to the **User Profile** window with the following options:
   
-  - Administrator
-  - Support
-  - Prescriber
-  - Pharmacist
-  - Spectator
-    
+  - **Administrator**
+  - **Support**
+  - **Prescriber**
+  - **Pharmacist**
+  - **Spectator**
+
+<!-- -->
+
 - Restricted role assignment and editing to users with the **Administrator** or **Support** role.
 - Restricted medication prescribing to users with the **Prescriber** role.
 
@@ -173,9 +172,9 @@ The following bugs and issues were addressed in version 1.3 of the Daley Dose ap
 <!-- -->
 
 - **DD-416**  
-  Fixed a rare bug where the application sent multiple copies of the same Schedule II narcotics prescription to different pharmacy outlets when the **Send** button was clicked.
-  
-  - The application now assigns a serial number to each prescription to prevent duplicates.
+  Fixed a rare bug where the application sent multiple copies of the same Schedule II narcotics prescription to different pharmacy outlets when the **Send** button was clicked.  
+
+  The application now assigns a serial number to each prescription to prevent duplicates.
 
 <!-- -->
 
@@ -195,10 +194,10 @@ The following bugs and issues were addressed in version 1.3 of the Daley Dose ap
 <!-- -->
 
 - **DD-422/423/424**  
-  Resolved an issue where the application erased all progress when the internet connection was lost during prescription creation.
+  Resolved an issue where the application erased all progress when the internet connection was lost during prescription creation.  
   
-  - The application now saves current progress, allowing you to continue building the prescription.
-  - An active internet connection is still required to finalize, send, or print the draft.
+  The application now saves current progress, allowing you to continue building the prescription.  
+  An active internet connection is still required to finalize, send, or print the draft.
 
 ---
 ## **VERSION 1.2**
@@ -240,12 +239,15 @@ To allow administrators to control which medication schedules Prescriber users a
 
 **CHANGES**  
 
-- Added the **Prescription restriction** drop-down list under **Home > Profile** with the following options:
-  - No restrictions
-  - Restrict Schedule II
-  - Restrict Schedule II and III
-  - Restrict Schedule II, III, and IV
-  - Only OTCs
+- Added the **Prescription restriction** drop-down list under **Home > Profile** with the following options:  
+
+  - **No Restrictions**
+  - **Restrict Schedule II**
+  - **Restrict Schedule II and III**
+  - **Restrict Schedule II, III, and IV**
+  - **Only OTCs**
+
+<!-- -->
 
 - Restricted configuration of this option to Administrators for Prescriber users.
 - Advised users to contact their company's tech support for more information.
@@ -324,7 +326,7 @@ The following bugs and issues were addressed in version 1.1 of the Daley Dose ap
 <!-- -->
 
 - **DD-205**  
-  Resolved an extremely rare bug where the finalized prescription's QR code sent pharmacies the entire opening monologue to the *Bee Movie*, causing devices to crash due to the amount of lines and text.
+  Resolved an extremely rare bug where the finalized prescription's QR code sent pharmacies the entire opening monologue to the **Bee Movie**, causing devices to crash due to the amount of lines and text.
 
   
 <!-- -->
