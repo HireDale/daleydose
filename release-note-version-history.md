@@ -118,6 +118,9 @@ DD-409/410
 
 ### **ENHANCEMENTS**
 ---
+The following enhancements were introduced in version 1.3 of the Daley Dose application:
+
+---
 
 #### **INCREASED MEDICATION LIMIT PER PRESCRIPTION**
 
