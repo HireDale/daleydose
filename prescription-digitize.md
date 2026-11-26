@@ -10,6 +10,9 @@ Digitizing a handwritten prescription enables you to create its **digital copy**
 
 ![Scan Button](/assets/images/daley-dose-home-window-parts-scan.png)  
 
+## **INSTRUCTIONS**
+---
+
 To digitize a handwritten prescription, do the following:
 
 1. Click **Scan Physical Copy** on the **Prescription** tab to view the [**Scan** window](/daleydose/window-scan).
@@ -37,7 +40,7 @@ To digitize a handwritten prescription, do the following:
 ## **NOTES**
 ---
    - Generating a new prescription based on a scanned physical copy erases all current work loaded in the **Prescription** tab. Make sure to **Send**, **Save**, or **Print** any ongoing prescriptions before you continue.
-   - If there are items in the current prescription, the application displays the confirmation message **"Are you sure you want to erase the current prescription?"** The application erases all populated fields when you select **Yes**.
+   - If there are items in the current prescription, the application displays the confirmation message **Are you sure you want to erase the current prescription?** The application erases all populated fields when you select **Yes**.
    - The application only displays the **Scan Physical Copy** button in the desktop version when your computer has a confirmed connected webcam.
    - The application always displays the **Scan Physical Copy** button in the mobile app.
    - You cannot edit medications or notes in a scanned prescription.
@@ -47,19 +50,19 @@ To digitize a handwritten prescription, do the following:
 ## **PROBLEMS YOU MIGHT ENCOUNTER**
 ---
 
-### Error message on the **Scan Physical Copy** button: **"Unable to Access Camera"**
+### Error message on the **Scan Physical Copy** button: **Unable to Access Camera**
 - **REASON:** The phone, desktop, or laptop camera is not connected, broken, or does not exist.
 - **SOLUTION:** Ensure that the camera is connected to the device before you try again.
 
-### Error message during transfer: **"Unable to Detect Prescription"**
+### Error message during transfer: **Unable to Detect Prescription**
 - **REASON:** The application cannot detect a handwritten prescription note.
 - **SOLUTION:** Ensure that the prescription is visible on the camera for the full duration of the transfer.
 
-### Error message during transfer: **"Unable to Decipher Hieroglyphics"**
+### Error message during transfer: **Unable to Decipher Hieroglyphics**
 - **REASON:** The Daley Dose Scanning Algorithm cannot understand the prescriber’s handwriting due to poor handwriting or camera quality.
 - **SOLUTION:** Try using a different camera or device. If the problem persists with the same note, manual input is required.
 
-### Error message: **"Unable to Contact Servers"**
+### Error message: **Unable to Contact Servers**
 - **REASON:** The application cannot process your request because it needs to consult the Daley Dose Database.
 - **SOLUTION:** Ensure that the internet connection remains consistent throughout the process and try again.
 
@@ -67,3 +70,5 @@ To digitize a handwritten prescription, do the following:
 ---
 - [**How to create a new prescription**](/daleydose/prescription-create-new)  
 - [**How to finalize and send out a prescription**](/daleydose/prescription-finalize)
+
+<div style="height: 60px;"></div>
