@@ -1,3 +1,4 @@
+
 ---
 title: "Daley Dose - Version 1.5"
 description: ""
@@ -6,24 +7,24 @@ layout: default
 
 # **VERSION 1.5 RELEASE NOTES**
 ---
-**RELEASE DATE**: 2026-12-1
+**RELEASE DATE**: 2026-12-01
 
 ---
 
 This document provides an overview of the changes introduced in version 1.5 of the **Daley Dose** application.
 
-This release includes a major overhaul of the application's user interface and functionality, alongside updates to the medication database, cloud coverage, and prescription management features. The following release notes summarize the new features, enhancements, and bug fixes delivered in this version.
+This release includes a major overhaul of the application's user interface and functionality, alongside updates to the medication database and prescription management features. The following release notes summarize the new features, enhancements, and bug fixes delivered in this version.
 
 For questions or clarification regarding the changes outlined in these release notes, please contact the appropriate team:
 
 - **Applications Team:** Application functionality, user interface changes, and general application behavior.
 - **Development Team:** Feature implementation and technical changes.
 - **QA Team:** Bug fixes, testing results, and issue verification.
-- **Database Team:** Medication database updates, medical classifications, and prescription validation.  
+- **Database Team:** Medication database updates, medical classifications, and prescription validation.
 
 <!-- -->
 
-![Daily Dose user interface](/assets/images/featured-updates-v1-5-2.png)  
+![Daily Dose user interface](/assets/images/featured-updates-v1-5-2.png)
 
 ## **NEW FEATURES**
 ---
@@ -230,17 +231,17 @@ The following bugs and issues were addressed in version 1.5 of the Daley Dose ap
 
 ---
 - **DD-529**  
-  Removed incorrect recommendation of **Garlic Bread** as a prophylactic antibiotic.
+  Removed the incorrect recommendation of **Garlic Bread** as a prophylactic antibiotic.
 
 <!-- -->
 
 - **DD-530**  
-  Corrected classification of **Coffee** as an FDA-approved cardiac stimulant.
+  Corrected the classification of **Coffee** as an FDA-approved cardiac stimulant.
 
 <!-- -->
 
 - **DD-533**  
-  - Removed invalid prescription option for **Narcan** as a cure for **World of Warcraft** addiction.
+  - Removed the invalid prescription option for **Narcan** as a cure for **World of Warcraft** addiction.
   - Removed **World of Warcraft** from the available **Addiction Category** options.
 
 <!-- -->
@@ -277,13 +278,13 @@ The following bugs and issues were addressed in version 1.5 of the Daley Dose ap
 <!-- -->
 
 - **DD-569/570**  
-  Resolved an issue where the application automatically changed the **Sanguinare Vampiris** diagnosis in a **Patient Profile** to **Vampirism** three days after profile creation.
+  Resolved an issue in which the application automatically changed the **Sanguinare Vampiris** diagnosis in a **Patient Profile** to **Vampirism** three days after profile creation.
 
 <!-- -->
 
 - **DD-571/572/573**  
   Removed the following invalid options from the medication browser:
-  
+
   - **Minor Healing Potion**
   - **Minor Mana Potion**
   - **Rejuvenation Potion**
@@ -325,7 +326,7 @@ The following bugs and issues were addressed in version 1.5 of the Daley Dose ap
 <!-- -->
 
 - **DD-577**  
-  Fixed an issue preventing **Patient Profile** saves when the patient had a diagnosis of **Lupus** and disabled the error message: **It's never Lupus** from displaying after the unsuccessful save.
+  Fixed an issue preventing **Patient Profile** saves when the patient had a diagnosis of **Lupus**. Also corrected the error handling that prevented the error message **It's never Lupus** from displaying after an unsuccessful save.
 
 <!-- -->
 
