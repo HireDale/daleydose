@@ -89,7 +89,7 @@ This option is ideal for remote consultations. Patients can walk into an affilia
 - **REASON 2:** The application is still checking the Daley Dose Database for confirmation.
 - **SOLUTION 2:** Wait a few minutes and try again. The application must confirm the patient name, diagnosis, and prescribed medications before finalizing.
 
-### Error message: **"Unable to Contact Servers"**
+### Error message: **Unable to Contact Servers**
 - **REASON:** The application cannot process your request because it needs to consult the Daley Dose Database.
 - **SOLUTION:** Ensure that the internet connection remains consistent throughout the process and try again.
 
