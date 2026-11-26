@@ -186,17 +186,17 @@ The following bugs and issues were addressed in version 1.3 of the Daley Dose ap
   - An active internet connection is still required to finalize, send, or print the draft.
 
 ---
-### **VERSION 1.2**
+## **VERSION 1.2**
 ---
 
 **RELEASE DATE**: 2024-06-15
 
 This release introduces the ability to add alternative medications, apply prescription restrictions, and includes critical bug fixes to improve reliability and patient safety.
 
-#### **NEW FEATURES**
+### **NEW FEATURES**
 ---
 
-##### **ADD ALTERNATIVE MEDICATION**
+#### **ADD ALTERNATIVE MEDICATION**
 
 **PURPOSE**  
 To allow users to specify an alternative medication when the originally prescribed medication is unavailable at the pharmacy, avoiding the need for patients to return for a refill.
@@ -212,7 +212,7 @@ DD-301/302
 
 ---
 
-##### **ADD PRESCRIPTION RESTRICTIONS**
+#### **ADD PRESCRIPTION RESTRICTIONS**
 
 **PURPOSE**  
 To allow administrators to control which medication schedules Prescriber users are authorized to prescribe.
@@ -231,7 +231,7 @@ To allow administrators to control which medication schedules Prescriber users a
 **REFERENCE NUMBERS**  
 DD-303
 
-#### **BUG FIXES**
+### **BUG FIXES**
 ---
 
 The following bugs and issues were addressed in version 1.2 of the Daley Dose application:
@@ -258,17 +258,17 @@ The following bugs and issues were addressed in version 1.2 of the Daley Dose ap
 
 ---
 
-### **VERSION 1.1**
+## **VERSION 1.1**
 ---
 
 **RELEASE DATE**: 2024-03-16
 
 This release introduces the ability to continue writing a prescription from a previous session and includes critical bug fixes to improve stability and prevent unintended QR code behavior.
 
-#### **NEW FEATURES**
+### **NEW FEATURES**
 ---
 
-##### **CONTINUE PREVIOUS SESSION**
+#### **CONTINUE PREVIOUS SESSION**
 
 **PURPOSE**  
 To allow users to resume writing a prescription from where they left off in a previous session.
@@ -282,7 +282,7 @@ To allow users to resume writing a prescription from where they left off in a pr
 **REFERENCE NUMBERS**  
 DD-201/202
 
-#### **BUG FIXES**
+### **BUG FIXES**
 ---
 
 The following bugs and issues were addressed in version 1.1 of the Daley Dose application:
