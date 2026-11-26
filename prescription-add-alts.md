@@ -15,6 +15,8 @@ Adding **alternative options** to medication entries provides a fallback when th
 ### **Note: Adding alternatives to medication is completely optional.**
 ---
 
+## **INSTRUCTIONS**
+
 To add an alternative option to a medication entry in the current prescription, do the following:
 
 1. Select the medication entry you want to create an alternative for, then click the **Add Alternative** button (**Alt+**) on the **Prescription** tab to view the [**Add Alternative** window](/daleydose/window-add-alternative).
