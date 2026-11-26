@@ -48,7 +48,6 @@ DD-536/537/538/539/540/542/545
 <!-- -->
 
 ![Daily Dose user interface](/assets/images/featured-updates-v1-5.png)
-<p style="text-align:center;"><em>The Daley Dose user interface for version 1.5</em></p>
 
 ## **ENHANCEMENTS**
 ---
