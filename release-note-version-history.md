@@ -40,7 +40,9 @@ To help users enter medication details more efficiently by providing generic and
   - **Green**: Auto-complete is enabled.
   - **Red**: Auto-complete is disabled.
   - **Purple**: Auto-complete is disabled for all accounts by an administrator.
-    
+
+<!-- -->
+
 - Enabled this feature by default, with the option to turn it off in the **Options** window.
 - See Figure 1: The **Add Medication** window with the newly added **Auto-Complete Status** field.
 
@@ -50,7 +52,7 @@ DD-401/402/403
 <!-- -->
 
 ![Figure 1](/assets/images/daley-dose-add-meds.png)
-<p style="text-align:center;"><em><strong>Figure 1</strong>: The Add Medication window with the newly added <strong>Auto-Complete Status</strong> field</em></p>
+<p style="text-align:center;"><em><strong>Figure 1</strong>: The <strong>Add Medication</strong> window with the newly added <strong>Auto-Complete Status</strong> field.</em></p>
 
 ---
 
@@ -82,13 +84,12 @@ To allow users to convert handwritten prescriptions into digital prescriptions u
 - Added the **Scan** button for desktop and mobile devices.
 - The desktop version requires a connected webcam, while the mobile version always displays the button.
 - Scanned prescriptions cannot be edited.
-- See Figure 2: The **Home** window with the newly added **Scan** button.
 
 **REFERENCE NUMBERS**  
 DD-407/408
 
 ![Figure 2](/assets/images/daley-dose-scan-button.png)
-<p style="text-align:center;"><em><strong>Figure 2</strong>: The Home window with the newly added <strong>Scan</strong> button</em></p>
+<p style="text-align:center;"><em> The <strong>Home window</strong> with the newly added <strong>Scan</strong> button.</em></p>
 
 ---
 
