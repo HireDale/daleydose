@@ -12,6 +12,9 @@ The **Drug History** tab displays previously prescribed medication and potential
 
 ![Daley Dose user interface screenshot](/assets/images/daley-dose-home-window-parts-add-meds.png)
 
+## **INSTRUCTIONS**
+---
+
 To add medication to the current prescription, do the following:
 
 1. Click the **Add Medication** button (green **Plus**) on the **Prescription** tab to view the [**Add Medication** window](/daleydose/window-add-medication).
@@ -61,3 +64,5 @@ To add medication to the current prescription, do the following:
 - [**How to delete medications from a prescription**](/daleydose/prescription-delete-meds) 
 - [**How to add, edit, and delete medication notes**](/daleydose/prescription-manage)  
 - [**How to finalize and send out a prescription**](/daleydose/prescription-finalize)
+
+<div style="height: 60px;"></div>
