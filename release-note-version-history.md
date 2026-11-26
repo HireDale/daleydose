@@ -38,11 +38,11 @@ To help users enter medication details more efficiently by providing generic and
 
 **CHANGES**
 
-- Added the **Auto-Complete Status** field to the **Add Medication** window with the following indicators:
-&#x20;  
-&#x20; - **Green**: Auto-complete is enabled.
-&#x20; - **Red**: Auto-complete is disabled.
-&#x20; - **Purple**: Auto-complete is disabled for all accounts by an administrator.
+- Added the **Auto-Complete Status** field to the **Add Medication** window with the following indicators:  
+
+  - **Green**: Auto-complete is enabled.
+  - **Red**: Auto-complete is disabled.
+  - **Purple**: Auto-complete is disabled for all accounts by an administrator.
 
 <!-- -->
 
