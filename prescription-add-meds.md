@@ -46,7 +46,7 @@ To add medication to the current prescription, do the following:
 - **REASON:** The application disables the **Add Medication** button when the **Patient Name** fields are empty, the device has no internet connection, the current prescription already has 5 medications, or the user does not have a **Prescriber** role.  
 - **SOLUTION:** Check whether any of the above conditions apply, and then try again.
 
-### Error message when entering medication name: **"Medication Incompatible with Patient"**  
+### Error message when entering medication name: **Medication Incompatible with Patient**  
 - **REASON:** The patient’s profile does not match the medication you are trying to prescribe.  
 - **SOLUTION:** Ensure that the patient’s profile on the Daley Dose website is up to date. The application requires appropriate diagnoses to authorize the prescription of specific medications.
 
