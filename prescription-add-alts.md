@@ -11,9 +11,7 @@ Adding **alternative options** to medication entries provides a fallback when th
 
 ![Daley Dose Add Alternative](/assets/images/daley-dose-home-window-parts-alt.png)
 
----
 ### **Note: Adding alternatives to medication is completely optional.**
----
 
 ## **INSTRUCTIONS**
 
