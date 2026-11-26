@@ -50,7 +50,7 @@ To add medication to the current prescription, do the following:
 - **REASON:** The patient’s profile does not match the medication you are trying to prescribe.  
 - **SOLUTION:** Ensure that the patient’s profile on the Daley Dose website is up to date. The application requires appropriate diagnoses to authorize the prescription of specific medications.
 
-### Error message when entering medication name: **"Medication Unknown"**  
+### Error message when entering medication name: **Medication Unknown**  
 - **REASON:** The medication name you are trying to add does not exist in the Daley Database.  
 - **SOLUTION:** Ensure that the generic or brand name is correct. With the auto-complete feature, make sure at least the first 3 letters of the medication are correct.
 
