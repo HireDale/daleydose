@@ -54,7 +54,7 @@ To add medication to the current prescription, do the following:
 - **REASON:** The medication name you are trying to add does not exist in the Daley Database.  
 - **SOLUTION:** Ensure that the generic or brand name is correct. With the auto-complete feature, make sure at least the first 3 letters of the medication are correct.
 
-### Error message: **"Unable to Contact Servers"**  
+### Error message: **Unable to Contact Servers**  
 - **REASON:** The application cannot process your request because it needs to consult the Daley Database.  
 - **SOLUTION:** Ensure that the internet connection remains consistent throughout the process and try again.
 
