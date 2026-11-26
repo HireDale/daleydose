@@ -24,6 +24,7 @@ Changes in this release are organized into three categories:
 - **New Features:** Capabilities introduced for the first time.
 - **Enhancements:** Improvements to existing functionality, performance, or usability.
 - **Bug Fixes:** Corrections to defects, errors, or unexpected behavior.
+
 <!-- -->
 
 ![Daily Dose user interface](/assets/images/featured-updates-v1-5-2.png)
