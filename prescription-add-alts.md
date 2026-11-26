@@ -14,6 +14,7 @@ Adding **alternative options** to medication entries provides a fallback when th
 ### **Note: Adding alternatives to medication is completely optional.**
 
 ## **INSTRUCTIONS**
+---
 
 To add an alternative option to a medication entry in the current prescription, do the following:
 
