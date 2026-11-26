@@ -338,8 +338,6 @@ The following bugs and issues were addressed in version 1.5 of the Daley Dose ap
 
 <!-- -->
 
----
-
 ## **SEE ALSO**
 ---
 - [**Access the Help Files**](/daleydose/help-files)
