@@ -17,11 +17,10 @@ You can access the help files from within the application by clicking the **Help
 To begin, select a topic. These topics group related information together for easy navigation.
 
 ## **WINDOW DEFINITIONS**
-View available windows and their functions in the application.
+View available windows and their functions in the application.  
 
 - [**Home Window**](/daleydose/window-home)  
-  Starting point for creating and managing patient prescriptions.
-
+  Starting point for creating and managing patient prescriptions.  
   Here, you can view and access the three core tabs used to build, review, and finalize prescriptions.
 
   - [**Prescription Tab**](/daleydose/window-prescription-tab)  
@@ -31,7 +30,7 @@ View available windows and their functions in the application.
     View the patient’s digitized prescription history from the past 20 years.
 
   - [**Med History Tab**](/daleydose/window-med-history-tab)  
-    View the patient’s digitized medical conditions and treatments from the past 20 years.
+    View the patient’s digitized medical conditions and treatments from the past 20 years.  
 
 - [**Add Medication Window**](/daleydose/window-add-medication)  
   Add, edit, or remove medications from the current prescription.
