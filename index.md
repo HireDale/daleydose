@@ -27,7 +27,7 @@ See the latest updates to existing Daley Dose content:
 
 ## **GETTING STARTED**
 ---
-Don't know where to begin? Check out our tutorial sections:
+Don't know where to begin? Check out our tutorials and references:
 
 <!--
 - [**Access the Help Files**](/daleydose/help-files)  
