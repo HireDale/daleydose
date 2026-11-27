@@ -13,10 +13,13 @@ Its user-friendly interface and powerful features enable users to create prescri
 
 ## **WHAT'S NEW**
 ---
+See what's new with the Daley Dose application.
 
 [![Release Note Banner](/assets/images/release-note-banner.png)](/daleydose/release-note-internal-1.5)
 
 ## **RECENTLY UPDATED**
+---
+See the latest updates to existing Daley Dose content.
 
 [![Help Files Banner](/assets/images/release-note-banner-2.png)](/daleydose/help-files)
 
