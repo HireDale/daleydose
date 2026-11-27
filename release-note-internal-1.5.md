@@ -44,7 +44,8 @@ To provide users with a redesigned interface that improves navigation and enable
 
 - Introduced the **Information** and **Action** sidebars for easier access to application tools.  
 
-- Added the **Undo**, **Redo**, **Save**, **Clear**, **Help**, **Delete**, **Refresh**, **MIMS**, and **Finalize** buttons.
+- Added the **Undo**, **Redo**, **Save**, **Clear**, **Help**, **Delete**, **Refresh**, **MIMS**, and **Finalize** buttons.  
+
   - **Undo:** Click to undo the last action performed in the current prescription.
   - **Redo:** Click to redo the last action undone in the current prescription.
   - **Save:** Click to save the current prescription. The application automatically displays the saved prescription the next time you log in. You can view a list of saved prescriptions using the **Open** button.
@@ -54,8 +55,6 @@ To provide users with a redesigned interface that improves navigation and enable
   - **Refresh:** Click to refresh the contents of the current session to match any saved instances or records in the database. This includes the contents of the patient's **Drug History** and **Medical History** tabs.
   - **MIMS:** Click to access an in-app version of the latest **Monthly Index of Medical Specialities (MIMS)** digital handbook, the most common drug reference for healthcare professionals. The **MIMS** version is updated along with every **Daley Dose** version.
   - **Finalize:** Click to finalize the current prescription. When you select this button, the application locks the contents of the current prescription and enables the **Add Medical Signature**, **Print Copy**, and **Send Online** buttons.  
-  
-&nbsp;
 
 - Added the **Drug History** and **Med History** tabs for quick access to patient prescription and medication records.  
 
