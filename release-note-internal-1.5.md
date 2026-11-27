@@ -61,6 +61,7 @@ To provide users with a redesigned interface that improves navigation and enable
 
   - **Drug History:** Displays the patient's digitized prescription history from the past 20 years.
   - **Med History:** Displays the patient's digitized medical conditions and treatments from the past 20 years.
+<br>
 
 - For more information about the redesigned application interface, refer to the [**Daley Dose Help Files**](/daleydose/help-files).
 
