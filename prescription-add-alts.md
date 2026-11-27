@@ -67,4 +67,3 @@ To add an alternative option to a medication entry in the current prescription, 
 - [**How to delete medications from a prescription**](/daleydose/prescription-delete-meds)
 
 <div style="height: 60px;"></div>
-
