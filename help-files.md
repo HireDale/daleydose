@@ -17,6 +17,7 @@ You can access the help files from within the application by clicking the **Help
 To begin, select a topic. These topics group related information together for easy navigation.
 
 ## **WINDOW DEFINITIONS**
+---
 View available windows and their functions in the application.  
 
 - [**Home Window**](/daleydose/window-home)  
@@ -45,6 +46,7 @@ View available windows and their functions in the application.
   Scan a handwritten prescription and convert it to a digital version.
   
 ## **QUICK REFERENCE GUIDES**
+---
 Find step-by-step instructions for setting up the application and completing common tasks.
 
 ### **SYSTEM SETUP GUIDES**
@@ -67,6 +69,7 @@ Learn how to perform tasks in the application.
 - [**Managing medication notes**](/daleydose/prescription-manage)
 
 ## **APPLICATION FUNDAMENTALS**
+---
 Explore core topics about the Daley Dose application and its features.
 
 - [**About Daley Dose**](/daleydose/about-daley-dose)  
