@@ -20,16 +20,19 @@ To view this window: **Prescription** tab > **Scan Physical Copy**
 
 ## **INTERFACE DETAILS**
 ---
+The elements in this window are divided into two categories: **Fields** and **Buttons**.
+
+### **FIELDS**
+The following table describes the fields in the **Scan** window:
 
 ![Scan Window](/assets/images/daley-dose-scan-window.png)  
-
-The following table describes the fields in the **Scan** window:
 
 | # | **FIELD** | **DEFINITION** |
 |---|-----------|----------------|
 | 1 | **CAMERA** | Displays the camera’s current status.<br><br>**Status:**<br>• **Green:** Camera ready.<br>• **Red:** Camera has poor quality or not detected. |
 | 2 | **INTERNET** | Displays the internet connection’s current status.<br><br>**Status:**<br>• **Green:** Internet connection available.<br>• **Red:** No or poor internet connection. |
 
+### **BUTTONS**
 The following table describes the buttons in the **Scan** window:
 
 | # | **BUTTON** | **DEFINITION** |
