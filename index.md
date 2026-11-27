@@ -53,7 +53,7 @@ Its user-friendly interface and powerful features enable users to create prescri
   Understand how prescription restrictions determine which medications a Prescriber can order in Daley Dose. Learn how Administrators apply limits, view current restrictions, and ensure prescriptions comply with hospital guidelines.
 
 <div id="daley-dose-video"
-    style="position:relative; width:100%; max-width:1000px; margin:0 auto; aspect-ratio:16/9; cursor:pointer;">
+   style="position:relative; width:100%; max-width:1000px; margin:0 auto; aspect-ratio:16/9; cursor:pointer;">
 
   <img
     src="https://raw.githubusercontent.com/HireDale/daleydose/main/assets/images/daley-dose-introduction-thumbnail.png"
@@ -65,7 +65,7 @@ Its user-friendly interface and powerful features enable users to create prescri
     type="button"
     aria-label="Play Daley Dose introduction video"
     style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); background:rgba(0,0,0,0.75); color:white; border:0; border-radius:50%; width:76px; height:76px; font-size:32px; cursor:pointer;"
-    onclick="document.getElementById('daley-dose-video').innerHTML='<iframe src=&quot;https://www.youtube.com/embed/cMtAAYXDdLo?autoplay=1&quot; title=&quot;Daley Dose intro&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen style=&quot;position:absolute; top:0; left:0; width:100%; height:100%;&quot;></iframe>';"
+    onclick="document.getElementById('daley-dose-video').innerHTML='<iframe src=&quot;https://www.youtube.com/embed/Y4S4pu3bQfE?autoplay=1&quot; title=&quot;Daley Dose intro&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen style=&quot;position:absolute; top:0; left:0; width:100%; height:100%;&quot;></iframe>';"
   >▶</button>
 
 </div>
