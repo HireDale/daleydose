@@ -29,16 +29,14 @@ Its user-friendly interface and powerful features enable users to create prescri
 - [**Version 1.5 Release Notes**](/daleydose/release-note-internal-1.5)  
 &#x20;   Explore new features, enhancements, and bug fixes from the latest update.
 
-<!--
-- [**Version History**](/daleydose/release-note-version-history)  
-&#x20;   View a complete archive of past releases, including feature additions, changes, and resolved issues.
--->
+- [**Update History**](/daleydose/release-note-version-history)  
+&#x20;   Access documentation for older versions of the Daley Dose application.
+
+- [**Getting Started: How to Create a Prescription**](/daleydose/prescription-create-new)  
+&#x20;   Browse a step-by-step user guide on how to create prescriptions using the Daley Dose application.
 
 - [**Home Window**](/daleydose/window-home)  
 &#x20;   Learn about the fields and buttons of the newly revamped version 1.5 **Home** window.
-
-- [**Getting Started**](/daleydose/prescription-create-new)  
-&#x20;   Browse a step-by-step user guide on how to create prescriptions using the Daley Dose application.
 
 [![Daley Dose user interface screenshot](/assets/images/daley-dose-home-window-clean.png)](/daleydose/window-home)
 
