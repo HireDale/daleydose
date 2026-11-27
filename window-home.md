@@ -95,9 +95,9 @@ The following table describes the three categories available in the **Action Sid
 
 | # | **CATEGORIES** | **DEFINITION** |
 |---|-------------|----------------|
-| 1 | **UTILITY** | Displays buttons that allow you to modify the contents of the current prescription. Also provides access to tools that assist with prescription writing, such as the latest MIMS drug manual and the application's help files. |
-| 2 | **MAIN** | Displays buttons that allow you to create new prescriptions, open existing drafts, scan and digitize physical prescriptions, and finalize the current work in preparation for generation. |
-| 3 | **GENERATION** | Displays buttons that allow you to generate and print prescriptions, as well as send them to the database. |
+| 1 | **UTILITY** | Displays buttons that enable you to modify the contents of the current prescription. Also provides access to tools that assist with prescription writing, such as the latest MIMS drug manual and the application's help files. |
+| 2 | **MAIN** | Displays buttons that enable you to create new prescriptions, open existing drafts, scan and digitize physical prescriptions, and finalize the current work in preparation for generation. |
+| 3 | **GENERATION** | Displays buttons that enable you to generate and print prescriptions, as well as send them to the database. |
 
 ### **UTILITY**
 ---
@@ -114,9 +114,9 @@ The following table describes the **Utility** buttons in the **Action Sidebar**:
 | 3 | **REDO** | Click to redo the last action undone in the current prescription. |
 | 4 | **CLEAR** | Click to clear the current prescription entry’s contents. |
 | 5 | **HELP** | Click to access an in-app version of the latest **Daley Dose Help Files**.<br><br>**Notes:**<br>• The help files automatically open the entry about the current window.<br>• You can also view the latest version of the help files on the **Daley Dose** website. |
-| 6 | **DELETE** | Click to open or close **Delete Mode**, which allows you to mark existing entries in the prescription for deletion.<br><br>**Note:** The application displays the confirmation message “**Are you sure you want to delete these from the prescription?**” before removing the selected entries from the list. |
+| 6 | **DELETE** | Click to open or close **Delete Mode**, which enables you to mark existing entries in the prescription for deletion.<br><br>**Note:** The application displays the confirmation message “**Are you sure you want to delete these from the prescription?**” before removing the selected entries from the list. |
 | 7 | **REFRESH** | Click to refresh the contents of the current session to match any saved instances or records in the database. This includes the contents of the patient's **Drug History** and **Medical History** tabs. |
-| 8 | **MIMS** | Click to access an in-app version of the latest *Monthly Index of Medical Specialities (MIMS)* digital handbook, the most common drug reference for healthcare professionals.<br><br>**Note:** The **MIMS** version is updated along with every **Daley Dose** version. |
+| 8 | **MIMS** | Click to access an in-app version of the latest **Monthly Index of Medical Specialities (MIMS)** digital handbook, the most common drug reference for healthcare professionals.<br><br>**Note:** The **MIMS** version is updated along with every **Daley Dose** version. |
 | 9 | **ALT+** | Click to add an alternative option for the pharmacy if the prescribed medication is not available.<br><br>When you select this button, the application opens the [**Add Alternative** window](/daleydose/window-add-alternative).<br><br>**Note:** The application auto-completes generic and brand name suggestions for each medication. You can turn off this feature in the options. |
 
 ### **MAIN**
