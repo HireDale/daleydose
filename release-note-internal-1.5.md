@@ -57,7 +57,6 @@ To provide users with a redesigned interface that improves navigation and enable
   - **Finalize:** Click to finalize the current prescription. When you select this button, the application locks the contents of the current prescription and enables the **Add Medical Signature**, **Print Copy**, and **Send Online** buttons.  
   
 <br>
-
 - Added the **Drug History** and **Med History** tabs for quick access to patient prescription and medication records.  
 
   - **Drug History:** Displays the patient's digitized prescription history from the past 20 years.
