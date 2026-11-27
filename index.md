@@ -13,13 +13,13 @@ Its user-friendly interface and powerful features enable users to create prescri
 
 ## **WHAT'S NEW**
 ---
-See what's new with the Daley Dose application.
+Check out what's new with the Daley Dose application:
 
 [![Release Note Banner](/assets/images/release-note-banner.png)](/daleydose/release-note-internal-1.5)
 
 ## **RECENTLY UPDATED**
 ---
-See the latest updates to existing Daley Dose content.
+See the latest updates to existing Daley Dose content:
 
 [![Help Files Banner](/assets/images/release-note-banner-2.png)](/daleydose/help-files)
 
@@ -27,7 +27,7 @@ See the latest updates to existing Daley Dose content.
 
 ## **FEATURED CONTENT**
 ---
-Don't know where to begin? Check out our tutorial sections.
+Don't know where to begin? Check out our tutorial sections:
 
 <!--
 - [**Access the Help Files**](/daleydose/help-files)  
@@ -55,7 +55,7 @@ Don't know where to begin? Check out our tutorial sections.
 
 ## **FUNDAMENTALS**
 ---
-Learn more about the Daley Dose application and its features.
+Learn more about the Daley Dose application and its features:
 
 - [**About Daley Dose**](/daleydose/about-daley-dose)  
   Explore what makes Daley Dose a reliable and efficient tool for healthcare professionals. Learn how its features streamline prescribing, improve patient care, and simplify workflow management.
@@ -95,7 +95,7 @@ Learn more about the Daley Dose application and its features.
 
 ## **ADDITIONAL LINKS**
 ---
-Learn more about my work.
+Learn more about my work:
 
 - [**HireDale.com**](https://hiredale.github.io)  
   The main hub for my portfolio, technical documentation, and professional resources.
