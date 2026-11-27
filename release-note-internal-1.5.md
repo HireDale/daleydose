@@ -44,25 +44,42 @@ To provide users with a redesigned interface that improves navigation and enable
 
 - Introduced the **Information** and **Action** sidebars for easier access to application tools.
 - Added the **Undo**, **Redo**, **Save**, **Clear**, **Help**, **Delete**, **Refresh**, **MIMS**, and **Finalize** buttons.
+
+<!-- -->
+
   - **Undo:** Click to undo the last action performed in the current prescription.
   - **Redo:** Click to redo the last action undone in the current prescription.
-  - **Save:** Click to save the current prescription. The application automatically displays the saved prescription the next time you log in. You can view a list of saved prescriptions using the **Open** button.
 
+<!-- -->
+
+  - **Save:** Click to save the current prescription. The application automatically displays the saved prescription the next time you log in. You can view a list of saved prescriptions using the **Open** button.
     **Note:** Saved prescriptions are removed from the system.
+
+<!-- -->
+
   - **Clear:** Click to clear the current prescription entry's contents.
   - **Help:** Click to access an in-app version of the latest **Daley Dose Help Files**.
 
     **Notes:**
     - The help files automatically open the entry about the current window.
     - You can also view the latest version of the help files on the **Daley Dose** website.
+
+<!-- -->
+
   - **Delete:** Click to open or close **Delete Mode**, which allows you to mark existing entries in the prescription for deletion.
 
     **Note:** The application displays the confirmation message "**Are you sure you want to delete these from the prescription?**" before removing the selected entries from the list.
+
+<!-- -->
+
   - **Refresh:** Click to refresh the contents of the current session to match any saved instances or records in the database. This includes the contents of the patient's **Drug History** and **Medical History** tabs.
   - **MIMS:** Click to access an in-app version of the latest **Monthly Index of Medical Specialities (MIMS)** digital handbook, the most common drug reference for healthcare professionals.
 
     **Note:** The **MIMS** version is updated along with every **Daley Dose** version.
   - **Finalize:** Click to finalize the current prescription. When you select this button, the application locks the contents of the current prescription and enables the **Add Medical Signature**, **Print Copy**, and **Send Online** buttons.
+
+<!-- -->
+
 - Added the **Drug History** and **Med History** tabs for quick access to patient prescription and medication records.
   - **Drug History:** Displays the patient's digitized prescription history from the past 20 years.
   - **Med History:** Displays the patient's digitized medical conditions and treatments from the past 20 years.
