@@ -47,3 +47,5 @@ The following table describes the buttons in the **Prescription** tab.
 - [**How to create a new prescription**](/daleydose/prescription-create-new)  
 - [**How to add medications to a prescription**](/daleydose/prescription-add-meds)
 - [**How to digitize a handwritten prescription**](/daleydose/prescription-digitize)
+
+<div style="height: 60px;"></div>
