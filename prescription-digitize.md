@@ -45,8 +45,6 @@ To digitize a handwritten prescription, do the following:
    - The application always displays the **Scan Physical Copy** button in the mobile app.
    - You cannot edit medications or notes in a scanned prescription.
 
-![Scan Window](/assets/images/daley-dose-scan-window.png)  
-
 ## **PROBLEMS YOU MIGHT ENCOUNTER**
 ---
 
