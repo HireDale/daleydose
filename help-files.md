@@ -12,7 +12,7 @@ You can access the help files from within the application by clicking the **Help
 
 ![Help Button](/assets/images/daley-dose-home-window-help.png)  
 
-# **TABLE OF CONTENTS**
+## **TABLE OF CONTENTS**
 ---
 To begin, select a topic. These topics group related information together for easy navigation.
 
