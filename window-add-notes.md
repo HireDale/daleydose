@@ -62,3 +62,5 @@ The following table describes the buttons in the **Add Notes** window:
 ---
 - [**How to add, edit, and delete medication notes**](/daleydose/prescription-manage)  
 - [**How to finalize and send out a prescription**](/daleydose/prescription-finalize)
+
+<div style="height: 60px;"></div>
