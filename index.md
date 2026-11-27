@@ -14,7 +14,7 @@ Its user-friendly interface and powerful features enable users to create prescri
 ## **WHAT'S NEW**
 ---
 
-![Release Note Banner](/assets/images/release-note-banner.png)
+[![Release Note Banner](/assets/images/release-note-banner.png)](/daleydose/release-note-internal-1.5)
 
 ## **FEATURED CONTENT**
 ---
