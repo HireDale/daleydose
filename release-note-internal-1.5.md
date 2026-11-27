@@ -58,13 +58,17 @@ To provide users with a redesigned interface that improves navigation and enable
     **Notes:**
     - The help files automatically open the entry about the current window.
     - You can also view the latest version of the help files on the **Daley Dose** website.  
-  
+
+<!-- -->
+
   - **Delete:** Click to open or close **Delete Mode**, which allows you to mark existing entries in the prescription for deletion.  
+  
     **Note:** The application displays the confirmation message "**Are you sure you want to delete these from the prescription?**" before removing the selected entries from the list.
     
   - **Refresh:** Click to refresh the contents of the current session to match any saved instances or records in the database. This includes the contents of the patient's **Drug History** and **Medical History** tabs.
   
-  - **MIMS:** Click to access an in-app version of the latest **Monthly Index of Medical Specialities (MIMS)** digital handbook, the most common drug reference for healthcare professionals.
+  - **MIMS:** Click to access an in-app version of the latest **Monthly Index of Medical Specialities (MIMS)** digital handbook, the most common drug reference for healthcare professionals.  
+  
     **Note:** The **MIMS** version is updated along with every **Daley Dose** version.
     
   - **Finalize:** Click to finalize the current prescription. When you select this button, the application locks the contents of the current prescription and enables the **Add Medical Signature**, **Print Copy**, and **Send Online** buttons.  
