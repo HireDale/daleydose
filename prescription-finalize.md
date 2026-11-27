@@ -97,3 +97,5 @@ This option is ideal for remote consultations. Patients can walk into an affilia
 ---
 - [**How to create a new prescription**](/daleydose/prescription-create-new)
 - [**How to add alternatives to medication entries**](/daleydose/prescription-add-alts)  
+
+<div style="height: 60px;"></div>
