@@ -19,7 +19,7 @@ Its user-friendly interface and powerful features enable users to create prescri
 ## **FEATURED CONTENT**
 ---
 - [**Access the Help Files**](/daleydose/help-files)  
-&#x20; View documentation containing detailed window definitions and step-by-step user guides.
+&#x20; View window definitions and step-by-step user guides for the latest version of Daley Dose.
 
 <!--
 - [**Customer Release Notes**](/daleydose/release-note-customer-1.5)  
