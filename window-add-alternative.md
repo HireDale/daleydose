@@ -56,3 +56,5 @@ The following table describes the buttons available in the **Add Alternative** w
 ---
 - [**How to add medications to a prescription**](/daleydose/prescription-add-meds)  
 - [**How to delete medications from a prescription**](/daleydose/prescription-delete-meds) 
+
+<div style="height: 60px;"></div>
