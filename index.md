@@ -25,7 +25,7 @@ See the latest updates to existing Daley Dose content:
 
 [![Version History Banner](/assets/images/release-note-banner-3.png)](/daleydose/release-note-version-history)
 
-## **FEATURED CONTENT**
+## **GETTING STARTED**
 ---
 Don't know where to begin? Check out our tutorial sections:
 
@@ -45,7 +45,7 @@ Don't know where to begin? Check out our tutorial sections:
 &#x20;   Access documentation for older versions of the Daley Dose application.
 -->
 
-- [**Getting Started: How to Create a Prescription**](/daleydose/prescription-create-new)  
+- [**How to Create a Prescription**](/daleydose/prescription-create-new)  
 &#x20;   Browse a step-by-step user guide on how to create prescriptions using the Daley Dose application.
 
 - [**Learn about the Home Window**](/daleydose/window-home)  
