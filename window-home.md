@@ -184,3 +184,5 @@ The following table describes the three tabs available in the **Work Area**:
 - [**How to add, edit, and delete medication notes**](/daleydose/prescription-manage)  
 - [**How to finalize and send out a prescription**](/daleydose/prescription-finalize)  
 - [**How to digitize a handwritten prescription**](/daleydose/prescription-digitize)
+
+<div style="height: 60px;"></div>
