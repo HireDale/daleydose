@@ -42,8 +42,6 @@ To add an alternative option to a medication entry in the current prescription, 
 
 - The application disables the **OK** button when at least one of the following fields is empty: **Generic Name**, **Dose**, or **Amount**.
 
-![Daley Dose user interface screenshot](/assets/images/daley-dose-add-alts-window.png)
-
 ## **PROBLEMS YOU MIGHT ENCOUNTER**  
 ---
 ### The application prevents you from selecting the **Add Alternative** button  
