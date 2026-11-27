@@ -45,3 +45,5 @@ The following are drug classifications that can be restricted by this feature.
 - [**About Daley Dose**](/daleydose/about-daley-dose)  
 - [**About User Roles**](/daleydose/about-user-roles)  
 - [**How to set up accounts and log into Daley Dose**](/daleydose/guide-login)
+
+<div style="height: 60px;"></div>
