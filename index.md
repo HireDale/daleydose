@@ -35,8 +35,8 @@ Its user-friendly interface and powerful features enable users to create prescri
 - [**Getting Started: How to Create a Prescription**](/daleydose/prescription-create-new)  
 &#x20;   Browse a step-by-step user guide on how to create prescriptions using the Daley Dose application.
 
-- [**Home Window**](/daleydose/window-home)  
-&#x20;   Learn about the fields and buttons of the newly revamped version 1.5 **Home** window.
+- [**Learn about the Home Window**](/daleydose/window-home)  
+&#x20;   Review the fields and buttons of the newly revamped version 1.5 **Home** window.
 
 [![Daley Dose user interface screenshot](/assets/images/daley-dose-home-window-clean.png)](/daleydose/window-home)
 
