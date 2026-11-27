@@ -66,3 +66,5 @@ To delete a note directly from the **Prescription** tab, follow these steps:
 ## **SEE ALSO**
 ---
 - [**How to finalize and send out a prescription**](/daleydose/prescription-finalize)
+
+<div style="height: 60px;"></div>
