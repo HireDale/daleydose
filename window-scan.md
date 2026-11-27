@@ -35,6 +35,8 @@ The following table describes the fields in the **Scan** window:
 ### **BUTTONS**
 The following table describes the buttons in the **Scan** window:
 
+![Scan Window](/assets/images/daley-dose-scan-window-2.png) 
+
 | # | **BUTTON** | **DEFINITION** |
 |---|------------|----------------|
 | 1 | **CAPTURE** | Click to begin the prescription scan.<br><br>**Notes:**<br>• The application enables this button only when both the **Camera** and **Internet** fields are green.<br>• The scanning process takes up to 20 seconds to complete. |
