@@ -37,3 +37,5 @@ The **Drug History** tab is one of three tabs featured in the **Work Area**, alo
 ---
 - [**How to create a new prescription**](/daleydose/prescription-create-new)  
 - [**How to add medications to a prescription**](/daleydose/prescription-add-meds)
+
+<div style="height: 60px;"></div>
