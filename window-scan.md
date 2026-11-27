@@ -42,3 +42,5 @@ The following table describes the buttons in the **Scan** window:
 ## **SEE ALSO**
 ---
 - [**How to digitize a handwritten prescription**](/daleydose/prescription-digitize)
+
+<div style="height: 60px;"></div>
