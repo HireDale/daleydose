@@ -56,7 +56,6 @@ To provide users with a redesigned interface that improves navigation and enable
   - **MIMS:** Click to access an in-app version of the latest **Monthly Index of Medical Specialities (MIMS)** digital handbook, the most common drug reference for healthcare professionals. The **MIMS** version is updated along with every **Daley Dose** version.
   - **Finalize:** Click to finalize the current prescription. When you select this button, the application locks the contents of the current prescription and enables the **Add Medical Signature**, **Print Copy**, and **Send Online** buttons.  
 
-
 - Added the **Drug History** and **Med History** tabs for quick access to patient prescription and medication records.
 
   - **Drug History:** Displays the patient's digitized prescription history from the past 20 years.
