@@ -48,7 +48,7 @@ To provide users with a redesigned interface that improves navigation and enable
   - **Undo:** Click to undo the last action performed in the current prescription.
   - **Redo:** Click to redo the last action undone in the current prescription.
   
-  - **Save:** Click to save the current prescription. The application automatically displays the saved prescription the next time you log in. You can view a list of saved prescriptions using the **Open** button.
+  - **Save:** Click to save the current prescription. The application automatically displays the saved prescription the next time you log in. You can view a list of saved prescriptions using the **Open** button.  
     **Note:** Saved prescriptions are removed from the system.
     
   - **Clear:** Click to clear the current prescription entry's contents.
