@@ -51,7 +51,7 @@ To provide users with a redesigned interface that improves navigation and enable
   - **Save:** Click to save the current prescription. The application automatically displays the saved prescription the next time you log in. You can view a list of saved prescriptions using the **Open** button.
   - **Clear:** Click to clear the current prescription entry's contents.
   - **Help:** Click to access an in-app version of the latest **Daley Dose Help Files**. The help files automatically open the entry about the current window.
-  - **Delete:** Click to open or close **Delete Mode**, which allows you to mark existing entries in the prescription for deletion. The application displays a confirmation message before removing the selected entries from the list.
+  - **Delete:** Click to open or close **Delete Mode**, which enables you to mark existing entries in the prescription for deletion. The application displays a confirmation message before removing the selected entries from the list.
   - **Refresh:** Click to refresh the contents of the current session to match any saved instances or records in the database. This includes the contents of the patient's **Drug History** and **Medical History** tabs.
   - **MIMS:** Click to access an in-app version of the latest **Monthly Index of Medical Specialities (MIMS)** digital handbook, the most common drug reference for healthcare professionals. The **MIMS** version is updated along with every **Daley Dose** version.
   - **Finalize:** Click to finalize the current prescription. When you select this button, the application locks the contents of the current prescription and enables the **Add Medical Signature**, **Print Copy**, and **Send Online** buttons.  
