@@ -6,13 +6,22 @@ layout: default
 
 # **DALEY DOSE UPDATE HISTORY**
 ---
-This page provides a complete record of updates to the Daley Dose application, organized by release.  
+This page provides a complete record of updates to the Daley Dose application, organized by release. Each document provides an overview of the new features, enhancements, and bug fixes introduced in versions of the **Daley Dose** application.  
 
-Each version lists updates under three categories:
+For questions or clarification regarding specific changes, please contact the appropriate team:
 
-- **New Features** – Capabilities introduced for the first time in that release.
-- **Enhancements** – Improvements to existing functionality, performance, or usability.
-- **Bug Fixes** – Corrections to defects, errors, or unexpected behaviors.
+- **Applications Team:** Application functionality, user interface changes, and general behavior.
+- **Development Team:** Feature implementation and technical changes.
+- **QA Team:** Bug fixes, testing results, and issue verification.
+- **Database Team:** Medication database updates, medical classifications, and prescription validation.
+
+Changes in this release are organized into three categories:
+
+- **New Features:** Capabilities introduced for the first time.
+- **Enhancements:** Improvements to existing functionality, performance, or usability.
+- **Bug Fixes:** Corrections to defects, errors, or unexpected behavior.  
+
+<!-- -->
 
 ## **VERSION 1.3**
 ---
